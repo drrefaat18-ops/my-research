@@ -5,3 +5,8 @@
 .claude-flow/data/
 .claude-flow/logs/
 .claude-flow/sessions/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class

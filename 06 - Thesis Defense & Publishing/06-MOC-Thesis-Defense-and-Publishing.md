@@ -22,6 +22,8 @@ graph TD
     MOC --> DECK["🎓 Complete 31-Slide Defense Deck<br/>[[Thesis-Defense-Deck-Complete]]"]
     MOC --> SLIDES["📽️ Slide-by-Slide Defense Breakdown<br/>[[Thesis-Slides-Breakdown]]"]
     MOC --> PUB["📰 Target Journals & Publishing Guide<br/>[[Publishing-Advises]]"]
+    MOC --> NOV["🔬 Swarm-Verified Novelty Certificate<br/>[[Swarm-Verified-Novelty-2026-09-06]]"]
+    NOV -->|Browser-verified 0-results| ASSAY["⚗️ Assay Decision<br/>[[Refaat-What-to-Assay-and-Novelty-2026-09-06]]"]
 ```
 
 ---
@@ -49,6 +51,9 @@ graph TD
 ---
 
 ## 🔗 Bidirectional Second Brain Connections
+- [[Swarm-Verified-Novelty-2026-09-06|🆕 Swarm-Verified Novelty Certificate — PubMed Browser Search Evidence (2026-09-06)]]
+- [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06|2026-09-06 source-checked novelty and affordable assay decision: conditional shortlist and evidence corrections]]
+- [[Refaat-What-to-Assay-and-Novelty-2026-09-06|القرار النهائي المحدَّث بواقع المعامل المصرية وأدلة الجدة الموثقة — swarm-verified-final]]
 - Previous Domain Hub: [[05-MOC-Comparators-Benchmarking]]
 - Next Domain Hub: [[07-MOC-Automated-QC-and-Audits]]
 - Protocol Evidence: [[Official-Institutional-Protocol-Final]]

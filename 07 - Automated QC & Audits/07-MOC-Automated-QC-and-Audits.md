@@ -55,6 +55,7 @@ graph TD
 ---
 
 ## 🔗 Bidirectional Second Brain Connections
+- [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06|2026-09-06 source audit: DUSP1 attribution, Spirulina citation, and protocol discrepancies]]
 - Central Vault Dashboard: [[Home-Index]]
 - Agent Navigation Guide: `AGENT_NAVIGATION_GUIDE.md`
 - Previous Domain Hub: [[06-MOC-Thesis-Defense-and-Publishing]]

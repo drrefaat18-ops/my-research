@@ -1,27 +1,25 @@
 filters:
   and:
-    - 'file.name.contains("Skills")'
-
+    - file.name.contains("Skills")
 properties:
   name:
-    displayName: "Agent / Skill Name"
+    displayName: Agent / Skill Name
   tier:
-    displayName: "Functional Tier"
+    displayName: Functional Tier
   type:
-    displayName: "Agent Type"
+    displayName: Agent Type
   status:
-    displayName: "Swarm Status"
-
+    displayName: Swarm Status
 views:
   - type: table
-    name: "All Manifest Skills & Agents"
+    name: All Manifest Skills & Agents
     order:
       - name
       - tier
       - type
       - status
   - type: cards
-    name: "Agent Skill Cards"
+    name: Agent Skill Cards
     order:
       - name
       - tier

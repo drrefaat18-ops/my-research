@@ -13,6 +13,8 @@ tags: [home, dashboard, index, master-thesis, pharmacology-toxicology]
 
 ## 🗺️ Organic Knowledge Architecture
 
+- [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06|Source-checked novelty and affordable biomarkers decision (2026-09-06): read before using derived mechanism claims]]
+
 ```
                     `Home-Index`
                             │
@@ -110,3 +112,4 @@ tags: [home, dashboard, index, master-thesis, pharmacology-toxicology]
 - **Pilot Data:** Strictly segregated and quarantined with `#pilot` tags and warnings
 - **Dose & Mechanistic Consistency:** 100% aligned with Port Said University official protocol
 
+- [[Refaat-What-to-Assay-and-Novelty-2026-09-06|القرار النهائي بالعربية بشأن التحاليل وحدود الجدة بعد البحث الموسع]]

@@ -11,10 +11,17 @@
             "id": "f538d2ea2865b9e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
+                "viewState": {
+                  "x": 580,
+                  "y": 556.1045045515932,
+                  "zoom": -0.549412194125078
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Swarm-and-Vault-Architecture"
             }
           }
         ]
@@ -183,6 +190,20 @@
   },
   "active": "f538d2ea2865b9e4",
   "lastOpenFiles": [
+    "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
+    "07 - Automated QC & Audits/Skills-Manifest.base",
+    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
+    "06 - Thesis Defense & Publishing/Swarm-Verified-Novelty-2026-09-06.md",
+    "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
+    "06 - Thesis Defense & Publishing/Thesis-Defense-Deck-Complete.md",
+    "tmp/deep-novelty/report-source.md",
+    "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
+    "06 - Thesis Defense & Publishing/Publishing-Advises.md",
+    "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
+    "tmp/deep-novelty/europepmc-search-ledger.json",
+    "tmp/deep-novelty/search_epmc.py",
+    "tmp/deep-novelty",
+    "tmp",
     "AGENT_NAVIGATION_GUIDE.json",
     "02 - Molecular Axis & Mechanisms/PPARa-and-GR-Crosstalk-Axis.md",
     "02 - Molecular Axis & Mechanisms/Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
@@ -193,7 +214,6 @@
     "03 - Collective Literature Matrix/Studies/Study-07-Micronized-ultramicronized-palmitoylethanolamide-d.md",
     "07 - Automated QC & Audits/gap_audit_report.md",
     "07 - Automated QC & Audits/07-MOC-Automated-QC-and-Audits.md",
-    "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
     "05 - Comparators Benchmarking/05-MOC-Comparators-Benchmarking.md",
     "04 - Experimental Protocols & Pilot/04-MOC-Protocols-and-Pilot.md",
     "03 - Collective Literature Matrix/03-MOC-Literature-Matrix.md",
@@ -201,26 +221,12 @@
     "CLAUDE.md",
     "07 - Automated QC & Audits/logical_qc_report.md",
     "scripts/run_logical_qc.py",
-    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
-    "07 - Automated QC & Audits/Skills-Manifest.base",
-    "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
     "scripts/digest_skills_manifest.py",
     "02 - Molecular Axis & Mechanisms/PEA-Mechanism-and-Pharmacology.md",
     "03 - Collective Literature Matrix/Master-Study-Design-Table.md",
     "07 - Automated QC & Audits/Agentic_Swarm_Topology_and_Status.md",
     "scripts/execute_manifest_swarm.py",
     "07 - Automated QC & Audits/swarm_tasks_registry.json",
-    "scripts/assign_swarm_tasks.py",
-    "07 - Automated QC & Audits/swarm_manifest_state.json",
-    "scripts/setup_manifest_swarm.py",
-    "scripts/inspect_manifest.py",
-    "04 - Experimental Protocols & Pilot/Pilot-Observations-n2/Pilot-Blood-Work-Observations.md",
-    "scripts/boost_remaining_studies.py",
-    "03 - Collective Literature Matrix/Studies/Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl.md",
-    "03 - Collective Literature Matrix/Studies/Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an.md",
-    "03 - Collective Literature Matrix/Studies/Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an.md",
-    "03 - Collective Literature Matrix/Studies/Study-08-The-anti-inflammatory-effects-of-palmitoylethanola.md",
-    "03 - Collective Literature Matrix/Studies/Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B.md",
     "parameters_preview.png"
   ]
 }

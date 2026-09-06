@@ -1,93 +1,17 @@
 {
-  "nodes": [
-    {
-      "id": "node-orchestrator",
-      "x": 400,
-      "y": 0,
-      "width": 360,
-      "height": 180,
-      "type": "text",
-      "text": "## \ud83d\udc51 Swarm Orchestrator Mesh\n**Engine:** Ruflo V3 + Manifest\n- `agency-agents-orchestrator`\n- `agency-multi-agent-systems-architect`\n- `agency-workflow-optimizer`\n*Controls task delegation and consensus*"
-    },
-    {
-      "id": "node-clinical",
-      "x": 0,
-      "y": 260,
-      "width": 340,
-      "height": 220,
-      "type": "text",
-      "text": "## \ud83d\udd2c Tier 1: Clinical & Pharmacology\n- `agency-clinical-evidence-agent`\n- `agency-statistician`\n- `agency-evidence-collector`\n\n**Focus:**\n- PEA (PPAR-\u03b1, ALIAmide, NAAA/FAAH)\n- Prednisolone Glucocorticoid-Sparing\n- CFA Polyarthritis Model ($n=2$ Quarantine)"
-    },
-    {
-      "id": "node-qa",
-      "x": 400,
-      "y": 260,
-      "width": 360,
-      "height": 220,
-      "type": "text",
-      "text": "## \ud83d\uded1 Tier 2: Adversarial Quality\n- `agency-reality-checker`\n- `agency-model-qa-specialist`\n- `agency-test-results-analyzer`\n- `clean-code-guard`\n\n**Focus:**\n- Zero false QC passes\n- 10-Gate Logical QC Verification\n- Continuous dynamic audit runs"
-    },
-    {
-      "id": "node-knowledge",
-      "x": 820,
-      "y": 260,
-      "width": 340,
-      "height": 220,
-      "type": "text",
-      "text": "## \ud83e\udde0 Tier 3: Knowledge Graph\n- `agency-zk-steward`\n- `obsidian-markdown`\n- `obsidian-bases`\n- `json-canvas`\n\n**Focus:**\n- 377 Bidirectional Wikilinks (0 broken)\n- Luhmann Atomic Note Topology\n- Interactive Bases & Canvases"
-    },
-    {
-      "id": "node-vault-core",
-      "x": 400,
-      "y": 560,
-      "width": 360,
-      "height": 200,
-      "type": "text",
-      "text": "## \ud83c\udfdb\ufe0f Master Pharmacological Vault\n**Target:** Port Said University Master's Thesis\n- `01 - Rationale & Study Design`\n- `02 - Molecular Axis & Mechanisms`\n- `03 - Collective Literature Matrix`\n- `04 - Experimental Protocols & Pilot`\n- `05 - Comparators Benchmarking`\n- `06 - Thesis Defense & Publishing`\n- `07 - Automated QC & Audits`"
-    }
-  ],
-  "edges": [
-    {
-      "id": "edge-orch-clinical",
-      "fromNode": "node-orchestrator",
-      "fromSide": "bottom",
-      "toNode": "node-clinical",
-      "toSide": "top"
-    },
-    {
-      "id": "edge-orch-qa",
-      "fromNode": "node-orchestrator",
-      "fromSide": "bottom",
-      "toNode": "node-qa",
-      "toSide": "top"
-    },
-    {
-      "id": "edge-orch-knowledge",
-      "fromNode": "node-orchestrator",
-      "fromSide": "bottom",
-      "toNode": "node-knowledge",
-      "toSide": "top"
-    },
-    {
-      "id": "edge-clinical-vault",
-      "fromNode": "node-clinical",
-      "fromSide": "bottom",
-      "toNode": "node-vault-core",
-      "toSide": "left"
-    },
-    {
-      "id": "edge-qa-vault",
-      "fromNode": "node-qa",
-      "fromSide": "bottom",
-      "toNode": "node-vault-core",
-      "toSide": "top"
-    },
-    {
-      "id": "edge-knowledge-vault",
-      "fromNode": "node-knowledge",
-      "fromSide": "bottom",
-      "toNode": "node-vault-core",
-      "toSide": "right"
-    }
-  ]
+	"nodes":[
+		{"id":"node-clinical","type":"text","text":"## 🔬 Tier 1: Clinical & Pharmacology\n- `agency-clinical-evidence-agent`\n- `agency-statistician`\n- `agency-evidence-collector`\n\n**Focus:**\n- PEA (PPAR-α, ALIAmide, NAAA/FAAH)\n- Prednisolone Glucocorticoid-Sparing\n- CFA Polyarthritis Model ($n=2$ Quarantine)","x":0,"y":260,"width":340,"height":220},
+		{"id":"node-qa","type":"text","text":"## 🛑 Tier 2: Adversarial Quality\n- `agency-reality-checker`\n- `agency-model-qa-specialist`\n- `agency-test-results-analyzer`\n- `clean-code-guard`\n\n**Focus:**\n- Zero false QC passes\n- 10-Gate Logical QC Verification\n- Continuous dynamic audit runs","x":400,"y":260,"width":360,"height":220},
+		{"id":"node-knowledge","type":"text","text":"## 🧠 Tier 3: Knowledge Graph\n- `agency-zk-steward`\n- `obsidian-markdown`\n- `obsidian-bases`\n- `json-canvas`\n\n**Focus:**\n- 377 Bidirectional Wikilinks (0 broken)\n- Luhmann Atomic Note Topology\n- Interactive Bases & Canvases","x":820,"y":260,"width":340,"height":220},
+		{"id":"node-orchestrator","type":"text","text":"## 👑 Swarm Orchestrator Mesh\n**Engine:** Ruflo V3 + Manifest\n- `agency-agents-orchestrator`\n- `agency-multi-agent-systems-architect`\n- `agency-workflow-optimizer`\n*Controls task delegation and consensus*","x":370,"y":-120,"width":420,"height":260},
+		{"id":"node-vault-core","type":"text","text":"## 🏛️ Master Pharmacological Vault\n**Target:** Port Said University Master's Thesis\n- `01 - Rationale & Study Design`\n- `02 - Molecular Axis & Mechanisms`\n- `03 - Collective Literature Matrix`\n- `04 - Experimental Protocols & Pilot`\n- `05 - Comparators Benchmarking`\n- `06 - Thesis Defense & Publishing`\n- `07 - Automated QC & Audits`","x":390,"y":600,"width":380,"height":360}
+	],
+	"edges":[
+		{"id":"edge-orch-clinical","fromNode":"node-orchestrator","fromSide":"bottom","toNode":"node-clinical","toSide":"top"},
+		{"id":"edge-orch-qa","fromNode":"node-orchestrator","fromSide":"bottom","toNode":"node-qa","toSide":"top"},
+		{"id":"edge-orch-knowledge","fromNode":"node-orchestrator","fromSide":"bottom","toNode":"node-knowledge","toSide":"top"},
+		{"id":"edge-clinical-vault","fromNode":"node-clinical","fromSide":"bottom","toNode":"node-vault-core","toSide":"left"},
+		{"id":"edge-qa-vault","fromNode":"node-qa","fromSide":"bottom","toNode":"node-vault-core","toSide":"top"},
+		{"id":"edge-knowledge-vault","fromNode":"node-knowledge","fromSide":"bottom","toNode":"node-vault-core","toSide":"right"}
+	]
 }
