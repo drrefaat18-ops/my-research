@@ -74,6 +74,18 @@ Extracted verbatim from `WBC final.pdf`:
 - **Tacrolimus 1.8 mg/kg:** Successfully normalized TLC to $9.80 \times 10^3/\mu\text{L}$ and suppressed absolute lymphocytes to $6.00 \times 10^3/\mu\text{L}$ via calcineurin inhibition (preventing IL-2 transcription), without inducing severe neutrophil demargination.
 - **Baricitinib 10 mg/kg:** Maintained an elevated TLC of $18.30 \times 10^3/\mu\text{L}$, reflecting the distinct pharmacodynamics of JAK1/2 inhibition on peripheral leukocyte mobilization during subacute adjuvant arthritis.
 
+### E. Neutrophil-to-Lymphocyte Ratio (NLR) & Codex Methodological Caution
+> [!WARNING] تذكير المحكم المستقل (Codex Methodological Note on NLR & Demargination)
+> 1. **انقلاب مؤشر NLR فسيولوجياً بفعل الستيرويد:**  
+>    بسبب ظاهرة الـ Demargination (تحرير العدلات) والـ Lymphopenia (هبوط اللمفاويات)، يرتفع مؤشر الـ NLR طبيعياً تحت تأثير البريدنيزولون:
+>    - في مجموعة CFA: كانت نسبة العدلات إلى اللمفاويات $\approx 0.30$.
+>    - في مجموعة PEA 200 + Pred 5: ارتفعت النسبة إلى $\approx 2.19$!
+>    - **الضابط التحكيمي:** إياك أن تدّعي في الورقة أن "علاج المرض يؤدي لانخفاض NLR"؛ بل فسر ارتفاع الـ NLR كبصمة فسيولوجية تؤكد الفعالية الحركية للكورتيزون، بينما يظل انخفاض العدد الإجمالي للكريات (TLC) هو الدليل الحقيقي على كبح الالتهاب الجهازي.
+> 2. **قواعد الحساب الإحصائي:**  
+>    - يجب حساب الـ NLR **لكل حيوان على حدة أولاً** ثم استخراج المتوسط والانحراف المعياري، ولا يجوز قسمة متوسطات المجموعات مباشرة (Ratio of means $\neq$ Mean of ratios).
+>    - مؤشر الـ SII (Systemic Immune-Inflammation Index) لا يمكن حسابه من هذا الجدول لغياب تعداد الصفائح الدموية (Platelets).
+>    - تبقى بيانات البايلوت ($n=2$) في إطار الاستكشاف وتبرير الجرعات، ولا ترقى بمفردها لإثبات التآزر الدوائي (Synergy) الرياضي.
+
 ---
 
 ## 4. Academic Valuation: What These Results Add and Prove for the Thesis

@@ -53,6 +53,10 @@ graph TD
    *Scope:* Programmatic multi-format data parity verification across Excel, Word, and PDF sources.
 8. **[[Swarm-Audit-Pilot-WBC-Research-Utility|Swarm Research Valuation Report: Pilot WBC Differential]]**  
    *Scope:* Multi-agent consensus analysis under Ruflo V3 evaluating research utility, immunological mechanisms, and thesis integration of pilot leukocyte observations.
+9. **[[Swarm-Audit-Definitive-Assay-Strategy-and-International-Publishing|Swarm Consultation: Definitive Assay Strategy & International Q1 Publishing Roadmap]]**  
+   *Scope:* Dedicated Ruflo multi-agent consensus evaluating the assay matrix of [[Refaat-What-to-Assay-and-Novelty-2026-09-06]], integration with WBC differential and pilot biochemistry, and strategic guidelines for top-tier international publication.
+10. **[[Codex-Adversarial-Review-and-Critique-2026-09-06|Codex Independent Adversarial Review: Methodological & Editorial Audit]]**  
+    *Scope:* Deep external peer-review and critique executed via OpenAI Codex (GPT-6-Astra), highlighting study design limits (missing Pred 5 arm), NLR physiological nuances (demargination), and balanced novelty claims.
 
 ---
 

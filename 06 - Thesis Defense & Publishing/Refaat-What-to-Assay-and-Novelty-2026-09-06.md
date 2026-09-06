@@ -40,9 +40,9 @@ tags: [thesis, assays, novelty, budget, swarm-verified, egyptian-lab-reality, de
 1. **جدة التركيب (Combinatorial Novelty):**
    استخدام PEA كعامل خافض لجرعة الكورتيزون (Steroid-Sparing) بنصف الجرعة الاعتيادية في نموذج CFA للجرذان هو تطبيق دوائي جديد كلياً لم يُنشر من قبل.
 2. **جدة المقارنة (Comparative Novelty):**
-   وضع PEA في مقارنة رأس برأس (Head-to-Head) مع أحدث العلاجات البيولوجية والتخليقية الموجهة:
-   - **Baricitinib:** كنموذج للـ targeted synthetic DMARDs (JAK1/JAK2 inhibitor).
-   - **Tacrolimus:** كنموذج للـ conventional immunosuppressive calcineurin inhibitors.
+   وضع PEA في مقارنة رأس برأس (Head-to-Head) مع أحدث العلاجات التخليقية الموجهة ومثبطات المناعة (Targeted synthetic DMARDs & Calcineurin inhibitors):
+   - **Baricitinib:** كنموذج للـ targeted synthetic DMARDs (JAK1/JAK2 inhibitor - small molecule).
+   - **Tacrolimus:** كنموذج للـ conventional immunosuppressive calcineurin inhibitors (small molecule).
    هذه المقارنة الشاملة تعطي الورقة ثقلاً استثنائياً في مجلات Q1 (مثل *Biomedicine & Pharmacotherapy* و*Inflammopharmacology*).
 3. **جدة الاستراتيجية السريرية (Translational Novelty):**
    البحث يحل معضلة سريرية حقيقية: كيف نتفادى سمية الجلوكوكورتيكويد طويلة الأمد باستخدام مركب داخلي آمن (Autacoid) مع الحفاظ على الفاعلية المثبطة للمرض بالمقارنة مع أدوية الخط الأول والثاني الحديثة.
@@ -102,9 +102,30 @@ tags: [thesis, assays, novelty, budget, swarm-verified, egyptian-lab-reality, de
 
 > *"Our investigative framework was deliberately designed to focus on the definitive downstream pathological outcomes and the canonical, clinically validated anti-inflammatory axis of PEA. Palmitoylethanolamide acts primarily via PPAR-α activation to prevent IκB degradation and nuclear translocation of NF-κB p65, directly curtailing pivotal arthritogenic cytokines (TNF-α, IL-6, and IL-1β). Demonstrating this core genomic cascade through tissue-level NF-κB p65 immunohistochemical quantification and circulating systemic cytokine suppression, corroborated by blinded histopathological joint preservation scoring, provides complete and robust mechanistic substantiation of the steroid-sparing hypothesis without introducing exploratory, non-validated intermediate signaling artifacts."*
 
+### د) الرد الحاسم على غياب مجموعة Prednisolone (5 mg/kg) المنفردة (من تدقيق Codex)
+
+> *"While our 9-group experimental design benchmarks escalating PEA combination tiers (50, 100, and 200 mg/kg + Pred 5 mg/kg) against full-dose Prednisolone (10 mg/kg), active DMARDs, and PEA monotherapy, the absence of an isolated 5 mg/kg prednisolone arm prevents mathematical distinction of formal pharmacological synergy (e.g., via isobologram or Bliss independence models). Consequently, our findings are framed as comparative regimen efficacy demonstrating robust glucocorticoid-sparing potential, rather than formal synergy, substantiated by the clear dose-dependent therapeutic escalation observed exclusively upon PEA dose advancement across identical background steroid exposure."*
+
 ---
 
-## 5. خطة التنفيذ الميداني خطوة بخطوة (Execution Roadmap)
+## 5. محاكمة وتصويبات المحكم الصارم (Codex Adversarial Audit Integration)
+
+بناءً على التقرير التحكيمي المستقل الوارد في [[Codex-Adversarial-Review-and-Critique-2026-09-06]]:
+
+1. **تجنب ادعاء الـ Synergy الرياضي المطلق:**  
+   لغياب مجموعة بريدنيزولون 5 مجم منفردة، يجب تسمية النتائج في الورقة بـ **"Comparative Regimen Efficacy & Steroid-Sparing Potential"** وإدراج غياب المجموعة في فقرة الـ Limitations بأمانة.
+2. **فهم طبيعة مؤشر الـ NLR والـ Demargination:**  
+   الكورتيزون يرفع العدلات فسيولوجياً ويخفض اللمفاويات، مما يؤدي إلى **ارتفاع مؤشر NLR مع الكورتيزون**. يجب تفسير ذلك كبصمة حركية للكورتيزون وليس ادعاء أن انخفاض الالتهاب يعني بالضرورة انخفاض NLR.
+3. **ضوابط قياس الأمان الأيضي (Metabolic Safety):**  
+   لا يُوصف الجلوكوز بأنه "صائم" إلا بتوثيق ساعات التصويم، وتوضح النتائج أنها تجنب لـ "الاضطراب الأيضي الكبدي والدموي"، دون الزعم بإلغاء كل سميات الستيرويد كالهشاشة.
+4. **تدقيق صبغة NF-κB p65 IHC:**  
+   التركيز مع معمل الباثولوجي على قياس نسبة الأنوية الموجبة (Nuclear Translocation Scoring) وليس مجرد كثافة اللون البني العامة.
+5. **توصيف مادة m-PEA:**  
+   الإفصاح في منهجية الورقة عن مصدر أقراص Limitless PEA وطريقة طحنها وسواغاتها لتفادي اعتراضات المحكمين حول إثبات الـ Micronization.
+
+---
+
+## 6. خطة التنفيذ الميداني خطوة بخطوة (Execution Roadmap)
 
 1. **الخطوة الأولى — جرد ما تم تنفيذه فعلياً:**
    - احصر عدد عينات السيروم المتاحة، وعدد بلوكات البرافين الجاهزة لمفاصل الركبة لجميع المجموعات التسع ($N=90$).
@@ -112,18 +133,23 @@ tags: [thesis, assays, novelty, budget, swarm-verified, egyptian-lab-reality, de
 2. **الخطوة الثانية — تجهيز بلوكات البرافين:**
    - التأكد من جودة البلوكات وتثبيتها.
    - الاتفاق مع معمل باثولوجي موثوق لعمل صباغة H&E مع إعداد كروت تقييم مُعمّاة (Blinded Histological Scoring) من قبل أستاذ باثولوجي مستقل.
-   - عمل صباغة الـ NF-κB p65 IHC على نفس البلوكات.
-   - *(إذا رغب المشرف بماركر إضافي):* قص شرائح إضافية من نفس البلوكات لصبغ Cleaved Caspase-3 IHC.
+   - عمل صباغة الـ NF-κB p65 IHC على نفس البلوكات مع التركيز على الـ Nuclear Translocation.
+   - صبغ شريحة إضافية بـ Safranin-O / Fast Green لإظهار سلامة بروتيوغليكان الغضروف.
+   - *(إذا رغب المشرف بماركر إضافي):* قص شرائح إضافية لصبغ Cleaved Caspase-3 IHC.
 3. **الخطوة الثالثة — استكمال كيتات السيروم:**
    - شراء الكيتات الناقصة فقط من الـ ELISA الخاص بالسيروم (TNF-α وIL-6 وACPA).
-   - إجراء تحليلي الـ MDA والـ GSH بكيتات شركة Biodiagnostic المصرية السريعة والاقتصادية لتوفير بروفايل إجهاد تأكسدي كامل.
+   - إجراء تحليلي الـ MDA والـ GSH بكيتات شركة Biodiagnostic المصرية.
+   - فحص سكر الدم والدهون ووظائف الكبد لتوفير بروفايل الأمان الأيضي للـ Sparing.
 4. **الخطوة الرابعة — التحليل الإحصائي والكتابة:**
    - الحفاظ على وحدة العينة البيولوجية الحقيقية ($n=10$ لكل مجموعة)، وتجنب خلط العينات (Pooling).
    - استخدام One-way ANOVA متبوعاً بـ Tukey's post-hoc test للمقارنات المتعددة مع تمثيل الدلالات ($p < 0.05$ و$p < 0.01$).
+   - حساب مؤشر الـ NLR لكل حيوان على حدة.
 
 ---
 
 ## 🔗 الروابط المتبادلة في الفولت الثاني (Second Brain Links)
+- المراجعة النقدية الصارمة لكودكس: [[Codex-Adversarial-Review-and-Critique-2026-09-06]]
+- تقرير السرب لاستراتيجية التحاليل والنشر: [[Swarm-Audit-Definitive-Assay-Strategy-and-International-Publishing]]
 - شهادة الجدة وسجل الأدلة الصفرية الكامل: [[Swarm-Verified-Novelty-2026-09-06]]
 - خريطة الماستر لمناقشة الرسالة والنشر: [[06-MOC-Thesis-Defense-and-Publishing]]
 - بروتوكول العمل المعتمد الرسمي: [[Official-Institutional-Protocol-Final]]

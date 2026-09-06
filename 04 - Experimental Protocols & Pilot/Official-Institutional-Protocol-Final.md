@@ -64,6 +64,11 @@ Recent discoveries into endogenous autacoids and nutraceutical ligands have iden
 | **Group 8** | **Tacrolimus Reference** | CFA (0.3 mL s.c.) | Tacrolimus (1.8 mg/kg/day p.o.) | Calcineurin-inhibitor comparator |
 | **Group 9** | **Baricitinib Reference** | CFA (0.3 mL s.c.) | Baricitinib (10 mg/kg/day p.o.) | JAK1/JAK2-inhibitor comparator |
 
+> [!NOTE] قيد التصميم المنهجي المعتمد (Methodological Constraint — Codex Peer Review)
+> - **غياب مجموعة بريدنيزولون 5 مجم/كجم بمفردها:** البروتوكول الرسمي المعتمد لا يتضمن مجموعة كورتيزون منخفض الجرعة منفرداً. بناءً عليه، تُصاغ نتائج الأطروحة والأوراق الدولية المنشورة تحت مظلة **"Comparative Regimen Efficacy & Steroid-Sparing Potential"** بدلاً من ادعاء التآزر الرياضي المطلق (Formal Synergy).
+> - **تصنيف المقارنات:** Baricitinib و Tacrolimus هما جزيئات صغيرة تخليقية موجهة (Targeted synthetic small molecules)، ويُعرضان كمعايير مقارنة إكلينيكية صلبة.
+> - راجع التحكيم الكامل: [[Codex-Adversarial-Review-and-Critique-2026-09-06]].
+
 ---
 
 ## 4. Evaluated Parameters & Analytical Methods
