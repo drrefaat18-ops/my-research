@@ -1,5 +1,5 @@
 # 🔬 Scientific Quality Control Report (Claim-Level Audit)
-> **Generated:** 2026-09-06T21:09:02.155468
+> **Generated:** 2026-09-06T22:17:10.422821
 
 ## Final Verdict: 🟢 ALL SCIENTIFIC-QC GATES PASSED (no known red flags)
 

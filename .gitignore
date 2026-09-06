@@ -10,3 +10,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Temporary delegation and scratch files
+tmp/*.txt
+tmp/*.py
+tmp/*.md
+tmp/codex_run_ppar/

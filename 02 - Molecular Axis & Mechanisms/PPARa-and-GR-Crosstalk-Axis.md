@@ -82,10 +82,22 @@ By achieving full therapeutic efficacy using only a fraction of the standard glu
 
 ---
 
-## 4. Connections to Vault Notes
-- Comprehensive Monograph: [[PEA-Comprehensive-Pharmacological-Monograph]]
-- NF-κB Downstream Cytokines: [[NF-kB-p65-and-Cytokines]]
-- Knee Pathology & p38 MAPK: [[p38-MAPK-and-Knee-Pathology]]
-- Active Drug Selection Rationale: [[Prednisolone-Active-Moiety-Rationale]]
-- Pilot Evidence Confirmation: [[Pilot-Blood-Work-Final-Observations]]
-- Official Thesis Protocol: [[Official-Institutional-Protocol-Final]]
+## 4. Academic Framing & Thesis Scoping (Tri-Agent Adjudication 2026-09-06)
+
+> [!TIP] التحكيم الأكاديمي الحاسم لمستوى الادعاء (Level of Claim)
+> - **طبيعة المسار في الأطروحة:** يشكل مسار الـ Crosstalk الأساس الحيوي والفرضية النظرية (Biological Rationale) لاختيار التوليفة الدوائية (PEA + Prednisolone).
+> - **المخرجات الوظيفية المباشرة:** قياس **NF-κB p65 في النواة (IHC)** و **سيروم TNF-α و IL-6 (ELISA)** و **سلامة الغضروف (Safranin-O)** تمثل المخرجات الفارماكوديناميكية الوظيفية المباشرة (Functional Readouts) لهذا التداخل دون الحاجة لقياس المستقبلات بيوفيزيائياً بالـ Western Blot أو Co-IP.
+> - **حماية الصياغة من الطعن:** تُصاغ النتائج بأنها *"متسقة وظيفياً مع آلية الـ Transrepression"* (Consistent with the proposed axis) بدلاً من ادعاء *"إثبات التداخل بين المستقبلات"* (Proven crosstalk).
+> - راجع الحكم الثلاثي الكامل وقاموس الصياغات: [[Consensus-Verdict-PPAR-GR-Crosstalk-Framing]].
+
+---
+
+## 5. Connections to Vault Notes
+- **الحكم الثلاثي النهائي الحاسم للصياغة والمستقبلات:** [[Consensus-Verdict-PPAR-GR-Crosstalk-Framing]]
+- مونوغراف الدواء الشامل: [[PEA-Comprehensive-Pharmacological-Monograph]]
+- المخرجات الجينية لكبح السايتوكينات: [[NF-kB-p65-and-Cytokines]]
+- باثولوجيا الركبة ومسار p38 MAPK: [[p38-MAPK-and-Knee-Pathology]]
+- تبرير اختيار البريدنيزولون: [[Prednisolone-Active-Moiety-Rationale]]
+- ملاحظات البايلوت المعزولة: [[Pilot-Blood-Work-Final-Observations]]
+- البروتوكول الرسمي المعتمد: [[Official-Institutional-Protocol-Final]]
+

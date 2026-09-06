@@ -71,35 +71,41 @@ Recent discoveries into endogenous autacoids and nutraceutical ligands have iden
 
 ---
 
-## 4. Evaluated Parameters & Analytical Methods
+## 4. Evaluated Parameters & Analytical Methods (As Formally Approved in `Protocol.pdf`)
 
-### A. Macroscopic & Clinical Disease Trajectory
-1. **Articular Index / Paw Thickness:** Measured every 3 days using digital Vernier calipers.
-2. **Paw Volume (Edema Kinetics):** Measured by water displacement plethysmometry on Days 0, 15, 21, 28, 35, and 45.
-3. **Polyarthritis Clinical Score:** Graded 0–4 per paw (maximum 16 per rat) evaluating erythema, periarticular swelling, and joint ankylosis.
+> [!IMPORTANT] تدقيق المطابقة الرسمية (Protocol.pdf Pages 4–5 Audit)
+> الفحص المباشر للنص الحرفي المعتمد في `Protocol.pdf` يثبت أن **الجدول الإلزامي الوحيد المعتمد في مجلس الجامعة** يتضمن البنود التالية فقط (ولا يتضمن Western Blotting أو Micro-CT أو قياس بروتين PPAR-α):
 
-### B. Serum Biochemical & Inflammatory Markers
-1. **Acute Phase Reactants:** ESR (1 hr and 2 hr) and serum C-Reactive Protein (CRP).
-2. **Autoantibodies:** Serum Rheumatoid Factor (RF) via turbidimetric / ELISA assay.
-3. **Pro-inflammatory Cytokines:** Serum TNF-α, IL-1β, and IL-6 quantified via rat-specific ELISA kits.
-4. **Metabolic Toxicity Panel:** Fasting blood glucose, serum insulin (HOMA-IR), serum total cholesterol, triglycerides, HDL, LDL, AST, ALT, urea, and creatinine.
+### A. Officially Approved Parameter Matrix (`Protocol.pdf` Table, Pages 4–5)
+1. **Serum ELISA:**
+   - Anti-citrullinated protein antibodies (ACPA)
+   - Tumor Necrosis Factor-alpha (TNF-α)
+   - Interleukin-1 beta (IL-1β)
+   - Interleukin-6 (IL-6)
+2. **Knee Joint Histopathology:**
+   - Joint structural changes (synovial inflammation, cartilage damage, pannus formation via H&E and Safranin-O/Fast Green).
+3. **Knee Joint Immunohistochemistry (IHC):**
+   - **NF-κB p65 nuclear expression** (marker of inflammatory transcriptional activation).
+   - **TLR4 expression** (marker of innate immune inflammatory signaling).
+4. **Tissue ELISA:**
+   - **p38 MAPK** (knee joint homogenate).
 
-### C. Joint Tissue Molecular & Histopathological Endpoints
-1. **Histopathology (H&E & Safranin-O):** Ankle joint decalcification, paraffin embedding, coronal sectioning (5 µm), scoring for synovial hyperplasia, pannus formation, cartilage erosion, and inflammatory infiltrate.
-2. **Western Blotting / Joint Homogenates:**
-   - Phospho-NF-κB p65 / Total NF-κB p65
-   - Total IκBα expression
-   - Phospho-p38 MAPK
-   - PPAR-α receptor abundance
-3. **Bone Morphometry / Micro-CT:** Trabecular bone volume fraction (BV/TV), trabecular thickness (Tb.Th), and cortical erosion scoring.
+> [!NOTE] تمييز مسودة الرغبات الاستكشافية عن البروتوكول المعتمد ملزماً
+> البنود الإضافية التي ذُكرت في عروض الباوربوينت والمسودات التمهيدية القديمة (مثل Western Blot لـ PPAR-α أو Micro-CT أو فحص الفسفرة p-p38) هي **مقترحات استكشافية غير ملزمة (Exploratory Wishlist)** ولم تُدرج في جدول التحاليل ببروتوكول الجامعة المعتمد. راجع التدقيق الثلاثي الحاسم: [[Consensus-Verdict-PPAR-GR-Crosstalk-Framing]].
+
+### B. Functional Readout of PPAR-α / GR Crosstalk
+- طبقاً لآلية التداخل النسخي (Bougarne et al., PNAS 2009)، فإن كبح **NF-κB p65 النووي (IHC)** وتراجع **TNF-α و IL-6 (ELISA)** وحماية الغضروف (**Safranin-O**) تمثل **المخرجات الوظيفية الحقيقية (Functional Pharmacodynamic Readouts)** للتداخل في الكائن الحي، دون حاجة لقياس المستقبلات بالبيولوجيا الجزيئية.
 
 ---
 
 ## 5. Zettelkasten Knowledge Graph Integration
-- Animal Model Justification: [[AA-vs-CIA-Model-Selection]]
-- Active Drug Selection Rationale: [[Prednisolone-Active-Moiety-Rationale]]
-- Detailed Model Parameters: [[CFA-Induction-Parameters]]
-- Molecular Target Mechanisms: [[PPARa-and-GR-Crosstalk-Axis]]
-- Pharmacological Monograph: [[PEA-Comprehensive-Pharmacological-Monograph]]
-- Pilot Calibration Data: [[Pilot-Blood-Work-Final-Observations]] and [[Pilot-WBC-Final-Observations]]
-- Main Protocol Hub: [[Main-Protocol-7-Groups]]
+- **الحكم الثلاثي النهائي الحاسم للصياغة والمستقبلات:** [[Consensus-Verdict-PPAR-GR-Crosstalk-Framing]]
+- مصفوفة التحاليل التوفيقية والجدة العلمية: [[Refaat-What-to-Assay-and-Novelty-2026-09-06]]
+- تقييم ميزانية التقشف الأدنى: [[Codex-Antigravity-Consensus-Lean-Budget-Verdict]]
+- تدقيق أستاذ الفارماكولوجي المستقل: [[Pharmacology-Professor-Critical-Assessment-2026-09-06]]
+- الآلية الجزيئية والتداخل الدوائي: [[PPARa-and-GR-Crosstalk-Axis]]
+- تبرير نموذج المرض: [[AA-vs-CIA-Model-Selection]]
+- مونوغراف الدواء: [[PEA-Comprehensive-Pharmacological-Monograph]]
+- ملاحظات البايلوت المعزولة: [[Pilot-Blood-Work-Final-Observations]] و [[Pilot-WBC-Final-Observations]]
+- بوابة الجودة والتدقيق: [[07-MOC-Automated-QC-and-Audits]]
+

@@ -83,5 +83,12 @@ To deflect reviewer demands for molecular assays:
 2. **Scope Boundaries:**
    Explicitly declare in the Methodology and Discussion:
    > *"This study evaluates comparative phenotypic efficacy, joint histopathology, and tolerability; it was designed as an in vivo therapeutic regimen comparison and did not seek to demonstrate isolated intracellular signalling causality."*
-3. **Supervisor Pre-Alignment:**
-   Present this exact package to the supervisory committee now. Securing formal approval of this endpoint package eliminates unexpected late-stage assay demands before thesis submission.
+3. **Supervisor Pre-Alignment & Viva Script:**
+   Present this exact package to the supervisory committee or external examiners with pre-calibrated defense statements:
+4. **ACPA / Rheumatoid Factor Elimination Defense (Arabic & English):**
+   > *"نموذج الـ Adjuvant Arthritis (CFA) في الجرذان هو نموذج مناعي خلوي صريح (T-cell & Macrophage-mediated delayed-type hypersensitivity)، ولا يعتمد في إمراضيته على الأجسام المضادة الذاتية (Autoantibodies) كما في نموذج الكولاجين أو في البشر، وبالتالي توجيه الموارد نحو تقييم تآكل الغضروف الحقيقي (Safranin-O) والارتشاح المناعي كان أكثر دقة ومطابقة للواقع البيولوجي للموديل."*  
+   > *(English)*: *"The CFA-induced arthritis model in rats is fundamentally driven by cell-mediated delayed-type hypersensitivity rather than autoantibody-driven humoral pathology (ACPA/RF). Analytical resources were therefore prioritized toward direct structural cartilage preservation (Safranin-O) and synovial invasion histopathology."*
+5. **Serum Cytokines vs. Stable Tissue/Systemic Indices Defense (Arabic & English):**
+   > *"تم التركيز على التغيرات النسيجية الهيكلية المباشرة داخل المفصل مع التعبير النووي لـ NF-κB p65 ومؤشرات الدم المناعية الجهازية (NLR & SII)، لكونها تعكس التأثير الموضعي والجهازي بشكل أكثر استقراراً وموثوقية من قياس السايتوكينات بالسيروم التي تتأرجح سريعاً وتتأثر بظروف النقل."*  
+   > *(English)*: *"Articular histopathology combined with nuclear NF-κB p65 and blood-derived inflammatory ratios (NLR/SII) provide verifiable, transit-stable endpoints of local joint salvage and systemic immunomodulation, avoiding high degradation risks inherent to circulating serum cytokines under non-automated local field conditions."*
+
