@@ -11,17 +11,14 @@
             "id": "f538d2ea2865b9e4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
-                "viewState": {
-                  "x": 580,
-                  "y": 556.1045045515932,
-                  "zoom": -0.549412194125078
-                }
+                "file": "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Swarm-and-Vault-Architecture"
+              "icon": "lucide-file",
+              "title": "Refaat-What-to-Assay-and-Novelty-2026-09-06"
             }
           }
         ]
@@ -102,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,16 +188,16 @@
   },
   "active": "f538d2ea2865b9e4",
   "lastOpenFiles": [
+    "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
+    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
     "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
     "07 - Automated QC & Audits/Skills-Manifest.base",
-    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
     "06 - Thesis Defense & Publishing/Swarm-Verified-Novelty-2026-09-06.md",
     "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
     "06 - Thesis Defense & Publishing/Thesis-Defense-Deck-Complete.md",
     "tmp/deep-novelty/report-source.md",
     "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
     "06 - Thesis Defense & Publishing/Publishing-Advises.md",
-    "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
     "tmp/deep-novelty/europepmc-search-ledger.json",
     "tmp/deep-novelty/search_epmc.py",
     "tmp/deep-novelty",
