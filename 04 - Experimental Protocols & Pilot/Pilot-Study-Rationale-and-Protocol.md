@@ -14,6 +14,9 @@ qc_auditor: "agency-evidence-collector"
 > This document details the exploratory protocol extracted verbatim from Dr. Refaat Ibrahim's source document `pilot.docx` (`00-Sources/research stuff/data/pilot.docx`).
 > **Strict Segregation Protocol:** All dosages, sample sizes ($n=4$ planned, $n=2$ harvested pairs in initial trial), and timelines described herein represent preliminary feasibility benchmarking. They are quarantined from the definitive 9-group thesis trial documented in [[Official-Institutional-Protocol-Final]].
 
+> [!CAUTION] Correction 2026-09-06 — this design does NOT match the actual pilot data files
+> This document (doses: Prednisolone 1–2 mg/kg, PEA 10/30 mg/kg; Collagen-Induced-Arthritis model; Female Wistar/Lewis rats) describes a **different, earlier design proposal** than what the actual pilot data notes ([[Pilot-Blood-Work-Final-Observations]], [[Pilot-WBC-Final-Observations]]) report (doses: Prednisolone 5 mg/kg, PEA 50/100/200 mg/kg plus active comparators Tacrolimus 1.8 mg/kg and Baricitinib 10 mg/kg; CFA model, 7 groups). Dose overlap between the two documents is limited to "10." Treat this note as an **abandoned/superseded early design sketch**, not a description of the pilot that actually produced the blood-work and WBC data below — do not cite this document's group table as the pilot Methods. See [[scientific_qc_report]] Gate D and [[Pharmacology-Professor-Critical-Assessment-2026-09-06]].
+
 ---
 
 ## 1. Verbatim Primary & Secondary Objectives (from `pilot.docx`)

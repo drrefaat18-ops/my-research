@@ -1,5 +1,5 @@
 {
-  "audit_timestamp": "2026-09-06T20:33:19.658949",
+  "audit_timestamp": "2026-09-06T21:09:03.624867",
   "gates": {
     "Gate 1: Data Parity": [
       {
@@ -15,7 +15,7 @@
       {
         "check": "Literature Study Depth",
         "passed": true,
-        "details": "Average study note size: 10069 bytes (Target: >= 8000 bytes)."
+        "details": "Average study note size: 10117 bytes (Target: >= 8000 bytes)."
       }
     ],
     "Gate 2: Pilot Isolation": [
@@ -34,12 +34,12 @@
       {
         "check": "Dead Links Check",
         "passed": true,
-        "details": "Total links inspected: 623. Broken links found: 0."
+        "details": "Total links inspected: 694. Broken links found: 0."
       },
       {
         "check": "Luhmann Connectivity Density",
         "passed": true,
-        "details": "Average links per note: 5.99 (Target: >= 2.0)."
+        "details": "Average links per note: 6.43 (Target: >= 2.0)."
       }
     ],
     "Gate 4: Protocol Dosing": [

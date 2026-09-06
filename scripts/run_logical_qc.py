@@ -104,11 +104,15 @@ def test_gate_7_molecular_signaling():
     nfkb = (VAULT_ROOT / "02 - Molecular Axis & Mechanisms" / "NF-kB-p65-and-Cytokines.md").read_text(encoding="utf-8")
     p38 = (VAULT_ROOT / "02 - Molecular Axis & Mechanisms" / "p38-MAPK-and-Knee-Pathology.md").read_text(encoding="utf-8")
     
+    dusp1_caveat_present = any(
+        re.search(r"\b" + re.escape(c) + r"\b", p38, re.IGNORECASE)
+        for c in ["unpublished", "dipyridamole", "not a direct pea", "exploratory candidate", "not an established pea mechanism"]
+    )
     checks = [
         ("Dual Clamp Model (PEA + Prednisolone)", "dual" in nfkb.lower() or "clamp" in nfkb.lower()),
         ("NF-κB p65 / RelA Pathway Detailed", "p65" in nfkb and "IκBα" in nfkb),
         ("p38 MAPK Phosphorylation (Thr180/Tyr182)", "Thr180" in p38 or "phospho-p38" in p38.lower()),
-        ("Dual MKP-1 (DUSP1) Phosphatase Induction", "MKP-1" in p38 or "DUSP1" in p38),
+        ("MKP-1 (DUSP1) mentioned WITH required correction caveat", ("MKP-1" in p38 or "DUSP1" in p38) and dusp1_caveat_present),
         ("Histopathological 4-Domain Scoring Matrix", "Safranin-O" in p38 and "Synovial" in p38 and "Cartilage" in p38)
     ]
     passed = all(c[1] for c in checks)
@@ -216,10 +220,14 @@ def main():
     
     all_passed = True
     report_lines = [
-        "# 🛡️ Deep Logical Quality Control & Scientific Verification Report",
+        "# 🛡️ Deep Textual Coherence & Cross-Reference Check",
         f"> **Audit Engine:** Multi-Agent Logical Verifier + Ruflo V3 Swarm Coordination",
         f"> **Generated:** {datetime.now().isoformat()}",
         f"> **Target Vault:** Port Said University Master's Thesis Research Vault",
+        "",
+        "> [!WARNING] This checks whether expected terms/numbers are PRESENT in the right files, and whether",
+        "> internal wikilinks resolve. It does NOT verify that the underlying scientific claim is true, causally",
+        "> established, or correctly cited — text presence is not evidence. For claim-level checks, see [[scientific_qc_report]].",
         "",
         "---",
         ""
@@ -245,7 +253,7 @@ def main():
         report_lines.append("|:---|:---:|:---|")
         for desc, chk in checks:
             chk_icon = "✅" if chk else "❌"
-            chk_str = "Verified Coherent" if chk else "Logical Discrepancy"
+            chk_str = "Term/Pattern Present" if chk else "Term/Pattern Missing"
             report_lines.append(f"| {desc} | {chk_icon} | {chk_str} |")
         report_lines.append("")
         

@@ -60,7 +60,7 @@ qc_auditor: "agency-clinical-evidence-agent"
 - **Slide 20:** *Dual-Track NF-κB Shutdown:*
   1. GR physically tethers to p65 and recruits **Histone Deacetylases (HDACs)** to condense inflammatory promoters.
   2. PPAR-α accelerates IκBα resynthesis and sequesters transcriptional cofactors.
-- **Slides 21–22:** *The "Crisis Manager" vs. "Strategy Manager" Synergy:* Combining a half-dose of a steroid (GR activator) with m-PEA (PPAR-α activator) produces synergistic repression ($1+1=3$), overcoming glucocorticoid resistance while eliminating hypercortisolemic toxicity.
+- **Slides 21–22:** *The "Crisis Manager" vs. "Strategy Manager" — Proposed Cooperative Repression:* Combining a half-dose of a steroid (GR activator) with m-PEA (PPAR-α activator) is hypothesized to produce cooperative/comparative repression, which the study is designed to test. **Caveat:** the official protocol has no standalone Prednisolone-5mg/kg-alone arm — without that arm, superiority over the combination's individual components cannot be attributed to true synergy (Bliss/Loewe sense) versus simple additive or comparative efficacy. Frame results as "comparative regimen efficacy" unless a formal synergy model (e.g. MuSyC) is applied. "Eliminating hypercortisolemic toxicity" requires the metabolic safety panel (glucose/lipids/liver enzymes) to actually be run and reported — not assumed from dose reduction alone.
 
 ### Section 6: Pharmacological Justification for Prednisolone (Slides 23–24)
 - **Slide 23:** Why Prednisolone?
@@ -94,7 +94,7 @@ qc_auditor: "agency-clinical-evidence-agent"
 
 ### Q1: "Why choose Adjuvant-Induced Arthritis (AA) instead of the Collagen-Induced Arthritis (CIA) model?"
 > **Candidate Response:**  
-> "While CIA is valuable for assessing adaptive autoimmune antibodies against collagen, the primary objective of this thesis is to demonstrate **immediate anti-inflammatory synergy and steroid dose-reduction**. The AA model provides rapid, highly reproducible, innate-immunity-driven synovial inflammation governed by macrophage TLR2/4 activation and NF-κB hyperactivation. Furthermore, the seminal steroid-sparing literature precedent (*Morvaridi et al., 2025*) utilized the rat AA model, ensuring direct methodological comparability."
+> "While CIA is valuable for assessing adaptive autoimmune antibodies against collagen, the primary objective of this thesis is to demonstrate **comparative anti-inflammatory efficacy and steroid dose-reduction** (framed as synergy only if a validated synergy model such as MuSyC is applied against the missing Prednisolone-5-alone arm). The AA model provides rapid, highly reproducible, innate-immunity-driven synovial inflammation governed by macrophage TLR2/4 activation and NF-κB hyperactivation. Furthermore, the seminal steroid-sparing literature precedent (*Morvaridi et al., 2025*) utilized the rat AA model, ensuring direct methodological comparability."
 
 ### Q2: "What is the exact molecular mechanism allowing PEA to spare Prednisolone?"
 > **Candidate Response:**  

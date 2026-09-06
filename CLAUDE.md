@@ -1,5 +1,13 @@
 # Ruflo — Claude Code Configuration
 
+> [!CRITICAL] RULE 0: ABSOLUTE PRIME DIRECTIVE — LOWEST VIABLE COST FOR GUARANTEED ACCEPTANCE
+> **الهدف الأسمى والقاعدة الصارمة الأولى لجميع الوكلاء (Claude, Codex, Antigravity, Gemini):**  
+> **"تنفيذ هذه الرسالة بأرخص شكل ممكن، وبأقل مصاريف مالية على الإطلاق، مع ضمان قبولها الأكاديمي التام في مناقشة الماجستير وقبول نشرها في مجلة دولية محكمة (Q1/Q2)."**  
+> 
+> - **100% Self-Funded Out-of-Pocket:** Dr. Refaat Ibrahim pays for everything from his personal salary. No grant, no university budget.
+> - **Port Said Facility Reality:** No automated ELISA reader, no qPCR, no liquid nitrogen, no continuous -80°C chain. Assays are outsourced to Cairo/Tanta.
+> - **Mandatory Zero Spend Filter:** Eliminate all non-essential and luxury molecular tests (no RT-qPCR, no Western blot, no multiplex). Prioritize FFPE blocks, frozen serum, zero-cost CBC derived indices (NLR/SII), and local Egyptian Biodiagnostic kits.
+
 ## Rules
 
 - Do what has been asked; nothing more, nothing less

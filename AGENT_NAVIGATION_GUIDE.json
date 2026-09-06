@@ -49,6 +49,13 @@
     "thesis_titles": {
       "official_registered_title": "Targeting Experimentally Induced Arthritis in Rats Using Selected Natural Products as Glucocorticoid-Sparing Agents",
       "presentation_defense_title": "Evaluating Micronized Palmitoylethanolamide (m-PEA) as a Glucocorticoid-Sparing Strategy in Adjuvant-Induced Arthritis in Wistar Rats"
+    },
+    "operational_and_budgetary_constraints": {
+      "funding_source": "100% Personal Out-of-Pocket (Zero Institutional Grants)",
+      "facility_status": "Under-equipped local university facilities (No liquid nitrogen at sacrifice, no continuous cold-chain transit, no automated in-house ELISA/molecular suites)",
+      "assay_execution": "Mandatory outsourcing to external referral laboratories in Cairo or Tanta",
+      "specimen_prioritization": "Durable FFPE paraffin blocks and aliquoted frozen serum",
+      "forbidden_recommendations": "Expensive fragile molecular panels (RT-qPCR arrays, phospho-p38 Western blots, RNA extraction from decalcified bone)"
     }
   },
   "pharmacological_and_biological_framework": {

@@ -108,7 +108,7 @@
 - Bougarne, N., Weyers, B., Desmet, S. J., Deckers, J., Ray, D. W., Staels, B., & De Bosscher, K. (2018). Molecular actions of PPARα in lipid metabolism and inflammation. Endocrine Reviews, *39*(5), 760–802. https://doi.org/10.1210/er.2018-00064
 
 
-## Slide 20: 2. Synergistic Anti-Inflammatory Action Both receptors suppress NF-κB signaling:o GR interferes physically with p65 and recruits HDACs to inflammatory promoters (tightening the DNA and turning the gene off).o PPARα promotes IκBα expression and competes for limited coactivators (inhibiting transcription).When activated together, they exert synergistic repression of NF-κB target genes (e.g., MCP-1, IL-6), likely through direct protein-protein interactions.
+## Slide 20: 2. Synergistic Anti-Inflammatory Action Both receptors suppress NF-κB signaling:o GR interferes physically with p65 and recruits HDACs to inflammatory promoters (tightening the DNA and turning the gene off).o PPARα promotes IκBα expression and competes for limited coactivators (inhibiting transcription).When activated together, they are hypothesized to exert cooperative repression of NF-κB target genes (e.g., MCP-1, IL-6), likely through direct protein-protein interactions — "synergy" in the formal (Bliss/Loewe/MuSyC) sense requires a standalone Prednisolone-5-alone arm, which the current protocol does not include; without it, describe results as comparative regimen efficacy, not proven synergy.
 
 - Cross-Talk with the Glucocorticoid Receptor (GR)
 - Bougarne, N., Weyers, B., Desmet, S. J., Deckers, J., Ray, D. W., Staels, B., & De Bosscher, K. (2018). Molecular actions of PPARα in lipid metabolism and inflammation. Endocrine Reviews, *39*(5), 760–802. https://doi.org/10.1210/er.2018-00064
@@ -151,7 +151,7 @@
 
 ## Slide 28: Protein Expression Analysis: Use Western Blot or Immunohistochemistry on joint tissue lysates to measure:NF-κB Pathway: Phosphorylation of IκBα and nuclear translocation of p65.Anti-inflammatory Target: Total IκBα protein levels, which PPARα is known to upregulate Gene Expression Analysis: RT-qPCR on joint tissue to examine the expression of genes downstream of NF-κB (e.g., Tnf-α, Il-6) and GR.Receptor Localization: immunohistochemistry to visualize the cellular co-localization of PPARα and GR in the synovium of treated animals, which could support a direct protein-protein interaction.
 
-- 🧬 Molecular Analysis to Investigate Synergy
+- 🧬 Molecular Analysis to Investigate Cooperative Mechanism (not proof of synergy — see Slide 20 caveat)
 
 
 ## Slide 29: Immunoadjuvant (e.g., Complete Freund's Adjuvant, CFA) to induce arthritis.Clinical Scoring Supplies: Basic calipers for measuring paw thickness and swelling.

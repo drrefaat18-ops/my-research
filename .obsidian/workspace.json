@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Experimental Protocols & Pilot/Pilot-Blood-Work-Final-Observations.md",
+                "file": "Home-Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pilot-Blood-Work-Final-Observations"
+              "title": "Home-Index"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - Experimental Protocols & Pilot/Pilot-Blood-Work-Final-Observations.md",
+                "file": "Home-Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,8 +186,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5bbbdbad8f648c3",
+  "active": "f538d2ea2865b9e4",
   "lastOpenFiles": [
+    "_AGENTS.md.tmp.5936.8357e5c9a945",
+    "AGENTS.md.tmp.5936.c68bb895336b",
+    "GEMINI.md.tmp.5936.5251648be90b",
+    "_CLAUDE.md.tmp.5936.24ddb3ab583d",
+    "_AGENTS.md.tmp.5936.09314c3b0877",
+    "GEMINI.md.tmp.5936.31f0c1d4c14c",
+    "AGENTS.md.tmp.5936.52a3697d3f98",
+    "GEMINI.md.tmp.5936.b99544c2f9d1",
+    "_CLAUDE.md.tmp.5936.9468091ffc93",
+    "06 - Thesis Defense & Publishing/temp_supervisor_report.html",
+    "04 - Experimental Protocols & Pilot/Pilot-Blood-Work-Final-Observations.md",
+    "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md.tmp.5936.8f2b85140cff",
+    "07 - Automated QC & Audits/Codex-Antigravity-Consensus-Lean-Budget-Verdict.md",
+    "AGENTS.md",
+    "page_v2_2.png",
+    "page_v2_1.png",
+    "page_3.png",
+    "page_2.png",
+    "page_1.png",
+    "GEMINI.md",
+    "07 - Automated QC & Audits/scientific_qc_report.md",
+    "07 - Automated QC & Audits/Pharmacology-Professor-Critical-Assessment-2026-09-06.md",
     "07 - Automated QC & Audits/Codex-Adversarial-Review-and-Critique-2026-09-06.md",
     "04 - Experimental Protocols & Pilot/PEA-Tablet-Preparation.md",
     "04 - Experimental Protocols & Pilot/Pilot-WBC-Final-Observations.md",
@@ -198,34 +220,17 @@
     "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
     "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
     "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
-    "07 - Automated QC & Audits/Skills-Manifest.base",
     "06 - Thesis Defense & Publishing/Swarm-Verified-Novelty-2026-09-06.md",
     "06 - Thesis Defense & Publishing/Thesis-Defense-Deck-Complete.md",
     "tmp/deep-novelty/report-source.md",
     "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
     "06 - Thesis Defense & Publishing/Publishing-Advises.md",
-    "tmp/deep-novelty/europepmc-search-ledger.json",
-    "tmp/deep-novelty/search_epmc.py",
-    "tmp/deep-novelty",
-    "tmp",
-    "AGENT_NAVIGATION_GUIDE.json",
     "02 - Molecular Axis & Mechanisms/Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
     "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
     "01 - Rationale & Study Design/01-MOC-Rationale-and-Study-Design.md",
     "02 - Molecular Axis & Mechanisms/02-MOC-Molecular-Mechanisms.md",
     "AGENT_NAVIGATION_GUIDE.md",
     "03 - Collective Literature Matrix/Studies/Study-07-Micronized-ultramicronized-palmitoylethanolamide-d.md",
-    "07 - Automated QC & Audits/gap_audit_report.md",
-    "07 - Automated QC & Audits/07-MOC-Automated-QC-and-Audits.md",
-    "05 - Comparators Benchmarking/05-MOC-Comparators-Benchmarking.md",
-    "04 - Experimental Protocols & Pilot/04-MOC-Protocols-and-Pilot.md",
-    "03 - Collective Literature Matrix/03-MOC-Literature-Matrix.md",
-    "02 - Molecular Axis & Mechanisms/Wang-2025-PEA-Clinical-Prospects-Pain.md",
-    "CLAUDE.md",
-    "scripts/run_logical_qc.py",
-    "scripts/digest_skills_manifest.py",
-    "scripts/execute_manifest_swarm.py",
-    "07 - Automated QC & Audits/swarm_tasks_registry.json",
     "parameters_preview.png"
   ]
 }

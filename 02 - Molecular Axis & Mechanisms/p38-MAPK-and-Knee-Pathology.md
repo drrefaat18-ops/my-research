@@ -76,9 +76,9 @@ The combination of PEA and Prednisolone targets p38 MAPK signaling through compl
    ▼                   ▼
 [p38 Kinase Activity] [Downstream Transcriptional Consequences]
    │                   │
-   │                   ├── ✅ PEA (PPAR-α):
-   │                   │   Induces MAP Kinase Phosphatase-1 (MKP-1 / DUSP1)
-   │                   │   Directly dephosphorylates active phospho-p38 MAPK!
+   │                   ├── ⚠️ PEA (PPAR-α) — see caveat below:
+   │                   │   Proposed induction of MAP Kinase Phosphatase-1 (MKP-1 / DUSP1)
+   │                   │   as a route to phospho-p38 dephosphorylation — NOT an established PEA mechanism.
    │                   │
    │                   └── ✅ Prednisolone (GR-α):
    │                       Transrepresses AP-1 transcriptional complexes,
@@ -88,7 +88,11 @@ The combination of PEA and Prednisolone targets p38 MAPK signaling through compl
 ```
 
 ### Specific Role of Dual MKP-1 (DUSP1) Induction:
-Both PPAR-$\alpha$ agonism by PEA and GR-$\alpha$ agonism by Prednisolone converge to strongly stimulate the transcription of **Mitogen-Activated Protein Kinase Phosphatase 1 (MKP-1 / DUSP1)**. MKP-1 is a dual-specificity nuclear and cytoplasmic phosphatase that selectively dephosphorylates Thr180 and Tyr182 on phospho-p38, returning p38 to its inactive basal state. This enzymatic dephosphorylation achieves rapid termination of stress-induced joint destruction.
+
+> [!CAUTION] Correction — DUSP1/MKP-1 is NOT an established PEA mechanism
+> The DUSP1/GILZ induction data cited for this pathway traces to [[Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory]], a study of **dipyridamole + prednisolone**, not PEA. That paper itself labels the GILZ/DUSP1 finding **"unpublished."** There is no established primary-literature evidence that PEA (via PPAR-α) induces MKP-1/DUSP1 dephosphorylation of p38. Treat this as an unverified, exploratory candidate mechanism only — do not present it as confirmed in the thesis or in any publication draft. See [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06]] item 1 for the full source-verification trail.
+
+Prednisolone (GR-$\alpha$ agonism) has established literature support for transrepression of AP-1/NF-$\kappa$B, limiting MMP transcription (see above). The PEA/PPAR-$\alpha$ → MKP-1/DUSP1 → phospho-p38 link is a **hypothesized, not confirmed,** extension of that logic pending a direct primary source; it should not be assayed or claimed as mechanism without first identifying a genuine PEA-specific citation.
 
 ---
 

@@ -176,8 +176,8 @@ report_md = f"""# Master Quality Control Audit Report (Zero-Defect Verification)
 
 ## 1. Executive Certification Stamp
 
-> [!TIP] ZERO DEFECTS CERTIFIED
-> All four autonomous quality control gates passed with zero discrepancies. The Obsidian Second Brain vault, literature matrix, molecular cross-talk notes, and protocol indices are mathematically and scientifically certified for academic use.
+> [!TIP] ZERO VAULT-HYGIENE DEFECTS
+> All four gates below passed: file/sheet counts match, no dead links, pilot files carry required warning stamps, protocol dose strings are present. **This certifies vault structure and cross-reference integrity only — it does not verify that any scientific claim in these notes is accurate, correctly cited, or safe to submit to a journal.** For claim-level checks (overclaims, statistical overreach, citation regressions, dose-parity mismatches), see [[scientific_qc_report]].
 
 ## 2. Gate-by-Gate Verification Breakdown
 

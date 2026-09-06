@@ -30,6 +30,11 @@ date: "2026-09-06"
 - **Official Thesis Title:**  
   *Targeting Experimentally Induced Arthritis in Rats Using Selected Natural Products as Glucocorticoid-Sparing Agents*  
   *(Alternative presentation title: Evaluating Micronized Palmitoylethanolamide [m-PEA] as a Glucocorticoid-Sparing Strategy in Adjuvant-Induced Arthritis in Wistar Rats)*
+- **Operational & Budgetary Ground Reality (MANDATORY AGENT MANDATE):**
+  - **100% Self-Funded Out-of-Pocket:** Zero university or departmental funding. Every rat, kit, and slide is paid for from Dr. Refaat's personal salary/savings.
+  - **Port Said University Facility Reality:** Under-equipped local facilities (NO liquid nitrogen at sacrifice, NO -80°C cold-chain transport, NO automated ELISA/molecular platforms).
+  - **Mandatory Assay Outsourcing:** All specialized analyses (ELISA, IHC, histopathology, clinical chemistry) must be outsourced to external referral labs in Cairo/Tanta.
+  - **Agent Decision Rule:** Forbid high-cost/fragile exploratory molecular panels (RT-qPCR, Phospho-p38 Western blots). Prioritize durable FFPE paraffin blocks (H&E, Safranin-O, NF-κB p65 IHC) and stable frozen serum with affordable local Egyptian kits (e.g., Biodiagnostic).
 
 ---
 

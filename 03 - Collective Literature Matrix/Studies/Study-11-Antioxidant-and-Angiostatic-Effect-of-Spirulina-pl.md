@@ -9,7 +9,7 @@ doi: "10.1016/j.pathophys.2017.07.001"
 pmid: "28755866"
 study_design_type: "In Vivo Controlled Interventional Preclinical Study"
 animal_model: "Complete Freund's Adjuvant (CFA)-Induced Polyarthritis"
-species_strain: "Female Wistar Rats (160-190 g)"
+species_strain: "Male Wistar Rats (250-300 g) — corrected 2026-09-06, was miscoded as female 160-190g; see Section 1 note"
 source_sheet: "Sheet11-"
 source_file: "00-Sources/research stuff/studies to desing my protocol table/Collective tables for study design.xlsx"
 paper_source: "03 - Collective Literature Matrix/Papers/Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su.md"
@@ -28,13 +28,16 @@ qc_auditor: "agency-clinical-evidence-agent"
 
 ## 1. Study Overview & Executive Scientific Rationale
 
-This study was selected by Dr. Refaat Ibrahim as a key model-parity benchmark. It evaluates Complete Freund's Adjuvant (CFA) polyarthritis in female Wistar rats, focusing on two pathophysiological drivers: **pathological synovial neovascularization (angiogenesis driven by VEGF)** and **endogenous antioxidant enzyme depletion (lipid peroxidation / MDA elevation)**. It provides vital baseline quantitative ranges for CFA arthritis in female Wistar rats.
+This study was selected by Dr. Refaat Ibrahim as a key model-parity benchmark. It evaluates Complete Freund's Adjuvant (CFA) polyarthritis in **male** Wistar rats, focusing on two pathophysiological drivers: **pathological synovial neovascularization (angiogenesis driven by VEGF)** and **endogenous antioxidant enzyme depletion (lipid peroxidation / MDA elevation)**. It provides vital baseline quantitative ranges for CFA arthritis in male Wistar rats.
+
+> [!CAUTION] Correction 2026-09-06 — rat sex was miscoded
+> This note previously said "female Wistar rats." The original source (Kumar N, Singh S, Patro N, Patro I. *Pathophysiology.* 2017;24(4):233-242, PMID 28755866) used **male** Wistar rats, 250-300 g — not female, not 160-190g. Corrected throughout this note. See [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06]] item 2.
 
 ---
 
 ## 2. Experimental Disease Induction Methodology
 
-- **Experimental Animals:** Adult female Wistar rats ($n=6$ per group, $N=30$ total), body weight 160–190 g.
+- **Experimental Animals:** Adult male Wistar rats ($n=6$ per group, $N=30$ total), body weight 250–300 g.
 - **Induction Agent:** Complete Freund's Adjuvant (CFA, Difco Laboratories) containing heat-killed *M. tuberculosis* (1 mg/mL) in mineral oil.
 - **Induction Technique (Day 0):**
   - Single intradermal injection of **0.1 mL CFA** into the subplantar surface of the right hind paw.
@@ -94,7 +97,7 @@ Verbatim extracted quantitative results demonstrating the reversal of synovial a
 ## 7. Critical Methodological Appraisal & Quality Assessment
 
 - **Strengths:**
-  - Identical animal model and strain parity: Female Wistar rats with Complete Freund's Adjuvant arthritis.
+  - Identical animal model and strain parity: Male Wistar rats with Complete Freund's Adjuvant arthritis.
   - Directly investigates angiogenic pathways (VEGF and CD31 microvascular density) and tissue antioxidant balance.
 - **Limitations:**
   - Utilized a crude multi-constituent microalgae suspension rather than a defined, single-chemical entity.
@@ -104,7 +107,7 @@ Verbatim extracted quantitative results demonstrating the reversal of synovial a
 
 ## 8. Strategic Relevance to Dr. Refaat Ibrahim's Master's Thesis Protocol
 
-1. **Model Parity Benchmark:** Directly validates the use of female Wistar rats (160–200 g) for Complete Freund's Adjuvant arthritis studies.
+1. **Model Parity Benchmark:** Directly validates the use of male Wistar rats (250–300 g) for Complete Freund's Adjuvant arthritis studies — note Dr. Refaat's own protocol animal sex/weight must be checked for actual parity, not assumed from this source.
 2. **Justification of Oxidative Stress Readouts:** Confirms the necessity of tracking tissue MDA and GSH alongside classical cytokines in Dr. Refaat's thesis.
 
 ---

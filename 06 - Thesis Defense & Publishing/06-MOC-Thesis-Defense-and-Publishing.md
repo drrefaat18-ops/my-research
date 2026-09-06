@@ -53,8 +53,10 @@ graph TD
 ## 🔗 Bidirectional Second Brain Connections
 - [[Swarm-Verified-Novelty-2026-09-06|🆕 Swarm-Verified Novelty Certificate — PubMed Browser Search Evidence (2026-09-06)]]
 - [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06|2026-09-06 source-checked novelty and affordable assay decision: conditional shortlist and evidence corrections]]
-- [[Refaat-What-to-Assay-and-Novelty-2026-09-06|القرار النهائي المحدَّث بواقع المعامل المصرية وأدلة الجدة الموثقة — swarm-verified-final]]
+- [[Refaat-What-to-Assay-and-Novelty-2026-09-06|⚠️ القرار الموحَّد (Reconciled) — Tier A/B مشروط بتأكيد البروتوكول الرسمي، بعد 3 توصيات متضاربة في نفس اليوم]]
+- [[Codex-Antigravity-Consensus-Lean-Budget-Verdict|💰 توصية Tier A الأرخص (Antigravity + Codex مستقل) — تحذف NF-κB IHC وELISA بالكامل، غير مُحسومة بعد]]
 - [[Codex-Adversarial-Review-and-Critique-2026-09-06|🛡️ تقرير المراجعة النقدية المستقلة وتحكيم خطة النشر الدولي — OpenAI Codex (GPT-6)]]
+- [[Pharmacology-Professor-Critical-Assessment-2026-09-06|🎓 تقييم نقدي مستقل: هل المسار بعد البايلوت صالح للنشر الدولي؟]]
 - Previous Domain Hub: [[05-MOC-Comparators-Benchmarking]]
 - Next Domain Hub: [[07-MOC-Automated-QC-and-Audits]]
 - Protocol Evidence: [[Official-Institutional-Protocol-Final]]
