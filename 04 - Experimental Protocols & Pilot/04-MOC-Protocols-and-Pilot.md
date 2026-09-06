@@ -47,7 +47,7 @@ graph TD
 5. **[[Pilot-Blood-Work-Final-Observations|Pilot Blood Chemistry, ESR, CRP, IL-6 Panel (from Blood work final.pdf)]]**  
    *Scope:* Quantitative organ safety panel (AST, ALT, urea, creatinine, glucose) and preliminary inflammatory suppression ($76.9\%$ IL-6 suppression, $61.2\%$ CRP reduction) in high-dose PEA + Prednisolone combination. Strictly quarantined ($n=2$).
 6. **[[Pilot-WBC-Final-Observations|Pilot WBC Differential & Leukocyte Profiling (from WBC final.pdf)]]**  
-   *Scope:* Full hematological profile (total WBC, neutrophil percentage, lymphocyte percentage, monocytes, eosinophils) showing reversal of arthritic leukocytosis. Strictly quarantined ($n=2$).
+   *Scope:* Full hematological profile (total WBC, neutrophil percentage, lymphocyte percentage, monocytes, eosinophils) showing systemic disease induction, corticosteroid demargination, and PEA dose-dependent leukocytosis normalization. Backed by [[Swarm-Audit-Pilot-WBC-Research-Utility]]. Strictly quarantined ($n=2$).
 
 ---
 
@@ -56,3 +56,4 @@ graph TD
 - Next Domain Hub: [[05-MOC-Comparators-Benchmarking]]
 - Comparators Reference: [[Baricitinib-Comparison]] and [[Tacrolimus-Comparison]]
 - Slide Deck Application: [[Thesis-Defense-Deck-Complete]]
+- Swarm Evaluation Report: [[Swarm-Audit-Pilot-WBC-Research-Utility]]

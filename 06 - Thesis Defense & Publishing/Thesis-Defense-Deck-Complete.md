@@ -104,11 +104,17 @@ qc_auditor: "agency-clinical-evidence-agent"
 > **Candidate Response:**  
 > "Prednisone is a prodrug requiring hepatic conversion to prednisolone by 11β-HSD1. In systemic inflammatory models like CFA-induced arthritis, hepatic blood flow and metabolic enzymes can be erratic. By administering active Prednisolone directly, we eliminate pharmacokinetic variability and guarantee uniform circulating drug concentrations across cohorts."
 
+### Q4: "How did you empirically validate systemic disease induction and justify selecting the 100 and 200 mg/kg PEA doses over lower doses (e.g., 50 mg/kg) in your combination protocol?"
+> **Candidate Response:**  
+> "In our exploratory pilot hematological profiling ([[Pilot-WBC-Final-Observations]]), we empirically validated systemic polyarthritis beyond local paw swelling through a 77.6% surge in total leukocyte counts (TLC: 18.20 vs. 10.25 × 10³/µL) and an 88% expansion in absolute lymphocytes. In vivo corticosteroid bioactivity was confirmed by characteristic glucocorticoid-induced neutrophil demargination and lymphopenia. Crucially, while the low-dose combination (50 mg/kg PEA + 5 mg/kg Prednisolone) failed to normalize systemic leukocytosis (TLC remaining elevated at 16.05 × 10³/µL), escalating PEA doses to 100 and 200 mg/kg drove a robust, dose-dependent restoration of normal leukocyte levels (7.85 and 7.35 × 10³/µL, respectively). This provided the direct empirical rationale for adopting 100 and 200 mg/kg PEA as our definitive therapeutic tiers in the main experimental protocol ([[Main-Protocol-7-Groups]])."
+
 ---
 
 ## 🔗 Second Brain Cross-References
 - [[Home-Index]] - Master vault dashboard
 - [[Main-Protocol-7-Groups]] - Laboratory execution protocol
+- [[Pilot-WBC-Final-Observations]] - Quarantined pilot leukocyte observations and dose-selection rationale
+- [[Swarm-Audit-Pilot-WBC-Research-Utility]] - Ruflo swarm valuation of pilot hematological data
 - [[PPARa-and-GR-Crosstalk-Axis]] - Mechanistic signaling details
 - [[PEA-Comprehensive-Pharmacological-Monograph]] - Full PEA monograph
 - [[Animal-Models-Comprehensive-Compendium]] - Model comparison reference

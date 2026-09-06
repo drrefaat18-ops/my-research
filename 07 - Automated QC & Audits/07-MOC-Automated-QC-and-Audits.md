@@ -51,6 +51,8 @@ graph TD
    *Scope:* Continuous adversarial verification certifying that all 23 historical issues (orphaned files, duplicates, stubs, unintegrated sources) have been 100% eliminated.
 7. **[[master_qc_audit|4-Gate Master QC Audit Log]]**  
    *Scope:* Programmatic multi-format data parity verification across Excel, Word, and PDF sources.
+8. **[[Swarm-Audit-Pilot-WBC-Research-Utility|Swarm Research Valuation Report: Pilot WBC Differential]]**  
+   *Scope:* Multi-agent consensus analysis under Ruflo V3 evaluating research utility, immunological mechanisms, and thesis integration of pilot leukocyte observations.
 
 ---
 

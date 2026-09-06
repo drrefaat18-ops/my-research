@@ -1,5 +1,5 @@
 {
-  "audit_timestamp": "2026-09-06T19:51:26.492490",
+  "audit_timestamp": "2026-09-06T20:05:26.960151",
   "gates": {
     "Gate 1: Data Parity": [
       {
@@ -34,12 +34,12 @@
       {
         "check": "Dead Links Check",
         "passed": true,
-        "details": "Total links inspected: 585. Broken links found: 0."
+        "details": "Total links inspected: 603. Broken links found: 0."
       },
       {
         "check": "Luhmann Connectivity Density",
         "passed": true,
-        "details": "Average links per note: 5.79 (Target: >= 2.0)."
+        "details": "Average links per note: 5.91 (Target: >= 2.0)."
       }
     ],
     "Gate 4: Protocol Dosing": [
