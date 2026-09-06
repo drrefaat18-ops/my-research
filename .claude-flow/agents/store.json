@@ -1,0 +1,377 @@
+{
+  "agents": {
+    "agent-1788696705083-ozlrn2": {
+      "agentId": "agent-1788696705083-ozlrn2",
+      "agentType": "coordinator",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\"",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:46.807Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788696707794-xww6vi": {
+      "agentId": "agent-1788696707794-xww6vi",
+      "agentType": "researcher",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\\Extract deep pharmacological clinical and mechanistic data for Studies 01-12\\",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:48.069Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788696708928-n4iduv": {
+      "agentId": "agent-1788696708928-n4iduv",
+      "agentType": "analyst",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\\Calculate percent reductions quantitative benchmarks and statistical synthesis\\",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:49.135Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788696710007-ka2b3e": {
+      "agentId": "agent-1788696710007-ka2b3e",
+      "agentType": "reviewer",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\\Verify data parity across PDFs DOCX and Excel tables\\",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:50.217Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788696711034-81vyye": {
+      "agentId": "agent-1788696711034-81vyye",
+      "agentType": "tester",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\\Execute adversarial zero-defect QC gate checks\\",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:51.277Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788696712124-1xiq7d": {
+      "agentId": "agent-1788696712124-1xiq7d",
+      "agentType": "reviewer",
+      "status": "idle",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "\\Perform",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:11:52.354Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic"
+    },
+    "agent-1788697158186-jfhyhf": {
+      "agentId": "agent-1788697158186-jfhyhf",
+      "agentType": "researcher",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Verify clinical evidence and pharmacological mechanisms",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:18.482Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697161742-f9b957"
+    },
+    "agent-1788697182188-z8ewvg": {
+      "agentId": "agent-1788697182188-z8ewvg",
+      "agentType": "coordinator",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Autonomous pipeline management, task delegation, and cross-agent dependency orchestration",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:42.547Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697243100-1ty47b"
+    },
+    "agent-1788697185021-53j5kv": {
+      "agentId": "agent-1788697185021-53j5kv",
+      "agentType": "researcher",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Clinical credibility, pharmacological mechanisms (PEA, PPAR-alpha, FAAH, Cox-2, Celecoxib), and arthritis translation",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:45.312Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697244932-wniqbo"
+    },
+    "agent-1788697187705-63gvrf": {
+      "agentId": "agent-1788697187705-63gvrf",
+      "agentType": "analyst",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Rigorous quantitative analysis, sample size verification, pilot n=2 quarantine alerts, and benchmark statistical tables",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:47.959Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697246705-fc22jl"
+    },
+    "agent-1788697190086-yud5mn": {
+      "agentId": "agent-1788697190086-yud5mn",
+      "agentType": "tester",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Zero-hallucination citation verification against 29 PDF papers and 5 Word documents with exact textual evidence",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:50.318Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697248671-yh7qe6"
+    },
+    "agent-1788697192730-j50chh": {
+      "agentId": "agent-1788697192730-j50chh",
+      "agentType": "reviewer",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Adversarial audit gatekeeper, rejecting false QC passes and certifying 100% resolution of all 23 gap issues",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:52.950Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697250593-vyjor6"
+    },
+    "agent-1788697195018-l92hbr": {
+      "agentId": "agent-1788697195018-l92hbr",
+      "agentType": "reviewer",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "End-to-end model audit, verifying methodological reproducibility, calculation accuracy, and experimental parameters",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:55.253Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697252692-iss86m"
+    },
+    "agent-1788697197384-5bs0oq": {
+      "agentId": "agent-1788697197384-5bs0oq",
+      "agentType": "analyst",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Luhmann Zettelkasten knowledge stewardship, bidirectional wikilink graph integrity, atomic notes, and folder indexing",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:57.638Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697254448-bd1b9u"
+    },
+    "agent-1788697199636-9pzibu": {
+      "agentId": "agent-1788697199636-9pzibu",
+      "agentType": "coder",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Multi-format data pipeline ETL, validating 1-to-1 parity across Excel sheets, Word extracts, and PDF tables",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:19:59.992Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697256238-nm9zsw"
+    },
+    "agent-1788697204989-j277xs": {
+      "agentId": "agent-1788697204989-j277xs",
+      "agentType": "reviewer",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Multi-session drift detection, detecting orphaned root files, redundant mirror directories, and stale notes",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:05.346Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697258153-3onc62"
+    },
+    "agent-1788697208069-2eqc0i": {
+      "agentId": "agent-1788697208069-2eqc0i",
+      "agentType": "tester",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Automated QC metric evaluation, executing 4-gate master QC and dynamic 9-category gap audit",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:08.339Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697259928-muocm8"
+    },
+    "agent-1788697210556-hrmw0q": {
+      "agentId": "agent-1788697210556-hrmw0q",
+      "agentType": "coordinator",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Hierarchical mesh coordination, inter-agent communication protocols, and swarm consensus verification",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:10.795Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697262257-xd4nq0"
+    },
+    "agent-1788697213530-omauyo": {
+      "agentId": "agent-1788697213530-omauyo",
+      "agentType": "analyst",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Excel workbook normalization, deduplication of sheets, and structured matrix indexing",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:13.779Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697264273-vjuf51"
+    },
+    "agent-1788697216059-bs9gvy": {
+      "agentId": "agent-1788697216059-bs9gvy",
+      "agentType": "coordinator",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Automated verification loop optimization and continuous quality control pipeline",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:16.319Z",
+      "model": "sonnet",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697267552-c1e4ql"
+    },
+    "agent-1788697218810-wytqwn": {
+      "agentId": "agent-1788697218810-wytqwn",
+      "agentType": "reviewer",
+      "status": "active",
+      "health": 1,
+      "taskCount": 0,
+      "config": {
+        "provider": "anthropic",
+        "task": "Code quality, syntax safety, and script reliability for all python extraction and audit utilities",
+        "timeout": 300,
+        "autoTools": true
+      },
+      "createdAt": "2026-09-06T12:20:19.193Z",
+      "model": "opus",
+      "modelRoutedBy": "router",
+      "provider": "anthropic",
+      "currentTask": "task-1788697269594-me3fvt"
+    }
+  },
+  "version": "3.0.0"
+}

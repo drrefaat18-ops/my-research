@@ -1,0 +1,107 @@
+[
+  {
+    "name": "agency-agents-orchestrator",
+    "type": "coordinator",
+    "agent_id": "agent-1788697182188-z8ewvg",
+    "task_id": null,
+    "description": "Autonomous pipeline management, task delegation, and cross-agent dependency orchestration"
+  },
+  {
+    "name": "agency-clinical-evidence-agent",
+    "type": "researcher",
+    "agent_id": "agent-1788697185021-53j5kv",
+    "task_id": null,
+    "description": "Clinical credibility, pharmacological mechanisms (PEA, PPAR-alpha, FAAH, Cox-2, Celecoxib), and arthritis translation"
+  },
+  {
+    "name": "agency-statistician",
+    "type": "analyst",
+    "agent_id": "agent-1788697187705-63gvrf",
+    "task_id": null,
+    "description": "Rigorous quantitative analysis, sample size verification, pilot n=2 quarantine alerts, and benchmark statistical tables"
+  },
+  {
+    "name": "agency-evidence-collector",
+    "type": "tester",
+    "agent_id": "agent-1788697190086-yud5mn",
+    "task_id": null,
+    "description": "Zero-hallucination citation verification against 29 PDF papers and 5 Word documents with exact textual evidence"
+  },
+  {
+    "name": "agency-reality-checker",
+    "type": "reviewer",
+    "agent_id": "agent-1788697192730-j50chh",
+    "task_id": null,
+    "description": "Adversarial audit gatekeeper, rejecting false QC passes and certifying 100% resolution of all 23 gap issues"
+  },
+  {
+    "name": "agency-model-qa-specialist",
+    "type": "reviewer",
+    "agent_id": "agent-1788697195018-l92hbr",
+    "task_id": null,
+    "description": "End-to-end model audit, verifying methodological reproducibility, calculation accuracy, and experimental parameters"
+  },
+  {
+    "name": "agency-zk-steward",
+    "type": "analyst",
+    "agent_id": "agent-1788697197384-5bs0oq",
+    "task_id": null,
+    "description": "Luhmann Zettelkasten knowledge stewardship, bidirectional wikilink graph integrity, atomic notes, and folder indexing"
+  },
+  {
+    "name": "agency-data-engineer",
+    "type": "coder",
+    "agent_id": "agent-1788697199636-9pzibu",
+    "task_id": null,
+    "description": "Multi-format data pipeline ETL, validating 1-to-1 parity across Excel sheets, Word extracts, and PDF tables"
+  },
+  {
+    "name": "agency-technical-writer",
+    "type": "writer",
+    "agent_id": null,
+    "task_id": null,
+    "description": "Academic synthesis, comprehensive study documentation (>8,000 bytes/study), and deep mechanistic-to-thesis mapping"
+  },
+  {
+    "name": "agency-codebase-archaeologist",
+    "type": "reviewer",
+    "agent_id": "agent-1788697204989-j277xs",
+    "task_id": null,
+    "description": "Multi-session drift detection, detecting orphaned root files, redundant mirror directories, and stale notes"
+  },
+  {
+    "name": "agency-test-results-analyzer",
+    "type": "tester",
+    "agent_id": "agent-1788697208069-2eqc0i",
+    "task_id": null,
+    "description": "Automated QC metric evaluation, executing 4-gate master QC and dynamic 9-category gap audit"
+  },
+  {
+    "name": "agency-multi-agent-systems-architect",
+    "type": "coordinator",
+    "agent_id": "agent-1788697210556-hrmw0q",
+    "task_id": null,
+    "description": "Hierarchical mesh coordination, inter-agent communication protocols, and swarm consensus verification"
+  },
+  {
+    "name": "agency-database-optimizer",
+    "type": "analyst",
+    "agent_id": "agent-1788697213530-omauyo",
+    "task_id": null,
+    "description": "Excel workbook normalization, deduplication of sheets, and structured matrix indexing"
+  },
+  {
+    "name": "agency-workflow-optimizer",
+    "type": "coordinator",
+    "agent_id": "agent-1788697216059-bs9gvy",
+    "task_id": null,
+    "description": "Automated verification loop optimization and continuous quality control pipeline"
+  },
+  {
+    "name": "clean-code-guard",
+    "type": "reviewer",
+    "agent_id": "agent-1788697218810-wytqwn",
+    "task_id": null,
+    "description": "Code quality, syntax safety, and script reliability for all python extraction and audit utilities"
+  }
+]

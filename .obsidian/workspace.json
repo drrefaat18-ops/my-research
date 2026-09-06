@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "8986d00d7d60928d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5fc218c3c929147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f538d2ea2865b9e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3b55b001e0cf59",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d07e2bf6ea23a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5bbbdbad8f648c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "471cf2eec4a5e7c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#combination-therapy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0aa2afca61dfdb66",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee42da36a994efd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "940d5dd5aaa24fee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf951cddf4b062cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "03c204723922a117",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "978510f16f65609d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0ec020f08dddd968",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7961dd2e40826916",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f538d2ea2865b9e4",
+  "lastOpenFiles": [
+    "AGENT_NAVIGATION_GUIDE.json",
+    "02 - Molecular Axis & Mechanisms/PPARa-and-GR-Crosstalk-Axis.md",
+    "02 - Molecular Axis & Mechanisms/Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
+    "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
+    "01 - Rationale & Study Design/01-MOC-Rationale-and-Study-Design.md",
+    "02 - Molecular Axis & Mechanisms/02-MOC-Molecular-Mechanisms.md",
+    "AGENT_NAVIGATION_GUIDE.md",
+    "03 - Collective Literature Matrix/Studies/Study-07-Micronized-ultramicronized-palmitoylethanolamide-d.md",
+    "07 - Automated QC & Audits/gap_audit_report.md",
+    "07 - Automated QC & Audits/07-MOC-Automated-QC-and-Audits.md",
+    "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
+    "05 - Comparators Benchmarking/05-MOC-Comparators-Benchmarking.md",
+    "04 - Experimental Protocols & Pilot/04-MOC-Protocols-and-Pilot.md",
+    "03 - Collective Literature Matrix/03-MOC-Literature-Matrix.md",
+    "02 - Molecular Axis & Mechanisms/Wang-2025-PEA-Clinical-Prospects-Pain.md",
+    "CLAUDE.md",
+    "07 - Automated QC & Audits/logical_qc_report.md",
+    "scripts/run_logical_qc.py",
+    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
+    "07 - Automated QC & Audits/Skills-Manifest.base",
+    "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
+    "scripts/digest_skills_manifest.py",
+    "02 - Molecular Axis & Mechanisms/PEA-Mechanism-and-Pharmacology.md",
+    "03 - Collective Literature Matrix/Master-Study-Design-Table.md",
+    "07 - Automated QC & Audits/Agentic_Swarm_Topology_and_Status.md",
+    "scripts/execute_manifest_swarm.py",
+    "07 - Automated QC & Audits/swarm_tasks_registry.json",
+    "scripts/assign_swarm_tasks.py",
+    "07 - Automated QC & Audits/swarm_manifest_state.json",
+    "scripts/setup_manifest_swarm.py",
+    "scripts/inspect_manifest.py",
+    "04 - Experimental Protocols & Pilot/Pilot-Observations-n2/Pilot-Blood-Work-Observations.md",
+    "scripts/boost_remaining_studies.py",
+    "03 - Collective Literature Matrix/Studies/Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl.md",
+    "03 - Collective Literature Matrix/Studies/Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an.md",
+    "03 - Collective Literature Matrix/Studies/Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an.md",
+    "03 - Collective Literature Matrix/Studies/Study-08-The-anti-inflammatory-effects-of-palmitoylethanola.md",
+    "03 - Collective Literature Matrix/Studies/Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B.md",
+    "parameters_preview.png"
+  ]
+}

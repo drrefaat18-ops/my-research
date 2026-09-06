@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"node_innate","type":"text","text":"### 🛡️ Innate Immune Activation\n**Synovial Infiltration**\n- Macrophages & Dendritic Cells\n- TLR4 Activation\n- ROS & Oxidative Burst","x":-250,"y":-200,"width":280,"height":130,"color":"1"},
+		{"id":"node_pea","type":"text","text":"### 🌿 Micronized PEA (m-PEA)\n**Endogenous Lipid Autacoid**\n- Dose: 50, 100, 200 mg/kg p.o.\n- Source: Ground Limitless PEA tablets\n- **Target:** Direct PPAR-α Agonism\n- Induces IκB-α expression","x":-250,"y":140,"width":300,"height":160,"color":"4"},
+		{"id":"node_comparators","type":"text","text":"### ⚖️ Active Comparators\n- **Tacrolimus (1.8 mg/kg):** Calcineurin / T-cell inhibitor\n- **Baricitinib (10 mg/kg):** JAK1/JAK2 inhibitor\n- Benchmark for modern immunosuppression","x":500,"y":380,"width":320,"height":140,"color":"3"},
+		{"id":"node_cytokines","type":"text","text":"### 🧪 Inflammatory Mediators (Serum)\n**Measured by ELISA:**\n- **TNF-α** (Tumor Necrosis Factor)\n- **IL-1β** (Interleukin-1 beta)\n- **IL-6** (Interleukin-6)\n- **ACPA** (Autoantibodies)","x":960,"y":-880,"width":280,"height":160,"color":"1"},
+		{"id":"node_pathology","type":"text","text":"### 🦴 Knee Joint Pathology\n**Histopathology Endpoint:**\n- Synovial Pannus Hyperplasia\n- Articular Cartilage Degradation\n- Subchondral Bone Erosion\n- Paw & Joint Edema","x":2120,"y":-870,"width":280,"height":150,"color":"1"},
+		{"id":"node_nfkb","type":"text","text":"### 🧬 Transcriptional Driver\n**NF-κB p65 Nuclear Translocation**\n- IκB-α degradation\n- p65/p50 transactivation\n- IHC Endpoint in Knee Tissue","x":260,"y":-710,"width":280,"height":250,"color":"2"},
+		{"id":"node_cfa","type":"text","text":"### 💉 Disease Induction\n**Complete Freund's Adjuvant (CFA)**\n- Dose: 0.3 mL S.C. (Right Inguinal)\n- Heat-killed Mycobacterium\n- Latency: 10–15 days","x":-1200,"y":-795,"width":260,"height":130,"color":"1"},
+		{"id":"node_alia","type":"text","text":"### 🛑 ALIA & Mast Cells\n**Autacoid Local Inflammation Antagonism**\n- Discovered by Rita Levi-Montalcini\n- Halts mast cell degranulation\n- Blunts histamine, TNF-α & tryptase\n- Calms microglial activation","x":-1330,"y":230,"width":260,"height":150,"color":"4"},
+		{"id":"node_entourage","type":"text","text":"### 🌿 ECS Entourage Effect\n**FAAH Enzyme Competition**\n- Blocks AEA catabolism (↑ Anandamide)\n- Indirect **CB1 / CB2** activation\n- Desensitizes **TRPV1** channels\n- Non-psychotropic analgesia","x":-800,"y":970,"width":280,"height":150,"color":"4"},
+		{"id":"node_drip205","type":"text","text":"### 🧬 Novel DRIP205 Axis\n**PPRE-Independent Mechanism**\n- PPAR-α recruits **DRIP205/MED1** + Sp1\n- Direct boost to **IκBα promoter**\n- Indirect feedback shutoff of p65\n- *Bougarne et al. Endocrine Rev 2018*","x":350,"y":1280,"width":280,"height":150,"color":"4"},
+		{"id":"node_synergy","type":"text","text":"### 🎯 PPARα–GR Cross-Talk Synergy\n**Steroid-Sparing Axis (Thesis Core)**\n1. Enhanced dual repression of NF-κB\n2. Halves Prednisolone dose (5 mg/kg)\n3. Minimizes steroid metabolic toxicity\n4. Preserves anti-arthritic efficacy","x":2100,"y":-15,"width":320,"height":180,"color":"6"},
+		{"id":"node_pred","type":"text","text":"### 💊 Prednisolone\n**Glucocorticoid Receptor (GR)**\n- Low-dose combination: 5 mg/kg\n- Monotherapy control: 10 mg/kg\n- Direct p65 physical tethering\n- Upregulates PPAR-α transcription","x":510,"y":640,"width":300,"height":160,"color":"5"},
+		{"id":"node_mapk","type":"text","text":"### ⚡ Signaling Kinase\n**p38 MAPK Phosphorylation**\n- Synovial inflammation\n- MMP transcription driver\n- Knee Tissue ELISA Endpoint","x":360,"y":-70,"width":280,"height":130,"color":"2"}
+	],
+	"edges":[
+		{"id":"edge_cfa_innate","fromNode":"node_cfa","fromSide":"right","toNode":"node_innate","toSide":"left","label":"Triggers Inguinal Inflammation"},
+		{"id":"edge_innate_nfkb","fromNode":"node_innate","fromSide":"right","toNode":"node_nfkb","toSide":"left","label":"Activates"},
+		{"id":"edge_innate_mapk","fromNode":"node_innate","fromSide":"right","toNode":"node_mapk","toSide":"left","label":"Phosphorylates"},
+		{"id":"edge_nfkb_cytokines","fromNode":"node_nfkb","fromSide":"right","toNode":"node_cytokines","toSide":"left","label":"Transcribes Genes"},
+		{"id":"edge_mapk_cytokines","fromNode":"node_mapk","fromSide":"right","toNode":"node_cytokines","toSide":"left","label":"Amplifies Signaling"},
+		{"id":"edge_cytokines_pathology","fromNode":"node_cytokines","fromSide":"right","toNode":"node_pathology","toSide":"left","label":"Causes Joint Erosion"},
+		{"id":"edge_pea_synergy","fromNode":"node_pea","fromSide":"right","toNode":"node_synergy","toSide":"left","label":"PPAR-α Pathway"},
+		{"id":"edge_pred_synergy","fromNode":"node_pred","fromSide":"right","toNode":"node_synergy","toSide":"left","label":"GR Pathway"},
+		{"id":"edge_synergy_nfkb","fromNode":"node_synergy","fromSide":"top","toNode":"node_nfkb","toSide":"bottom","label":"Synergistic Repression (IκB-α ↑)"},
+		{"id":"edge_synergy_cytokines","fromNode":"node_synergy","fromSide":"top","toNode":"node_cytokines","toSide":"bottom","label":"Suppresses TNF-α, IL-6, IL-1β"},
+		{"id":"edge_comparators_synergy","fromNode":"node_comparators","fromSide":"top","toNode":"node_synergy","toSide":"bottom","label":"Efficacy Benchmark"},
+		{"id":"edge_pea_drip205","fromNode":"node_pea","fromSide":"bottom","toNode":"node_drip205","toSide":"top","label":"Recruits DRIP205/MED1"},
+		{"id":"edge_drip205_nfkb","fromNode":"node_drip205","fromSide":"right","toNode":"node_synergy","toSide":"bottom","label":"Induces IκB-α Synthesis"},
+		{"id":"edge_pea_entourage","fromNode":"node_pea","fromSide":"bottom","toNode":"node_entourage","toSide":"top","label":"Inhibits FAAH"},
+		{"id":"edge_pea_alia","fromNode":"node_pea","fromSide":"left","toNode":"node_alia","toSide":"right","label":"ALIA Mechanism"},
+		{"id":"edge_alia_innate","fromNode":"node_alia","fromSide":"top","toNode":"node_innate","toSide":"bottom","label":"Stabilizes Degranulation"}
+	]
+}

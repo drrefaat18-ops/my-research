@@ -1,0 +1,230 @@
+{
+  "tasks": {
+    "task-1788697161742-f9b957": {
+      "taskId": "task-1788697161742-f9b957",
+      "type": "research",
+      "description": "Verify clinical evidence and pharmacological mechanisms of PEA in rheumatoid arthritis",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697158186-jfhyhf"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:19:21.742Z",
+      "startedAt": "2026-09-06T12:19:25.145Z",
+      "completedAt": null
+    },
+    "task-1788697243100-1ty47b": {
+      "taskId": "task-1788697243100-1ty47b",
+      "type": "custom",
+      "description": "[agency-agents-orchestrator] Autonomous pipeline management, task delegation, and cross-agent dependency orchestration",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697182188-z8ewvg"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:43.100Z",
+      "startedAt": "2026-09-06T12:20:44.044Z",
+      "completedAt": null
+    },
+    "task-1788697244932-wniqbo": {
+      "taskId": "task-1788697244932-wniqbo",
+      "type": "research",
+      "description": "[agency-clinical-evidence-agent] Clinical credibility, pharmacological mechanisms (PEA, PPAR-alpha, FAAH, Cox-2, Celecoxib), and arthritis translation",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697185021-53j5kv"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:44.932Z",
+      "startedAt": "2026-09-06T12:20:45.843Z",
+      "completedAt": null
+    },
+    "task-1788697246705-fc22jl": {
+      "taskId": "task-1788697246705-fc22jl",
+      "type": "testing",
+      "description": "[agency-statistician] Rigorous quantitative analysis, sample size verification, pilot n=2 quarantine alerts, and benchmark statistical tables",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697187705-63gvrf"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:46.705Z",
+      "startedAt": "2026-09-06T12:20:47.613Z",
+      "completedAt": null
+    },
+    "task-1788697248671-yh7qe6": {
+      "taskId": "task-1788697248671-yh7qe6",
+      "type": "testing",
+      "description": "[agency-evidence-collector] Zero-hallucination citation verification against 29 PDF papers and 5 Word documents with exact textual evidence",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697190086-yud5mn"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:48.671Z",
+      "startedAt": "2026-09-06T12:20:49.619Z",
+      "completedAt": null
+    },
+    "task-1788697250593-vyjor6": {
+      "taskId": "task-1788697250593-vyjor6",
+      "type": "review",
+      "description": "[agency-reality-checker] Adversarial audit gatekeeper, rejecting false QC passes and certifying 100% resolution of all 23 gap issues",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697192730-j50chh"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:50.593Z",
+      "startedAt": "2026-09-06T12:20:51.643Z",
+      "completedAt": null
+    },
+    "task-1788697252692-iss86m": {
+      "taskId": "task-1788697252692-iss86m",
+      "type": "review",
+      "description": "[agency-model-qa-specialist] End-to-end model audit, verifying methodological reproducibility, calculation accuracy, and experimental parameters",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697195018-l92hbr"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:52.692Z",
+      "startedAt": "2026-09-06T12:20:53.571Z",
+      "completedAt": null
+    },
+    "task-1788697254448-bd1b9u": {
+      "taskId": "task-1788697254448-bd1b9u",
+      "type": "documentation",
+      "description": "[agency-zk-steward] Luhmann Zettelkasten knowledge stewardship, bidirectional wikilink graph integrity, atomic notes, and folder indexing",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697197384-5bs0oq"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:54.448Z",
+      "startedAt": "2026-09-06T12:20:55.329Z",
+      "completedAt": null
+    },
+    "task-1788697256238-nm9zsw": {
+      "taskId": "task-1788697256238-nm9zsw",
+      "type": "implementation",
+      "description": "[agency-data-engineer] Multi-format data pipeline ETL, validating 1-to-1 parity across Excel sheets, Word extracts, and PDF tables",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697199636-9pzibu"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:56.238Z",
+      "startedAt": "2026-09-06T12:20:57.287Z",
+      "completedAt": null
+    },
+    "task-1788697258153-3onc62": {
+      "taskId": "task-1788697258153-3onc62",
+      "type": "review",
+      "description": "[agency-codebase-archaeologist] Multi-session drift detection, detecting orphaned root files, redundant mirror directories, and stale notes",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697204989-j277xs"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:58.153Z",
+      "startedAt": "2026-09-06T12:20:59.045Z",
+      "completedAt": null
+    },
+    "task-1788697259928-muocm8": {
+      "taskId": "task-1788697259928-muocm8",
+      "type": "testing",
+      "description": "[agency-test-results-analyzer] Automated QC metric evaluation, executing 4-gate master QC and dynamic 9-category gap audit",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697208069-2eqc0i"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:20:59.928Z",
+      "startedAt": "2026-09-06T12:21:01.208Z",
+      "completedAt": null
+    },
+    "task-1788697262257-xd4nq0": {
+      "taskId": "task-1788697262257-xd4nq0",
+      "type": "custom",
+      "description": "[agency-multi-agent-systems-architect] Hierarchical mesh coordination, inter-agent communication protocols, and swarm consensus verification",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697210556-hrmw0q"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:21:02.257Z",
+      "startedAt": "2026-09-06T12:21:03.250Z",
+      "completedAt": null
+    },
+    "task-1788697264273-vjuf51": {
+      "taskId": "task-1788697264273-vjuf51",
+      "type": "optimization",
+      "description": "[agency-database-optimizer] Excel workbook normalization, deduplication of sheets, and structured matrix indexing",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697213530-omauyo"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:21:04.273Z",
+      "startedAt": "2026-09-06T12:21:06.063Z",
+      "completedAt": null
+    },
+    "task-1788697267552-c1e4ql": {
+      "taskId": "task-1788697267552-c1e4ql",
+      "type": "optimization",
+      "description": "[agency-workflow-optimizer] Automated verification loop optimization and continuous quality control pipeline",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697216059-bs9gvy"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:21:07.552Z",
+      "startedAt": "2026-09-06T12:21:08.573Z",
+      "completedAt": null
+    },
+    "task-1788697269594-me3fvt": {
+      "taskId": "task-1788697269594-me3fvt",
+      "type": "review",
+      "description": "[clean-code-guard] Code quality, syntax safety, and script reliability for all python extraction and audit utilities",
+      "priority": "normal",
+      "status": "in_progress",
+      "progress": 0,
+      "assignedTo": [
+        "agent-1788697218810-wytqwn"
+      ],
+      "tags": [],
+      "createdAt": "2026-09-06T12:21:09.595Z",
+      "startedAt": "2026-09-06T12:21:10.624Z",
+      "completedAt": null
+    }
+  },
+  "version": "3.0.0"
+}

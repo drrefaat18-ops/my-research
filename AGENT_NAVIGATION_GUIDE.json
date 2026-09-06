@@ -1,0 +1,302 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "meta": {
+    "manifest_id": "AGENT_NAVIGATION_GUIDE",
+    "version": "3.0.0-Production",
+    "target_vault": "Port Said University Master's Thesis Research Vault",
+    "generated_at": "2026-09-06T15:42:00+03:00",
+    "author": "Autonomous Multi-Agent Swarm (Ruflo V3 + Manifest Mesh)",
+    "description": "Comprehensive machine-readable navigation manifest and contextual ground truth for LLMs, AI agents, and provider APIs exploring this research vault.",
+    "supported_agent_providers": [
+      "Anthropic Claude",
+      "OpenAI GPT",
+      "Google DeepMind Gemini",
+      "DeepSeek",
+      "Meta Llama",
+      "Ollama Local Runtimes",
+      "Cursor / VS Code AI Agents"
+    ]
+  },
+  "academic_identity": {
+    "researcher": {
+      "english_name": "Dr. Refaat Ibrahim",
+      "arabic_full_name": "المعيد رفعت إبراهيم رفعت (Riffat Ibrahim Riffat)",
+      "academic_rank": "Demonstrator / Teaching Assistant & Master's Degree Candidate"
+    },
+    "institution": {
+      "department": "Department of Pharmacology & Toxicology",
+      "faculty": "Faculty of Pharmacy",
+      "university": "Port Said University",
+      "country": "Egypt"
+    },
+    "supervisory_committee": [
+      {
+        "name": "Assoc. Prof. Ahmed Aboul-Fotouh Elsayed Mourad",
+        "title": "Head of Department, Associate Professor of Pharmacology & Toxicology",
+        "affiliation": "Faculty of Pharmacy, Port Said University"
+      },
+      {
+        "name": "Assoc. Prof. Ahmed Gaafar Ahmed",
+        "title": "Associate Professor of Pharmacology & Toxicology",
+        "affiliation": "Faculty of Pharmacy, Port Said University"
+      },
+      {
+        "name": "Assoc. Prof. Ahmed Saad Saad",
+        "title": "Associate Professor of Pharmacology & Toxicology",
+        "affiliation": "Faculty of Pharmacy, Port Said University"
+      }
+    ],
+    "thesis_titles": {
+      "official_registered_title": "Targeting Experimentally Induced Arthritis in Rats Using Selected Natural Products as Glucocorticoid-Sparing Agents",
+      "presentation_defense_title": "Evaluating Micronized Palmitoylethanolamide (m-PEA) as a Glucocorticoid-Sparing Strategy in Adjuvant-Induced Arthritis in Wistar Rats"
+    }
+  },
+  "pharmacological_and_biological_framework": {
+    "clinical_bottleneck": {
+      "pathology": "Rheumatoid Arthritis (RA) - chronic autoimmune systemic polyarthritis",
+      "hallmarks": [
+        "Synovial pannus formation and hypervascularity",
+        "Cartilage matrix degradation and proteoglycan erosion",
+        "Subchondral bone destruction and osteoclastogenesis"
+      ],
+      "molecular_drivers": [
+        "NF-κB (p65/RelA) hyperactivation driving TNF-α, IL-1β, IL-6, and iNOS",
+        "p38 MAPK phosphorylation (Thr180/Tyr182) inducing MMP-1, MMP-3, MMP-13, and ADAMTS-5"
+      ],
+      "steroid_toxicity_crisis": "Chronic full-dose glucocorticoid therapy (Prednisolone >=10 mg/kg) produces debilitating adverse effects: secondary osteoporosis, severe hyperglycemia/steroid diabetes, muscle wasting, and HPA-axis suppression."
+    },
+    "therapeutic_solution": {
+      "lead_agent": "Palmitoylethanolamide (m-PEA)",
+      "pharmacological_class": "Autacoid Local Inflammation Antagonist (ALIAmide); endogenous N-acylethanolamine (NAE)",
+      "formulation_source": "Limitless PEA Egyptian commercial tablets finely pulverized into a micronized aqueous suspension in 0.5% CMC-Na vehicle",
+      "steroid_sparing_hypothesis": "Co-administration of m-PEA allows a 50% dose reduction of Prednisolone (from 10 mg/kg down to 5 mg/kg) while maintaining full or superior anti-inflammatory efficacy and abolishing steroid toxicities."
+    },
+    "dual_clamp_molecular_synergy": {
+      "cytosolic_clamp_pea": {
+        "primary_target": "Peroxisome Proliferator-Activated Receptor Alpha (PPAR-α)",
+        "coactivators_recruited": ["DRIP205 / MED1", "Sp1 transcription factor"],
+        "mechanism": "Direct PPAR-α agonism drives non-canonical transactivation of the NFKBIA promoter (encoding IκBα), replenishing cytoplasmic IκBα pools to permanently sequester the NF-κB p65/p50 heterodimer in the cytosol."
+      },
+      "nuclear_clamp_prednisolone": {
+        "primary_target": "Glucocorticoid Receptor Alpha (GR-α)",
+        "corepressors_recruited": ["Histone Deacetylase 2 (HDAC2)"],
+        "mechanism": "Ligand-activated GR-α translocates to the nucleus, tethers residual chromatin-bound p65 monomers, and recruits HDAC2 to de-acetylate histones, epigenetically silencing inflammatory cytokine genes (TNF, IL1B, IL6)."
+      },
+      "mapk_phosphatase_convergence": {
+        "mediator": "Mitogen-Activated Protein Kinase Phosphatase-1 (MKP-1 / DUSP1)",
+        "mechanism": "Both PPAR-α and GR-α independently transactivate the DUSP1 promoter, causing robust MKP-1 dephosphorylation of phospho-p38 MAPK at Thr180/Tyr182, arresting chondrocyte apoptosis and cartilage matrix degradation."
+      }
+    }
+  },
+  "experimental_parameters": {
+    "animal_specifications": {
+      "species": "Rattus norvegicus",
+      "strain": "Wistar rat",
+      "sex": "Female",
+      "weight_range_grams": "160 - 200 g",
+      "housing": "Standard pathogen-free conditions (22±2°C, 12h light/dark cycle), ad libitum rodent chow and water"
+    },
+    "induction_protocol": {
+      "agent": "Complete Freund's Adjuvant (CFA)",
+      "composition": "1 mg/mL heat-killed Mycobacterium tuberculosis H37Ra suspended in sterile paraffin oil",
+      "dose_volume": "0.3 mL",
+      "injection_route": "Subcutaneous (s.c.)",
+      "anatomical_site": "Right inguinal / proximal thigh region",
+      "induction_day": "Day 0",
+      "negative_control_injection": "0.25 mL sterile paraffin oil s.c."
+    },
+    "timeline": {
+      "day_0": "Subcutaneous induction injection",
+      "days_1_to_15": "Sensitization and polyarthritis progression phase",
+      "days_16_to_45": "Therapeutic phase: 30 consecutive days of daily oral gavage treatment",
+      "day_46": "Terminal sacrifice, cardiac puncture blood harvest, bilateral knee joint and ankle excision"
+    }
+  },
+  "cohort_structure_9_groups": [
+    {
+      "group_number": 1,
+      "name": "Negative Normal Control",
+      "induction": "Paraffin oil 0.25 mL s.c.",
+      "treatment": "Vehicle (0.5% CMC-Na 5 mL/kg/day p.o.)",
+      "purpose": "Baseline physiological reference"
+    },
+    {
+      "group_number": 2,
+      "name": "Positive Arthritic Control",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "Vehicle (0.5% CMC-Na 5 mL/kg/day p.o.)",
+      "purpose": "Full uninhibited disease pathology reference"
+    },
+    {
+      "group_number": 3,
+      "name": "Prednisolone Monotherapy (Full Standard Dose)",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "Prednisolone 10 mg/kg/day p.o.",
+      "purpose": "Gold-standard high-dose steroid efficacy & toxicity benchmark"
+    },
+    {
+      "group_number": 4,
+      "name": "m-PEA Monotherapy (Full Autacoid Dose)",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "Micronized PEA 200 mg/kg/day p.o.",
+      "purpose": "Single-agent PPAR-α efficacy baseline"
+    },
+    {
+      "group_number": 5,
+      "name": "Low-Dose Combination (m-PEA 50 + Pred 5)",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "m-PEA 50 mg/kg + Prednisolone 5 mg/kg/day p.o.",
+      "purpose": "Minimum steroid-sparing combination threshold"
+    },
+    {
+      "group_number": 6,
+      "name": "Mid-Dose Combination (m-PEA 100 + Pred 5)",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "m-PEA 100 mg/kg + Prednisolone 5 mg/kg/day p.o.",
+      "purpose": "Intermediate synergy and dose-response titration"
+    },
+    {
+      "group_number": 7,
+      "name": "High-Dose Combination (m-PEA 200 + Pred 5)",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "m-PEA 200 mg/kg + Prednisolone 5 mg/kg/day p.o.",
+      "purpose": "Optimal steroid-sparing synergy tier"
+    },
+    {
+      "group_number": 8,
+      "name": "Tacrolimus Active Comparator",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "Tacrolimus (FK506) 1.8 mg/kg/day p.o.",
+      "purpose": "Calcineurin/T-cell inhibition DMARD benchmark"
+    },
+    {
+      "group_number": 9,
+      "name": "Baricitinib Active Comparator",
+      "induction": "CFA 0.3 mL s.c.",
+      "treatment": "Baricitinib (Olumiant) 10 mg/kg/day p.o.",
+      "purpose": "JAK1/JAK2 targeted kinase DMARD benchmark"
+    }
+  ],
+  "vault_directory_map": {
+    "root": {
+      "path": "/",
+      "primary_files": [
+        "Home-Index.md",
+        "AGENT_NAVIGATION_GUIDE.md",
+        "AGENT_NAVIGATION_GUIDE.json",
+        "_CLAUDE.md",
+        "_AGENTS.md"
+      ]
+    },
+    "zone_01_rationale": {
+      "directory": "01 - Rationale & Study Design",
+      "moc_file": "01-MOC-Rationale-and-Study-Design.md",
+      "focus": "Pathology selection, animal model justification, active moiety selection, CFA induction",
+      "key_notes": [
+        "Prednisolone-Active-Moiety-Rationale.md",
+        "CFA-Induction-Parameters.md",
+        "Pathology-and-Model-Selection-Rationale.md"
+      ]
+    },
+    "zone_02_mechanisms": {
+      "directory": "02 - Molecular Axis & Mechanisms",
+      "moc_file": "02-MOC-Molecular-Mechanisms.md",
+      "focus": "Receptor cross-talk, non-canonical IκBα transactivation, dual-clamp synergy, p38 MAPK, MKP-1",
+      "key_notes": [
+        "PPARa-and-GR-Crosstalk-Axis.md",
+        "PEA-Comprehensive-Pharmacological-Monograph.md",
+        "Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
+        "Wang-2025-PEA-Clinical-Prospects-Pain.md",
+        "NF-kB-p65-and-Cytokines.md",
+        "p38-MAPK-and-Knee-Pathology.md"
+      ]
+    },
+    "zone_03_literature": {
+      "directory": "03 - Collective Literature Matrix",
+      "moc_file": "03-MOC-Literature-Matrix.md",
+      "focus": "12 canonical studies from Excel, 2 nanoparticle precedents, 29 paper extracts, Master Design Table",
+      "key_notes": [
+        "Master-Study-Design-Table.md",
+        "Studies/Study-01-to-12.md",
+        "Precedents/Precedent-Curcumin-Prednisolone-Nanoparticles.md",
+        "Precedents/Precedent-Resveratrol-Prednisolone-Nanoparticles.md",
+        "Papers/Paper-*.md"
+      ]
+    },
+    "zone_04_protocols_and_pilot": {
+      "directory": "04 - Experimental Protocols & Pilot",
+      "moc_file": "04-MOC-Protocols-and-Pilot.md",
+      "focus": "Official PSU 9-group institutional protocol, tablet pulverization SOP, quarantined pilot data",
+      "key_notes": [
+        "Official-Institutional-Protocol-Final.md",
+        "PEA-Tablet-Preparation.md",
+        "Pilot-Study-Rationale-and-Protocol.md",
+        "Pilot-Blood-Work-Final-Observations.md",
+        "Pilot-WBC-Final-Observations.md"
+      ]
+    },
+    "zone_05_comparators": {
+      "directory": "05 - Comparators Benchmarking",
+      "moc_file": "05-MOC-Comparators-Benchmarking.md",
+      "focus": "Benchmark monographs for Baricitinib (JAK1/2) and Tacrolimus (Calcineurin/FKBP12)",
+      "key_notes": [
+        "Baricitinib-Comparison.md",
+        "Tacrolimus-Comparison.md"
+      ]
+    },
+    "zone_06_thesis_defense": {
+      "directory": "06 - Thesis Defense & Publishing",
+      "moc_file": "06-MOC-Thesis-Defense-and-Publishing.md",
+      "focus": "Full 31-slide defense deck, comprehensive viva defense questions, target Q1/Q2 journal strategy",
+      "key_notes": [
+        "Thesis-Defense-Deck-Complete.md",
+        "Viva-Defense-Questions-and-Answers.md",
+        "Publication-Target-Journals-Strategy.md"
+      ]
+    },
+    "zone_07_qc_audits": {
+      "directory": "07 - Automated QC & Audits",
+      "moc_file": "07-MOC-Automated-QC-and-Audits.md",
+      "focus": "Automated QC reports, 10-gate logical verifications, Ruflo swarm status, 314-skill manifest",
+      "key_notes": [
+        "logical_qc_report.md",
+        "master_qc_audit.md",
+        "gap_audit_report.md",
+        "Agentic_Swarm_Topology_and_Status.md",
+        "Skills_Manifest_Full_Digest.md"
+      ]
+    }
+  },
+  "non_negotiable_operating_laws": {
+    "law_1_pilot_quarantine": {
+      "sample_size": "n=2 per group",
+      "mandate": "STRICT SCIENTIFIC QUARANTINE. The pilot study was an exploratory screening of n=2 rats per group. NEVER cite pilot numbers as final confirmatory thesis results, and NEVER pool pilot data into literature meta-analyses. Always retain [!WARNING] quarantine callouts."
+    },
+    "law_2_ground_truth_precedence": {
+      "mandate": "The primary research records in '00-Sources/' represent the ultimate empirical ground truth if any conflict arises."
+    },
+    "law_3_zettelkasten_link_integrity": {
+      "mandate": "All cross-references must use standard bidirectional Obsidian wikilinks. Zero dead links are permitted in the entire vault."
+    },
+    "law_4_zero_hallucination": {
+      "mandate": "Zero fabrication of DOIs, authors, or experimental findings. Every scientific statement must resolve to canonical literature or official protocol records."
+    }
+  },
+  "interactive_visual_artifacts": {
+    "canvases": [
+      "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
+      "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas"
+    ],
+    "obsidian_bases": [
+      "03 - Collective Literature Matrix/Studies-Comparison.base",
+      "03 - Collective Literature Matrix/Research-Papers.base",
+      "07 - Automated QC & Audits/Skills-Manifest.base"
+    ]
+  },
+  "programmatic_audit_toolkit": {
+    "logical_qc_10_gates": "python scripts/run_logical_qc.py",
+    "gap_audit_23_points": "python scripts/gap_audit.py",
+    "master_qc_parity_and_links": "python scripts/run_qc_audit.py",
+    "swarm_runtime_status": "cmd /c ruflo swarm status"
+  }
+}

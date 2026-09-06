@@ -1,0 +1,38 @@
+Rational to design the study
+Induction agent:
+Adjuvant-Induced Arthritis (AA) Model is the most suitable option for the following reasons:
+Cheap
+Rapid, highly reproducible study focused squarely on demonstrating the anti-inflammatory synergy between PEA and prednisolone, the AA model is an excellent choice due to its potent, innate-driven inflammation and direct precedent in steroid-sparing research. While the CIA model investigates whether the PEA/prednisolone combination can modify the long-term autoimmune course of the disease and provide protection against chronic joint destruction
+Adjuvant-Induced Arthritis represents a classical model particularly well-established in rat studies The induction protocol involves:
+CFA Preparation: Complete Freund's Adjuvant containing 1mg/mL heat-killed mycobacteria
+Administration: Single intradermal injection 0.3ml into the footpad.
+Disease Onset: Arthritis typically develops within 10-14 days post-injection The AA model demonstrates robust systemic inflammation with both articular and extra articular manifestations, including significant paw swelling, joint destruction, and occasional systemic features like weight loss and splenomegaly.
+The following study acts as precedent for dose reduction of prednisolone using a nutraceutical and it utilizes AA as the RA model. “Morvaridi A, Abtahi Froushani SM, Farshid AA. Benefits of combining piperine with prednisolone in an experimental model of rheumatoid arthritis.”
+Study Groups, Doses, Animals:
+Based on the following study “Morvaridi A, Abtahi Froushani SM, Farshid AA. Benefits of combining piperine with prednisolone in an experimental model of rheumatoid arthritis.” The following has been established:
+Male Wistar rats, aged 8 weeks, these rats had an average weight of 150 ± 7.00 g.
+Oral route of administration of prednisolone and I.P 10% ethanol.
+5 groups were used, however for the purpose of our study I suggest adding 2 groups to demonstrate a dose dependent effect of PEA + Prednisolone synergism. Groups are as follows:
+Group 1 (Control): Healthy rats, no treatment.
+Group 2 (RA): RA-induced rats, no treatment.
+Group 3 (RA + PEA): RA-induced rats treated with PEA (50mg/Kg).
+Group 4 (RA + Pred): RA-induced rats treated with Prednisolone (10.00 mg kg⁻¹).
+Group 5 (RA+Com): RA-induced rats treated with a combination of: PEA (10 mg kg⁻¹) and Prednisolone (5.00 mg kg⁻¹).
+Group 6 (RA+Com): RA-induced rats treated with a combination of: PEA (30 mg kg⁻¹) and Prednisolone (5.00 mg kg⁻¹).
+Group 7 (RA+Com): RA-induced rats treated with a combination of: PEA (50 mg kg⁻¹) and Prednisolone (5.00 mg kg⁻¹).
+The doses of PEA were determined using the following study “Jung JI, Lee HS, Jeon YE, Kim SM, Hong SH, Moon JM, et al. Anti-inflammatory activity of palmitoylethanolamide ameliorates osteoarthritis induced by monosodium iodoacetate in Sprague–Dawley rats. Inflammopharmacology. 2021;29:1475-86.”
+Another paper used 30mg/kg orally of um-PEA Reduced serum levels of TNF-α, IL-1β, MCP-1, and LPS. Attenuated microglial and astrocyte activation, reduced pro-inflammatory pathways/cytokines in the brain, and decreased transcription of mast cell markers in the hippocampus	Lama, Adriano, et al. "Palmitoylethanolamide Dampens Neuroinflammation and Anxiety-like Behavior in Obese Mice." Brain, Behavior, and Immunity, vol. 102, 2022, pp. 110-23. PubMed, doi:10.1016/j.bbi.2022.02.008.
+Study duration
+Based on the following study “Morvaridi A, Abtahi Froushani SM, Farshid AA. Benefits of combining piperine with prednisolone in an experimental model of rheumatoid arthritis.” The following periods are established:
+RA is to be induced on Day 0 with a single FCA injection.
+Treatment is to start after manifestation of clinical symptoms determined by arthritic index (score of more than 1)
+An average 28-30 days of treatment.
+Parameters
+Macroscopical parameters
+Paw Volume: Measured every other day using a plethysmograph.
+Arthritis Index: Scored every other day by observers based on swelling and redness.
+Histopathology: The right ankle is to be sectioned and stained with Hematoxylin and Eosin (H&E) for examination under a light microscope to assess cartilage erosion, synovial hyperplasia, and inflammatory cell infiltration.
+Cytokines (TNF-α, IL-1β, IL-6) ELISA on plasma samples.
+Molecular parameters:
+Total IκBα	snap-freeze synovial tissue and homogenize with inhibitors to prevent degradation. Western Blot using an antibody that detects IκBα regardless of phosphorylation state. Lilue, J., Müller, U. S., Steinfeldt, T., & Howard, J. C. (2010). Reciprocal virulence and resistance polymorphism in the relationship between Toxoplasma gondii and the house mouse. PLoS Pathogens, *6*(7), e1000985. https://doi.org/10.1371/journal.ppat.1000985
+NF-κB p65 (Nuclear Translocation) Perform subcellular fractionation on snap-frozen synovial tissue to separate cytoplasmic and nuclear proteins. Western Blot of nuclear vs. cytoplasmic fraction Liu, T., Zhang, L., Joo, D., & Sun, S.-C. (2017). NF-κB signaling in inflammation. Journal of Inflammation Research, *10*, 23–32. https://doi.org/10.2147/JIR.S105423

@@ -1,0 +1,2355 @@
+{
+  "nodes": [
+    {
+      "id": "AA-vs-CIA-Model-Selection",
+      "label": "AA vs CIA Model Selection",
+      "path": "01 - Rationale & Study Design/AA-vs-CIA-Model-Selection.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Animal-Models-Comprehensive-Compendium",
+      "label": "Animal Models Comprehensive Compendium",
+      "path": "01 - Rationale & Study Design/Animal-Models-Comprehensive-Compendium.md",
+      "is_pilot": false
+    },
+    {
+      "id": "CFA-Induction-Parameters",
+      "label": "CFA Induction Parameters",
+      "path": "01 - Rationale & Study Design/CFA-Induction-Parameters.md",
+      "is_pilot": false
+    },
+    {
+      "id": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "label": "PEA Animal Dosing Benchmarks NFkB",
+      "path": "01 - Rationale & Study Design/PEA-Animal-Dosing-Benchmarks-NFkB.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Precedent-Steroid-Sparing-Study",
+      "label": "Precedent Steroid Sparing Study",
+      "path": "01 - Rationale & Study Design/Precedent-Steroid-Sparing-Study.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Prednisolone-Active-Moiety-Rationale",
+      "label": "Prednisolone Active Moiety Rationale",
+      "path": "01 - Rationale & Study Design/Prednisolone-Active-Moiety-Rationale.md",
+      "is_pilot": false
+    },
+    {
+      "id": "NF-kB-p65-and-Cytokines",
+      "label": "NF kB p65 and Cytokines",
+      "path": "02 - Molecular Axis & Mechanisms/NF-kB-p65-and-Cytokines.md",
+      "is_pilot": false
+    },
+    {
+      "id": "p38-MAPK-and-Knee-Pathology",
+      "label": "p38 MAPK and Knee Pathology",
+      "path": "02 - Molecular Axis & Mechanisms/p38-MAPK-and-Knee-Pathology.md",
+      "is_pilot": false
+    },
+    {
+      "id": "PEA-Comprehensive-Pharmacological-Monograph",
+      "label": "PEA Comprehensive Pharmacological Monograph",
+      "path": "02 - Molecular Axis & Mechanisms/PEA-Comprehensive-Pharmacological-Monograph.md",
+      "is_pilot": false
+    },
+    {
+      "id": "PEA-Mechanism-and-Pharmacology",
+      "label": "PEA Mechanism and Pharmacology",
+      "path": "02 - Molecular Axis & Mechanisms/PEA-Mechanism-and-Pharmacology.md",
+      "is_pilot": false
+    },
+    {
+      "id": "PPARa-and-GR-Crosstalk-Axis",
+      "label": "PPARa and GR Crosstalk Axis",
+      "path": "02 - Molecular Axis & Mechanisms/PPARa-and-GR-Crosstalk-Axis.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Master-Study-Design-Table",
+      "label": "Master Study Design Table",
+      "path": "03 - Collective Literature Matrix/Master-Study-Design-Table.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-1-SIG",
+      "label": "Paper 1 SIG",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-1-SIG.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-2-SIG",
+      "label": "Paper 2 SIG",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-2-SIG.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "label": "Paper A novel composite formulation of palmitoylethanola",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-A-novel-composite-formulation-of-palmitoylethanola.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q",
+      "label": "Paper A novel composite formulation of palmitoylethanolamide and q",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Adjuvants",
+      "label": "Paper Adjuvants",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Adjuvants.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "label": "Paper Anti inflammatory activity of palmitoylethanolamid",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Anti-inflammatory-activity-of-palmitoylethanolamid.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora",
+      "label": "Paper Anti inflammatory activity of palmitoylethanolamide ameliora",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "label": "Paper Antioxidant and Angiostatic Effect of Spirulina pl",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su",
+      "label": "Paper Antioxidant and Angiostatic Effect of Spirulina platensis Su",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "label": "Paper Benefits of combining piperine with prednisolone i",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Benefits-of-combining-piperine-with-prednisolone-i.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper",
+      "label": "Paper Benefits of combining piperine with prednisolone in an exper",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu",
+      "label": "Paper Co Delivery of Prednisolone and Curcumin in Human Serum Albu",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "label": "Paper Co Delivery of Prednisolone and Curcumin in Human",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "label": "Paper Effect of Losartan in Complete Freund s Adjuvant I",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art",
+      "label": "Paper Effect of Losartan in Complete Freund s Adjuvant Induced Art",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-er-2018-00064",
+      "label": "Paper er 2018 00064",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-er-2018-00064.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-fnins-2-1506352",
+      "label": "Paper fnins 2 1506352",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-fnins-2-1506352.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-forumlation-one",
+      "label": "Paper forumlation one",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-forumlation-one.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-ijms-21-03509",
+      "label": "Paper ijms 21 03509",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-ijms-21-03509.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-ijms-25-09079",
+      "label": "Paper ijms 25 09079",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-ijms-25-09079.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-informative",
+      "label": "Paper informative",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-informative.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-jcm-13-02787",
+      "label": "Paper jcm 13 02787",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-jcm-13-02787.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "label": "Paper Micronized palmitoylethanolamide reduces joint pai",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Micronized-palmitoylethanolamide-reduces-joint-pai.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia",
+      "label": "Paper Micronized palmitoylethanolamide reduces joint pain and glia",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "label": "Paper Micronizedultramicronized palmitoylethanolamide di",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Micronizedultramicronized-palmitoylethanolamide-di.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup",
+      "label": "Paper Micronizedultramicronized palmitoylethanolamide displays sup",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "label": "Paper Palmitoylethanolamide and luteolin ameliorate deve",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of",
+      "label": "Paper Palmitoylethanolamide and luteolin ameliorate development of",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "label": "Paper Palmitoylethanolamide dampens neuroinflammation an",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Palmitoylethanolamide-dampens-neuroinflammation-an.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety",
+      "label": "Paper Palmitoylethanolamide dampens neuroinflammation and anxiety",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "label": "Paper Protective effects of vitamin D and losartan in co",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Protective-effects-of-vitamin-D-and-losartan-in-co.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre",
+      "label": "Paper Protective effects of vitamin D and losartan in complete Fre",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "label": "Paper Protective effects of vitamin D and losartan",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Protective-effects-of-vitamin-D-and-losartan.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "label": "Paper Resveratrol and prednisolone loaded into human ser",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Resveratrol-and-prednisolone-loaded-into-human-ser.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin",
+      "label": "Paper Resveratrol and prednisolone loaded into human serum albumin",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-s12917-017-1151-z",
+      "label": "Paper s12917 017 1151 z",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-s12917-017-1151-z.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-s40122-024-00685-4",
+      "label": "Paper s40122 024 00685 4",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-s40122-024-00685-4.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "label": "Paper Salvianolate Ameliorates Osteopenia and Improves B",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit",
+      "label": "Paper Salvianolate Ameliorates Osteopenia and Improves Bone Qualit",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "label": "Paper Selective amplification of glucocorticoid anti inf",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Selective-amplification-of-glucocorticoid-anti-inf.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory",
+      "label": "Paper Selective amplification of glucocorticoid anti inflammatory",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "label": "Paper The anti inflammatory effects of palmitoylethanola",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-The-anti-inflammatory-effects-of-palmitoylethanola.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o",
+      "label": "Paper The anti inflammatory effects of palmitoylethanolamide PEA o",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "label": "Paper the one that focused on the anti inflam",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-the-one-that-focused-on-the-anti-inflam.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Paper-Thesis",
+      "label": "Paper Thesis",
+      "path": "03 - Collective Literature Matrix/Papers/Paper-Thesis.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "label": "Precedent Curcumin Prednisolone Nanoparticles",
+      "path": "03 - Collective Literature Matrix/Studies/Precedent-Curcumin-Prednisolone-Nanoparticles.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "label": "Precedent Resveratrol Prednisolone Nanoparticles",
+      "path": "03 - Collective Literature Matrix/Studies/Precedent-Resveratrol-Prednisolone-Nanoparticles.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "label": "Study 01 Palmitoylethanolamide and luteolin ameliorate deve",
+      "path": "03 - Collective Literature Matrix/Studies/Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "label": "Study 02 A novel composite formulation of palmitoylethanola",
+      "path": "03 - Collective Literature Matrix/Studies/Study-02-A-novel-composite-formulation-of-palmitoylethanola.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "label": "Study 03 Anti inflammatory activity of palmitoylethanolamid",
+      "path": "03 - Collective Literature Matrix/Studies/Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "label": "Study 04 Selective amplification of glucocorticoid anti inf",
+      "path": "03 - Collective Literature Matrix/Studies/Study-04-Selective-amplification-of-glucocorticoid-anti-inf.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "label": "Study 05 Benefits of combining piperine with prednisolone i",
+      "path": "03 - Collective Literature Matrix/Studies/Study-05-Benefits-of-combining-piperine-with-prednisolone-i.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "label": "Study 06 Salvianolate Ameliorates Osteopenia and Improves B",
+      "path": "03 - Collective Literature Matrix/Studies/Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "label": "Study 07 Micronized ultramicronized palmitoylethanolamide d",
+      "path": "03 - Collective Literature Matrix/Studies/Study-07-Micronized-ultramicronized-palmitoylethanolamide-d.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "label": "Study 08 The anti inflammatory effects of palmitoylethanola",
+      "path": "03 - Collective Literature Matrix/Studies/Study-08-The-anti-inflammatory-effects-of-palmitoylethanola.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "label": "Study 09 Palmitoylethanolamide dampens neuroinflammation an",
+      "path": "03 - Collective Literature Matrix/Studies/Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "label": "Study 10 Effect of palmitoylethanolamide on inflammatory an",
+      "path": "03 - Collective Literature Matrix/Studies/Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "label": "Study 11 Antioxidant and Angiostatic Effect of Spirulina pl",
+      "path": "03 - Collective Literature Matrix/Studies/Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "label": "Study 12 Effect of Losartan in Complete Freund s Adjuvant I",
+      "path": "03 - Collective Literature Matrix/Studies/Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "label": "Study 13 The anti inflammatory effects of palmitoylethanola",
+      "path": "03 - Collective Literature Matrix/Studies/Study-13-The-anti-inflammatory-effects-of-palmitoylethanola.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Main-Protocol-7-Groups",
+      "label": "Main Protocol 7 Groups",
+      "path": "04 - Experimental Protocols & Pilot/Main-Protocol-7-Groups.md",
+      "is_pilot": true
+    },
+    {
+      "id": "PEA-Tablet-Preparation",
+      "label": "PEA Tablet Preparation",
+      "path": "04 - Experimental Protocols & Pilot/PEA-Tablet-Preparation.md",
+      "is_pilot": true
+    },
+    {
+      "id": "Pilot-Blood-Work-Observations",
+      "label": "Pilot Blood Work Observations",
+      "path": "04 - Experimental Protocols & Pilot/Pilot-Observations-n2/Pilot-Blood-Work-Observations.md",
+      "is_pilot": true
+    },
+    {
+      "id": "Pilot-Study-Rationale-and-Protocol",
+      "label": "Pilot Study Rationale and Protocol",
+      "path": "04 - Experimental Protocols & Pilot/Pilot-Observations-n2/Pilot-Study-Rationale-and-Protocol.md",
+      "is_pilot": true
+    },
+    {
+      "id": "Pilot-WBC-Observations",
+      "label": "Pilot WBC Observations",
+      "path": "04 - Experimental Protocols & Pilot/Pilot-Observations-n2/Pilot-WBC-Observations.md",
+      "is_pilot": true
+    },
+    {
+      "id": "Baricitinib-Comparison",
+      "label": "Baricitinib Comparison",
+      "path": "05 - Comparators Benchmarking/Baricitinib-Comparison.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Tacrolimus-Comparison",
+      "label": "Tacrolimus Comparison",
+      "path": "05 - Comparators Benchmarking/Tacrolimus-Comparison.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Publishing-Advises",
+      "label": "Publishing Advises",
+      "path": "06 - Thesis Defense & Publishing/Publishing-Advises.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Thesis-Defense-Deck-Complete",
+      "label": "Thesis Defense Deck Complete",
+      "path": "06 - Thesis Defense & Publishing/Thesis-Defense-Deck-Complete.md",
+      "is_pilot": false
+    },
+    {
+      "id": "Thesis-Slides-Breakdown",
+      "label": "Thesis Slides Breakdown",
+      "path": "06 - Thesis Defense & Publishing/Thesis-Slides-Breakdown.md",
+      "is_pilot": false
+    }
+  ],
+  "edges": [
+    {
+      "source": "AA-vs-CIA-Model-Selection",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "AA-vs-CIA-Model-Selection",
+      "target": "CFA-Induction-Parameters",
+      "relation": "links_to"
+    },
+    {
+      "source": "AA-vs-CIA-Model-Selection",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "AA-vs-CIA-Model-Selection",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Animal-Models-Comprehensive-Compendium",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Animal-Models-Comprehensive-Compendium",
+      "target": "CFA-Induction-Parameters",
+      "relation": "links_to"
+    },
+    {
+      "source": "Animal-Models-Comprehensive-Compendium",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Animal-Models-Comprehensive-Compendium",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "Animal-Models-Comprehensive-Compendium",
+      "target": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "relation": "links_to"
+    },
+    {
+      "source": "CFA-Induction-Parameters",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "CFA-Induction-Parameters",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "CFA-Induction-Parameters",
+      "target": "p38-MAPK-and-Knee-Pathology",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Steroid-Sparing-Study",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Steroid-Sparing-Study",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Steroid-Sparing-Study",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Steroid-Sparing-Study",
+      "target": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "relation": "links_to"
+    },
+    {
+      "source": "Prednisolone-Active-Moiety-Rationale",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Prednisolone-Active-Moiety-Rationale",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "Prednisolone-Active-Moiety-Rationale",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Prednisolone-Active-Moiety-Rationale",
+      "target": "Animal-Models-Comprehensive-Compendium",
+      "relation": "links_to"
+    },
+    {
+      "source": "NF-kB-p65-and-Cytokines",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "NF-kB-p65-and-Cytokines",
+      "target": "p38-MAPK-and-Knee-Pathology",
+      "relation": "links_to"
+    },
+    {
+      "source": "NF-kB-p65-and-Cytokines",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "p38-MAPK-and-Knee-Pathology",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "p38-MAPK-and-Knee-Pathology",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "p38-MAPK-and-Knee-Pathology",
+      "target": "NF-kB-p65-and-Cytokines",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Comprehensive-Pharmacological-Monograph",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Comprehensive-Pharmacological-Monograph",
+      "target": "PEA-Tablet-Preparation",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Comprehensive-Pharmacological-Monograph",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Comprehensive-Pharmacological-Monograph",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Comprehensive-Pharmacological-Monograph",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Mechanism-and-Pharmacology",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Mechanism-and-Pharmacology",
+      "target": "PEA-Tablet-Preparation",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Mechanism-and-Pharmacology",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "PPARa-and-GR-Crosstalk-Axis",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "PPARa-and-GR-Crosstalk-Axis",
+      "target": "NF-kB-p65-and-Cytokines",
+      "relation": "links_to"
+    },
+    {
+      "source": "PPARa-and-GR-Crosstalk-Axis",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "PPARa-and-GR-Crosstalk-Axis",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "relation": "links_to"
+    },
+    {
+      "source": "Master-Study-Design-Table",
+      "target": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-1-SIG",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-1-SIG",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-1-SIG",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-1-SIG",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-1-SIG",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-2-SIG",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-2-SIG",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-2-SIG",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-2-SIG",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-2-SIG",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-A-novel-composite-formulation-of-palmitoylethanolamide-and-q",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Adjuvants",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Adjuvants",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Adjuvants",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Adjuvants",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Adjuvants",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Anti-inflammatory-activity-of-palmitoylethanolamide-ameliora",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Antioxidant-and-Angiostatic-Effect-of-Spirulina-platensis-Su",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Benefits-of-combining-piperine-with-prednisolone-in-an-exper",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human-Serum-Albu",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Co-Delivery-of-Prednisolone-and-Curcumin-in-Human",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-Induced-Art",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-er-2018-00064",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-er-2018-00064",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-er-2018-00064",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-er-2018-00064",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-er-2018-00064",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-fnins-2-1506352",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-fnins-2-1506352",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-fnins-2-1506352",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-fnins-2-1506352",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-fnins-2-1506352",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-forumlation-one",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-forumlation-one",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-forumlation-one",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-forumlation-one",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-forumlation-one",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-21-03509",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-21-03509",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-21-03509",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-21-03509",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-21-03509",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-25-09079",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-25-09079",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-25-09079",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-25-09079",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-ijms-25-09079",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-informative",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-informative",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-informative",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-informative",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-informative",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-jcm-13-02787",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-jcm-13-02787",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-jcm-13-02787",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-jcm-13-02787",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-jcm-13-02787",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pai",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronized-palmitoylethanolamide-reduces-joint-pain-and-glia",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-di",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Micronizedultramicronized-palmitoylethanolamide-displays-sup",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-and-luteolin-ameliorate-development-of",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Palmitoylethanolamide-dampens-neuroinflammation-and-anxiety",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-co",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan-in-complete-Fre",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Protective-effects-of-vitamin-D-and-losartan",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-ser",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Resveratrol-and-prednisolone-loaded-into-human-serum-albumin",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s12917-017-1151-z",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s12917-017-1151-z",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s12917-017-1151-z",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s12917-017-1151-z",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s12917-017-1151-z",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s40122-024-00685-4",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s40122-024-00685-4",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s40122-024-00685-4",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s40122-024-00685-4",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-s40122-024-00685-4",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Salvianolate-Ameliorates-Osteopenia-and-Improves-Bone-Qualit",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Selective-amplification-of-glucocorticoid-anti-inflammatory",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-The-anti-inflammatory-effects-of-palmitoylethanolamide-PEA-o",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-the-one-that-focused-on-the-anti-inflam",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Thesis",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Thesis",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Thesis",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Thesis",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Paper-Thesis",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "target": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "target": "Precedent-Curcumin-Prednisolone-Nanoparticles",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "target": "Precedent-Steroid-Sparing-Study",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "target": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "relation": "links_to"
+    },
+    {
+      "source": "Precedent-Resveratrol-Prednisolone-Nanoparticles",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-01-Palmitoylethanolamide-and-luteolin-ameliorate-deve",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-02-A-novel-composite-formulation-of-palmitoylethanola",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-03-Anti-inflammatory-activity-of-palmitoylethanolamid",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-04-Selective-amplification-of-glucocorticoid-anti-inf",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-05-Benefits-of-combining-piperine-with-prednisolone-i",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-06-Salvianolate-Ameliorates-Osteopenia-and-Improves-B",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-07-Micronized-ultramicronized-palmitoylethanolamide-d",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-08-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-09-Palmitoylethanolamide-dampens-neuroinflammation-an",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-10-Effect-of-palmitoylethanolamide-on-inflammatory-an",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-11-Antioxidant-and-Angiostatic-Effect-of-Spirulina-pl",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-12-Effect-of-Losartan-in-Complete-Freund-s-Adjuvant-I",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Master-Study-Design-Table",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Study-13-The-anti-inflammatory-effects-of-palmitoylethanola",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "PEA-Animal-Dosing-Benchmarks-NFkB",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "PEA-Tablet-Preparation",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "Tacrolimus-Comparison",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "Baricitinib-Comparison",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "Pilot-Study-Rationale-and-Protocol",
+      "relation": "links_to"
+    },
+    {
+      "source": "Main-Protocol-7-Groups",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Tablet-Preparation",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "PEA-Tablet-Preparation",
+      "target": "PEA-Mechanism-and-Pharmacology",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Blood-Work-Observations",
+      "target": "Pilot-Study-Rationale-and-Protocol",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Blood-Work-Observations",
+      "target": "Pilot-WBC-Observations",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Blood-Work-Observations",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Study-Rationale-and-Protocol",
+      "target": "Pilot-Blood-Work-Observations",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Study-Rationale-and-Protocol",
+      "target": "Pilot-WBC-Observations",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-Study-Rationale-and-Protocol",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-WBC-Observations",
+      "target": "Pilot-Study-Rationale-and-Protocol",
+      "relation": "links_to"
+    },
+    {
+      "source": "Pilot-WBC-Observations",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Baricitinib-Comparison",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Baricitinib-Comparison",
+      "target": "Tacrolimus-Comparison",
+      "relation": "links_to"
+    },
+    {
+      "source": "Baricitinib-Comparison",
+      "target": "NF-kB-p65-and-Cytokines",
+      "relation": "links_to"
+    },
+    {
+      "source": "Tacrolimus-Comparison",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Tacrolimus-Comparison",
+      "target": "Baricitinib-Comparison",
+      "relation": "links_to"
+    },
+    {
+      "source": "Tacrolimus-Comparison",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Publishing-Advises",
+      "target": "AA-vs-CIA-Model-Selection",
+      "relation": "links_to"
+    },
+    {
+      "source": "Publishing-Advises",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Publishing-Advises",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Thesis-Defense-Deck-Complete",
+      "target": "Home-Index",
+      "relation": "links_to"
+    },
+    {
+      "source": "Thesis-Defense-Deck-Complete",
+      "target": "Main-Protocol-7-Groups",
+      "relation": "links_to"
+    },
+    {
+      "source": "Thesis-Defense-Deck-Complete",
+      "target": "PPARa-and-GR-Crosstalk-Axis",
+      "relation": "links_to"
+    },
+    {
+      "source": "Thesis-Defense-Deck-Complete",
+      "target": "PEA-Comprehensive-Pharmacological-Monograph",
+      "relation": "links_to"
+    },
+    {
+      "source": "Thesis-Defense-Deck-Complete",
+      "target": "Animal-Models-Comprehensive-Compendium",
+      "relation": "links_to"
+    }
+  ],
+  "total_nodes": 82,
+  "total_edges": 371
+}

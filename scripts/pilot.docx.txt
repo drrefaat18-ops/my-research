@@ -1,0 +1,38 @@
+Pilot Study: Establishing a Dosing Strategy for PEA and Prednisolone in a Rat Model of Rheumatoid Arthritis
+1. Primary Objective:
+To identify the most effective and synergistic dose combination of ultramicronized PEA and Prednisolone for suppressing inflammation and mitigating metabolic side effects, informing the design of a larger, definitive study.
+2. Secondary Objectives:
+To confirm the induction of arthritis and the baseline efficacy of a standard Prednisolone dose.
+To gather initial data on the molecular mechanism (IκBα/NF-κB pathway).
+To assess the feasibility of all experimental procedures.
+Experimental Design
+Animal Model:
+Species/Strain: Female Wistar or Lewis rats (commonly used, robust responders).
+Model: Collagen-Induced Arthritis (CIA). Induce arthritis with intradermal injection of Bovine Type II Collagen in Complete Freund's Adjuvant at the base of the tail.
+Sample Size: n=4 per group. This small number is sufficient for a pilot to detect large effect sizes and trends without excessive resource use.
+Groups and Dosing (All administered via I.P. injection):
+The study will test two key doses of each drug in a factorial design.
+Timeline:
+Day 0: CIA Induction.
+Day 14: Booster immunization (if required by your specific CIA protocol).
+Day ~21: Start treatment when the first signs of arthritis (swelling, redness) appear in the majority of animals. Treat for 14 days.
+Day ~35: End of study, tissue collection.
+Outcome Measures to Be Analyzed with Kits
+This pilot is designed to provide maximum data with minimal animals. You will process all samples from these animals as if it were the main study.
+A) Clinical & Inflammatory Efficacy:
+Arthritis Score: Standardized 0-4 scoring per paw for redness/swelling, several times per week.
+Paw Volume: Measured with a plethysmometer before induction and at sacrifice.
+Serum Cytokines (ELISA Kits): Analyze serum for IL-6, TNF-α, and MCP-1 at sacrifice. These are the key NF-κB targets mentioned in your PDF.
+B) Molecular Mechanism (PPARα-NF-κB Cross-Talk):
+Joint Tissue Homogenates: Collect ankle joints after sacrifice for protein extraction.
+Western Blot or ELISA Kits: Measure protein levels of:
+Phospho-IκBα (indicative of NF-κB activation)
+Total IκBα (to see if PEA boosts its levels as per the mechanism)
+PPARα (to confirm target engagement)
+[TABLE] Group | Treatment (Daily I.P.) | Rationale
+[TABLE] 1 | Arthritic Control (Vehicle) | Baseline for disease severity.
+[TABLE] 2 | Prednisolone (2 mg/kg) | To establish an "Effective Dose" (ED) benchmark.
+[TABLE] 3 | PEA (10 mg/kg) | To test low-dose PEA efficacy.
+[TABLE] 4 | PEA (30 mg/kg) | To test high-dose PEA efficacy.
+[TABLE] 5 | Prednisolone (1 mg/kg) + PEA (10 mg/kg) | Key Combo 1: Low/Low combination.
+[TABLE] 6 | Prednisolone (1 mg/kg) + PEA (30 mg/kg) | Key Combo 2: Low/High combination.

@@ -1,0 +1,25 @@
+filters:
+  and:
+    - 'file.folder.contains("03 - Collective Literature Matrix/Papers")'
+
+properties:
+  file.name:
+    displayName: "Paper Note"
+  title:
+    displayName: "Article Title"
+  doi:
+    displayName: "DOI"
+  pages:
+    displayName: "Pages"
+  qc_status:
+    displayName: "Status"
+
+views:
+  - type: table
+    name: "Extracted Scientific Papers"
+    order:
+      - title
+      - doi
+      - pages
+      - qc_status
+      - file.name

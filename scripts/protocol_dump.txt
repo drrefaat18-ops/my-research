@@ -1,0 +1,278 @@
+=== PAGE 1 ===
+ 
+جامعة بورسعيد 
+كلية الصيدلة 
+قسم الأدوية والسموم 
+ 
+ 
+بروتوكول 
+رسالة الماجيستير الخاصة بالصيدلي/ رفعت إبراهيم رفعت 
+المعيد بقسم الأدوية والسموم - كلية الصيدلة - جامعة بورسعيد - مصر 
+بعنوان 
+استهداف التهاب المفاصل المستحث تجريبيًا في الجرذان باستخدام بعض النواتج الطبيعية كعامل مقلل للاعتماد على 
+الجلوكوكورتيكويدات. 
+خطة بحثية مقدمة لكلية الصيدلة تمهيدًا للحصول على درجة الماجيستير في العلوم الصيدلية 
+(الأدوية والسموم) 
+(2026) 
+تحت إشراف 
+أ.م.د/ أحمد أبو الفتوح السيد مراد 
+رئيس القسم، أستاذ مساعد الأدوية والسموم، كلية الصيدلة - جامعة بورسعيد 
+أ.م.د/ أحمد جعفر أحمد 
+أستاذ مساعد الأدوية والسموم، كلية الصيدلة - جامعة بورسعيد 
+أ.م.د/ أحمد سعد سعد 
+أستاذ مساعد الأدوية والسموم، كلية الصيدلة - جامعة بورسعيد 
+كلية الصيدلة 
+جامعة بورسعيد 2026 
+ 
+ 
+ 
+ 
+يعتمد 
+عميد الكلية 
+
+
+=== PAGE 2 ===
+ 
+Port Said University 
+Faculty of Pharmacy 
+Department of pharmacology 
+and toxicology 
+ 
+ 
+A protocol for a master's degree in 
+Department of pharmacology and toxicology 
+Presented by 
+Riffat Ibrahim Riffat 
+Thesis title 
+Targeting Experimentally Induced Arthritis in Rats Using Selected Natural Products as 
+Glucocorticoid-Sparing Agents. 
+Under supervision of 
+Associate Professor/ Ahmed Aboul-Fotouh Elsayed Mourad 
+Head of the department, Assistant Professor of Pharmacology and Toxicology, Faculty of Pharmacy, 
+Port-Said University 
+Associate Professor/ Ahmed Gaafar Ahmed 
+Assistant Professor of Pharmacology and Toxicology, Faculty of Pharmacy, Port-Said University 
+Associate Professor/ Ahmed Saad Saad 
+Assistant Professor of Pharmacology and Toxicology, Faculty of Pharmacy, Port-Said University 
+Port Said University 
+2026 
+Dean of the Faculty 
+
+
+=== PAGE 3 ===
+Introduction 
+Rheumatoid arthritis (RA) is a chronic autoimmune disease char acterized by persistent 
+synovial inflammation and joint destruction, driven by a complex network of pro-inflammatory 
+cytokines and intracellular signaling cascades like NF -kB and MAPK. Glucocorticoids are 
+highly effective for RA management but are associated with severe long-term adverse effects, 
+creating a need for glucocorticoid-sparing agents. Recent studies into various natural products 
+have identified compounds which may potentiate the anti -inflammatory effects of low -dose 
+glucocorticoids via PPAR-alpha and glucocorticoid receptor-alpha crosstalk. 
+Aim of the work 
+This study aims to investigate the potential of selected natural products as a glucocorticoid-
+sparing agent, and to evaluate the efficacy of this combination against established 
+antirheumatic agents in adjuvant-induced arthritis. 
+Study Design 
+This study employs the Complete Freund’s Adjuvant (CFA) -induced arthritis model in 
+female Wistar rats to investigate the glucocorticoid -sparing potential of micronized 
+palmitoylethanolamide (m-PEA), both alone and in combination with prednisolone, relative to 
+the reference agents baricitinib and tacrolimus. Arthritis is induced on Day 0 by a single 
+subcutaneous injection of 0.3 mL CFA into the right inguinal/proximal thigh region, while 
+negative control animals receive an equivalent subcutaneous injection of 0.25 mL paraffin oil. 
+Following a 15 -day induction period, oral treatment is initiated on Day 16 and administered 
+once daily until Day 45, after which all animals are sacrificed on Day 46  for terminal sample 
+collection. 
+Animals are allocated to nine experimental groups [number of rats per group not specified]: 
+a negative control group, a positive (CFA arthritic) control group, a prednisolone monotherapy 
+group (10 mg/kg), an m -PEA monothera py group (200 mg/kg), three PEA/prednisolone 
+combination groups at ascending PEA doses (50/5, 100/5, and 200/5 mg/kg), a tacrolimus 
+reference group (1.8 mg/kg), and a baricitinib reference group (10 mg/kg). This design permits 
+evaluation of whether escalat ing doses of m -PEA in combination with a fixed low dose of 
+prednisolone can achieve comparable therapeutic efficacy to full -dose prednisolone 
+monotherapy or to the established reference agents, thereby addressing the study’s 
+glucocorticoid-sparing objective. 
+ 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+Experimental Design Table 
+Group Induction/Control 
+Condition Treatment Dose Route Treatment 
+Period Purpose 
+Negative control 
+0.25 mL paraffin 
+oil, subcutaneous, 
+Day 0 
+None — — Day 16–
+Day 45 
+Normal 
+physiological 
+reference 
+Positive control 
+(CFA arthritic) 
+0.3 mL CFA, 
+subcutaneous, Day 
+0 
+None 
+(vehicle) — Oral Day 16–
+Day 45 
+Untreated 
+arthritis 
+reference 
+Prednisolone 
+alone CFA-induced Prednisolone 10 
+mg/kg Oral Day 16–
+Day 45 
+Full-dose 
+glucocorticoid 
+comparator 
+m-PEA alone CFA-induced m-PEA 200 
+mg/kg Oral Day 16–
+Day 45 
+Evaluation of m-
+PEA 
+monotherapy 
+efficacy 
+PEA/Prednisolone 
+50/5 CFA-induced m-PEA + 
+Prednisolone 
+50/5 
+mg/kg Oral Day 16–
+Day 45 
+Low-dose PEA 
+glucocorticoid-
+sparing 
+combination 
+PEA/Prednisolone 
+100/5 CFA-induced m-PEA + 
+Prednisolone 
+100/5 
+mg/kg Oral Day 16–
+Day 45 
+Intermediate-
+dose PEA 
+glucocorticoid-
+sparing 
+combination 
+PEA/Prednisolone 
+200/5 CFA-induced m-PEA + 
+Prednisolone 
+200/5 
+mg/kg Oral Day 16–
+Day 45 
+High-dose PEA 
+glucocorticoid-
+sparing 
+combination 
+Tacrolimus CFA-induced Tacrolimus 1.8 
+mg/kg Oral Day 16–
+Day 45 
+Calcineurin 
+inhibitor 
+reference 
+comparator 
+Baricitinib CFA-induced Baricitinib 10 
+mg/kg Oral Day 16–
+Day 45 
+JAK inhibitor 
+reference 
+comparator 
+ 
+ 
+Measured Parameters 
+Disease activity and underlying molecular mechanisms are assessed using serum and knee 
+joint tissue samples collected at sacrifice. Serum samples are analyzed by ELISA for anti -
+citrullinated protein antibodies (ACPA) and the pro-inflammatory cytokines TNF-α, IL-1β, and 
+IL-6. Knee joints are proces sed for histopathological examination to assess structural joint 
+changes, and for immunohistochemical evaluation of NF-κB p65 nuclear expression and TLR4 
+expression as markers of inflammatory signaling activation. Additionally, knee joint tissue 
+homogenates are analyzed by ELISA for p38 MAPK expression to further characterize the 
+intracellular inflammatory signaling pathways involved. 
+
+=== PAGE 5 ===
+  Measured Parameters Table 
+Category Parameter Sample/Tissue Method Relevance 
+Serum ELISA ACPA Serum ELISA 
+Autoantibody 
+marker associated 
+with arthritis 
+Serum ELISA TNF-α Serum ELISA 
+Systemic pro-
+inflammatory 
+cytokine 
+Serum ELISA IL-1β Serum ELISA 
+Systemic pro-
+inflammatory 
+cytokine 
+Serum ELISA IL-6 Serum ELISA 
+Systemic pro-
+inflammatory 
+cytokine 
+Histopathology Joint structural 
+changes Knee joint Histopathological 
+examination 
+Structural 
+assessment of joint 
+inflammation and 
+damage 
+Immunohistochemistry 
+NF-κB p65 
+nuclear 
+expression 
+Knee joint Immunohistochemistry 
+Marker of 
+inflammatory 
+transcriptional 
+signaling activation 
+Immunohistochemistry TLR4 
+expression Knee joint Immunohistochemistry 
+Marker of innate 
+immune 
+inflammatory 
+signaling 
+Tissue ELISA p38 MAPK Knee joint 
+homogenate ELISA 
+Intracellular 
+inflammatory 
+signaling pathway 
+marker 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PAGE 6 ===
+Reference 
+1. Bougarne, N., Paumelle, R., Caron, S., Hennuyer, N., Mansouri, R., Gervois, P., Staels, B., 
+Haegeman, G. and De Bosscher, K. (2009) 'PPARa blocks glucocorticoid receptor a-
+mediated transactivation but cooperates with the activated glucocorticoid receptor a for 
+transrepression on NF-kB', Proceedings of the National Academy of Sciences of the 
+United States of America, 106(18), pp. 7397-7402. 
+2. Fridman, J.S., Scherle, P.A., Collins, R., Burn, T.C., Li, Y., Li, J., Covington, M.B., 
+Thomas, B., Collier, P., Favata, M.F., Wen, X., Shi, J., McGee, R., Haley, P.J., Shepard, 
+S., Rodgers, J.D., Yeleswaram, S., Hollis, G., Newton, R.C., Metcalf, B., Friedman, S.M. 
+and Vaddi, K. (2010) 'Selective inhibition of JAK1 and JAK2 is efficacious in rodent 
+models of arthritis: preclinical characterization of INCB028050', The Journal of 
+Immunology, 184(9), pp. 5298-5307. 
+3. Impellizzeri, D., Esposito, E., Di Paola, R., Ahmad, A., Campolo, M., Peli, A., Morittu, 
+V.M., Britti, D. and Cuzzocrea, S. (2013) 'Palmitoylethanolamide and luteolin ameliorate 
+development of arthritis caused by injection of collagen type II in mice', Arthritis 
+Research & Therapy, 15(6), R192. 
+4. Yaseen, K. (2025) 'Rheumatoid arthritis (RA)', MSD Manual Professional Edition. 
+5. Morvaridi, A., Abtahi Froushani, S.M. and Farshid, A.A. (2025) 'Benefits of combining 
+piperine with prednisolone in an experimental model of rheumatoid arthritis', Veterinary 
+Research Forum, 16(2), pp. 117–124. doi: 10.30466/vrf.2024.2031860.4316. 
+6. Magari, K., Nishigaki, F., Sasakawa, T., Ogawa, T., Miyata, S., Ohkubo, Y., Mutoh, S. and 
+Goto, T. (2003) 'Anti-arthritic properties of FK506 on collagen-induced arthritis in rats', 
+Inflammation Research, 52, pp. 524–529. doi: 10.1007/s00011-003-1210-8. 
+ 

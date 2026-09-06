@@ -1,0 +1,28 @@
+filters:
+  and:
+    - 'file.folder.contains("03 - Collective Literature Matrix/Studies")'
+
+properties:
+  file.name:
+    displayName: "Study ID & Title"
+  category:
+    displayName: "Category"
+  source_sheet:
+    displayName: "Source Sheet"
+  qc_status:
+    displayName: "QC Status"
+
+views:
+  - type: table
+    name: "All Literature Matrix Studies"
+    order:
+      - file.name
+      - source_sheet
+      - category
+      - qc_status
+  - type: cards
+    name: "Study Cards"
+    order:
+      - file.name
+      - source_sheet
+      - qc_status

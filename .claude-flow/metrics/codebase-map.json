@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-09-06T12:32:21.499Z",
+  "projectRoot": "D:\\vault\\my research",
+  "structure": {
+    "hasPackageJson": false,
+    "hasTsConfig": false,
+    "hasClaudeConfig": true,
+    "hasClaudeFlow": true
+  },
+  "scannedAt": 1788697941500
+}
