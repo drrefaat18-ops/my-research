@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f5fc218c3c929147",
+        "id": "8424d358a535c2b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f538d2ea2865b9e4",
+            "id": "9d51bb3ce4e01c2c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home-Index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home-Index"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,8 +182,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "f538d2ea2865b9e4",
+  "active": "9d51bb3ce4e01c2c",
   "lastOpenFiles": [
+    "01 - Rationale & Study Design/01-MOC-Rationale-and-Study-Design.md",
+    "_AGENTS.md",
+    "CLAUDE.md",
+    "AGENTS.md",
+    "AGENT_NAVIGATION_GUIDE.md",
+    "00-Sources/masters_thesis_agent_context.md",
+    "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
+    "02 - Molecular Axis & Mechanisms/Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
+    "01 - Rationale & Study Design/Prednisolone-Active-Moiety-Rationale.md",
+    "01 - Rationale & Study Design/AA-vs-CIA-Model-Selection.md",
+    "03 - Collective Literature Matrix/Master-Study-Design-Table.md",
+    "03 - Collective Literature Matrix/03-MOC-Literature-Matrix.md",
+    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
+    "CLAUDE_EXECUTION_PLAN.md",
+    "07 - Automated QC & Audits/agency_agents_full_registry.json",
+    "scripts/sync_agency_agents_to_ruflo.py",
+    "07 - Automated QC & Audits/Skills-Manifest.base",
+    "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
+    "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
+    "Home-Index.md",
     "07 - Automated QC & Audits/Consensus-Verdict-PPAR-GR-Crosstalk-Framing.md",
     "tmp/claude_direct_verdict.txt",
     "tmp/run_claude_direct.py",
@@ -196,13 +212,9 @@
     "tmp/codex_run_ppar/events.jsonl",
     "tmp/codex_run_ppar/brief.txt",
     "tmp/codex_run_ppar",
-    "tmp/codex_brief_final.txt",
     "tmp/codex_full_report.md",
-    "tmp/run_claude_audit.py",
-    "tmp/brief_codex_ppar.txt",
     "04 - Experimental Protocols & Pilot/Pilot-Blood-Work-Final-Observations.md",
     "07 - Automated QC & Audits/Codex-Antigravity-Consensus-Lean-Budget-Verdict.md",
-    "AGENTS.md",
     "page_v2_2.png",
     "page_v2_1.png",
     "page_3.png",
@@ -215,22 +227,6 @@
     "04 - Experimental Protocols & Pilot/PEA-Tablet-Preparation.md",
     "04 - Experimental Protocols & Pilot/Pilot-WBC-Final-Observations.md",
     "07 - Automated QC & Audits/Swarm-Audit-Definitive-Assay-Strategy-and-International-Publishing.md",
-    "02 - Molecular Axis & Mechanisms/PPARa-and-GR-Crosstalk-Axis.md",
-    "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
-    "07 - Automated QC & Audits/Swarm-Audit-Pilot-WBC-Research-Utility.md",
-    "06 - Thesis Defense & Publishing/Novelty-and-Affordable-Biomarker-Decision-2026-09-06.md",
-    "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas",
-    "07 - Automated QC & Audits/Skills_Manifest_Full_Digest.md",
-    "06 - Thesis Defense & Publishing/Swarm-Verified-Novelty-2026-09-06.md",
-    "06 - Thesis Defense & Publishing/Thesis-Defense-Deck-Complete.md",
-    "tmp/deep-novelty/report-source.md",
-    "06 - Thesis Defense & Publishing/06-MOC-Thesis-Defense-and-Publishing.md",
-    "06 - Thesis Defense & Publishing/Publishing-Advises.md",
-    "02 - Molecular Axis & Mechanisms/Bougarne-2018-PPARa-GR-Molecular-Interplay.md",
-    "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
-    "01 - Rationale & Study Design/01-MOC-Rationale-and-Study-Design.md",
-    "02 - Molecular Axis & Mechanisms/02-MOC-Molecular-Mechanisms.md",
-    "AGENT_NAVIGATION_GUIDE.md",
     "parameters_preview.png"
   ]
 }

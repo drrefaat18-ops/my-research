@@ -59,6 +59,14 @@ Ruflo ships 30+ optional plugins. Some highlights:
 
 Full plugin list + descriptions: `npx ruflo plugins list`.
 
+## Agency Swarm Integration (470+ Synchronized Agents)
+
+Ruflo in this workspace is natively integrated with the full **Agency Agents** catalog (470+ specialized agents):
+- **Local Definitions**: All agents are defined in `.claude/agents/*.md` with their respective personalities, tools, and mission objectives.
+- **Ruflo Vector Memory**: Indexed under namespace `agency-agents` in `.swarm/memory.db`. Query with `ruflo memory search -q "<domain/role>"`.
+- **Runtime Swarm Pool**: All agents are registered in `.claude-flow/agents/store.json` and can be spawned into mesh/hierarchical topologies via `ruflo agent spawn -t <type> -n agency-<role>`.
+- **Sync Utility**: Run `python scripts/sync_agency_agents_to_ruflo.py` anytime to re-sync or update definitions from `~/.claude/agents` and global skills.
+
 ## Cross-agent installation
 
 Ruflo installs into whatever agent the project uses. To pull the full plugin
