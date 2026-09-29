@@ -10,7 +10,7 @@ AMAL M. EL-BARBARY , MANAL S. HUSSEIN, ELSAYED M. RAGEH, HALA E. HAMOUDA,
 AYMAN A. WAGIH, and RAGHDA G. ISMAIL 
 ABSTRACT. Objective. To investigate the effect of atorvastatin therapy on inflammation, disease activity, 
 endothelial dysfunction, and arterial stiffness in patients with rheumatoid arthritis (RA). 
-Methods. This study included 30 patients with early RA, randomly divided into 2 groups. Group 1 
+Methods. ==This study included 30 patients with early RA, randomly divided into 2 groups.== Group 1  ^elbarbary2010-1
 (n = 15) received methotrexate (MTX; 0.2 mg/kg/week; mean (15.5 ± SD 1.3) plus prednisone (10 
 mg/day). Group 2 (n = 15) received MTX and prednisone with the same previous doses plus ator -
 vastatin therapy (40 mg/day). Ten healthy individuals of similar age and sex served as controls. 
@@ -21,7 +21,7 @@ Results. Atorvastatin combined with MTX therapy significantly reduced serum tota
 low-density lipoprotein cholesterol, and triglycerides, and increased high-density lipoprotein chol -
 esterol (p < 0.001). Disease activity variables, serum MDA, TNF- α, resistin, adiponectin, and FMD 
 were significantly improved by the drug combinations (p < 0.001). 
-Conclusion. Atorvastatin therapy in patients with RA reduced disease activity and conventional and 
+Conclusion. ==Atorvastatin therapy in patients with RA reduced disease activity and conventional and==  ^elbarbary2010-2
 novel vascular risk factors that promote the atheromatous lesion. Therapy was also associated with 
 concomitant improvement in endothelial function. (First Release Nov 1 2010; J Rheumatol 
 2011;38:229 –35; doi:10.3899/jrheum.100582) 
@@ -127,7 +127,7 @@ medications affecting lipid metabolism such as lipid-lowering drugs, oral
 prednisolone > 10 mg/day, beta blockers, oral contraceptives, estrogen, 
 progestin, thyroxin, and vitamin E were excluded. 
 Study design. Patients with RA were randomly divided into 2 groups and 
-the treatment was given in unblinded fashion. Group 1 (n = 15) received 
+==the treatment was given in unblinded fashion. Group 1 (n = 15) received== 
 methotrexate (MTX; 0.2 mg/kg/week; mean total dose/wk 15.5 ± SD 1.3) 
 plus prednisone (10 mg/day); Group 2 (n = 15) received MTX and pred -
 nisone with the same dose as Group 1 plus atorvastatin therapy (40 
@@ -233,10 +233,10 @@ Group 2 than in Group 1. By contrast, serum levels of
 adiponectin were significantly increased and their levels 
 were higher in Group 2 compared with Group 1 after treat -
 ment. In Group 2, FMD was significantly increased after 
-treatment (from 3.72 ± 2.22% to 6.74 ± 3.78%) with no sig -
+==treatment (from 3.72 ± 2.22% to 6.74 ± 3.78%) with no sig== - ^elbarbary2010-3
 nificant change in Group 1. 
 Moderate or good DAS28 responses (EULAR criteria) 
-were achieved in 10 of 15 (66.6%) patients in Group 2 com -
+==were achieved in 10 of 15 (66.6%) patients in Group 2== com - ^elbarbary2010-4
 pared with 3 of 15 (20%) patients in Group 1 after 6 months 
 of treatment. 
 As for the correlation matrix in all RA patients (n = 30), 
@@ -355,7 +355,7 @@ SJC 6.73 ± 2.34 4.20 ± 1.78* 6.06 ± 2.60 1.53 ± 0.83* < 0.001
 V AS 54.66 ± 13.55 42.00 ± 10.82* 56.0 ± 14.78 21 ± 6.86* < 0.001 
 ESR, mm/h 56.93 ± 20.81 43.60 ± 20.30* 58.33 ± 22.02 26.73 ± 8.56* < 0.001 
 CRP, mg/l 33.06 ± 14.13 19.73 ± 10.84* 31.46 ± 14.33 7.20 ± 3.09* < 0.001 
-DAS28 6.19 ± 0.82 5.27 ± 0.66* 6.09 ± 0.88 3.9 ± 0.45* < 0.001 
+==DAS28 6.19 ± 0.82 5.27 ± 0.66* 6.09 ± 0.88 3.9 ± 0.45* < 0.001==  ^elbarbary2010-5
 Morning stiffness, min 77.0 ± 35.79 59.33 ± 33.79* 86.0 ± 44.80 19.33 ± 10.66* < 0.001 
 TC, mg/dl 224.66 ± 31.12 235.66 ± 30.93** 228.13 ± 11.75 191.80 ± 12.77* < 0.001 
 TG, mg/dl 137.33 ± 47.31 137.13 ± 46.78 126.93 ± 31.97 96.60 ± 18.69* < 0.001 
@@ -400,7 +400,7 @@ inhibition of the mevalonate pathway, leading to reduction
 in the synthesis of important intermediates including iso -
 prenoids that serve as lipid attachments for intracellular sig -
 naling molecules, in particular, inhibition of small 
-GTPase -binding proteins (Rho, Rac, Ras, and G proteins). 
+==GTPase -binding proteins (Rho, Rac, Ras, and G proteins).==  ^elbarbary2010-6
 These proteins modulate a variety of cellular processes 
 including signaling, differentiation, and proliferation 37 .
 Some of the antioxidant effects of atorvastatin may be due 

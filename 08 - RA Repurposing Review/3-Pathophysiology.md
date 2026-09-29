@@ -18,6 +18,28 @@ status: ready-to-write
 
 > 💡 **فكرة القسم كله في جملة:** RA = التهاب مزمن بيشغّل نفس المسارات (mTOR، STAT3، NF-κB) ونفس الـ **metabolic reprogramming** اللي أدوية السكر والدهون بتأثر عليها ← عشان كده منطقي نعيد توظيفها.
 
+<!-- key-sentences:start -->
+## 🔗 الجمل المهمة في الأبحاث (اضغط على الجملة تروح لمكانها)
+
+**Kondo2021**
+- [[papers/Kondo2021#^kondo2021-1|Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic systemic infla…]]
+- [[papers/Kondo2021#^kondo2021-1|The pathogenesis of RA involves a complex network of various cytokines and cells that trig…]]
+- [[papers/Kondo2021#^kondo2021-1|Involvement of the cytokines tumor necrosis factor (TNF)-α and interleukin (IL)-6 is centr…]]
+- [[papers/Kondo2021#^kondo2021-1|recent research has revealed that other cytokines such as IL-7, IL-17, IL-21, IL-23, granu…]]
+
+**Gao2024**
+- [[papers/Gao2024#^gao2024-1|the overall remission rates of RA still stay at a low level]]
+- [[papers/Gao2024#^gao2024-2|The six major metabolic pathways, namely glycolysis, tricarboxylic acid cycle, pentose pho…]]
+- [[papers/Gao2024#^gao2024-3|CD4+ T cells in RA shift from glycolysis to PPP, while anaerobic glycolysis in RA‐FLS incr…]]
+
+**Hansildaar2021**
+- [[papers/Hansildaar2021#^hansildaar2021-1|Rheumatoid arthritis is an accepted independent risk factor for cardiovascular disease, dr…]]
+- [[papers/Hansildaar2021#^hansildaar2021-2|Patients with rheumatoid arthritis have up to a two-times higher risk of developing athero…]]
+- [[papers/Hansildaar2021#^hansildaar2021-3|Decreased disease activity following effective therapy is associated with a lower cardiova…]]
+- [[papers/Hansildaar2021#^hansildaar2021-3|about 50% of increased cardiovascular disease risk in patients with rheumatoid arthritis i…]]
+
+<!-- key-sentences:end -->
+
 ---
 
 ## ✍️ فقرة 1: الخلايا والـ cytokines (افتح Ding Fig 4 وانت بتكتب)
@@ -39,7 +61,7 @@ status: ready-to-write
 
 10. **[immunometabolism]** خلايا RA بتعمل **metabolic reprogramming**: 6 مسارات metabolic (glycolysis، TCA، PPP، fatty acid oxidation/synthesis، amino acids) ليهم دور في activation و proliferation. `[Gao2024]`
 11. **[مثال]** RA-FLS بتزوّد الـ anaerobic glycolysis → lactate كتير؛ و CD4+ T cells بتتحول لـ PPP. `[Gao2024]`
-12. **[comorbidity]** مرضى RA عندهم CV risk أعلى؛ حوالي **50%** بس من الزيادة دي سببها traditional risk factors، والباقي من الالتهاب نفسه. `[Hansildaar2021]`
+12. **[comorbidity]** مرضى RA عندهم CV risk أعلى؛ حوالي **50%** بس من الزيادة دي مرتبطة بـ traditional risk factors؛ و RA نفسه independent risk factor بسبب الـ chronic inflammation. `[Hansildaar2021]`
 13. **[الجسر — آخر جملة]** يعني أدوية بتظبط الـ metabolism (AMPK، PPAR) أو بتقلل الـ CV risk ممكن تفيد مرتين: على الالتهاب وعلى الـ comorbidity ← ده موضوع القسم الجاي.
 
 ---

@@ -24,7 +24,7 @@ This study was a retrospective cohort study using patients derived from the IQVI
 
 #### Results
 
-During the study period, the incidence of RA was 8.1 and 10.6 per 10 000 person-years in the exposed and unexposed groups, respectively. The adjusted hazard ratio (aHR) was 0.73 (95% CI 0.67, 0.79). In patients who had not used statins in their lifetime, the aHR was 0.89 (95% CI 0.69, 1.14). When quantifying the effects of glycaemic control, anti-diabetic drugs and statins using time-varying analyses, there was no association with glycaemic control [aHR 1.00 (95% CI 0.99, 1.00)], use of metformin [aHR 1.00 (95% CI 0.82, 1.22)], dipeptidyl peptidase-4 inhibitors [DPP4is; aHR 0.94 (95% CI 0.71, 1.24)] and the development of RA. However, statins demonstrated a protective effect for progression of RA in those with T2DM [aHR 0.76 (95% CI 0.66, 0.88)], with evidence of a duration–response relationship.
+During the study period, the incidence of RA was 8.1 and 10.6 per 10 000 person-years in the exposed and unexposed groups, respectively. The adjusted hazard ratio (aHR) was 0.73 (95% CI 0.67, 0.79). In patients who had not used statins in their lifetime, the aHR was 0.89 (95% CI 0.69, 1.14). When quantifying the effects of glycaemic control, anti-diabetic drugs and statins using time-varying analyses, there was no association with glycaemic control [aHR 1.00 (95% CI 0.99, 1.00)], ==use of metformin [aHR 1.00 (95% CI 0.82, 1.22)]==, dipeptidyl peptidase-4 inhibitors [DPP4is; aHR 0.94 (95% CI 0.71, 1.24)] and the development of RA. However, ==statins demonstrated a protective effect for progression of RA in those with T2DM [aHR 0.76 (95% CI 0.66, 0.88)]==, with evidence of a duration–response relationship. ^zemedikun2021-1
 
 
 #### Conclusion

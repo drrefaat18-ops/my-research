@@ -21,12 +21,12 @@ It is necessary to understand whether the antihypertensive drugs have a dual eff
 
 #### Methods:
 
-Peripheral Blood Mononuclear Cells (PBMCs) from 16 RA patients were purified and stimulated or not stimulated with anti-CD3 and anti-CD28 mAB and were treated with Enalapril, Losartan and Valsartan at 100μM. Patients were evaluated for clinical and laboratory variables including measures of disease activity by Clinical Disease Activity Index (CDAI) and Disease Activity Score (DAS28). Cytokines were quantified by ELISA sandwich.
+==Peripheral Blood Mononuclear Cells (PBMCs) from 16 RA patients were purified and stimulated or not stimulated with anti-CD3 and anti-CD28 mAB and were treated with Enalapril, Losartan and Valsartan at 100μM.== Patients were evaluated for clinical and laboratory variables including measures of disease activity by Clinical Disease Activity Index (CDAI) and Disease Activity Score (DAS28). Cytokines were quantified by ELISA sandwich. ^cardoso2018-1
 
 
 #### Results:
 
-Losartan was able to reduce levels of IFN-γ (p = 0.0181), IL-6 (p = 0.0056), IL-17F (0.0046) and IL-22 (p = 0.0234) in RA patients. In addition, patients in remission and mild score (DAS28<3.2 and CDAI<10) had a better response to treatment. On the other hand, patients in moderate and severe activity had poor response to Losartan in cytokine inhibition.
+==Losartan was able to reduce levels of IFN-γ (p = 0.0181), IL-6 (p = 0.0056), IL-17F (0.0046) and IL-22 (p = 0.0234) in RA patients.== In addition, patients in remission and mild score (DAS28<3.2 and CDAI<10) had a better response to treatment. On the other hand, ==patients in moderate and severe activity had poor response to Losartan in cytokine inhibition==. ^cardoso2018-2
 
 
 #### Conclusion:
@@ -95,7 +95,7 @@ A total of 16 patients fulfilled four or more American College of Rheumatology (
 
 The first step was to evaluate the cytotoxicity of the antihypertensives Enalapril (E), Losartan (L) and Valsartan (V) in PBMC to confirm a non-toxic concentration. We tested five different concentrations (10, 25, 50, 75 and 100µM) in triplicate of concentration and triplicate of experiment. None of the drugs tested showed toxicity at the used concentration and viability was higher than 98% (data not shown) and the 100μM was used for tests.
 
-Cytokines levels can be seen in Fig. (1). Median, maximum and minimum expresses the results. There was a significant decrease in IFN-γ by Enalapril at 100µM [2988.53 (18895.29-4.68)] (p= 0.0302) compared to the stimulated condition [5157.895 (63637.65-155.29)] and IL-22 [13.65 (195.58-7.81)] compared to mAB stimulation only [100.84 (218.67-9.50)] (p=0.0161).
+Cytokines levels can be seen in Fig. (1). Median, maximum and minimum expresses the results. ==There was a significant decrease in IFN-γ by Enalapril at 100µM== [2988.53 (18895.29-4.68)] (p= 0.0302) compared to the stimulated condition [5157.895 (63637.65-155.29)] and IL-22 [13.65 (195.58-7.81)] compared to mAB stimulation only [100.84 (218.67-9.50)] (p=0.0161). ^cardoso2018-3
 
 Losartan had immunomodulatory effects reducing IFN-γ, IL-6, IL-17F and IL-22. For IFN-γ, there was significant decrease by Losartan at 100μM [2252.6 (20461.1-4.6)] compared to the stimulated condition (p = 0.0181). For IL-6 it was [2154.2 (8480.8-4.6)] compared to the stimulated condition [3178.60 (10064.8-136.4)] (p = 0.0056). We also found a significant reduction in IL-17F by Losartan [457.6 (1239.8-129.6)] compared to the stimulated condition [1181.5 (3836.5-236.0)] (p = 0.0046). Finally, IL-22 had a significant reduction by Losartan in RA group [100.4 (175.5-7.8)] compared to the stimulated condition [100.84 (218.67-9.50)] (p = 0.0234). Valsartan showed no significant association.
 
@@ -115,7 +115,7 @@ RA develops and progresses with the immune system imbalance involving defense ce
 
 For SAH in RA, the indicated treatment is composed of ACE and/or ARBs, preferably (11). ACE inhibitors and ARBs are used in the treatment of cardiovascular diseases with good results, including for RA patients [30]. Cardiovascular risk factors and systemic inflammation are associated with the rapid progression of carotid intima-media thickness in RA patients [31]. For this reason, it is necessary to test whether the antihypertensive drugs promote immunomodulation and if one of them can be a first decision for the SAH treatment in RA patients.
 
-Our results show that Losartan at 100µM could significantly reduce IFN-γ, IL-6, IL-17F, IL-22 cytokine levels secreted by PBMCs in RA cultures. The other antihypertensive drugs tested, Enalapril and Valsartan had few or no immunomodulatory effects on the production of proinflammatory cytokines in PBMCs.
+Our results show that Losartan at 100µM could significantly reduce IFN-γ, IL-6, IL-17F, IL-22 cytokine levels secreted by PBMCs in RA cultures. ==The other antihypertensive drugs tested, Enalapril and Valsartan had few or no immunomodulatory effects on the production of proinflammatory cytokines in PBMCs.== ^cardoso2018-4
 
 We showed that Losartan consistently reduced IL-17F cytokine levels in a 100µM concentration. In addition, IL-17F correlates with disease severity by DAS28 and CDAI, Losartan was able to sensitize patients' cells in remission/mild/moderate RA condition reducing the levels of this cytokine, but no effects were seen in severe score.
 
@@ -132,4 +132,4 @@ Of the three antihypertensive drugs tested, Losartan improved immunomodulatory e
 
 ## CONCLUSION
 
-In conclusion, our findings suggest that the Losartan therapy does modulate IFN-γ, IL-6, IL-17F and IL-22 at 100µM in PBMCs from RA patients according to disease activity. Moreover, none significative immunomodulatory activities were observed with Enalapril or Valsartan at 100µM in cytokine production, suggesting Losartan could be a better option for SAH treatment in RA patients. Further studies are still needed to elucidate the molecular mechanism that Losartan acts in PBMCs.
+==In conclusion, our findings suggest that the Losartan therapy does modulate IFN-γ, IL-6, IL-17F and IL-22 at 100µM in PBMCs from RA patients according to disease activity.== Moreover, none significative immunomodulatory activities were observed with Enalapril or Valsartan at 100µM in cytokine production, suggesting Losartan could be a better option for SAH treatment in RA patients. Further studies are still needed to elucidate the molecular mechanism that Losartan acts in PBMCs. ^cardoso2018-5

@@ -16,17 +16,17 @@ The risk of rheumatoid arthritis (RA) associated with dipeptidyl peptidase-4 inh
 
 #### Methods
 
-This was a nested case–control study, using the adult diabetic population starting second-line antidiabetic therapy from IMS LifeLink Plus® database (2006–2015). Cases were those with two or more RA diagnosis, at least one prescription, and 180 days enrollment prior to the event date (earliest of the two: first RA diagnosis, first RA prescription). Controls were drawn from the nest after matching (1:15) with cases on index date (± 90 days), age (± 5 years), sex, and event date (imputed to have the same time difference between cohort entry and event date as the matched case). Exposure and covariate information was gathered from the 180-day period prior to event date. Conditional logistic regression was used to assess exposure among cases and controls. Adjusted analysis was carried out after controlling for important medications and comorbidities.
+==This was a nested case–control study, using the adult diabetic population starting second-line antidiabetic therapy from IMS LifeLink Plus® database (2006–2015).== Cases were those with two or more RA diagnosis, at least one prescription, and 180 days enrollment prior to the event date (earliest of the two: first RA diagnosis, first RA prescription). Controls were drawn from the nest after matching (1:15) with cases on index date (± 90 days), age (± 5 years), sex, and event date (imputed to have the same time difference between cohort entry and event date as the matched case). Exposure and covariate information was gathered from the 180-day period prior to event date. Conditional logistic regression was used to assess exposure among cases and controls. Adjusted analysis was carried out after controlling for important medications and comorbidities. ^kathe2018-1
 
 
 #### Results
 
-The final sample consists of 790 cases and 11,850 controls; of these, 151 cases (19.11%) and 2177 controls (18.37%) had DPP-4i claims during the exposure assessment period. DPP-4i therapy was not significantly associated with the development of RA after adjusting for covariates (OR = 1.156, 95% CI 0.936–1.429). Changing the exposure definition or exposure window to 1 year and subgroup analyses yielded similar results except for the non-insulin-using subgroup (OR = 1.299, 95% CI 1.001–1.985) which showed a significant positive association.
+==The final sample consists of 790 cases and 11,850 controls; of these, 151 cases (19.11%) and 2177 controls (18.37%) had DPP-4i claims== during the exposure assessment period. ==DPP-4i therapy was not significantly associated with the development of RA after adjusting for covariates (OR = 1.156, 95% CI 0.936–1.429).== Changing the exposure definition or exposure window to 1 year and subgroup analyses yielded similar results ==except for the non-insulin-using subgroup (OR = 1.299, 95% CI 1.001–1.985) which showed a significant positive association==. ^kathe2018-2
 
 
 #### Conclusion
 
-DPP-4i were not significantly associated with the risk of RA compared with other second-line antidiabetic therapies.
+==DPP-4i were not significantly associated with the risk of RA compared with other second-line antidiabetic therapies.== ^kathe2018-3
 
 
 ## Introduction

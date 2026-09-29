@@ -16,17 +16,17 @@ Statins (hydroxymethylglutaryl coenzyme A reductase inhibitors) are effective in
 
 #### Methods
 
-The mouse collagen type II (CII)-induced arthritis (CIA) model was used, with immunization, challenge, and euthanasia at days 0, 21, and 42, respectively. Statins were given orally before (day -28 until day 21) or after (day 21 until day 42) CIA induction. Atorvastatin (0.2 mg/day) or pravastatin (0.8 mg/day) was administered. Arthritis was recorded three times a week. Serum anti-CII autoantibodies and cytokines in supernatants from Concanavalin-A-stimulated lymph node cells and CII-stimulated spleen cells were measured.
+The mouse collagen type II (CII)-induced arthritis (CIA) model was used, with immunization, challenge, and euthanasia at days 0, 21, and 42, respectively. Statins were given orally before (day -28 until day 21) or after (day 21 until day 42) CIA induction. ==Atorvastatin (0.2 mg/day) or pravastatin (0.8 mg/day) was administered.== Arthritis was recorded three times a week. Serum anti-CII autoantibodies and cytokines in supernatants from Concanavalin-A-stimulated lymph node cells and CII-stimulated spleen cells were measured. ^vandebriel2012-1
 
 
 #### Results
 
-Statin administration accelerated arthritis onset and resulted in 100% arthritic animals, whereas only seven out of 12 nonstatin control animals developed arthritis. Atorvastatin administration after CIA induction resulted in earlier onset than atorvastatin administration before induction, or than pravastatin administration before or after induction. The arthritic score of animals given pravastatin before CIA induction was similar to that of the nonstatin controls, whereas the other groups that received statins showed higher arthritic scores. Atorvastatin administration, especially before CIA induction, increased anti-CII autoantibody production. IL-2 and IL-17 production by lymph node and spleen cells was higher in CIA animals than in PBS controls, but was not affected by statin administration. While IFNγ production was not affected by CIA induction, atorvastatin administration before CIA induction increased the production of this cytokine.
+==Statin administration accelerated arthritis onset and resulted in 100% arthritic animals, whereas only seven out of 12 nonstatin control animals developed arthritis.== Atorvastatin administration after CIA induction resulted in earlier onset than atorvastatin administration before induction, or than pravastatin administration before or after induction. The arthritic score of animals given pravastatin before CIA induction was similar to that of the nonstatin controls, whereas the other groups that received statins showed higher arthritic scores. ==Atorvastatin administration, especially before CIA induction, increased anti-CII autoantibody production.== IL-2 and IL-17 production by lymph node and spleen cells was higher in CIA animals than in PBS controls, but was not affected by statin administration. While IFNγ production was not affected by CIA induction, atorvastatin administration before CIA induction increased the production of this cytokine. ^vandebriel2012-2
 
 
 #### Conclusion
 
-These data support previous results from our observational studies, indicating a role for statins in the induction of autoimmunity.
+==These data support previous results from our observational studies, indicating a role for statins in the induction of autoimmunity.== ^vandebriel2012-3
 
 
 ## Introduction
