@@ -16,3 +16,8 @@ tmp/*.txt
 tmp/*.py
 tmp/*.md
 tmp/codex_run_ppar/
+
+# RA review: large re-downloadable binaries (PMC open-data S3)
+08 - RA Repurposing Review/papers/pdf/
+08 - RA Repurposing Review/papers/figs/
+08 - RA Repurposing Review/papers/text/
