@@ -16,17 +16,21 @@ Rheumatoid arthritis (RA) is a chronic inflammatory autoimmune disease associate
 
 #### Methods:
 
-==Data was pooled from five randomised trials investigating tocilizumab and/or csDMARD treatment in RA (primarily methotrexate).== The association between BB use and remission according to the Simplified Disease Activity Index (SDAI) and Clinical Disease Activity Index (CDAI) was assessed by Cox proportional hazard analysis. Sensitivity analysis in patients with pre-existing CVD and an exploratory analysis of the impact of other CVD drugs were conducted. ^abuhelwa2021-1
+Data was pooled from five randomised trials investigating tocilizumab and/or csDMARD treatment in RA (primarily methotrexate). The association between BB use and remission according to the Simplified Disease Activity Index (SDAI) and Clinical Disease Activity Index (CDAI) was assessed by Cox proportional hazard analysis. Sensitivity analysis in patients with pre-existing CVD and an exploratory analysis of the impact of other CVD drugs were conducted.
 
 
 #### Results:
 
-==Data were available from 5502 participants, 594 (10.8%) of whom were using systemic BB.== ==BB use was associated with less frequent SDAI remission in the total [adjusted hazard ratio (HR) 0.70, 95% confidence interval (CI) 0.57–0.87, p = 0.001]== and CVD cohort [adjusted HR 0.72 (0.57–0.90, p = 0.005)]. The association was consistent between trials (interaction p = 0.44) and treatment arms (interaction p = 0.06). No significant association between remission and β1-receptor selectivity was identified (p = 0.16), and the association was independent from other cardiovascular drug use. Similar associations between BB use and CDAI remission were observed. ^abuhelwa2021-2
+==Data were available from 5502 participants, 594 (10.8%) of whom were using systemic BB.== ^abuhelwa2021-2
+
+==BB use was associated with less frequent SDAI remission in the total [adjusted hazard ratio (HR) 0.70, 95% confidence interval (CI) 0.57–0.87, p = 0.001]== ^abuhelwa2021-3
+
+and CVD cohort [adjusted HR 0.72 (0.57–0.90, p = 0.005)]. The association was consistent between trials (interaction p = 0.44) and treatment arms (interaction p = 0.06). No significant association between remission and β1-receptor selectivity was identified (p = 0.16), and the association was independent from other cardiovascular drug use. Similar associations between BB use and CDAI remission were observed.
 
 
 #### Conclusion:
 
-==In a large, pooled cohort of RA patients initiating csDMARDs and/or tocilizumab, BB use was independently associated with less frequent remission.== ^abuhelwa2021-3
+In a large, pooled cohort of RA patients initiating csDMARDs and/or tocilizumab, BB use was independently associated with less frequent remission.
 
 
 ## Introduction

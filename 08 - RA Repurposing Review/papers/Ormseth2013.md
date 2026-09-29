@@ -11,22 +11,34 @@
 
 #### Introduction
 
-Rheumatoid arthritis (RA), a chronic inflammatory disease, is associated with insulin resistance. ==Experimental evidence indicates that the relationship between insulin resistance and inflammation is bidirectional: Inflammation promotes insulin resistance, and insulin resistance promotes inflammation.== Therefore, we examined the hypothesis that pioglitazone, a thiazolidinedione peroxisome proliferator-activated receptor γ agonist, would decrease inflammation and disease activity and improve insulin resistance in patients with RA. ^ormseth2013-1
+Rheumatoid arthritis (RA), a chronic inflammatory disease, is associated with insulin resistance.
+
+==Experimental evidence indicates that the relationship between insulin resistance and inflammation is bidirectional: Inflammation promotes insulin resistance, and insulin resistance promotes inflammation.== ^ormseth2013-1
+
+Therefore, we examined the hypothesis that pioglitazone, a thiazolidinedione peroxisome proliferator-activated receptor γ agonist, would decrease inflammation and disease activity and improve insulin resistance in patients with RA.
 
 
 #### Methods
 
-==In a single-center, randomized, double-blind, placebo-controlled crossover study patients with RA (N = 34) receiving stable therapy were randomized to also receive either pioglitazone 45 mg daily (n = 17) or matching placebo (n = 17) for eight weeks.== This was followed by a four-week washout period and alternative treatment for eight weeks. Outcomes included change in Disease Activity Score in 28 joints (DAS28) score, individual components of the DAS28 score and homeostatic model assessment for insulin resistance (HOMA). Intention-to-treat analysis and linear mixed-effects models were used.
+==In a single-center, randomized, double-blind, placebo-controlled crossover study patients with RA (N = 34) receiving stable therapy were randomized to also receive either pioglitazone 45 mg daily (n = 17) or matching placebo (n = 17) for eight weeks.== ^ormseth2013-3
+
+This was followed by a four-week washout period and alternative treatment for eight weeks. Outcomes included change in Disease Activity Score in 28 joints (DAS28) score, individual components of the DAS28 score and homeostatic model assessment for insulin resistance (HOMA). Intention-to-treat analysis and linear mixed-effects models were used.
 
 
 #### Results
 
-Patients had a mean (±SD) age of 51 (±14.2) years, 82.4% were female and baseline DAS28 high-sensitivity C-reactive protein (DAS28-CRP) was 4.58 (±1.1) units. ==Addition of pioglitazone was associated with a 9.3% reduction (95% confidence interval (CI) = 0.17% to 17.6%) in DAS28-CRP (P = 0.046), but no significant change in DAS28 erythrocyte sedimentation rate (DAS28-ESR) (P = 0.92).== There was a 10.7mm (95% CI = 0.4 to 20.9 mm) improvement in patient-reported global health (P = 0.042), ==a 48.6% decrease (95% CI = 27.6% to 63.5%) in CRP (P < 0.001) and a 26.4% decrease (95% CI = 3.7% to 43.8%) in insulin resistance as measured by HOMA (P = 0.025)==, ==but no significant reduction in swollen or tender joint count or in ESR (all P > 0.05).== ==Lower-extremity edema was more common during pioglitazone treatment (16%) than placebo (0%).== ^ormseth2013-2
+Patients had a mean (±SD) age of 51 (±14.2) years, 82.4% were female and baseline DAS28 high-sensitivity C-reactive protein (DAS28-CRP) was 4.58 (±1.1) units.
+
+==Addition of pioglitazone was associated with a 9.3% reduction (95% confidence interval (CI) = 0.17% to 17.6%) in DAS28-CRP (P = 0.046), but no significant change in DAS28 erythrocyte sedimentation rate (DAS28-ESR) (P = 0.92).== ^ormseth2013-2
+
+There was a 10.7mm (95% CI = 0.4 to 20.9 mm) improvement in patient-reported global health (P = 0.042), a 48.6% decrease (95% CI = 27.6% to 63.5%) in CRP (P < 0.001) and a 26.4% decrease (95% CI = 3.7% to 43.8%) in insulin resistance as measured by HOMA (P = 0.025), but no significant reduction in swollen or tender joint count or in ESR (all P > 0.05).
+
+==Lower-extremity edema was more common during pioglitazone treatment (16%) than placebo (0%).== ^ormseth2013-4
 
 
 #### Conclusion
 
-==Addition of pioglitazone to RA therapy improves insulin resistance and modestly reduces RA disease activity measured by DAS28-CRP and two of its components, including patient-reported global health and CRP, but not DAS28-ESR or ESR.== ^ormseth2013-3
+Addition of pioglitazone to RA therapy improves insulin resistance and modestly reduces RA disease activity measured by DAS28-CRP and two of its components, including patient-reported global health and CRP, but not DAS28-ESR or ESR.
 
 
 #### Trial registration

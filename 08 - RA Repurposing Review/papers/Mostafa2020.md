@@ -16,19 +16,29 @@ Rheumatoid artherits (RA) is a refractory disease and the imbalance between pro-
 
 #### Methods:
 
-In this single-blinded parallel randomized placebo controlled study, the patients recruited between December 2017 and May 2018 were categorized into three groups: ==group 1 included 15 RA patients who served as control group and received traditional therapy (+ placebo); group 2 included 15 RA patients who received traditional therapy + candesartan (8 mg/day)==; and group 3 included 15 patients who received traditional therapy + atorvastatin (20 mg/day) for three months. Clinical status in RA patients was evaluated by Disease Activity Score 28 (DAS28), Health Assessment Questionnaire-Disability Index (HAQ-DI) and morning stiffness before and three months after treatment. All groups were subjected to biochemical analysis of C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), tumour necrosis factor-alpha (TNF-α), interleukin-1beta (IL-1β) and malondialdehyde (MDA) before and three months after treatment. ^mostafa2020-1
+==In this single-blinded parallel randomized placebo controlled study, the patients recruited between December 2017 and May 2018 were categorized into three groups: group 1 included 15 RA patients who served as control group and received traditional therapy (+ placebo); group 2 included 15 RA patients who received traditional therapy + candesartan (8 mg/day); and group 3 included 15 patients who received traditional therapy + atorvastatin (20 mg/day) for three months.== ^mostafa2020-1
+
+Clinical status in RA patients was evaluated by Disease Activity Score 28 (DAS28), Health Assessment Questionnaire-Disability Index (HAQ-DI) and morning stiffness before and three months after treatment. All groups were subjected to biochemical analysis of C-reactive protein (CRP), erythrocyte sedimentation rate (ESR), tumour necrosis factor-alpha (TNF-α), interleukin-1beta (IL-1β) and malondialdehyde (MDA) before and three months after treatment.
 
 
 #### Results:
 
-==Both candesartan and atorvastatin treated groups showed significant decrease in serum levels IL-1β and TNF-α, acute-phase reactants (CRP and ESR), number of swollen joint and patient global assessment.== This was also associated with improvement in disease activity and quality of life regarding DAS28 and HAQ-DI as compared to baseline data and the control group. Atorvastatin group showed significant decrease in the serum level of oxidative stress marker (MDA). ^mostafa2020-2
+==Both candesartan and atorvastatin treated groups showed significant decrease in serum levels IL-1β and TNF-α, acute-phase reactants (CRP and ESR), number of swollen joint and patient global assessment.== ^mostafa2020-2
+
+==This was also associated with improvement in disease activity and quality of life regarding DAS28 and HAQ-DI as compared to baseline data and the control group.== ^mostafa2020-3
+
+Atorvastatin group showed significant decrease in the serum level of oxidative stress marker (MDA).
 
 
 #### Interpretation & conclusions:
 
-==Both candesartan and atorvastatin showed anti-inflammatory effect and immunomodulatory effects leading to improvement in clinical status and disease activity in RA patients. However, atorvastatin was superior to candesartan through its anti-oxidant effect.== ^mostafa2020-3
+Both candesartan and atorvastatin showed anti-inflammatory effect and immunomodulatory effects leading to improvement in clinical status and disease activity in RA patients. However, atorvastatin was superior to candesartan through its anti-oxidant effect.
 
-Rheumatoid arthritis (RA) is a chronic, inflammatory, systemic autoimmune disease affecting mostly the joints but often with systemic involvement, characterized by chronic inflammation and the progressive destruction of joints1. An imbalance between pro-inflammatory and anti-inflammatory cytokines in favour of the pro-inflammatory cytokines [interleukin-1beta (IL-1β) or tumour necrosis factor-alpha (TNF-α)] has been implicated in the pathogenesis of RA2. The balance between pro- and anti-inflammatory cytokines is a potential therapeutic target in RA. Renin-angiotensin system is known to be involved in inflammation and immune responses of autoimmune disorders, including RA3. ==Angiotensin II activates angiotensin II type 1 receptors (AT1R), resulting in the production of reactive oxygen species and nuclear factor Kappa B (NF-kB) activation leading to the production of various inflammatory cytokines==45. ==AT1Rs are upregulated in the rheumatoid synovium and thus may be a novel therapeutic target== and angiotensin II-receptor blockers (ARBs) may provide anti-inflammatory benefits6. ^mostafa2020-4
+Rheumatoid arthritis (RA) is a chronic, inflammatory, systemic autoimmune disease affecting mostly the joints but often with systemic involvement, characterized by chronic inflammation and the progressive destruction of joints1. An imbalance between pro-inflammatory and anti-inflammatory cytokines in favour of the pro-inflammatory cytokines [interleukin-1beta (IL-1β) or tumour necrosis factor-alpha (TNF-α)] has been implicated in the pathogenesis of RA2. The balance between pro- and anti-inflammatory cytokines is a potential therapeutic target in RA. Renin-angiotensin system is known to be involved in inflammation and immune responses of autoimmune disorders, including RA3.
+
+==Angiotensin II activates angiotensin II type 1 receptors (AT1R), resulting in the production of reactive oxygen species and nuclear factor Kappa B (NF-kB) activation leading to the production of various inflammatory cytokines== ^mostafa2020-4
+
+45. AT1Rs are upregulated in the rheumatoid synovium and thus may be a novel therapeutic target and angiotensin II-receptor blockers (ARBs) may provide anti-inflammatory benefits6.
 
 Statins are widely used as cholesterol-lowering agents and also have pleiotropic effects78, which encompass modification of endothelial function, plaque stability and thrombus formation. Statins act as immunomodulators and suppress T-cell activation, and decrease inducible major histocompatibility complex-class II (MHC-II) protein expression by interferon-γ on human endothelial cells and macrophages9. Statins also have anti-inflammatory properties that regulate leucocyte-endothelial cell adhesion, reduce nitric oxide (NO) production and decrease levels of inflammatory cytokines such as TNF-α, IL-1 and IL-610. Therefore, the present study was aimed to compare the anti-inflammatory effect of candesartan and atorvastatin in RA patients, through evaluating their impact on inflammatory and oxidative stress markers including TNF-α, IL-1β, C-reactive protein (CRP), erythrocyte sedimentation rate (ESR) and malondialdehyde (MDA). Furthermore, the clinical status and disease activity of RA patients were also assessed by including the number of swollen joints (NSJ), number of tender joints (NTJ) and morning stiffness with subsequent effect on the quality of life.
 
@@ -41,7 +51,7 @@ Inclusion criteria included patients with moderate-to-high disease activity and 
 
 The study protocol was approved by the Tanta University Research Ethical Committee, Tanta, Egypt, prior to enrolment of the patients and all participants gave their written informed consent (Clinical Trials.gov Identifier: NCT03770702).
 
-Study design: The study design was single blind parallel randomized placebo controlled study to compare anti-inflammatory effects of candesartan and atorvastatin in RA patients. Ninety five RA patients were randomly selected using sealed envelopes method from a total of 200 patients who attended the hospital. Fifty nine of the eligible patients fulfilled the inclusion criteria and ==sub-classified into three parallel groups according to their associated medical condition==. Out of the 59 eligible patients, only 45 patients completed the study. Fourteen patients did not receive treatment and were excluded from the analysis (Figure). Group 1 served as control group and patients received traditional therapy + placebo (n=15), group 2 patients received traditional therapy + candesartan, 8 mg/day (n=15). Group 3 patients received traditional therapy + atorvastatin, 20 mg/day (n=15) for three months. Medical history of the patients was taken, and demographic data were collected at baseline through a questionnaire. All patients were followed up weekly to ensure compliance to the treatment. Venous blood (5 ml) was drawn from each patient (after 10-12 h fasting) between 9 and 11 h before and after the treatment course; serum was separated after centrifugation, coded and stored at −80°C until analysis. ^mostafa2020-5
+Study design: The study design was single blind parallel randomized placebo controlled study to compare anti-inflammatory effects of candesartan and atorvastatin in RA patients. Ninety five RA patients were randomly selected using sealed envelopes method from a total of 200 patients who attended the hospital. Fifty nine of the eligible patients fulfilled the inclusion criteria and sub-classified into three parallel groups according to their associated medical condition. Out of the 59 eligible patients, only 45 patients completed the study. Fourteen patients did not receive treatment and were excluded from the analysis (Figure). Group 1 served as control group and patients received traditional therapy + placebo (n=15), group 2 patients received traditional therapy + candesartan, 8 mg/day (n=15). Group 3 patients received traditional therapy + atorvastatin, 20 mg/day (n=15) for three months. Medical history of the patients was taken, and demographic data were collected at baseline through a questionnaire. All patients were followed up weekly to ensure compliance to the treatment. Venous blood (5 ml) was drawn from each patient (after 10-12 h fasting) between 9 and 11 h before and after the treatment course; serum was separated after centrifugation, coded and stored at −80°C until analysis.
 
 > **Figure** Flowchart showing study design.
 
@@ -60,7 +70,11 @@ Statistical analysis: All data were analyzed using IBM SPSS Statistical Package 
 
 ## Results
 
-The three groups were matched for age, sex, disease duration and the RA treatment protocols as illustrated in Table I. The ANOVA test was used to compare clinical, laboratory and biochemical parameters between the three groups at baseline and three months after treatment (Table II). At baseline the three groups were significantly different in systolic blood pressure (SBP), diastolic blood pressure (DBP), total cholesterol (TC), high-density lipoprotein (HDL), triglycerides (TGs), morning stiffness, CRP, and HAQ-DI. At three months after treatment TC, HDL, LDL, morning stiffness, ESR, and HAQ-DI were significantly different among the three groups (Table II).
+The three groups were matched for age, sex, disease duration and the RA treatment protocols as illustrated in Table I. The ANOVA test was used to compare clinical, laboratory and biochemical parameters between the three groups at baseline and three months after treatment (Table II).
+
+==At baseline the three groups were significantly different in systolic blood pressure (SBP), diastolic blood pressure (DBP), total cholesterol (TC), high-density lipoprotein (HDL), triglycerides (TGs), morning stiffness, CRP, and HAQ-DI.== ^mostafa2020-5
+
+At three months after treatment TC, HDL, LDL, morning stiffness, ESR, and HAQ-DI were significantly different among the three groups (Table II).
 
 > **Table I** Demographic data and baseline treatment of patients of the study groups
 
@@ -70,7 +84,11 @@ Furthermore, ANOVA was used to compare the percentage of mean changes in clinica
 
 > **Table III** Percentage of mean changes in clinical and biochemical parameters regarding inflammation after three months treatment
 
-Both candesartan and atorvastatin treated groups (groups 2 and 3) showed significant decrease in serum levels of IL-1β, TNF-α and acute-phase reactants (CRP and ESR) as compared to baseline values. As compared to the base line, ==patients on atorvastatin showed significant decrease in RF and MDA levels, while patients on candesartan showed non-significant changes in these parameters== (Table II). ^mostafa2020-6
+Both candesartan and atorvastatin treated groups (groups 2 and 3) showed significant decrease in serum levels of IL-1β, TNF-α and acute-phase reactants (CRP and ESR) as compared to baseline values. As compared to the base line,
+
+==patients on atorvastatin showed significant decrease in RF and MDA levels, while patients on candesartan showed non-significant changes in these parameters== ^mostafa2020-6
+
+(Table II).
 
 The decrease in the serum level of inflammatory cytokines (IL-1β and TNF-α) was accompanied by significant improvement in physical and clinical parameters regarding PGA, number of tender joints (NSJ) and morning stiffness. This was also associated with improvement in the disease activity and the quality of life regarding DAS28 and HAQ-DI for both candesartan and atorvastatin groups as compared to baseline data and as compared to the control group throughout the three months follows up period.
 

@@ -127,7 +127,7 @@ medications affecting lipid metabolism such as lipid-lowering drugs, oral
 prednisolone > 10 mg/day, beta blockers, oral contraceptives, estrogen, 
 progestin, thyroxin, and vitamin E were excluded. 
 Study design. Patients with RA were randomly divided into 2 groups and 
-==the treatment was given in unblinded fashion. Group 1 (n = 15) received== 
+==the treatment was given in unblinded fashion. Group 1 (n = 15) received==  ^elbarbary2010-7
 methotrexate (MTX; 0.2 mg/kg/week; mean total dose/wk 15.5 ± SD 1.3) 
 plus prednisone (10 mg/day); Group 2 (n = 15) received MTX and pred -
 nisone with the same dose as Group 1 plus atorvastatin therapy (40 

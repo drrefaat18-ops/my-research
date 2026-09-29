@@ -1,5 +1,7 @@
 ---
-tags: [review-article, checklist]
+tags:
+  - review-article
+  - checklist
 deadline: 2026-10-06
 ---
 
@@ -24,11 +26,11 @@ deadline: 2026-10-06
 
 ## اليوم 1 — الأربعاء 30/9 ← [[drafts/Day1]]
 
-- [ ] **5.** 🟦 Metformin: اقرا [[4.1a-Metformin]] ← اكتب في Day1 تحت "4.1.1"
-- [ ] **6.** 🟦 Statins: اقرا [[4.2a-Statins]] ← اكتب في Day1 تحت "4.2.1"
-- [ ] **7.** 🟦 قول لـ Claude "خلصت يوم 1"
-- [ ] **8.** 🟧 Claude يراجع الدقة ← 🟦 صلّح
-- [ ] **9.** 🟧 Claude يجهز إملاء: Intro + Challenges + Conclusion
+- [x] **5.** 🟦 Metformin: اقرا [[4.1a-Metformin]] ← اكتب في Day1 تحت "4.1.1"
+- [x] **6.** 🟦 Statins: اقرا [[4.2a-Statins]] ← اكتب في Day1 تحت "4.2.1"
+- [x] **7.** 🟦 قول لـ Claude "خلصت يوم 1"
+- [x] **8.** 🟧 Claude يراجع الدقة ← 🟦 صلّح
+- [x] **9.** 🟧 Claude يجهز إملاء: Intro + Challenges + Conclusion
 
 ---
 

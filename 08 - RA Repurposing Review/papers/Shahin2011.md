@@ -33,7 +33,11 @@ The concomitant use of the PPAR γ agonist pioglitazone and methotrexate appears
 
 Rheumatoid arthritis (RA) is an autoimmune systemic inflammatory disease. Recent studies have found that there is increased prevalence of coronary artery atherosclerosis1,2 metabolic syndrome3 and insulin resistance4 among RA patients. Furthermore, hyperinsulinemia has been associated with disease activity,4 suggesting that inflammation and hyperinsulinemia somehow interact and facilitate one another.
 
-==Pioglitazone is a member of oral antidiabetic agents, the thiazolidinediones (TZDs).== TZDs have been proven to improve insulin resistance, reduce circulating hyper-insulinemia and master the regulation of adipogenesis and glucose metabolism.5,6 They act as ligands for the peroxisome proliferator-activated receptor gamma (PPAR-γ), a member of the nuclear hormone receptor superfamily of transcription factors. PPAR-γ is expressed in a broad array of human tissues,5 ==Recently, PPAR-γ has been suggested to be an important immunomodulator; it suppresses the production of inflammatory cytokines7,8 matrix metalloproteinases,9 reactive oxygen species10 and inhibits pro-inflammatory gene expression.==11 Furthermore, PPAR-γ ligands have been shown to induce apoptosis in T lymphocytes,12,13 and macrophages.14 ^shahin2011-1
+Pioglitazone is a member of oral antidiabetic agents, the thiazolidinediones (TZDs). TZDs have been proven to improve insulin resistance, reduce circulating hyper-insulinemia and master the regulation of adipogenesis and glucose metabolism.5,6 They act as ligands for the peroxisome proliferator-activated receptor gamma (PPAR-γ), a member of the nuclear hormone receptor superfamily of transcription factors. PPAR-γ is expressed in a broad array of human tissues,5
+
+==Recently, PPAR-γ has been suggested to be an important immunomodulator; it suppresses the production of inflammatory cytokines7,8 matrix metalloproteinases,9 reactive oxygen species10 and inhibits pro-inflammatory gene expression.== ^shahin2011-1
+
+11 Furthermore, PPAR-γ ligands have been shown to induce apoptosis in T lymphocytes,12,13 and macrophages.14
 
 Since the potential anti-inflammatory properties of PPAR-γ ligands on RA activity have been investigated in several experimental arthritis models, this study was conducted to evaluate the effect of PPAR-γ agonist pioglitazone combined with methotrexate (MTX) in RA either experimentally or clinically in RA diabetic patients.
 
@@ -86,7 +90,9 @@ The absorbance of each sample was read on plate ELISA reader.
 
 #### Inclusion criteria
 
-Forty-nine rheumatoid arthritis (RA) patients with diabetes mellitus type II, attending the Rheumatology and Immunology outpatient clinic in Mansoura University Hospital, Egypt between January 2009 and March 2010 were included in the study. The diagnosis of RA was confirmed by a rheumatologist according to the American College of Rheumatology (ACR) 1987 criteria for RA.24 Disease activity was assessed by calculating the disease activity for 28 joint indices (DAS28). Online calculator is available at www.das-score.nl.
+==Forty-nine rheumatoid arthritis (RA) patients with diabetes mellitus type II, attending the Rheumatology and Immunology outpatient clinic in Mansoura University Hospital, Egypt between January 2009 and March 2010 were included in the study.== ^shahin2011-3
+
+The diagnosis of RA was confirmed by a rheumatologist according to the American College of Rheumatology (ACR) 1987 criteria for RA.24 Disease activity was assessed by calculating the disease activity for 28 joint indices (DAS28). Online calculator is available at www.das-score.nl.
 
 
 #### Exclusion criteria
@@ -96,7 +102,11 @@ Pregnant and lactating subjects and patients with history of heart failure, rena
 
 #### Study design
 
-==The present study is a prospective, single blind, therapeutic clinical trial.== Eligible participants were RA and diabetic patients. They were subdivided into two groups. ==The patients group, consisting of the clinically more active (having 2 of the following: >6 swollen joints, >6 tender joints, morning stiffness >one hour) RA patients (n = 28).== They received pioglitazone 30 mg orally, once daily for 12 weeks in addition to their treatment. The control group consisted of the remaining 21 patients who continued their treatment plus placebo orally, once daily for 12 weeks. The treatment of rheumatoid arthritis should be stable for at least three months before study entry and should include methotrexate orally 15 mg/ week plus non steroidal anti-inflammatory and/or oral corticosteroids ≤7.5 mg/day orally. ^shahin2011-2
+The present study is a prospective, single blind, therapeutic clinical trial. Eligible participants were RA and diabetic patients. They were subdivided into two groups.
+
+==The patients group, consisting of the clinically more active (having 2 of the following: >6 swollen joints, >6 tender joints, morning stiffness >one hour) RA patients (n = 28).== ^shahin2011-2
+
+They received pioglitazone 30 mg orally, once daily for 12 weeks in addition to their treatment. The control group consisted of the remaining 21 patients who continued their treatment plus placebo orally, once daily for 12 weeks. The treatment of rheumatoid arthritis should be stable for at least three months before study entry and should include methotrexate orally 15 mg/ week plus non steroidal anti-inflammatory and/or oral corticosteroids ≤7.5 mg/day orally.
 
 All participants underwent two study visits at 0 and 12 weeks for assessment of disease activity, blood sampling, urine pregnancy test and response to therapy. Fasting blood samples were drawn for complete blood count (CBC), erythrocyte sedimentation rate (ESR), C- reactive protein (CRP), liver aminotransferases, and serum creatinine. All subjects also had non study visits at 4, and 8 week for regular follow up and occurrence of side effects.
 
@@ -129,7 +139,7 @@ MTX and pioglitazone combination produced significant decrease of serum TBARS (9
 
 The serum level of the inflammatory mediator, TNF-α was significantly increased in the non treated CIA rats as compared to the non-arthritic group (178.77 ± 14.79 versus 21.71 ± 1.90 pg/ml, P = 0.001). Also, IL-1β, was significantly increased in CIA rats versus the non-arthritic group (24.21 ± 2.39 versus 6.46 ± 0.58 pg/ml, P = 0.001).
 
-Either MTX or pioglitazone treatment resulted in significant reduction of serum level of TNF-α (45.64 ± 4.05 and 92.79 ± 8.06 pg/ml respectively, P = 0.001) and IL1β (12.33 ± 1.42 and 15.43 ± 1.39 pg/ml respectively, P = 0.001) in comparison to that of the non-treated arthritic group. ==It was also noticed that MTX caused significant decrease in both TNF-α (P = 0.001) and IL1β (P = 0.04) as compared to pioglitazone treatment of the arthritic group.==
+Either MTX or pioglitazone treatment resulted in significant reduction of serum level of TNF-α (45.64 ± 4.05 and 92.79 ± 8.06 pg/ml respectively, P = 0.001) and IL1β (12.33 ± 1.42 and 15.43 ± 1.39 pg/ml respectively, P = 0.001) in comparison to that of the non-treated arthritic group. It was also noticed that MTX caused significant decrease in both TNF-α (P = 0.001) and IL1β (P = 0.04) as compared to pioglitazone treatment of the arthritic group.
 
 Further, MTX and pioglitazone combination produced significant improvement of both serum level of TNF-α (36.44 ± 2.53 pg/ml, P < 0.05) and IL1β (10.00 ± 0.90 pg/ml, P < 0.05) in comparison to the non-treated and pioglitazone treated arthritic group (Table 2). There was a non-significant change between the combination and MTX treated arthritic groups.
 
@@ -142,9 +152,11 @@ On the other hand, the placebo treated (pioglitazone non treated) group of patie
 
 When comparing the pioglitazone treated group of patients with the placebo treated group before treatment, it was found that there were significant differences as regard ESR, DAS28 score indicating that pioglitazone treated patients had more active disease (Table 5).
 
-==After 3 months, there were significant reductions of DAS28 and CRP in patients assigned for pioglitazone treatment compared to the other group of patients (P = 0.001 and P < 0.0001 respectively).== Notably, there were no significant differences in blood glucose levels between the two groups (Table 6).
+==After 3 months, there were significant reductions of DAS28 and CRP in patients assigned for pioglitazone treatment compared to the other group of patients (P = 0.001 and P < 0.0001 respectively).== ^shahin2011-4
 
-==Seven (25%) out of the 28 patients who received pioglitazone in the current study reported weight gain.== The increase in weight ranged from 2–4 kg. No other adverse effects were observed. ^shahin2011-3
+Notably, there were no significant differences in blood glucose levels between the two groups (Table 6).
+
+Seven (25%) out of the 28 patients who received pioglitazone in the current study reported weight gain. The increase in weight ranged from 2–4 kg. No other adverse effects were observed.
 
 
 ## Discussion
@@ -174,4 +186,4 @@ Lately, the PPAR-γ agonists are emerging potential therapies for inflammatory c
 
 ## Conclusion
 
-==In conclusion, this study demonstrated that the concomitant use of MTX and pioglitazone may cause a synergistic effect in rheumatoid arthritis.== We speculated that the observed beneficial effects of both drugs may be dependent upon a combination of the following pharmacological actions; 1) They inhibit inflammatory cytokines TNF-α, IL-1β. 2) They appear to prevent the activation of ROS, ultimately the degree of tissue injury. The antioxidant and the anti-inflammatory effects of pioglitazone and MTX support the possibility that patients with RA may benefit from therapy with both of the above in combination. ^shahin2011-4
+In conclusion, this study demonstrated that the concomitant use of MTX and pioglitazone may cause a synergistic effect in rheumatoid arthritis. We speculated that the observed beneficial effects of both drugs may be dependent upon a combination of the following pharmacological actions; 1) They inhibit inflammatory cytokines TNF-α, IL-1β. 2) They appear to prevent the activation of ROS, ultimately the degree of tissue injury. The antioxidant and the anti-inflammatory effects of pioglitazone and MTX support the possibility that patients with RA may benefit from therapy with both of the above in combination.
