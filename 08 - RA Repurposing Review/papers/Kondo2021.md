@@ -8,7 +8,21 @@
 
 ## Abstract
 
-==Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic systemic inflammation causing progressive joint damage that can lead to lifelong disability.== ==The pathogenesis of RA involves a complex network of various cytokines and cells that trigger synovial cell proliferation and cause damage to both cartilage and bone.== ==Involvement of the cytokines tumor necrosis factor (TNF)-α and interleukin (IL)-6 is central to the pathogenesis of RA==, but ==recent research has revealed that other cytokines such as IL-7, IL-17, IL-21, IL-23, granulocyte macrophage colony-stimulating factor (GM-CSF), IL-1β, IL-18, IL-33, and IL-2 also play a role==. Clarification of RA pathology has led to the development of therapeutic agents such as biological disease-modifying anti-rheumatic drugs (DMARDs) and Janus kinase (JAK) inhibitors, and further details of the immunological background to RA are emerging. This review covers existing knowledge regarding the roles of cytokines, related immune cells and the immune system in RA, manipulation of which may offer the potential for even safer and more effective treatments in the future. ^kondo2021-1
+==Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic systemic inflammation causing progressive joint damage that can lead to lifelong disability.== ^kondo2021-1
+
+==The pathogenesis of RA involves a complex network of various cytokines and cells that trigger synovial cell proliferation and cause damage to both cartilage and bone.== ^kondo2021-2
+
+==Involvement of the cytokines tumor necrosis factor (TNF)-α and interleukin (IL)-6 is central to the pathogenesis of RA== ^kondo2021-3
+
+, but
+
+==recent research has revealed that other cytokines such as IL-7, IL-17, IL-21, IL-23, granulocyte macrophage colony-stimulating factor (GM-CSF), IL-1β, IL-18, IL-33, and IL-2 also play a role== ^kondo2021-4
+
+.
+
+==Clarification of RA pathology has led to the development of therapeutic agents such as biological disease-modifying anti-rheumatic drugs (DMARDs) and Janus kinase (JAK) inhibitors== ^kondo2021-5
+
+, and further details of the immunological background to RA are emerging. This review covers existing knowledge regarding the roles of cytokines, related immune cells and the immune system in RA, manipulation of which may offer the potential for even safer and more effective treatments in the future.
 
 
 ## 1. Introduction

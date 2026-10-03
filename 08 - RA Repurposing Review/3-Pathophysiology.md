@@ -2,75 +2,218 @@
 section: 3 Pathophysiology of RA and druggable pathways
 words: ~600
 status: ready-to-write
+format: v2
 ---
 
-# 3. Pathophysiology (~600 كلمة، 3 فقرات) + Figure 1
+# الآلية المرضية والمسارات اللي ممكن الدوا يستهدفها
 
-## 📚 كروت البيبرز
+> ازاي تستخدم الملف ده:
+> 1. اقرا الفكرة بالعربي.
+> 2. اكتب الجملة بالإنجليزي بأسلوبك في ملف اليوم، باستخدام الكلمات اللي في الصندوق.
+> 3. لو عايز تتأكد، اضغط اللينك، هيوديك على الجملة المتعلّمة في البحث بالظبط.
 
-| Tag | البحث | نوعه | اقرا ايه | هتطلع منه ايه |
-|---|---|---|---|---|
-| `[Ding2023]` | ريفيو Ding (عندك PDF في `summs n props/1 SIG.pdf`) · Figures في `papers/figs/Ding2023/` | review 2023 | **Fig 4 و Fig 5 بس** (بص عليهم) | الخلايا + الـ cytokines + الـ pathways |
-| `[Malemud]` | ريفيو Malemud (`2 SIG.pdf`) + الملخص بتاعك `SIG 2 summary.docx` | review | الملخص بتاعك كفاية | JAK/STAT ↔ MAPK ↔ PI3K/AKT/mTOR cross-talk |
-| `[Kondo2021]` | [[papers/Kondo2021]] | review 2021 | Abstract بس | TNF-α و IL-6 مركزيين + IL-17، IL-21، IL-23، GM-CSF... |
-| `[Gao2024]` | [[papers/Gao2024]] | review 2024 | Abstract + ابحث عن "glycolysis" | **immunometabolism** — الجسر لأدوية السكر والدهون |
-| `[Hansildaar2021]` | [[papers/Hansildaar2021]] | review 2021 (Lancet Rheumatol) | ابحث عن "50%" | CV risk في RA |
+## الفقرة الأولى: الخلايا ومواد الالتهاب
 
-> 💡 **فكرة القسم كله في جملة:** RA = التهاب مزمن بيشغّل نفس المسارات (mTOR، STAT3، NF-κB) ونفس الـ **metabolic reprogramming** اللي أدوية السكر والدهون بتأثر عليها ← عشان كده منطقي نعيد توظيفها.
+### جملة 1
+عرّف المرض: مرض مناعي فيه التهاب مزمن في الجسم كله، بيبوّظ المفصل شوية بشوية وممكن يعمل إعاقة طول العمر.
+```
+autoimmune disease
+chronic systemic inflammation
+progressive joint damage → lifelong disability
+[Kondo2021]
+```
+🔗 [[papers/Kondo2021#^kondo2021-1|شوف الجملة في البحث]]
 
+### جملة 2
+السبب شبكة معقدة من خلايا ومواد التهاب، بتخلي الغشاء اللي حوالين المفصل يتكاثر، وبتأذي الغضروف والعظم.
+```
+complex network of cytokines and cells
+synovial cell proliferation
+damage to cartilage and bone
+[Kondo2021]
+```
+🔗 [[papers/Kondo2021#^kondo2021-2|شوف الجملة في البحث]]
 
+### جملة 3
+الخلايا الشجرية بتشغّل الخلايا التائية، والتائية بتشغّل باقي الخلايا، وكلهم بيطلّعوا مواد التهاب وإنزيمات بتكسّر المفصل.
+```
+dendritic cells (DCs) → activate T cells
+T cells → stimulate B cells, macrophages, synoviocytes, osteoclasts
+secrete IL-1β, IL-6, TNF-α and MMPs
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-1|شوف الجملة في البحث]]
 
+### جملة 4
+خلايا الغشاء المبطّن للمفصل بتتحول من خلايا مسالمة لخلايا عدوانية شبه الورم.
+```
+fibroblast-like synoviocytes (FLS)
+change from harmless cells → aggressive tumor-like cells
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-3|شوف الجملة في البحث]]
 
-<!-- key-sentences:start -->
-## 🔗 الجمل المهمة في الأبحاث (اضغط على الجملة تروح لمكانها)
+### جملة 5
+أهم مادتين في الالتهاب هما عامل نخر الورم والإنترلوكين ٦.
+```
+TNF-α and IL-6 = central to RA pathogenesis
+[Kondo2021]
+```
+🔗 [[papers/Kondo2021#^kondo2021-3|شوف الجملة في البحث]]
 
-**Kondo2021**
-- [[papers/Kondo2021#^kondo2021-1|Rheumatoid arthritis (RA) is an autoimmune disease characterized by chronic systemic infla…]]
-- [[papers/Kondo2021#^kondo2021-1|The pathogenesis of RA involves a complex network of various cytokines and cells that trig…]]
-- [[papers/Kondo2021#^kondo2021-1|Involvement of the cytokines tumor necrosis factor (TNF)-α and interleukin (IL)-6 is centr…]]
-- [[papers/Kondo2021#^kondo2021-1|recent research has revealed that other cytokines such as IL-7, IL-17, IL-21, IL-23, granu…]]
+### جملة 6
+بس فيه مواد تانية كمان ليها دور.
+```
+other cytokines also play a role
+IL-17, IL-21, IL-23, GM-CSF, IL-1β
+[Kondo2021]
+```
+🔗 [[papers/Kondo2021#^kondo2021-4|شوف الجملة في البحث]]
 
-**Gao2024**
-- [[papers/Gao2024#^gao2024-1|the overall remission rates of RA still stay at a low level]]
-- [[papers/Gao2024#^gao2024-2|The six major metabolic pathways, namely glycolysis, tricarboxylic acid cycle, pentose pho…]]
-- [[papers/Gao2024#^gao2024-3|CD4+ T cells in RA shift from glycolysis to PPP, while anaerobic glycolysis in RA‐FLS incr…]]
+### جملة 7
+الخلايا اللي بتاكل العظم بتتولد عن طريق مادة اسمها رانكل، وده اللي بيعمل تآكل العظم.
+```
+osteoclast generation triggered via RANKL
+(monocytes, macrophages, fibroblasts)
+→ bone erosion
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-4|شوف الجملة في البحث]]
 
-**Hansildaar2021**
-- [[papers/Hansildaar2021#^hansildaar2021-1|Rheumatoid arthritis is an accepted independent risk factor for cardiovascular disease, dr…]]
-- [[papers/Hansildaar2021#^hansildaar2021-2|Patients with rheumatoid arthritis have up to a two-times higher risk of developing athero…]]
-- [[papers/Hansildaar2021#^hansildaar2021-3|Decreased disease activity following effective therapy is associated with a lower cardiova…]]
-- [[papers/Hansildaar2021#^hansildaar2021-3|about 50% of increased cardiovascular disease risk in patients with rheumatoid arthritis i…]]
+### جملة 8
+فهم الآلية دي هو اللي طلّع الأدوية البيولوجية ومثبطات الجاك.
+```
+understanding RA pathology → biological DMARDs
+and Janus kinase (JAK) inhibitors
+[Kondo2021]
+```
+🔗 [[papers/Kondo2021#^kondo2021-5|شوف الجملة في البحث]]
 
-<!-- key-sentences:end -->
+## الفقرة التانية: المسارات جوه الخلية
+
+### جملة 9
+مواد الالتهاب بتشتغل عن طريق مسارات إشارة جوه الخلية، والمسارات دي هي اللي الأدوية بتستهدفها.
+```
+multiple signal transduction pathways in RA
+JAK/STAT, MAPK, PI3K/AKT/mTOR, NF-κB
+abnormal signals = targets for drug discovery
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-5|شوف الجملة في البحث]]
+
+### جملة 10
+مسار الإن إف كابا بي لما يشتغل، بيطلّع نفس مواد الالتهاب الأساسية.
+```
+activated NF-κB → IL-1β, IL-6, TNF-α
+accelerates RA
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-8|شوف الجملة في البحث]]
+
+### جملة 11
+بروتين ستات ٣ مهم عشان الخلايا التائية تتحول لنوع تي إتش ١٧، ولما اتمنع، النوع ده قلّ والخلايا المنظِّمة زادت.
+```
+blocking STAT3 (siRNA)
+↓ CD4+ T-cell differentiation into Th17
+↑ Treg proportion
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-6|شوف الجملة في البحث]]
+
+### جملة 12
+إنزيم إم تور بيمنع الخلية تنضّف نفسها من جوه، وبيخلي خلايا الغشاء تتكاثر، ومهم لعيشة الخلايا اللي بتاكل العظم.
+```
+mTOR inhibits autophagy in FLS
+promotes synovial cell proliferation
+critical for osteoclast survival and differentiation
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-7|شوف الجملة في البحث]]
+
+### جملة 13
+المسارات دي مش شغالة لوحدها، دي متشابكة مع بعض.
+```
+"cross-talk" between JAK/STAT, MAPK and PI3K/AKT/mTOR
+critical role in RA
+[Malemud2013]
+```
+🔗 [[papers/Malemud2013#^malemud2013-1|شوف الجملة في البحث]]
+
+### جملة 14
+عشان كده، إنك تقفل مسار واحد ممكن يكون مهم بس مش كفاية عشان المريض يتحسن.
+```
+suppressing one pathway
+may be necessary but not sufficient
+for clinical improvement
+[Malemud2013]
+```
+🔗 [[papers/Malemud2013#^malemud2013-2|شوف الجملة في البحث]]
+
+### جملة 15
+ومع ذلك، استهداف المسارات دي نفع: هيئة الدوا الأمريكية وافقت على مثبطات الجاك.
+```
+FDA approved JAK inhibitors
+tofacitinib, baricitinib, upadacitinib
+[Ding2023]
+```
+🔗 [[papers/Ding2023#^ding2023-9|شوف الجملة في البحث]]
+
+## الفقرة التالتة: الأيض جوه الخلايا وأمراض القلب (الجسر للقسم الجاي)
+
+### جملة 16
+خلايا المناعة في الروماتويد بتغيّر طريقة حرقها للسكر والدهون، وفيه ست مسارات أيض ليها دور في نشاطها وتكاثرها.
+```
+six metabolic pathways: glycolysis, TCA cycle, PPP,
+fatty acid oxidation, fatty acid synthesis, amino acid metabolism
+roles in RA progression
+[Gao2024]
+```
+🔗 [[papers/Gao2024#^gao2024-2|شوف الجملة في البحث]]
+
+### جملة 17
+مثال: الخلايا التائية بتغيّر طريقها، وخلايا الغشاء بتحرق سكر من غير أكسجين وتطلّع لاكتيك كتير.
+```
+CD4+ T cells shift from glycolysis to PPP
+RA-FLS ↑ anaerobic glycolysis → excess lactate
+[Gao2024]
+```
+🔗 [[papers/Gao2024#^gao2024-3|شوف الجملة في البحث]]
+
+### جملة 18
+مريض الروماتويد عنده خطر أمراض قلب وشرايين لحد الضعف، زي مريض السكر.
+```
+up to 2× higher risk of atherosclerotic CVD
+similar to patients with diabetes
+[Hansildaar2021]
+```
+🔗 [[papers/Hansildaar2021#^hansildaar2021-2|شوف الجملة في البحث]]
+
+### جملة 19
+بس نص الزيادة دي بس سببها عوامل الخطر المعروفة، والباقي مرتبط بالالتهاب نفسه.
+```
+about 50% of increased CVD risk
+associated with traditional risk factors
+[Hansildaar2021]
+```
+🔗 [[papers/Hansildaar2021#^hansildaar2021-4|شوف الجملة في البحث]]
+
+### جملة الخلاصة
+يعني الأدوية اللي بتظبط الأيض أو بتقلل خطر القلب ممكن تفيد مرتين: على الالتهاب وعلى الأمراض المصاحبة، وده موضوع القسم الجاي.
+```
+drugs acting on metabolism (AMPK, PPAR) or CV risk
+possible dual benefit: inflammation + comorbidity
+→ Section 4
+```
+(الجملة دي مالهاش مرجع، دي رأيك إنت)
 
 ---
 
-## ✍️ فقرة 1: الخلايا والـ cytokines (افتح Ding Fig 4 وانت بتكتب)
-
-1. **[تعريف]** RA = autoimmune disease، chronic systemic inflammation → synovial proliferation → cartilage + bone damage → disability. `[Kondo2021]`
-2. **[الخلايا]** جوه المفصل: T cells (Th1/Th17) و B cells (autoantibodies) بيشغّلوا macrophages؛ والـ **FLS** بتتكاثر وتفرز **MMPs** وتعمل angiogenesis (pannus). `[Ding2023]`
-3. **[الـ cytokines]** TNF-α و IL-6 هما المركز، ومعاهم IL-1β، IL-17، IL-21، IL-23، GM-CSF. `[Kondo2021]`
-4. **[العظم]** RANKL من الخلايا دي → **osteoclast** activation → bone erosion. `[Ding2023]`
-5. **[الربط بالعلاج]** ده اللي اتبنى عليه الـ biologics (anti-TNF، anti-IL-6، abatacept، rituximab). `[Ding2023]`
-
-## ✍️ فقرة 2: الـ intracellular pathways (افتح Ding Fig 5)
-
-6. **[الفكرة]** الـ cytokines بتشتغل عن طريق intracellular signaling؛ أهمها **JAK/STAT** و **PI3K/AKT/mTOR** و **NF-κB** و **MAPK**. `[Ding2023]`
-7. **[cross-talk]** المسارات دي متشابكة (cross-talk)، فتثبيط مسار واحد غالبًا مش كفاية للـ remission الكامل. `[Malemud]`
-8. **[أمثلة مهمة لينا]** STAT3 ضروري لتمايز الـ **Th17**؛ و mTOR بيتحكم في T-cell differentiation و osteoclast survival. `[Malemud]` `[Ding2023]`
-9. **[الأدوية الحالية]** JAK inhibitors (tofacitinib، baricitinib، upadacitinib) أثبتت إن استهداف المسارات دي بينفع. `[Ding2023]`
-
-## ✍️ فقرة 3: immunometabolism + الـ comorbidity (الجسر للقسم 4)
-
-10. **[immunometabolism]** خلايا RA بتعمل **metabolic reprogramming**: 6 مسارات metabolic (glycolysis، TCA، PPP، fatty acid oxidation/synthesis، amino acids) ليهم دور في activation و proliferation. `[Gao2024]`
-11. **[مثال]** RA-FLS بتزوّد الـ anaerobic glycolysis → lactate كتير؛ و CD4+ T cells بتتحول لـ PPP. `[Gao2024]`
-12. **[comorbidity]** مرضى RA عندهم CV risk أعلى؛ حوالي **50%** بس من الزيادة دي مرتبطة بـ traditional risk factors؛ و RA نفسه independent risk factor بسبب الـ chronic inflammation. `[Hansildaar2021]`
-13. **[الجسر — آخر جملة]** يعني أدوية بتظبط الـ metabolism (AMPK، PPAR) أو بتقلل الـ CV risk ممكن تفيد مرتين: على الالتهاب وعلى الـ comorbidity ← ده موضوع القسم الجاي.
-
----
-
-## ⚠️ ملاحظات المحكّم
-- **Figure 1** هتتحط بعد الفقرة 1 (Claude بيرسمها adapted من Ding Fig 4+5) — اكتب في آخر سطر 2 أو 5: "(Figure 1)".
-- ماتدخلش في epigenetics ولا gut microbiota — مش موضوعنا.
-- Malemud قديم (2013) — ماشي كخلفية، بس Ding2023 و Gao2024 و Kondo2021 هما اللي بيغطوا شرط "آخر 5 سنين".
-- سطر 13 مهم جدًا: هو اللي بيبرر الريفيو كله.
+## ⚠️ ملاحظات
+- **Figure 1** هتتحط بعد الفقرة الأولى (Claude بيرسمها من صور Ding في `papers/figs/Ding2023/`)، اكتب في آخر جملة 7:
+```
+(Figure 1)
+```
+- جملة 11 و 12 مهمين: هما اللي هيتربطوا بعدين بالميتفورمين (تي إتش ١٧) وبالداباجليفلوزين (تنضيف الخلية).
+- جملة 18 مختلفة عن جملة 16 في المقدمة (اللي فيها إن المرض عامل خطر مستقل)، ماتكررهاش هنا.
+- بحث Malemud قديم (2013)، ماشي كخلفية بس، والباقي كله من آخر خمس سنين.
+- ماتدخلش في الوراثة ولا بكتيريا الأمعاء، مش موضوعنا.
