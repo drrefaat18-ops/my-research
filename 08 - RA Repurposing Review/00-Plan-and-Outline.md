@@ -65,6 +65,14 @@ Tables: T1 = mechanisms & evidence per drug · T2 = emerging candidates. Figure 
 2. Claude dictates sentence-by-sentence points.
 3. User rewrites in own style in Word, keeps `[Tag]`.
 4. Claude reviews text for accuracy.
+5. Checks after EVERY edit (both must be clean): `python ../scripts/overlap_check.py drafts/DayN.md papers` (0%) and `python ../scripts/style_check.py drafts/DayN.md`.
+6. Style rules (validated 2026-10-04, Day1–3 = 0–1% AI on several detectors):
+   - Funnel: background → mechanism → animals → humans → limits → conclusion; each group (4.1, 4.2) opens with a 2–3 sentence intro.
+   - Each evidence paragraph opens with a short topic sentence (5–10 words) before study details; merge same-topic paragraphs.
+   - Sentences ≤40 words (split: design | result); plain words; max 1 opening connector per paragraph; no trailing participle clauses.
+   - Vary section closings (max 2 "trials are needed").
+   - Every claim = the paper's own result (open-access primary only).
+7. Reading PDF: `python ../scripts/make_review_pdf.py` → `Section-4-Drafts-Day1-3.pdf`.
 
 ## Section status (2026-09-29)
 - ✅ briefs ready: [[4.1a-Metformin]] · [[4.1b-PPAR-agonists]] · [[4.1c-GLP1-RA]] · [[4.1d-SGLT2i]] · [[4.2a-Statins]] · [[4.3-ARBs-Losartan]]
