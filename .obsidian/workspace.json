@@ -4,67 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "8424d358a535c2b3",
+        "id": "1a849ecf3da064c7",
         "type": "tabs",
         "children": [
           {
-            "id": "9d51bb3ce4e01c2c",
+            "id": "afd748b155ce91f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/START-HERE.md",
+                "file": "08 - RA Repurposing Review/drafts/Day3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START-HERE"
-            }
-          },
-          {
-            "id": "aedc0bc7d3abadd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - RA Repurposing Review/4.1a-Metformin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1a-Metformin"
-            }
-          },
-          {
-            "id": "4eda436d2507c7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - RA Repurposing Review/papers/Son2014.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Son2014"
-            }
-          },
-          {
-            "id": "5ba07e4c82d7000c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day1"
+              "title": "Day3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "bba2a92bb902b123",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3da5f31b907a9e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - RA Repurposing Review/4.1c-GLP1-RA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.1c-GLP1-RA"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 380.8333435058594
   },
   "right": {
     "id": "ee42da36a994efd8",
@@ -229,44 +206,49 @@
       "bases:Create new base": false
     }
   },
-  "active": "aedc0bc7d3abadd0",
+  "active": "afd748b155ce91f9",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/START-HERE.md.tmp.3292.78e604c28a1c",
-    "scripts/overlap_check.py",
-    "scripts/overlap_check.py.tmp.3292.c09c1eaf7718",
-    "08 - RA Repurposing Review/papers/Son2014.md",
-    "08 - RA Repurposing Review/4.1a-Metformin.md",
-    "08 - RA Repurposing Review/drafts/Day1.md",
-    "08 - RA Repurposing Review/START-HERE.md",
-    "08 - RA Repurposing Review/3-Pathophysiology.md",
-    "08 - RA Repurposing Review/drafts/Day0-TitlePage.md",
-    "08 - RA Repurposing Review/sedhdNsjd",
-    "08 - RA Repurposing Review/drafts/Day0-TitlePage.md.tmp.3292.3aa92e1a2be7",
-    "08 - RA Repurposing Review/2-Methods.md",
-    "08 - RA Repurposing Review/2-Methods.md.tmp.3292.349c5ae90426",
-    "08 - RA Repurposing Review/4.4-Emerging.md",
-    "08 - RA Repurposing Review/4.4-Emerging.md.tmp.3292.4f853d8a2fa3",
-    "08 - RA Repurposing Review/3-Pathophysiology.md.tmp.3292.88927498be96",
-    "08 - RA Repurposing Review/02-Figures-Map.md",
-    "08 - RA Repurposing Review/papers/Oh2017.md",
-    "08 - RA Repurposing Review/papers/pdf/Oh2017.pdf",
-    "08 - RA Repurposing Review/papers/text/Oh2017.xml",
-    "08 - RA Repurposing Review/papers/Bu2021.md",
-    "08 - RA Repurposing Review/papers/pdf/Bu2021.pdf",
-    "08 - RA Repurposing Review/papers/Kathe2018.md",
-    "08 - RA Repurposing Review/papers/Chmielewski2026.md",
-    "08 - RA Repurposing Review/papers/Abuhelwa2021.md",
-    "08 - RA Repurposing Review/papers/Lin2020.md",
-    "08 - RA Repurposing Review/papers/Gao2024.md",
-    "08 - RA Repurposing Review/papers/Kondo2021.md",
-    "08 - RA Repurposing Review/papers/Qin2023.md",
-    "08 - RA Repurposing Review/papers/Hansildaar2021.md",
-    "08 - RA Repurposing Review/papers/Nagy2021.md",
-    "08 - RA Repurposing Review/papers/GBD2023.md",
-    "08 - RA Repurposing Review/drafts/Day6.md",
-    "08 - RA Repurposing Review/drafts/Day5.md",
-    "08 - RA Repurposing Review/drafts/Day4.md",
+    "08 - RA Repurposing Review/4.1c-GLP1-RA.md",
+    "08 - RA Repurposing Review/papers/Kellner2025.md",
+    "08 - RA Repurposing Review/papers/Israel2026.md",
+    "08 - RA Repurposing Review/papers/TejeraSegura2017.md",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.16008.9af56ad46a3c",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.16008.dadce1ccaf39",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.16008.0d041830a27f",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.16008.effd19640cdf",
+    "08 - RA Repurposing Review/drafts/Day2.md",
+    "08 - RA Repurposing Review/Section-4.1.2-PPAR-Agonists-Review.pdf",
+    "scripts/generate_ppar_pdf.py",
     "08 - RA Repurposing Review/drafts/Day3.md",
+    "08 - RA Repurposing Review/4.1b-PPAR-agonists.md",
+    "08 - RA Repurposing Review/papers/Castillero2012.md",
+    "08 - RA Repurposing Review/papers/Zhou2012.md",
+    "08 - RA Repurposing Review/papers/Marder2013.md",
+    "08 - RA Repurposing Review/drafts/Day4.md",
+    "08 - RA Repurposing Review/papers/Ormseth2013.md",
+    "08 - RA Repurposing Review/papers/Shahin2011.md",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.9748.b49e4f90ba13",
+    "08 - RA Repurposing Review/drafts/sedAfAekF",
+    "08 - RA Repurposing Review/drafts/Day2.md.tmp.9748.18ce52571c94",
+    "scripts/generate_losartan_pdf.py",
+    "08 - RA Repurposing Review/papers/Roy2017.md",
+    "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
+    "test_fig.png",
+    "08 - RA Repurposing Review/papers/Koufany2008.md",
+    "08 - RA Repurposing Review/4.3-ARBs-Losartan.md",
+    "08 - RA Repurposing Review/papers/Wang2013.md",
+    "08 - RA Repurposing Review/papers/Mostafa2020.md",
+    "08 - RA Repurposing Review/papers/Cardoso2018.md",
+    "08 - RA Repurposing Review/papers/AbdelElGaphar2018.md",
+    "06 - Thesis Defense & Publishing/Refaat-What-to-Assay-and-Novelty-2026-09-06.md",
+    "06 - Thesis Defense & Publishing/Planned-Analyses-Table.png",
+    "06 - Thesis Defense & Publishing/evidence-2026-10-02/D-stats.md",
+    "06 - Thesis Defense & Publishing/evidence-2026-10-02/C-novelty.md",
+    "06 - Thesis Defense & Publishing/evidence-2026-10-02/B-endpoint-validity.md",
+    "06 - Thesis Defense & Publishing/evidence-2026-10-02/A-endpoints-survey.md",
+    "08 - RA Repurposing Review/drafts/Day1.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "08 - RA Repurposing Review/papers/figs/Malemud/p15_I1.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p9_Im8.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p6_Im7.jpg",
@@ -274,9 +256,6 @@
     "08 - RA Repurposing Review/papers/figs/Ding2023/p4_Im5.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p3_Im4.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p2_Im3.jpg",
-    "08 - RA Repurposing Review/papers/figs/vanBoheemen2021/rmdopen-2021-001591f02.jpg",
-    "08 - RA Repurposing Review/papers/figs/vanBoheemen2021/rmdopen-2021-001591f01.jpg",
-    "08 - RA Repurposing Review/papers/figs/Zhou2012/PPAR2012-145654.005.jpg",
     "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
     "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas"
   ]
