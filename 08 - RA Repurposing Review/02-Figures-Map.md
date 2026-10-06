@@ -1,6 +1,6 @@
 ---
 tags: [review-article, figures]
-status: mapped — drawing pending
+status: mapped — drawing pending (plan 2026-10-06: all original, Q2)
 ---
 
 # 🖼️ Figures Map — من الأبحاث للريفيو
@@ -9,11 +9,15 @@ status: mapped — drawing pending
 > - **CC BY** ← مسموح ننقل الـ figure زي ما هي بشرط نكتب تحتها: *"Reproduced from [Author, Year] under CC BY 4.0."*
 > - **CC BY-NC / NC-ND / NC-SA** ← مجلة الكلية غالبًا non-commercial، بس الأأمن: **نرسم من جديد** ونكتب *"Adapted from [ref]"* (ND = ممنوع تعديل → ممنوع نقل معدَّل؛ نرسم فكرتنا بس).
 > - **الأفضل للمحكّم:** figures **أصلية** (احنا بنرسمها) مبنية على الأبحاث ← ده اللي هنعمله.
+>
+> **قرار 2026-10-06 (Q2):** الأربعة أصليين، مفيش ولا شكل منقول أو "adapted". الأشكال اللي في الأبحاث مرجع للمعلومة بس.
+> **الأداة:** بايثون (matplotlib، موجود) ← PNG/TIFF 600 dpi + SVG/PDF. أيقونات الخلايا من Servier Medical Art (CC BY 4.0) وتحت الشكل: *"Parts of the figure were drawn using Servier Medical Art (smart.servier.com), licensed under CC BY 4.0."* ممنوع BioRender المجاني.
+> **المواعيد (START-HERE):** Fig 2 ← 15/10 · Fig 4 ← 17/10 · Fig 1 ← 19/10 · Fig 3 + النسخ النهائية ← 26/10 · الملخص المرسوم ← بعد اختيار المجلة.
 
 ---
 
 ## Figure 1 — RA pathogenesis & druggable pathways (قسم 3)
-**هنرسمها احنا (adapted)** — Claude يرسم SVG/PNG.
+**أصلي** (كان adapted) — Ding2023 مرجع للمعلومة بس؛ بيتذكر في النص مش تحت الشكل كـ"Adapted from".
 
 | المصدر | فيه ايه | الرخصة | هناخد منه |
 |---|---|---|---|
@@ -21,7 +25,7 @@ status: mapped — drawing pending
 | Ding2023 Fig 5 (`figs/Ding2023/p6_Im7.jpg`) | الـ signaling pathways: JAK/STAT، PI3K/AKT/mTOR، NF-κB، MAPK، Wnt، Notch + inhibitors | CC BY 4.0 | الـ pathways اللي أدويتنا بتأثر عليها بس: **mTOR، STAT3، NF-κB** |
 | Ding2023 Fig 2 (`figs/Ding2023/p3_Im4.jpg`) | RA كمرض systemic (قلب، كلى، ...) + risk factors | CC BY 4.0 | اختياري للـ Intro: فكرة إن RA مرتبط بالـ **cardiometabolic comorbidity** (ده مبرر إعادة توظيف أدوية القلب والسكر) |
 
-**Caption plan:** "Key cellular players and signaling pathways in RA synovium targeted by repurposed drugs. Adapted from Ding et al. [Ding2023] (CC BY 4.0)."
+**Caption plan:** "Key cellular players and signaling pathways in RA synovium targeted by repurposed drugs." + سطر Servier.
 
 ---
 
@@ -46,6 +50,14 @@ status: mapped — drawing pending
 **أصلي** — heat-map/bubble: الدوا × مستوى الدليل (in vitro · animal · observational · RCT)، واللون = الاتجاه (✅ إيجابي · ⚪ محايد · ❌ سلبي/متضارب). البيانات من "Table 1 rows" في كل ملف قسم.
 
 > مثال: Statins → RCT ⚪ (TRACE RA: CRP ↓ بس DAS28 ماتغيرش) · cohort ⚪/❌ متضارب · animal ❌ (Vandebriel2012)
+
+---
+
+## Figure 4 — Literature search and selection (قسم 2 Methods)
+**أصلي** — مخطط بسيط: عدد النتايج لكل قاعدة بيانات ← بعد حذف التكرار ← بعد الفرز ← الدراسات المذكورة في الريفيو، لكل دوا. الأعداد من `search/search-log.md` + `papers/`.
+
+## Graphical abstract (بعد اختيار المجلة)
+نسخة مبسطة من Figure 2 على مقاس المجلة.
 
 ---
 
