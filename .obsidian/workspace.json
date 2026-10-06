@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1a849ecf3da064c7",
+        "id": "2d6a2241c9f0abf3",
         "type": "tabs",
         "children": [
           {
-            "id": "afd748b155ce91f9",
+            "id": "bf433fad800bb0b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day3.md",
+                "file": "08 - RA Repurposing Review/START-HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day3"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a13a1b26fde5814",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "380be76b46c88411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08 - RA Repurposing Review/4.4-Emerging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.4-Emerging"
+              "title": "START-HERE"
             }
           }
         ]
@@ -180,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "08 - RA Repurposing Review/START-HERE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,13 +168,25 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "397c741fa48d3fd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "08 - RA Repurposing Review/START-HERE.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,44 +199,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "afd748b155ce91f9",
+  "active": "bf433fad800bb0b8",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/0-CoverLetter.md",
-    "08 - RA Repurposing Review/0-Abstract.md",
-    "08 - RA Repurposing Review/papers/Malemud2013.md",
-    "08 - RA Repurposing Review/papers/Ding2023.md",
-    "08 - RA Repurposing Review/drafts/Day4.md",
-    "08 - RA Repurposing Review/drafts/Day6.md",
-    "08 - RA Repurposing Review/drafts/Day5.md",
-    "08 - RA Repurposing Review/2-Methods.md",
-    "08 - RA Repurposing Review/3-Pathophysiology.md",
+    "tmp/novelty-2026-10-06/web/gs1.txt",
+    "tmp/novelty-2026-10-06/web/cp2024.txt",
+    "tmp/novelty-2026-10-06/web/nct.json",
+    "tmp/novelty-2026-10-06/web/eg.json",
+    "tmp/novelty-2026-10-06/web/cl2.json",
+    "tmp/novelty-2026-10-06/web/cl.json",
+    "tmp/novelty-2026-10-06/web/gs.py",
+    "tmp/novelty-2026-10-06/api/s2_out.txt",
+    "tmp/novelty-2026-10-06/api/oa_out.txt",
+    "tmp/novelty-2026-10-06/api/cr_out.txt",
+    "tmp/novelty-2026-10-06/api/abs_40563231_39203921_33654018_29054595.txt",
+    "06 - Thesis Defense & Publishing/evidence-2026-10-02/C2-novelty-gap-search-2026-10-06.md",
+    "08 - RA Repurposing Review/search/study-cards.md",
+    "08 - RA Repurposing Review/START-HERE.md",
+    "08 - RA Repurposing Review/papers/Hsieh2021.md",
+    "08 - RA Repurposing Review/papers/Ormseth2014.md",
     "08 - RA Repurposing Review/drafts/Day3.md",
-    "0-CoverLetter.md",
-    "0-Abstract.md",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.12080.53f1b1bdc692",
-    "08 - RA Repurposing Review/4.4-Emerging.md",
-    "08 - RA Repurposing Review/papers/Oh2017.md",
-    "08 - RA Repurposing Review/papers/Bu2021.md",
-    "08 - RA Repurposing Review/papers/Kathe2018.md",
-    "08 - RA Repurposing Review/papers/Chmielewski2026.md",
-    "08 - RA Repurposing Review/papers/Abuhelwa2021.md",
-    "08 - RA Repurposing Review/papers/Lin2020.md",
-    "08 - RA Repurposing Review/4.1d-SGLT2i.md",
-    "08 - RA Repurposing Review/drafts/sed0wHi0B",
-    "08 - RA Repurposing Review/drafts/sedNwmFKc",
-    "08 - RA Repurposing Review/drafts/sed0TBNeN",
-    "08 - RA Repurposing Review/drafts/sedCs1XBg",
-    "08 - RA Repurposing Review/papers/Yen2026.md",
-    "08 - RA Repurposing Review/papers/ElDemerdash2025.md",
-    "08 - RA Repurposing Review/Section-4.1.3-GLP1-RA-Review.pdf",
-    "scripts/generate_glp1_pdf.py",
-    "08 - RA Repurposing Review/papers/Du2019.md",
-    "08 - RA Repurposing Review/drafts/sedsKnGWN",
+    "08 - RA Repurposing Review/papers/Shirinsky2013.md",
+    "08 - RA Repurposing Review/papers/Tang2011.md",
+    "08 - RA Repurposing Review/papers/Goto2010.md",
+    "08 - RA Repurposing Review/papers/McCarey2004.md",
+    "08 - RA Repurposing Review/papers/Abdallah2021.md",
+    "08 - RA Repurposing Review/papers/Naffaa2020.md",
+    "08 - RA Repurposing Review/papers/Hu2024.md",
+    "08 - RA Repurposing Review/drafts/Day2.md",
     "08 - RA Repurposing Review/drafts/Day1.md",
-    "08 - RA Repurposing Review/4.1c-GLP1-RA.md",
-    "08 - RA Repurposing Review/drafts/sedlKnPLN",
-    "08 - RA Repurposing Review/drafts/sed4q88CA",
-    "08 - RA Repurposing Review/papers/Israel2026.md",
+    "08 - RA Repurposing Review/Copilot-Prompt.md",
+    "08 - RA Repurposing Review/search/dpp4.md",
+    "08 - RA Repurposing Review/search/sglt2.md",
+    "08 - RA Repurposing Review/search/glp1.md",
+    "08 - RA Repurposing Review/search/arbs.md",
+    "08 - RA Repurposing Review/search/pioglitazone.md",
+    "08 - RA Repurposing Review/search/fenofibrate.md",
+    "08 - RA Repurposing Review/search/metformin.md",
+    "08 - RA Repurposing Review/arb_calibrated.md",
+    "08 - RA Repurposing Review/review_rubric.md",
     "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
     "test_fig.png",
     "06 - Thesis Defense & Publishing/Planned-Analyses-Table.png",

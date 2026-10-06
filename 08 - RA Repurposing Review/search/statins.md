@@ -19,13 +19,13 @@ Europe PMC, 2026-10-06, 384 hits (title/abstract, reviews excluded)
 
 | | Year | First author | Title | Cited | Access | Link |
 |---|---|---|---|---|---|---|
-| ⬜ | 2004 | McCarey DW | Trial of Atorvastatin in Rheumatoid Arthritis (TARA): double-blind, randomised placebo-controlled trial. | 562 | EKB | https://doi.org/10.1016/s0140-6736(04)16449-0 |
+| ✅ | 2004 | McCarey DW | Trial of Atorvastatin in Rheumatoid Arthritis (TARA): double-blind, randomised placebo-controlled trial. | 562 | EKB | https://doi.org/10.1016/s0140-6736(04)16449-0 |
 | ⬜ | 2011 | Schmitt C | Disease-drug-drug interaction involving tocilizumab and simvastatin in patients with rheumatoid arthritis. | 192 | EKB | https://doi.org/10.1038/clpt.2011.35 |
 | ⬜ | 2007 | Mäki-Petäjä KM | Ezetimibe and simvastatin reduce inflammation, disease activity, and aortic stiffness and improve endothelial  | 181 | EKB | https://doi.org/10.1016/j.jacc.2007.04.076 |
 | ⬜ | 2014 | McInnes IB | Open-label tofacitinib and double-blind atorvastatin in rheumatoid arthritis patients: a randomised study. | 99 | EKB | https://doi.org/10.1136/annrheumdis-2012-202442 |
 | ✅ | 2019 | Kitas GD | A Multicenter, Randomized, Placebo-Controlled Trial of Atorvastatin for the Primary Prevention of Cardiovascul | 88 | OA | https://doi.org/10.1002/art.40892 |
 | ⬜ | 2012 | Semb AG | Effect of intensive lipid-lowering therapy on cardiovascular outcome in patients with and those without inflam | 81 | EKB | https://doi.org/10.1002/art.34524 |
-| ⬜ | 2011 | Tang TT | Atorvastatin upregulates regulatory T cells and reduces clinical disease activity in patients with rheumatoid  | 79 | OA | https://doi.org/10.1194/jlr.m010876 |
+| ✅ | 2011 | Tang TT | Atorvastatin upregulates regulatory T cells and reduces clinical disease activity in patients with rheumatoid  | 79 | OA | https://doi.org/10.1194/jlr.m010876 |
 | ⬜ | 2005 | Tikiz C | Effects of Angiotensin-converting enzyme inhibition and statin treatment on inflammatory markers and endotheli | 70 | EKB | https://europepmc.org/abstract/MED/16265685 |
 | ✅ | 2021 | van Boheemen L | Atorvastatin is unlikely to prevent rheumatoid arthritis in high risk individuals: results from the prematurel | 55 | OA | https://doi.org/10.1136/rmdopen-2021-001591 |
 | ✅ | 2011 | El-Barbary AM | Effect of atorvastatin on inflammation and modification of vascular risk factors in rheumatoid arthritis. | 51 | EKB | https://doi.org/10.3899/jrheum.100582 |
