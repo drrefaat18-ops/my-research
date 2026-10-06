@@ -1,0 +1,511 @@
+1. Biomedicines. 2021 May 27;9(6):610. doi: 10.3390/biomedicines9060610.
+
+Pharmacological Blockade of PPARα Exacerbates Inflammatory Pain-Related 
+Impairment of Spatial Memory in Rats.
+
+Gaspar JC(1)(2)(3), Healy C(1)(2)(3), Ferdousi MI(1)(2)(3), Roche M(2)(3)(4), 
+Finn DP(1)(2)(3).
+
+Author information:
+(1)Pharmacology and Therapeutics, National University of Ireland Galway, H91 
+W5P7 Galway, Ireland.
+(2)Galway Neuroscience Centre, National University of Ireland Galway, H91 W5P7 
+Galway, Ireland.
+(3)Centre for Pain Research, National University of Ireland Galway, H91 W5P7 
+Galway, Ireland.
+(4)Physiology, National University of Ireland Galway, H91 W5P7 Galway, Ireland.
+
+Peroxisome proliferator-activated receptors (PPARs) are ligand-dependent 
+transcription factors that exist in three isoforms: PPARα, PPARβ/δ and PPARγ. 
+Studies suggest that the PPAR signalling system may modulate pain, anxiety and 
+cognition. The aim of the present study was to investigate whether endogenous 
+signalling via PPARs differentially modulates innate anxiety responses and 
+mnemonic function in the presence and absence of inflammatory pain. We examined 
+the effects of intraperitoneal administration of GW6471 (PPARα antagonist), 
+GSK0660 (PPARβ/δ antagonist), GW9662 (PPARγ antagonist), and 
+N-palmitoylethanolamide (PEA) on rat behaviour in the elevated plus maze (EPM), 
+open field (OF), light-dark box (LDB), and novel object recognition (NOR) tests 
+in the presence or absence of chronic inflammatory pain. Complete Freund's 
+Adjuvant (CFA)-injected rats exhibited impaired recognition and spatial mnemonic 
+performance in the NOR test and pharmacological blockade of PPARα further 
+impaired spatial memory in CFA-treated rats. N-oleoylethanolamide (OEA) levels 
+were higher in the dorsal hippocampus in CFA-injected animals compared to their 
+counterparts. The results suggest a modulatory effect of CFA-induced chronic 
+inflammatory pain on cognitive processing, but not on innate anxiety-related 
+responses. Increased OEA-PPARα signalling may act as a compensatory mechanism to 
+preserve spatial memory function following CFA injection.
+
+DOI: 10.3390/biomedicines9060610
+PMCID: PMC8227714
+PMID: 34072060
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript, or in the decision to 
+publish the results.
+
+
+2. Neuroreport. 2019 Jan 2;30(1):32-37. doi: 10.1097/WNR.0000000000001161.
+
+The role of transient receptor potential vanilloid receptor 1 and peroxisome 
+proliferator-activated receptors-α in mediating the antinociceptive effects of 
+palmitoylethanolamine in rats.
+
+Aldossary SA(1), Alsalem M(2), Kalbouneh H(2), Haddad M(3), Azab B(2), Al-Shboul 
+O(4), Mustafa AG(4), Obiedat S(2), El-Salem K(4).
+
+Author information:
+(1)Faculty of Clinical Pharmacy, King Faisal University, Hofuf, Saudi Arabia.
+(2)Faculty of Medicine, The University of Jordan.
+(3)Faculty of Pharmacy, Philadelphia University, Amman.
+(4)Faculty of Medicine, Jordan University of Science and Technology, Irbid, 
+Jordan.
+
+Comment in
+    Neuroreport. 2020 Jan 8;31(1):85. doi: 10.1097/WNR.0000000000001389.
+
+Palmitoylethanolamine (PEA) is a ligand at peroxisome proliferator-activated 
+receptors-α (PPARα), a nuclear receptor that has anti-inflammatory effects. 
+Herein, complete Freund's adjuvant (CFA)-induced inflammatory pain model in rats 
+and in-vitro calcium imaging studies were used to evaluate the mechanisms that 
+underlie the antinociceptive effects of PEA, including modulating the activity 
+of the transient receptor potential vanilloid receptor 1, which is a key 
+receptor involved in the development of inflammatory pain. Adult male 
+Sprague-Dawley rats (180-250 g) received subcutaneous injections of CFA (0.1 ml) 
+into the plantar surface of the left hind paw. Von Frey filaments were used to 
+determine the paw withdrawal threshold. PEA (50 µg), WY14643 (50 µg, a selective 
+PPARα agonist) were injected into the plantar surface of the left hind paw at 
+day 7 after CFA injection, and behavioral tests were repeated 6 h after drug 
+administration. Rats were killed and dorsal root ganglia neurons were dissected 
+and prepared for calcium imaging. Neurons were loaded with the calcium-sensitive 
+ratiometric dye Fura-2AM. Changes in [Ca]i were measured as ratios of peak 
+florescence at excitation wavelengths of 340 and 380 nm and expressed as a 
+percentage of the KCl (60 mM) response. Both PEA and WY14643 significantly 
+restored the paw withdrawal threshold in a PPARα-dependent fashion (P<0.01). 
+Capsaicin of 15 nM produced 63.9±13.4% of KCl response. Preincubation of dorsal 
+root ganglia neurons with PEA 6 h before stimulation with capsaicin, 
+significantly reduce capsaicin-evoked calcium responses (42.9±6.4% of KCl 
+response, n=54, P<0.001). In conclusion, modulating transient receptor potential 
+vanilloid receptor 1 activity could provide the mechanism that underlies PEA 
+antinociceptive effects observed in vivo.
+
+DOI: 10.1097/WNR.0000000000001161
+PMID: 30418420 [Indexed for MEDLINE]
+
+
+3. Korean J Anesthesiol. 2017 Oct;70(5):561-566. doi: 10.4097/kjae.2017.70.5.561.
+ Epub 2017 Jul 13.
+
+Effect of palmitoylethanolamide on inflammatory and neuropathic pain in rats.
+
+Seol TK(1), Lee W(1), Park S(1), Kim KN(1), Kim TY(1), Oh YN(1), Jun JH(1).
+
+Author information:
+(1)Department of Anesthesiology and Pain Medicine, Hanyang University College of 
+Medicine, Seoul, Korea.
+
+BACKGROUND: A growing body of evidence suggests that neuroinflammation, which is 
+characterized by infiltration of immune cells, activation of mast cells and 
+glial cells, and production of inflammatory mediators in the peripheral and 
+central nervous systems, plays an important role in the induction and 
+maintenance of chronic pain. Palmitoylethanolamide (PEA), which is a type of 
+N-acylethanolamide and a lipid, has an anti-inflammatory effect. Relative to the 
+anti-inflammatory effect, little is known about its analgesic effect in chronic 
+pain. This study aimed to determine whether PEA relieves chronic inflammatory 
+and neuropathic pain.
+METHODS: Male Sprague-Dawley rats were injured by transection of the left L5 and 
+L6 spinal nerves to induce neuropathic pain or were injected with monoiodoacetic 
+acid into the synovial cavity of knee joints to induce inflammatory pain. To 
+assess the degree of pain, two kinds of stimuli - pressing von Frey filaments 
+and wetting with acetone - were applied to the plantar surface of the rat to 
+measure mechanical and cold sensitivity, respectively. Pain was measured by 
+assessing behavioral responses, including paw withdrawal response threshold and 
+paw withdrawal frequency upon stimulation.
+RESULTS: Neuropathic pain caused by spinal nerve transection (SNT) decreased the 
+mechanical threshold and increased the frequency of response to acetone 
+application. But, cold allodynia caused by SNT did not decrease the withdrawal 
+frequency. Mechanical hyperalgesia caused by chronic inflammation was 
+significantly reduced by both intraperitoneal and intra-articular injections of 
+PEA.
+CONCLUSIONS: These outcomes revealed that PEA might be effective in relieving 
+inflammatory and neuropathic pain, especially pain induced by mechanical 
+hyperalgesia, but not cold allodynia.
+
+DOI: 10.4097/kjae.2017.70.5.561
+PMCID: PMC5645590
+PMID: 29046777
+
+
+4. Inflammopharmacology. 2021 Oct;29(5):1475-1486. doi:
+10.1007/s10787-021-00870-3.  Epub 2021 Sep 1.
+
+Anti-inflammatory activity of palmitoylethanolamide ameliorates osteoarthritis 
+induced by monosodium iodoacetate in Sprague-Dawley rats.
+
+Jung JI(#)(1), Lee HS(#)(2), Jeon YE(1), Kim SM(1), Hong SH(1), Moon JM(3), Lim 
+CY(3), Kim YH(3), Kim EJ(4).
+
+Author information:
+(1)Regional Strategic Industry Innovation Center, Hallym University, 1 
+Hallymdaehak-gil, Chuncheon, Gangwon, 24252, Republic of Korea.
+(2)Department of Food Science and Nutrition, Dongseo University, Busan, 47011, 
+Republic of Korea.
+(3)Technology Development Center, BTC Corporation, Ansan, Gyeonggi, 15588, 
+Republic of Korea.
+(4)Regional Strategic Industry Innovation Center, Hallym University, 1 
+Hallymdaehak-gil, Chuncheon, Gangwon, 24252, Republic of Korea. 
+myej4@hallym.ac.kr.
+(#)Contributed equally
+
+Novel treatment strategies are urgently required for osteoarthritis (OA). 
+Palmitoylethanolamide (PEA) is a naturally occurring fatty acid amide with 
+analgesic and anti-inflammatory effects. We aimed to examine its effect on OA 
+and elucidate the molecular mechanism of actions in monosodium iodoacetate 
+(MIA)-induced OA Sprague-Dawley rats. The experimental animals were divided into 
+normal control group (injected with saline + treated with phosphate-buffered 
+saline (PBS), NOR), control group (injected with MIA + treated with PBS, CON), 
+50 or 100 mg/kg body weight (BW)/day PEA-treated group (injected with 
+MIA + treated with 50 or 100 mg of PEA/kg BW/day, PEA50 or PEA100), and positive 
+control group (injected with MIA + treated with 6 mg of diclofenac/kg BW/day, 
+DiC). The changes in blood parameters, body parameters, gene expression of 
+inflammatory mediators and cytokines, knee thickness, and joint tissue were 
+observed. Oral administration of PEA had no adverse effects on the BW, liver, or 
+kidneys. PEA reduced knee joint swelling and cartilage degradation in 
+MIA-induced OA rats. The serum levels of leukotriene B4, nitric oxide, tumor 
+necrosis factor (TNF)-α, interleukin (IL)-1β, and prostaglandin E2 considerably 
+reduced in the PEA100 group compared with those in the CON group. In the synovia 
+of knee joints, the mRNA expression of iNOS, 5-Lox, Cox-2, Il-1β, Tnf-α, and 
+Mmp-2, -3, -9, and -13 apparently increased with MIA administration. Meanwhile, 
+Timp-1 mRNA expression apparently decreased in the CON group but increased to 
+the normal level with PEA treatment. Thus, PEA can be an effective therapeutic 
+agent for OA.
+
+© 2021. The Author(s).
+
+DOI: 10.1007/s10787-021-00870-3
+PMCID: PMC8514352
+PMID: 34468900 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+5. Inflammopharmacology. 2026 May;34(5):3335-3345. doi:
+10.1007/s10787-026-02197-3.  Epub 2026 Apr 7.
+
+Synergistic modulation of nociceptive and inflammatory pain by 
+palmitoylethanolamide and Cucumis sativus extract in a monosodium-iodoacetate 
+induced osteoarthritic rat model.
+
+Sharma OP(1), Sharma R(2).
+
+Author information:
+(1)Department of Medical Affairs, Makin Laboratories Pvt. Ltd, No. 33, Narmada 
+Nagar, Annapurana Road, Indore, Madhya Pradesh, 452009, India. 
+omprakash.makin@gmail.com.
+(2)Department of Medical Affairs, Makin Laboratories Pvt. Ltd, No. 33, Narmada 
+Nagar, Annapurana Road, Indore, Madhya Pradesh, 452009, India.
+
+BACKGROUND: Osteoarthritis (OA) is a progressive degenerative joint disease 
+characterized by chronic inflammation, cartilage degradation, and persistent 
+pain, leading to functional disability and reduced quality of life. Current 
+pharmacological treatments, particularly non-steroidal anti-inflammatory drugs 
+(NSAIDs), provide symptomatic relief but are associated with significant adverse 
+effects during long-term use. The present study evaluated the therapeutic 
+efficacy and pharmacological synergy of a novel combination formulation, 
+Ostizeel™, comprising palmitoylethanolamide (PEA) and Cucumis sativus extract 
+(CSE), in a monosodium iodoacetate (MIA)-induced rat model of osteoarthritis.
+METHODS: Forty-two female Wistar rats were randomized into seven experimental 
+groups and treated orally with PEA, CSE, an NSAID standard, or their 
+combinations for 28 days. Nociceptive behavior and functional recovery were 
+assessed using movement-evoked pain scoring, Randall-Selitto mechanical 
+hyperalgesia, von Frey allodynia testing, and dynamic weight-bearing analysis. 
+Systemic inflammation and cartilage catabolism were evaluated by measuring serum 
+interleukin-1β (IL-1β) and matrix metalloproteinase-13 (MMP-13) levels. 
+Drug-drug interaction was assessed using the Bliss Independence model and a 
+combination index derived from the Loewe additivity principle.
+RESULTS: The combination treatment significantly improved pain thresholds and 
+limb function compared with either monotherapy (p < 0.0001). Serum IL-1β and 
+MMP-13 levels were reduced by approximately 50%, indicating potent 
+anti-inflammatory and chondroprotective effects. Bliss Independence analysis 
+yielded positive synergy scores across behavioural and biochemical endpoints, 
+suggesting that the observed combination effects exceeded predicted additive 
+responses.
+CONCLUSION: Synergistic modulation of nociceptive and inflammatory pathways were 
+demonstrated by PEA and CSE, which highlight Ostizeel™ as a promising 
+pharmacological strategy for osteoarthritis management.
+
+© 2026. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s10787-026-02197-3
+PMID: 41945007 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no competing interests. Consent to participate: Not applicable. Consent 
+for publication: Not applicable. Ethical approval: All animal procedures were 
+conducted in accordance with the CPCSEA guidelines and approved by the 
+Institutional Animal Ethics Committee (IAEC) at Ribosome Research Centre Pvt. 
+Ltd. (Protocol No. RRC/IAEC/13/2024/071).
+
+
+6. BMC Vet Res. 2017 Aug 2;13(1):229. doi: 10.1186/s12917-017-1151-z.
+
+A novel composite formulation of palmitoylethanolamide and quercetin decreases 
+inflammation and relieves pain in inflammatory and osteoarthritic pain models.
+
+Britti D(1), Crupi R(2), Impellizzeri D(2), Gugliandolo E(2), Fusco R(2), 
+Schievano C(3), Morittu VM(1), Evangelista M(4), Di Paola R(2), Cuzzocrea 
+S(5)(6).
+
+Author information:
+(1)Department of Health Sciences V. le Europa, Campus S. Venuta, Germaneto, 
+88100, Catanzaro, Italy.
+(2)Department of Chemical, Biological, Pharmaceutical and Environmental 
+Sciences, University of Messina, Viale Ferdinando Stagno D'Alcontres 31-, 
+I-98166, Messina, Italy.
+(3)Innovative Statistical Research SRL, Prato Della Valle 24, I-35123, Padova, 
+Italy.
+(4)Institute of Anaesthesiology and Reanimation, Catholic University of Sacred 
+Heart, Rome, Italy.
+(5)Department of Chemical, Biological, Pharmaceutical and Environmental 
+Sciences, University of Messina, Viale Ferdinando Stagno D'Alcontres 31-, 
+I-98166, Messina, Italy. salvator@unime.it.
+(6)Manchester Biomedical Research Centre, Manchester Royal Infirmary, School of 
+Medicine, University of Manchester, Manchester, UK. salvator@unime.it.
+
+BACKGROUND: Osteoarthritis (OA) is a common progressive joint disease in dogs 
+and cats. The goal of OA treatment is to reduce inflammation, minimize pain, and 
+maintain joint function. Currently, non-steroidal anti-inflammatory drugs (e.g., 
+meloxicam) are the cornerstone of treatment for OA pain, but side effects with 
+long-term use pose important challenges to veterinary practitioners when dealing 
+with OA pain. Palmitoylethanolamide (PEA) is a naturally-occurring fatty acid 
+amide, locally produced on demand by tissues in response to stress. PEA 
+endogenous levels change during inflammatory and painful conditions, including 
+OA, i.e., they are typically increased during acute conditions and decreased in 
+chronic inflammation. Systemic treatment with PEA has anti-inflammatory and 
+pain-relieving effects in several disorders, yet data are lacking in OA. Here we 
+tested a new composite, i.e., PEA co-ultramicronized with the natural 
+antioxidant quercetin (PEA-Q), administered orally in two different rat models 
+of inflammatory and OA pain, namely carrageenan paw oedema and sodium 
+monoiodoacetate (MIA)-induced OA. Oral treatment with meloxicam was used as 
+benchmark.
+RESULTS: PEA-Q decreased inflammatory and hyperalgesic responses induced by 
+carrageenan injection, as shown by: (i) paw oedema reduction, (ii) decreased 
+severity in histological inflammatory score, (iii) reduced activity of 
+myeloperoxidase, i.e., a marker of inflammatory cell infiltration, and (iv) 
+decreased thermal hyperalgesia. Overall PEA-Q showed superior effects compared 
+to meloxicam. In MIA-treated animals, PEA-Q exerted the following effects: (i) 
+reduced mechanical allodynia and improved locomotor function, (ii) protected 
+cartilage against MIA-induced histological damage, and (iii) counteracted the 
+increased serum concentration of tumor necrosis factor alpha, interleukin 1 
+beta, metalloproteases 1, 3, 9 and nerve growth factor. The magnitude of these 
+effects was comparable to, or even greater than, those of meloxicam.
+CONCLUSION: The present findings shed new light on some of the inflammatory and 
+nociceptive pathways and mediators targeted by PEA-Q and confirm its 
+anti-inflammatory and pain-relieving effects in rodent OA pain models. The 
+translatability of these observations to canine and feline OA pain is currently 
+under investigation.
+
+DOI: 10.1186/s12917-017-1151-z
+PMCID: PMC5541643
+PMID: 28768536 [Indexed for MEDLINE]
+
+Conflict of interest statement: ETHICS APPROVAL AND CONSENT TO PARTICIPATE: The 
+University of Messina Review Board for the care of animals authorized the study. 
+Animal care was in accordance with Italian regulations on protection of animals 
+used for experimental and other scientific purposes (D.M.116192) as well as with 
+EEC regulations (O.J. of E.C. L 358/1 12/18/1986). CONSENT FOR PUBLICATION: Not 
+applicable COMPETING INTERESTS: Dr. Salvatore Cuzzocrea is co-inventor on patent 
+WO2013121449 A8 (Epitech Group SpA) which deals with compositions and methods 
+for the modulation of amidases capable of hydrolysing N-acylethanolamines 
+useable in the therapy of inflammatory diseases. Moreover, Dr. Cuzzocrea is also 
+a co-inventor with Epitech group on the following patents: (1). EP2821083; (2). 
+EP 2985037 A1; (3). 102,015,000,067,344. No other authors have competing 
+interests. PUBLISHER’S NOTE: Springer Nature remains neutral with regard to 
+jurisdictional claims in published maps and institutional affiliations.
+
+
+7. Arthritis Res Ther. 2019 Nov 28;21(1):254. doi: 10.1186/s13075-019-2048-y.
+
+Safety and efficacy of a new micronized formulation of the ALIAmide 
+palmitoylglucosamine in preclinical models of inflammation and osteoarthritis 
+pain.
+
+Cordaro M(1), Siracusa R(1), Impellizzeri D(1), D' Amico R(1), Peritore AF(1), 
+Crupi R(1), Gugliandolo E(1), Fusco R(1), Di Paola R(1), Schievano C(2), 
+Cuzzocrea S(3)(4).
+
+Author information:
+(1)Department of Chemical, Biological, Pharmaceutical and Environmental Science, 
+University of Messina, Messina, Italy.
+(2)Innovative Statistical Research srl, Prato Della Valle 24, I-35123, Padova, 
+Italy.
+(3)Department of Chemical, Biological, Pharmaceutical and Environmental Science, 
+University of Messina, Messina, Italy. salvator@unime.it.
+(4)Department of Pharmacological and Physiological Science, Saint Louis 
+University School of Medicine, Saint Louis, USA. salvator@unime.it.
+
+BACKGROUND: Osteoarthritis is increasingly recognized as the result of a complex 
+interplay between inflammation, chrondrodegeneration, and pain. Joint mast cells 
+are considered to play a key role in orchestrating this detrimental triad. 
+ALIAmides down-modulate mast cells and more generally hyperactive cells. Here we 
+investigated the safety and effectiveness of the ALIAmide 
+N-palmitoyl-D-glucosamine (PGA) in inflammation and osteoarthritis pain.
+METHODS: Acute toxicity of micronized PGA (m-PGA) was assessed in rats following 
+OECD Guideline No.425. PGA and m-PGA (30 mg/kg and 100 mg/kg) were orally 
+administered to carrageenan (CAR)-injected rats. Dexamethasone 0.1 mg/kg was 
+used as reference. Paw edema and thermal hyperalgesia were measured up to 6 h 
+post-injection, when also myeloperoxidase activity and histological inflammation 
+score were assessed. Rats subjected to intra-articular injection of sodium 
+monoiodoacetate (MIA) were treated three times per week for 21 days with PGA or 
+m-PGA (30 mg/kg). Mechanical allodynia and motor function were evaluated at 
+different post-injection time points. Joint histological and radiographic damage 
+was scored, articular mast cells were counted, and macrophages were 
+immunohistochemically investigated. Levels of TNF-α, IL-1β, NGF, and MMP-1, 
+MMP-3, and MMP-9 were measured in serum using commercial colorimetric ELISA 
+kits. One- or two-way ANOVA followed by a Bonferroni post hoc test for multiple 
+comparisons was used.
+RESULTS: Acute oral toxicity of m-PGA resulted in LD50 values in excess of 
+2000 mg/kg. A single oral administration of PGA and m-PGA significantly reduced 
+CAR-induced inflammatory signs (edema, inflammatory infiltrate, and 
+hyperalgesia), and m-PGA also reduced the histological score. Micronized PGA 
+resulted in a superior activity to PGA on MIA-induced mechanical allodynia, 
+locomotor disability, and histologic and radiographic damage. The MIA-induced 
+increase in mast cell count and serum level of the investigated markers was also 
+counteracted by PGA and to a significantly greater extent by m-PGA.
+CONCLUSIONS: The results of the present study showed that PGA is endorsed with 
+anti-inflammatory, pain-relieving, and joint-protective effects. Moreover, it 
+proved that particle size reduction greatly enhances the activity of PGA, 
+particularly on joint pain and disability. Given these results, m-PGA could be 
+considered a valuable option in the management of osteoarthritis.
+
+DOI: 10.1186/s13075-019-2048-y
+PMCID: PMC6883534
+PMID: 31779692 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr. Salvatore Cuzzocrea, researcher on the study 
+team, is co-inventor on patent WO2013121449A8 (Epitech Group SpA) which deals 
+with compositions and methods for the modulation of amidases capable of 
+hydrolysing N-acylethanolamines applied in the therapy of inflammatory diseases. 
+Moreover, Dr. Cuzzocrea is also a co-inventor with Epitech group on the 
+following patent: 1. EP2821,083 2. MI2014A001495 3. 102015000067344 The other 
+authors declare that they have no competing interests.
+
+
+8. Inflammopharmacology. 2026 Aug;34(8):5539-5563. doi:
+10.1007/s10787-026-02314-2.  Epub 2026 Jul 6.
+
+REJENERA(©), a multi-component bioflavonoid-based formula, alleviates 
+osteoarthritis and provides chondroprotection by regulating the NLRP3-TXNIP-iNOS 
+axis and inflammation: a comparative study with olive leaf nutraceuticals and 
+ibuprofen.
+
+Tepedelenlioglu HE(1)(2), Elmazoglu Z(3), Saribas SG(4), Tutuncu Y(5)(6), Ceylan 
+AF(7), Karasu Ç(8).
+
+Author information:
+(1)Department of Orthopedics and Traumatology, Ankara Dışkapı Training and 
+Research Hospital, Ankara, Turkey.
+(2)Department of Medical Pharmacology, Cellular Stress Response and Signal 
+Transduction Research Laboratory, Faculty of Medicine, Gazi University, Ankara, 
+Turkey.
+(3)Department of Pharmacology, Faculty of Pharmacy, Ankara Medipol University, 
+Ankara, Turkey.
+(4)Department of Histology and Embryology, Faculty of Medicine, Health Sciences 
+University Gulhane, Ankara, Turkey.
+(5)Department of Immunology, School of Medicine, Koç University Research Center 
+for Translational Medicine (KUTTAM), Koç University, Istanbul, Turkey.
+(6)Department of Medical Microbiology, Inonu University Faculty of Medicine, 
+Malatya, Turkey.
+(7)Department of Medical Pharmacology, Faculty of Medicine, Ankara Yıldırım 
+Beyazıt University, Ankara, Turkey.
+(8)Department of Medical Pharmacology, Cellular Stress Response and Signal 
+Transduction Research Laboratory, Faculty of Medicine, Gazi University, Ankara, 
+Turkey. karasu@gazi.edu.tr.
+
+Osteoarthritis (OA) primarly involves the degradation of joint cartilage and 
+requires new treatments. REJENERA©, a newly developed nutraceutical formula 
+against OA, contains primarily olive leaf bioflavonoids ( ZeyEX©, quercetin and 
+luteolin), S-allylcysteine, palmitoylethanolamide, L-proline, hyaluronic acid 
+and boron. This study focuses on the efficacy of REJENERA in treating knee OA 
+and aims to compare it with ZeyEX, NPROC© (a product obtained by combining 
+collagen-rich eggshell membrane with olive leaf extract), and IBUPROFEN in a rat 
+OA model. OA was established by intra-articular injection of monosodium 
+iodoacetate (MIA; 3  mg) into the right knee joints. Rats were either left 
+untreated or treated orally for 12 weeks with REJENERA, ZeyEX, NPROC 
+(300 mg/kg/day) or IBUPROFEN (3 mg/kg/day). MIA injection produced joint 
+degeneration including increased fissure-index, osteophyte-score, and 
+OARSI-score, joint swelling, synovial inflammation, proteoglycan loss, and 
+decreased cartilage thickness. These histopathological abnormalities were 
+partially but significantly alleviated by REJENERA and other treatments. Only 
+ZeyEX significantly inhibited the OA-induced increase in IL-1β, IL-6, IL-10 and 
+LPO in serum, and IL-6, TNF-α, and IFN-γ in synovial fluid. While increases in 
+MMP-3 and MMP-9 were reduced with all treatments, MMP-13 was inhibited only by 
+REJENERA. ZeyEX increased IL-2, NPROC increased IL-6, and IBUPROFEN inhibited 
+IL-10. All treatments improved TIMP-1 levels; however, TXNIP was more 
+significantly inhibited by ZeyEX, and NLRP3 by REJENERA. REJENERA's anti-OA 
+effects are accompanied by an increase in cartilage anabolic factors (Ki-67, 
+type-II collagen, BMP-7) and inhibition of apoptosis. REJENERA offers a 
+promising multi-targeted therapeutic approach to treating OA by blocking the 
+iNOS-TXNIP-NLRP3 signaling axis, and reducing oxidative stress.
+
+© 2026. The Author(s).
+
+DOI: 10.1007/s10787-026-02314-2
+PMCID: PMC13525066
+PMID: 42406250 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no conflict of interest. Ethics approval and consent to participate: 
+Ethics statement Gazi University the Local Ethics Committee for Animal 
+Experiments approved the animal study (No. G.Ü.ET-21.081).
+
+
+9. Inflammopharmacology. 2019 Dec;27(6):1131-1142. doi:
+10.1007/s10787-019-00584-7.  Epub 2019 Apr 3.
+
+Role of cannabinoid receptor 1 and the peroxisome proliferator-activated 
+receptor α in mediating anti-nociceptive effects of synthetic cannabinoids and a 
+cannabinoid-like compound.
+
+Alsalem M(1), Haddad M(2), Aldossary SA(3), Kalbouneh H(4), Altarifi A(5), 
+Jaffal SM(6), Abbas MA(7), Aldaoud N(4), El-Salem K(5).
+
+Author information:
+(1)Faculty of Medicine, The University of Jordan, Amman, 11942, Jordan. 
+m_alsalem@ju.edu.jo.
+(2)Faculty of Pharmacy, Philadelphia University, Amman, Jordan.
+(3)Faculty of Clinical Pharmacy, King Faisal University, Hofuf, Saudi Arabia.
+(4)Faculty of Medicine, The University of Jordan, Amman, 11942, Jordan.
+(5)Faculty of Medicine, Jordan University of Science and Technology, Irbid, 
+22110, Jordan.
+(6)Faculty of Science, The University of Jordan, Amman, 11942, Jordan.
+(7)Faculty of Pharmacy and Medical Sciences, Al-Ahliyya Amman University, Amman, 
+19328, Jordan.
+
+Osteoarthritis (OA) is characterized by cartilage degeneration, subchondral 
+sclerosis, and pain. Cannabinoids have well-established anti-nociceptive 
+properties in animal models of chronic pain. The aim of this study is to 
+evaluate the anti-nociceptive effects of synthetic cannabinoids (WIN-55,212 and 
+HU210) and the cannabinoid-like compound palmitoylethanolamide (PEA) in rat 
+models of OA and to assess the role of cannabinoid receptor 1 (CB1) and the 
+peroxisome proliferator-activated receptor α (PPARα) in mediating these effects. 
+Intra-articular injection of monosodium iodoacetate (MIA) in the knee joint was 
+used as a model of osteoarthritis. The von Frey filament test and weight-bearing 
+difference were used to assess the anti-nociceptive effects of WIN-55,212, 
+HU210, and PEA on MIA-induced OA in rats. Open-field locomotor activity system 
+was used confirm the analgesic effects of those compounds. HU210, WIN55, 212, 
+and PEA in a dose-dependent manner restored the paw withdrawal threshold (PWT) 
+and the weight-bearing difference induced by MIA injection. SR141716A (a CB1 
+antagonist) significantly reversed the anti-nociceptive effects of all the 
+administered drugs in terms of PWT. However, in terms of weight-bearing 
+difference, SR141716A significantly reduced the anti-nociceptive effect of HU210 
+but not PEA or WIN55, 212. GW6471 (a PPARα antagonist) significantly reversed 
+the anti-nociceptive effects of PEA but not those of HU210 or WIN55, 212. HU210, 
+WIN55, 212 and PEA significantly restored the MIA-induced reduction in locomotor 
+activity. In conclusions, both CB1 and PPARα receptors are involved in mediating 
+pain in osteoarthritis. Therefore, targeting these receptors may be of great 
+clinical value.
+
+DOI: 10.1007/s10787-019-00584-7
+PMID: 30945071 [Indexed for MEDLINE]

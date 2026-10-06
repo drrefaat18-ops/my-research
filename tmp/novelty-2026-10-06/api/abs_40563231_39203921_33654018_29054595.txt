@@ -1,0 +1,187 @@
+1. Immunology. 2025 Nov;176(3):385-402. doi: 10.1111/imm.70010. Epub 2025 Jun 25.
+
+Palmitoylethanolamide (PEA) Induces an Increase in Spleen Regulatory T Cells, 
+Reduces CD8 (+) Cells and TNF-α Levels in Target Organs, and Protects Mice From 
+Graft-Versus-Host Disease-Related Mortality Through PPAR Activation Without 
+Compromising the Graft-Versus-Tumour Response.
+
+Berg BB(1), Campos ZDT(1), Ruggio GMF(1), Linhares AFS(1), Rezende BM(2), de 
+Assis Cau SB(3), Romero TRL(3), Teixeira MM(4), Pinho V(5), Miranda Castor 
+MG(3).
+
+Author information:
+(1)Graduate Program in Biological Sciences: Physiology and Pharmacology, Federal 
+University of Minas Gerais, Belo Horizonte, Brazil.
+(2)Department of Nursing, School of Nursing, Federal University of Minas Gerais, 
+Belo Horizonte, Brazil.
+(3)Department of Pharmacology, Federal University of Minas Gerais, Belo 
+Horizonte, Brazil.
+(4)Department of Biochemistry and Immunology, Federal University of Minas 
+Gerais, Belo Horizonte, Brazil.
+(5)Department of Morphology, Institute of Biological Sciences, Federal 
+University of Minas Gerais, Belo Horizonte, Brazil.
+
+Graft-versus-host disease (GVHD), a secondary complication of bone marrow 
+transplantation, leads to the development of a systemic inflammatory illness in 
+the host, resulting in high mortality and morbidity. Current therapies lack 
+prophylactic effectiveness and often fail to achieve an optimal immunological 
+balance between inflammation and immunosuppression. In this study, we 
+investigated the effects of palmitoylethanolamide (PEA), an endocannabinoid-like 
+lipid mediator with extensively documented anti-inflammatory, analgesic, 
+antimicrobial, immunomodulatory, and neuroprotective effects, on the complex 
+pathology of GVHD. Treatment with PEA reduced clinical disease severity in GVHD 
+mice, leading to an 80% increase in survival rates. Additionally, PEA created an 
+immunoregulatory environment in the spleen by reducing the activation of 
+CD3+CD4+ cells. In the intestine, PEA protected against damage, reduced the 
+number of CD3+CD4+ and CD3+CD8+ cells, and suppressed the activation of CD3+CD8+ 
+cells. PEA also decreased the levels of TNF-α in the intestine and increased 
+IL-10 production. Furthermore, in the liver, PEA treatment reduced the number of 
+CD8+ cells, the activation of CD3+CD4+ and CD3+CD8+ cells, and TNF-α levels. The 
+effect of PEA on survival was dependent on Peroxisome Proliferator-activated 
+receptor gamma (PPAR-γ) activation but did not rely on cannabinoid (CB) 
+receptors activation. In addition to GVHD protection, PEA treatment did not 
+interfere in the graft-versus-tumour response. These results demonstrate the 
+therapeutic potential of PEA as a promising option for the treatment of GVHD, 
+balancing inflammation and immunosuppression, and improving both survival and 
+clinical outcomes.
+
+© 2025 The Author(s). Immunology published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/imm.70010
+PMCID: PMC12500389
+PMID: 40563231 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+2. Nutrients. 2024 Aug 21;16(16):2785. doi: 10.3390/nu16162785.
+
+A Fixed Combination of Palmitoylethanolamide and Melatonin (PEATONIDE) for the 
+Management of Pain, Sleep, and Disability in Patients with Fibromyalgia: A Pilot 
+Study.
+
+Terribili R(1), Vallifuoco G(1), Bardelli M(1), Frediani B(1), Gentileschi S(1).
+
+Author information:
+(1)Rheumatology Department, Siena University Hospital, Viale Mario Bracci 16, 
+53100 Siena, Italy.
+
+Fibromyalgia is characterized by chronic widespread pain, fatigue, and sleep 
+disturbances. Recent theories attribute fibromyalgia to central sensitization 
+syndromes, suggesting altered nociceptive processing leads to hyperalgesia and 
+allodynia. Standardized effective treatments are currently lacking. 
+Palmitoylethanolamide and melatonin have shown pain-relieving effects in chronic 
+pain conditions, including fibromyalgia, with excellent safety. Our open-label 
+study assessed the impact of a daily combination of 1200 mg of 
+palmitoylethanolamide and 0.2 mg of melatonin on pain, sleep, and quality of 
+life in fibromyalgia patients. Between June 2023 and March 2024, 50 patients 
+(2016 ACR criteria) were treated and evaluated at baseline, 1 month, 3 months, 
+and 4 months (1 month discontinuation). The assessments included VAS for pain, 
+ISI for insomnia, HAQ for health assessments, and a tender points evaluation. 
+The patients, averaging 54.12 years old with a 3:1 female-to-male ratio, showed 
+significant improvements in VAS, ISI, and HAQ scores relative to their own 
+baselines and a reduction in tender points at 1 and 3 months, which was 
+maintained at 4 months. No adverse events were reported. This study is the first 
+to demonstrate the efficacy of a palmitoylethanolamide and melatonin combination 
+as an adjunct therapy in fibromyalgia, highlighting its potential to reduce pain 
+and improve sleep and quality of life.
+
+DOI: 10.3390/nu16162785
+PMCID: PMC11357461
+PMID: 39203921 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no potential conflicts of 
+interest.
+
+
+3. Dermatitis. 2022 Jul-Aug 01;33(4):277-281. doi: 10.1097/DER.0000000000000722.
+
+Anti-inflammatory Effect of Cannabidiol and Palmitoylethanolamide Containing 
+Topical Formulation on Skin in a 12- O -Tetradecanoylphorbol-13-Acetate-Induced 
+Dermatitis Model in Mice.
+
+Rundle CW(1), Rietcheck HR(1), Maghfour J(2), Dercon S(3), Fernandez J(4), Lio 
+P(5), Dellavalle RP(1), Fujita M(1), Yardley H.
+
+Author information:
+(1)From the Department of Dermatology, University of Colorado, Aurora.
+(2)Department of Medicine, Tulane University, New Orleans, LA.
+(3)Keck School of Medicine, University of Southern California, Los Angeles.
+(4)CQ Science, Denver, CO.
+(5)Department of Dermatology, Northwestern University Feinberg School of 
+Medicine, Chicago, IL.
+
+BACKGROUND: Chronic inflammatory skin disorders, such as atopic dermatitis, have 
+significant disease burden worldwide. Although efficacious, the adverse effect 
+profile of topical corticosteroids limits long-term use. As an alternative, 
+cannabinoids have been shown to have anti-inflammatory therapeutic effects.
+OBJECTIVE: The aim of this study was to assess the effects of a topical 
+cannabinoid product using dermatitis mouse model.
+METHODS: Thirty-five mice were randomized into treatment groups. 12- O 
+-tetradecanoylphorbol-13-acetate was used as an irritant on 1 ear with the 
+contralateral ear serving as a control. Ear edema was calipered. The test 
+product containing 0.9% cannabidiol and palmitoylethanolamide was compared with 
+a potent topical corticosteroid.
+RESULTS: Treatment with topical cannabinoid formulation reduced ear edema by 
+51.27% at 24 hours' and 65.69% at 48 hours' postapplication. Alternatively, 
+mometasone reduced ear edema by 89.82% at 24 hours and 98.25% at 48 hours. 
+Natural reduction (control) in ear edema was 26.32% at 24 hours and 44.21% at 48 
+hours. Both test groups resulted in significantly decreased edema when compared 
+with baseline ( P < 0.05), as well as compared with the negative control group ( 
+P < 0.05).
+CONCLUSIONS: Significant reduction in ear edema, a marker for localized 
+cutaneous inflammation, could be attributed to anti-inflammatory properties of 
+cannabinoids. Although effects were less robust than topical corticosteroid use, 
+cannabinoid formulations have therapeutic promise for dermatitis.
+
+Copyright © 2022 American Contact Dermatitis Society. All Rights Reserved.
+
+DOI: 10.1097/DER.0000000000000722
+PMID: 33654018 [Indexed for MEDLINE]
+
+Conflict of interest statement: C.W.R. is salary funded by Pfizer Independent 
+Grants for Learning and Change (principal investigator, R.P.D.): inflammatory 
+and immune-mediated skin disease fellowship. J. F. and H.Y. are salary funded by 
+CQ Science. The other authors have no funding or conflicts of interest to 
+declare.
+
+
+4. J Invest Dermatol. 2018 Mar;138(3):562-569. doi: 10.1016/j.jid.2017.07.853.
+Epub  2017 Oct 18.
+
+The N-Acylethanolamine Acid Amidase Inhibitor ARN077 Suppresses Inflammation and 
+Pruritus in a Mouse Model of Allergic Dermatitis.
+
+Sasso O(1), Summa M(1), Armirotti A(1), Pontis S(1), De Mei C(1), Piomelli D(2).
+
+Author information:
+(1)Drug Discovery and Development, Istituto Italiano di Tecnologia, Genova, 
+Italy.
+(2)Departments of Anatomy and Neurobiology, Pharmacology, and Biological 
+Chemistry, University of California, Irvine, California, USA. Electronic 
+address: piomelli@uci.edu.
+
+N-acylethanolamine acid amidase (NAAA), a cysteine hydrolase highly expressed in 
+macrophages and B lymphocytes, catalyzes the degradation of 
+palmitoylethanolamide. Palmitoylethanolamide is an agonist of PPAR-α and an 
+important regulator of pain and innate immunity. In this study, we investigated 
+the properties of the NAAA inhibitor, ARN077, in a mouse model of allergic 
+contact dermatitis. Acute topical applications of ARN077 attenuated key signs of 
+DNFB-induced dermatitis in a dose-dependent manner. Moreover, ARN077 increased 
+tissue palmitoylethanolamide content and normalized circulating levels of 
+cytokines and immunoglobulin E. No such effect was seen in PPAR-α-deficient 
+mice. Moreover, mice lacking NAAA failed to develop edema or scratching behavior 
+after challenge with DNFB, confirming that this enzyme plays an important role 
+in dermatitis. Consistent with this conclusion, subchronic applications of 
+ARN077 suppressed DNFB-induced inflammation when administered either before or 
+after the DNFB challenge. The effects of subchronic ARN077 were dose dependent 
+and comparable in size to those produced by the steroids clobetasol and 
+dexamethasone. Unlike the latter, however, ARN077 did not cause skin atrophy. 
+The results identify NAAA as a promising target for the development of effective 
+and safe treatments for atopic dermatitis and other inflammatory disorders of 
+the skin.
+
+Copyright © 2017 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jid.2017.07.853
+PMID: 29054595 [Indexed for MEDLINE]

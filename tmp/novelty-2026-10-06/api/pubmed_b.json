@@ -1,0 +1,296 @@
+{
+ "PM_CFA": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine OR \"N-palmitoylethanolamine\" OR ALIAmide* OR \"N-acylethanolamine acid amidase\" OR NAAA) AND (Freund OR \"adjuvant arthritis\" OR \"adjuvant-induced\" OR \"adjuvant induced\" OR CFA OR \"collagen-induced\" OR \"rheumatoid arthritis\" OR \"monoarthritis\" OR \"polyarthritis\")",
+  "n": "14",
+  "rec": [
+   [
+    "36291664",
+    "2022 Oct 11",
+    "Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol.",
+    "Biomolecules"
+   ],
+   [
+    "34072060",
+    "2021 May 27",
+    "Pharmacological Blockade of PPARα Exacerbates Inflammatory Pain-Related Impairment of Spatial Memory in Rats.",
+    "Biomedicines"
+   ],
+   [
+    "34056884",
+    "2021 Aug",
+    "Efficacy of a fixed combination of palmitoylethanolamide and acetyl-l-carnitine (PEA+ALC FC) in the treatment of neuropathies secondary to rheumatic diseases.",
+    "Minerva Med"
+   ],
+   [
+    "32786678",
+    "2020 Sep 4",
+    "Joint Synovial Fluid Metabolomics Method to Decipher the Metabolic Mechanisms of Adjuvant Arthritis and Geniposide Intervention.",
+    "J Proteome Res"
+   ],
+   [
+    "30418420",
+    "2019 Jan 2",
+    "The role of transient receptor potential vanilloid receptor 1 and peroxisome proliferator-activated receptors-α in mediating the antinociceptive effects of palmitoylethanolamine in rats.",
+    "Neuroreport"
+   ],
+   [
+    "30121836",
+    "2018 Oct",
+    "Micronized palmitoylethanolamide reduces joint pain and glial cell activation.",
+    "Inflamm Res"
+   ],
+   [
+    "28039964",
+    "2017 Apr",
+    "Degenerative Joint Diseases and Neuroinflammation.",
+    "Pain Pract"
+   ],
+   [
+    "27599446",
+    "2016 Nov 1",
+    "Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammation.",
+    "Biochem Pharmacol"
+   ],
+   [
+    "26769918",
+    "2016 Mar",
+    "An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund's Adjuvant Rat Model of Arthritis.",
+    "J Pharmacol Exp Ther"
+   ],
+   [
+    "26567045",
+    "2015 Nov 14",
+    "Anti-inflammatory effects of N-acylethanolamines in rheumatoid arthritis synovial cells are mediated by TRPV1 and TRPA1 in a COX-2 dependent manner.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "24246048",
+    "2013",
+    "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "16997973",
+    "2006 Dec",
+    "Rapid broad-spectrum analgesia through activation of peroxisome proliferator-activated receptor-alpha.",
+    "J Pharmacol Exp Ther"
+   ],
+   [
+    "6434224",
+    "1984 Nov",
+    "Near-normal glycaemic control does not correct abnormal platelet reactivity in diabetes mellitus.",
+    "Clin Sci (Lond)"
+   ],
+   [
+    "6810912",
+    "1982 Sep",
+    "Relationship between platelet aggregation, thromboxane synthesis and albumin concentration in nephrotic syndrome.",
+    "Br J Haematol"
+   ]
+  ]
+ },
+ "PM_arthritis_all": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine) AND (arthritis OR arthritic OR synovitis OR synovial)",
+  "n": "33",
+  "rec": [
+   [
+    "42406250",
+    "2026 Aug",
+    "REJENERA(©), a multi-component bioflavonoid-based formula, alleviates osteoarthritis and provides chondroprotection by regulating the NLRP3-TXNIP-iNOS axis and inflammation: a comparative study with olive leaf nutraceuticals and ibuprofen.",
+    "Inflammopharmacology"
+   ],
+   [
+    "41945007",
+    "2026 May",
+    "Synergistic modulation of nociceptive and inflammatory pain by palmitoylethanolamide and Cucumis sativus extract in a monosodium-iodoacetate induced osteoarthritic rat model.",
+    "Inflammopharmacology"
+   ],
+   [
+    "41709243",
+    "2026 Feb 19",
+    "Probiotics and palmitoylethanolamide (PEA) for osteoarthritic pain: individual effects in a multiple baseline design study.",
+    "BMC Complement Med Ther"
+   ],
+   [
+    "41299720",
+    "2025 Nov 26",
+    "Complement factor D (adipsin) mediates pressure-pain hypersensitivity post destabilization of medial meniscus injury.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "37767025",
+    "2023",
+    "A randomized interventional clinical trial assessing the safety and effectiveness of PeaNoc XL tablets in managing joint pain and inflammation in arthritis patients.",
+    "F1000Res"
+   ],
+   [
+    "37578507",
+    "2024 Jan 1",
+    "Serum levels of endocannabinoids and related lipids in painful vs painless diabetic neuropathy: results from the Pain in Neuropathy Study.",
+    "Pain"
+   ],
+   [
+    "36291664",
+    "2022 Oct 11",
+    "Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol.",
+    "Biomolecules"
+   ],
+   [
+    "36281831",
+    "2022",
+    "Therapeutic Potential of Diacerein in Management of Pain.",
+    "Curr Drug Res Rev"
+   ],
+   [
+    "35792075",
+    "2022 Sep 21",
+    "Lipidomics of Cell Secretome Combined with the Study of Selected Bioactive Lipids in an In Vitro Model of Osteoarthritis.",
+    "Stem Cells Transl Med"
+   ],
+   [
+    "34787065",
+    "2021 Jan-Dec",
+    "The anti-inflammatory effect of bacterial short chain fatty acids is partially mediated by endocannabinoids.",
+    "Gut Microbes"
+   ],
+   [
+    "34468900",
+    "2021 Oct",
+    "Anti-inflammatory activity of palmitoylethanolamide ameliorates osteoarthritis induced by monosodium iodoacetate in Sprague-Dawley rats.",
+    "Inflammopharmacology"
+   ],
+   [
+    "34056884",
+    "2021 Aug",
+    "Efficacy of a fixed combination of palmitoylethanolamide and acetyl-l-carnitine (PEA+ALC FC) in the treatment of neuropathies secondary to rheumatic diseases.",
+    "Minerva Med"
+   ],
+   [
+    "32825646",
+    "2020 Aug 21",
+    "Oral Supplementation with Ultramicronized Palmitoylethanolamide for Joint Disease and Lameness Management in Four Jumping Horses: A Case Report.",
+    "Animals (Basel)"
+   ],
+   [
+    "32786678",
+    "2020 Sep 4",
+    "Joint Synovial Fluid Metabolomics Method to Decipher the Metabolic Mechanisms of Adjuvant Arthritis and Geniposide Intervention.",
+    "J Proteome Res"
+   ],
+   [
+    "31779692",
+    "2019 Nov 28",
+    "Safety and efficacy of a new micronized formulation of the ALIAmide palmitoylglucosamine in preclinical models of inflammation and osteoarthritis pain.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "31063807",
+    "2019 Jul",
+    "N-Acylethanolamine acid amidase (NAAA) inhibitor F215 as a novel therapeutic agent for osteoarthritis.",
+    "Pharmacol Res"
+   ],
+   [
+    "30945071",
+    "2019 Dec",
+    "Role of cannabinoid receptor 1 and the peroxisome proliferator-activated receptor α in mediating anti-nociceptive effects of synthetic cannabinoids and a cannabinoid-like compound.",
+    "Inflammopharmacology"
+   ],
+   [
+    "30929760",
+    "2019 Aug",
+    "Microdeletion in a FAAH pseudogene identified in a patient with high anandamide concentrations and pain insensitivity.",
+    "Br J Anaesth"
+   ],
+   [
+    "30927159",
+    "2019 Jun",
+    "A double-blind randomized placebo controlled study assessing safety, tolerability and efficacy of palmitoylethanolamide for symptoms of knee osteoarthritis.",
+    "Inflammopharmacology"
+   ],
+   [
+    "29110674",
+    "2017 Nov 6",
+    "Characterization of endocannabinoids and related acylethanolamides in the synovial fluid of dogs with osteoarthritis: a pilot study.",
+    "BMC Vet Res"
+   ],
+   [
+    "29046777",
+    "2017 Oct",
+    "Effect of palmitoylethanolamide on inflammatory and neuropathic pain in rats.",
+    "Korean J Anesthesiol"
+   ],
+   [
+    "28768536",
+    "2017 Aug 2",
+    "A novel composite formulation of palmitoylethanolamide and quercetin decreases inflammation and relieves pain in inflammatory and osteoarthritic pain models.",
+    "BMC Vet Res"
+   ],
+   [
+    "28039964",
+    "2017 Apr",
+    "Degenerative Joint Diseases and Neuroinflammation.",
+    "Pain Pract"
+   ],
+   [
+    "27955699",
+    "2016 Dec 12",
+    "Adelmidrol, in combination with hyaluronic acid, displays increased anti-inflammatory and analgesic effects against monosodium iodoacetate-induced osteoarthritis in rats.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "27599446",
+    "2016 Nov 1",
+    "Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammation.",
+    "Biochem Pharmacol"
+   ],
+   [
+    "27149951",
+    "2016 May 5",
+    "Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "26769918",
+    "2016 Mar",
+    "An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund's Adjuvant Rat Model of Arthritis.",
+    "J Pharmacol Exp Ther"
+   ],
+   [
+    "26567045",
+    "2015 Nov 14",
+    "Anti-inflammatory effects of N-acylethanolamines in rheumatoid arthritis synovial cells are mediated by TRPV1 and TRPA1 in a COX-2 dependent manner.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "26341615",
+    "2015 Nov 4",
+    "Antinociceptive and anti-inflammatory effects of Caryocar coriaceum Wittm fruit pulp fixed ethyl acetate extract on zymosan-induced arthritis in rats.",
+    "J Ethnopharmacol"
+   ],
+   [
+    "25599456",
+    "2015 Feb",
+    "Endocannabinoids and acute pain after total knee arthroplasty.",
+    "Pain"
+   ],
+   [
+    "24246048",
+    "2013",
+    "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "22558609",
+    "2012 Spring",
+    "Palmitoylethanolamide versus a nonsteroidal anti-inflammatory drug in the treatment of temporomandibular joint inflammatory pain.",
+    "J Orofac Pain"
+   ],
+   [
+    "18426495",
+    "2008 May",
+    "Cannabinomimetic control of mast cell mediator release: new perspective in chronic inflammation.",
+    "J Neuroendocrinol"
+   ]
+  ]
+ }
+}

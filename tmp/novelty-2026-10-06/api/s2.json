@@ -1,0 +1,4256 @@
+{
+ "rel:palmitoylethanolamide prednisolone": {
+  "status": 200,
+  "total": 64962,
+  "rec": [
+   {
+    "paperId": "d66983cd7ed5747aea762a577e5ab8a9a7429691",
+    "externalIds": {
+     "DOI": "10.1016/j.nut.2024.112397",
+     "CorpusId": 267713287,
+     "PubMed": "38479039"
+    },
+    "title": "Palmitoylethanolamide and polydatin in pediatric irritable bowel syndrome: A multicentric randomized controlled trial.",
+    "venue": "Nutrition (Burbank, Los Angeles County, Calif.)",
+    "year": 2024
+   },
+   {
+    "paperId": "59d0fd4cc2127a774bd58081cbc3f520d57b4f17",
+    "externalIds": {
+     "PubMedCentral": "11224098",
+     "DOI": "10.1007/s00259-024-06697-8",
+     "CorpusId": 268855038,
+     "PubMed": "38563881"
+    },
+    "title": "The effect of prednisolone and a short-term prednisolone discontinuation for the diagnostic accuracy of FDG-PET/CT in polymyalgia rheumatica—a prospective study of 101 patients",
+    "venue": "European Journal of Nuclear Medicine and Molecular Imaging",
+    "year": 2024
+   },
+   {
+    "paperId": "2f461e8b801ab542f55ed364f6631f95696a4a1d",
+    "externalIds": {
+     "PubMedCentral": "10053226",
+     "DOI": "10.3390/nu15061350",
+     "CorpusId": 257446863,
+     "PubMed": "36986081"
+    },
+    "title": "Palmitoylethanolamide in the Treatment of Chronic Pain: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlled Trials",
+    "venue": "Nutrients",
+    "year": 2023
+   },
+   {
+    "paperId": "417a80c6a604995313c9171c109258a3b38eb392",
+    "externalIds": {
+     "DOI": "10.1016/s2213-2600(23)00298-9",
+     "CorpusId": 264986730,
+     "PubMed": "37924830"
+    },
+    "title": "Blood eosinophil-guided oral prednisolone for COPD exacerbations in primary care in the UK (STARR2): a non-inferiority, multicentre, double-blind, placebo-controlled, randomised controlled trial.",
+    "venue": "The Lancet Respiratory Medicine",
+    "year": 2023
+   },
+   {
+    "paperId": "6aecbbaad0beb19e8dad3c8436ba31bf0e172c4e",
+    "externalIds": {
+     "DOI": "10.1183/13993003.00198-2023",
+     "CorpusId": 261680553,
+     "PubMed": "37690784"
+    },
+    "title": "High-dose (40 mg) versus low-dose (20 mg) prednisolone for treating sarcoidosis: a randomised trial (SARCORT trial)",
+    "venue": "European Respiratory Journal",
+    "year": 2023
+   },
+   {
+    "paperId": "ebf92d4d2a164dcce09d4e9f7954901c17b2f009",
+    "externalIds": {
+     "PubMedCentral": "10662208",
+     "DOI": "10.1016/j.bbi.2022.02.008",
+     "CorpusId": 246830194,
+     "PubMed": "35176443"
+    },
+    "title": "Palmitoylethanolamide dampens neuroinflammation and anxiety-like behavior in obese mice",
+    "venue": "Brain, behavior, and immunity",
+    "year": 2022
+   },
+   {
+    "paperId": "460dc4a50cc8720b58b962ac9b5489191133d91d",
+    "externalIds": {
+     "PubMedCentral": "9886808",
+     "DOI": "10.2174/1570159X20666220420113513",
+     "CorpusId": 284529100,
+     "PubMed": "35450527"
+    },
+    "title": "Ultramicronized Palmitoylethanolamide and Luteolin Supplement Combined with Olfactory Training to Treat Post-COVID-19 Olfactory Impairment: A Multi-Center Double-Blinded Randomized Placebo-Controlled Clinical Trial",
+    "venue": "Current Neuropharmacology",
+    "year": 2022
+   },
+   {
+    "paperId": "38c3aed212ffa6f0d1fcc8a324a5ceedcbd94b18",
+    "externalIds": {
+     "PubMedCentral": "9406356",
+     "DOI": "10.3390/cells11162552",
+     "CorpusId": 251653796,
+     "PubMed": "36010630"
+    },
+    "title": "Effect of Ultra-Micronized Palmitoylethanolamide and Luteolin on Olfaction and Memory in Patients with Long COVID: Results of a Longitudinal Study",
+    "venue": "Cells",
+    "year": 2022
+   },
+   {
+    "paperId": "09f1c3c3cf6ee85dcf15d1df481f9754ce7351db",
+    "externalIds": {
+     "PubMedCentral": "8811484",
+     "DOI": "10.1016/S0140-6736(21)02437-5",
+     "CorpusId": 245443315,
+     "PubMed": "34953525"
+    },
+    "title": "Abiraterone acetate and prednisolone with or without enzalutamide for high-risk non-metastatic prostate cancer: a meta-analysis of primary results from two randomised controlled phase 3 trials of the STAMPEDE platform protocol",
+    "venue": "The Lancet",
+    "year": 2021
+   },
+   {
+    "paperId": "73cbc66e3d6e8c4e6b6e842e6ee3a9e3ba240381",
+    "externalIds": {
+     "PubMedCentral": "8157570",
+     "DOI": "10.3390/ijms22105305",
+     "CorpusId": 235227521,
+     "PubMed": "34069940"
+    },
+    "title": "Palmitoylethanolamide: A Natural Compound for Health Management",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2021
+   },
+   {
+    "paperId": "6ce928a96abb42a05d8bbdd028ac0f9bae96def0",
+    "externalIds": {
+     "PubMedCentral": "9209692",
+     "DOI": "10.1136/annrheumdis-2021-221957",
+     "CorpusId": 249236906,
+     "PubMed": "35641125"
+    },
+    "title": "Low dose, add-on prednisolone in patients with rheumatoid arthritis aged 65+: the pragmatic randomised, double-blind placebo-controlled GLORIA trial",
+    "venue": "Annals of the Rheumatic Diseases",
+    "year": 2022
+   },
+   {
+    "paperId": "f285b7792ee1bdcbd565de517a50a57c98dce133",
+    "externalIds": {
+     "DOI": "10.1016/S0140-6736(21)00580-8",
+     "CorpusId": 235773924,
+     "PubMed": "34246347"
+    },
+    "title": "Ipatasertib plus abiraterone and prednisolone in metastatic castration-resistant prostate cancer (IPATential150): a multicentre, randomised, double-blind, phase 3 trial.",
+    "venue": "The Lancet",
+    "year": 2021
+   },
+   {
+    "paperId": "9eb2fa393d0ef3d17f9247cfb977e0bc83cc6355",
+    "externalIds": {
+     "DOI": "10.1007/s12072-022-10438-0",
+     "CorpusId": 254245495,
+     "PubMed": "36469298"
+    },
+    "title": "Fecal microbiota transplantation compared with prednisolone in severe alcoholic hepatitis patients: a randomized trial",
+    "venue": "Hepatology International",
+    "year": 2022
+   },
+   {
+    "paperId": "72d19e7d7b7a4acfae29f45a3568beecd1dbad40",
+    "externalIds": {
+     "DOI": "10.1182/blood.2021014027",
+     "CorpusId": 245983109,
+     "PubMed": "35030255"
+    },
+    "title": "Sirolimus plus prednisolone vs sirolimus monotherapy for kaposiform hemangioendothelioma: a randomized clinical trial.",
+    "venue": "Blood",
+    "year": 2022
+   },
+   {
+    "paperId": "2d60eba5376c107831dc08fdb405ab9190ddfb7a",
+    "externalIds": {
+     "DOI": "10.26355/eurrev_202106_26059",
+     "CorpusId": 235597718,
+     "PubMed": "34156697"
+    },
+    "title": "Randomized clinical trial \"olfactory dysfunction after COVID-19: olfactory rehabilitation therapy vs. intervention treatment with Palmitoylethanolamide and Luteolin\": preliminary results.",
+    "venue": "European Review for Medical and Pharmacological Sciences",
+    "year": 2021
+   },
+   {
+    "paperId": "3ed24e82b5fc1e5018250ae97f20f8d3c4d9559f",
+    "externalIds": {
+     "PubMedCentral": "9146540",
+     "DOI": "10.3390/v14051080",
+     "CorpusId": 248903637,
+     "PubMed": "35632821"
+    },
+    "title": "Palmitoylethanolamide (PEA) Inhibits SARS-CoV-2 Entry by Interacting with S Protein and ACE-2 Receptor",
+    "venue": "Viruses",
+    "year": 2022
+   },
+   {
+    "paperId": "a9c8bc34741565bbe31e85a083d8c496f0acd3a0",
+    "externalIds": {
+     "PubMedCentral": "9570726",
+     "DOI": "10.3390/nu14194084",
+     "CorpusId": 252839859,
+     "PubMed": "36235736"
+    },
+    "title": "The Effect of Palmitoylethanolamide on Pain Intensity, Central and Peripheral Sensitization, and Pain Modulation in Healthy Volunteers—A Randomized, Double-Blinded, Placebo-Controlled Crossover Trial",
+    "venue": "Nutrients",
+    "year": 2022
+   },
+   {
+    "paperId": "4adcfa20fd2245c71b0c49c492fb72e6db24bfa3",
+    "externalIds": {
+     "PubMedCentral": "9405819",
+     "DOI": "10.3390/biom12081161",
+     "CorpusId": 251753926,
+     "PubMed": "36009055"
+    },
+    "title": "Synaptic Effects of Palmitoylethanolamide in Neurodegenerative Disorders",
+    "venue": "Biomolecules",
+    "year": 2022
+   },
+   {
+    "paperId": "61f7349f07588727fd3b73ed39980fcdee3f5e30",
+    "externalIds": {
+     "DOI": "10.1111/pcn.13441",
+     "CorpusId": 249955000,
+     "PubMed": "35737597"
+    },
+    "title": "Efficacy and safety of palmitoylethanolamide as an adjunctive treatment for acute mania: A randomized, double‐blind, placebo‐controlled trial",
+    "venue": "Psychiatry and Clinical Neurosciences",
+    "year": 2022
+   },
+   {
+    "paperId": "56b8464f1049b036a6f35220b2010f350268573c",
+    "externalIds": {
+     "MAG": "3097943335",
+     "PubMedCentral": "7662788",
+     "DOI": "10.3390/ijms21217942",
+     "CorpusId": 226044602,
+     "PubMed": "33114698"
+    },
+    "title": "The Basal Pharmacology of Palmitoylethanolamide",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2020
+   },
+   {
+    "paperId": "eea9bf035066e92860e0072b94f5db65d1077350",
+    "externalIds": {
+     "PubMedCentral": "8197255",
+     "DOI": "10.3390/ijms22115533",
+     "CorpusId": 235295483,
+     "PubMed": "34073872"
+    },
+    "title": "Management of Acute Lung Injury: Palmitoylethanolamide as a New Approach",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2021
+   },
+   {
+    "paperId": "66e9ed5f89bfd8c9bce9b76225cc57d95d95310a",
+    "externalIds": {
+     "MAG": "2911490798",
+     "DOI": "10.1016/S1470-2045(18)30860-X",
+     "CorpusId": 73419307,
+     "PubMed": "30738780"
+    },
+    "title": "Addition of radium-223 to abiraterone acetate and prednisone or prednisolone in patients with castration-resistant prostate cancer and bone metastases (ERA 223): a randomised, double-blind, placebo-controlled, phase 3 trial.",
+    "venue": "The Lancet Oncology",
+    "year": 2019
+   },
+   {
+    "paperId": "a3109a7a83945afd341e81850d00afb941209fe2",
+    "externalIds": {
+     "PubMedCentral": "8073478",
+     "DOI": "10.3390/cancers13081923",
+     "CorpusId": 233424403,
+     "PubMed": "33923494"
+    },
+    "title": "Palmitoylethanolamide Reduces Colon Cancer Cell Proliferation and Migration, Influences Tumor Cell Cycle and Exerts In Vivo Chemopreventive Effects",
+    "venue": "Cancers",
+    "year": 2021
+   },
+   {
+    "paperId": "667125b5352b1f73e5fe8db195787fe5cee1e05d",
+    "externalIds": {
+     "PubMedCentral": "7999950",
+     "DOI": "10.3390/ijms22062945",
+     "CorpusId": 232386132,
+     "PubMed": "33799405"
+    },
+    "title": "Engineered Lactobacillus paracasei Producing Palmitoylethanolamide (PEA) Prevents Colitis in Mice",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2021
+   },
+   {
+    "paperId": "97291d6bdbde26c57379bebff09f264c88419d67",
+    "externalIds": {
+     "DOI": "10.1212/WNL.0000000000201164",
+     "CorpusId": 251844064,
+     "PubMed": "36008143"
+    },
+    "title": "Efficacy of Prednisolone for Bell Palsy in Children",
+    "venue": "Neurology",
+    "year": 2022
+   },
+   {
+    "paperId": "29f429c2737f63cedb25d3120f637b8cc7595386",
+    "externalIds": {
+     "MAG": "2514974009",
+     "DOI": "10.1111/bph.13580",
+     "CorpusId": 35525594,
+     "PubMed": "27539936"
+    },
+    "title": "The pharmacology of palmitoylethanolamide and first data on the therapeutic efficacy of some of its new formulations",
+    "venue": "British Journal of Pharmacology",
+    "year": 2017
+   },
+   {
+    "paperId": "652801d07ce2ef5aa15ccbefca0aab7dc9c66662",
+    "externalIds": {
+     "MAG": "2916058121",
+     "DOI": "10.1093/IBD/IZZ017",
+     "CorpusId": 86416439,
+     "PubMed": "31054246"
+    },
+    "title": "Palmitoylethanolamide and Cannabidiol Prevent Inflammation-induced Hyperpermeability of the Human Gut In Vitro and In Vivo-A Randomized, Placebo-controlled, Double-blind Controlled Trial.",
+    "venue": "Inflammatory Bowel Diseases",
+    "year": 2019
+   },
+   {
+    "paperId": "4f8ebd1a7173fe8e8317861f8e371818040ae1ae",
+    "externalIds": {
+     "MAG": "3044342387",
+     "PubMedCentral": "7432736",
+     "DOI": "10.3390/ijms21155330",
+     "CorpusId": 220877464,
+     "PubMed": "32727084"
+    },
+    "title": "ALIAmides Update: Palmitoylethanolamide and Its Formulations on Management of Peripheral Neuropathic Pain",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2020
+   },
+   {
+    "paperId": "c2716988848d38350a0d9115028c5f90ab6e33dd",
+    "externalIds": {
+     "PubMedCentral": "8300753",
+     "DOI": "10.3390/antiox10071014",
+     "CorpusId": 235713260,
+     "PubMed": "34202665"
+    },
+    "title": "Palmitoylethanolamide/Baicalein Regulates the Androgen Receptor Signaling and NF-κB/Nrf2 Pathways in Benign Prostatic Hyperplasia",
+    "venue": "Antioxidants",
+    "year": 2021
+   },
+   {
+    "paperId": "40c3342c0c30c1b5a3c960849dd2c48a7ee8b13c",
+    "externalIds": {
+     "MAG": "2963900717",
+     "PubMedCentral": "6667638",
+     "DOI": "10.3389/fphar.2019.00821",
+     "CorpusId": 198168179,
+     "PubMed": "31396087"
+    },
+    "title": "Palmitoylethanolamide (PEA) as a Potential Therapeutic Agent in Alzheimer’s Disease",
+    "venue": "Frontiers in Pharmacology",
+    "year": 2019
+   },
+   {
+    "paperId": "f23e3c17e25d70b6b1e68fe68f49577a51fe856c",
+    "externalIds": {
+     "PubMedCentral": "8472716",
+     "DOI": "10.3390/metabo11090592",
+     "CorpusId": 260488698,
+     "PubMed": "34564408"
+    },
+    "title": "Ultramicronized Palmitoylethanolamide Inhibits NLRP3 Inflammasome Expression and Pro-Inflammatory Response Activated by SARS-CoV-2 Spike Protein in Cultured Murine Alveolar Macrophages",
+    "venue": "Metabolites",
+    "year": 2021
+   },
+   {
+    "paperId": "e5d5f989ac37da3091d0435f363c9479875e0f36",
+    "externalIds": {
+     "DOI": "10.1176/appi.neuropsych.19080178",
+     "CorpusId": 236884731,
+     "PubMed": "34340527"
+    },
+    "title": "A Phase-2 Pilot Study of a Therapeutic Combination of Δ9-Tetrahydracannabinol and Palmitoylethanolamide for Adults With Tourette's Syndrome.",
+    "venue": "The Journal of Neuropsychiatry and Clinical Neurosciences",
+    "year": 2021
+   },
+   {
+    "paperId": "7b44567c86aff93e436c72dc87d3df8c7826a281",
+    "externalIds": {
+     "DOI": "10.1016/j.phrs.2021.105545",
+     "CorpusId": 232242317,
+     "PubMed": "33722712"
+    },
+    "title": "Palmitoylethanolamide and hemp oil extract exert synergistic anti-nociceptive effects in mouse models of acute and chronic pain.",
+    "venue": "Pharmacological Research",
+    "year": 2021
+   },
+   {
+    "paperId": "f8983a1c07cae097448f6fc27ebd7c6486defa49",
+    "externalIds": {
+     "DOI": "10.1183/13993003.01787-2021",
+     "CorpusId": 237471623,
+     "PubMed": "34503983"
+    },
+    "title": "A randomised trial of prednisolone versus prednisolone and itraconazole in acute-stage allergic bronchopulmonary aspergillosis complicating asthma",
+    "venue": "European Respiratory Journal",
+    "year": 2021
+   },
+   {
+    "paperId": "19fd4df63fb2a1a55edf2086d700b2bd8a9c3e58",
+    "externalIds": {
+     "MAG": "3038295408",
+     "DOI": "10.3233/JAD-200426",
+     "CorpusId": 220371247,
+     "PubMed": "32623398"
+    },
+    "title": "Effects of Palmitoylethanolamide Combined with Luteoline on Frontal Lobe Functions, High Frequency Oscillations, and GABAergic Transmission in Patients with Frontotemporal Dementia",
+    "venue": "Journal of Alzheimer's Disease",
+    "year": 2020
+   },
+   {
+    "paperId": "9a02e7455b66b97977d47f91986634725923bd6e",
+    "externalIds": {
+     "PubMedCentral": "8850687",
+     "DOI": "10.1183/13993003.02930-2021",
+     "CorpusId": 245070308,
+     "PubMed": "34887325"
+    },
+    "title": "High-dose versus low-dose prednisolone in symptomatic patients with post-COVID-19 diffuse parenchymal lung abnormalities: an open-label, randomised trial (the COLDSTER trial)",
+    "venue": "European Respiratory Journal",
+    "year": 2021
+   },
+   {
+    "paperId": "4685dc5fcb3da180621e74fa854fbda2358d44c5",
+    "externalIds": {
+     "MAG": "3025332396",
+     "DOI": "10.7326/0003-4819-104-1-12",
+     "CorpusId": 36996553,
+     "PubMed": "3940480"
+    },
+    "title": "A short course of prednisolone in chronic type B hepatitis. Report of a randomized, double-blind, placebo-controlled trial.",
+    "venue": "Annals of Internal Medicine",
+    "year": 2020
+   },
+   {
+    "paperId": "eaccacdaf6adfdc58cace8a60ed443dd793ccbc5",
+    "externalIds": {
+     "MAG": "3010300386",
+     "PubMedCentral": "7139331",
+     "DOI": "10.3390/antiox9030216",
+     "CorpusId": 212650493,
+     "PubMed": "32150935"
+    },
+    "title": "An Update of Palmitoylethanolamide and Luteolin Effects in Preclinical and Clinical Studies of Neuroinflammatory Events",
+    "venue": "Antioxidants",
+    "year": 2020
+   },
+   {
+    "paperId": "f2180d112a5060b84f6a75dce410485377359a0d",
+    "externalIds": {
+     "PubMedCentral": "6801841",
+     "MAG": "2975664970",
+     "DOI": "10.3390/ijms20194845",
+     "CorpusId": 203623447,
+     "PubMed": "31569558"
+    },
+    "title": "N-Palmitoylethanolamide-Oxazoline Protects against Middle Cerebral Artery Occlusion Injury in Diabetic Rats by Regulating the SIRT1 Pathway",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2019
+   },
+   {
+    "paperId": "cd52d19ad81c88607258cdd4c97364dab4221f20",
+    "externalIds": {
+     "MAG": "3005268186",
+     "PubMedCentral": "7074257",
+     "DOI": "10.3390/jcm9020428",
+     "CorpusId": 211065604,
+     "PubMed": "32033363"
+    },
+    "title": "Chronic Oral Palmitoylethanolamide Administration Rescues Cognitive Deficit and Reduces Neuroinflammation, Oxidative Stress, and Glutamate Levels in A Transgenic Murine Model of Alzheimer’s Disease",
+    "venue": "Journal of Clinical Medicine",
+    "year": 2020
+   },
+   {
+    "paperId": "81dbb57635560beee1aee79b9301d8697257b3f3",
+    "externalIds": {
+     "PubMedCentral": "8078455",
+     "MAG": "3112618817",
+     "DOI": "10.1200/JCO.20.01576",
+     "CorpusId": 229301626,
+     "PubMed": "33326257"
+    },
+    "title": "Pan-AKT Inhibitor Capivasertib With Docetaxel and Prednisolone in Metastatic Castration-Resistant Prostate Cancer: A Randomized, Placebo-Controlled Phase II Trial (ProCAID)",
+    "venue": "Journal of Clinical Oncology",
+    "year": 2020
+   },
+   {
+    "paperId": "176c4d35930363f876f9d97423aa67c949cb2790",
+    "externalIds": {
+     "PubMedCentral": "6769461",
+     "MAG": "2972871348",
+     "DOI": "10.3390/nu11092175",
+     "CorpusId": 202568975,
+     "PubMed": "31514292"
+    },
+    "title": "Therapeutic Efficacy of Palmitoylethanolamide and Its New Formulations in Synergy with Different Antioxidant Molecules Present in Diets",
+    "venue": "Nutrients",
+    "year": 2019
+   },
+   {
+    "paperId": "9313f0cdd6a0b9ef12b80323dc8c4b7c3bce11c7",
+    "externalIds": {
+     "MAG": "2986389123",
+     "DOI": "10.1016/s0140-6736(19)32489-4",
+     "CorpusId": 207975843,
+     "PubMed": "31727410"
+    },
+    "title": "Results of a 6-week treatment with 10 mg prednisolone in patients with hand osteoarthritis (HOPE): a double-blind, randomised, placebo-controlled trial.",
+    "venue": "The Lancet",
+    "year": 2019
+   },
+   {
+    "paperId": "b433d1d3aaf2657497f0169bf017855e0862e27f",
+    "externalIds": {
+     "MAG": "2596523885",
+     "PubMedCentral": "5428303",
+     "DOI": "10.1038/s41598-017-00342-1",
+     "CorpusId": 3971812,
+     "PubMed": "28336953"
+    },
+    "title": "Palmitoylethanolamide induces microglia changes associated with increased migration and phagocytic activity: involvement of the CB2 receptor",
+    "venue": "Scientific Reports",
+    "year": 2017
+   },
+   {
+    "paperId": "5d5171ec675314e712db13ed6f133824fed20eee",
+    "externalIds": {
+     "PubMedCentral": "7236677",
+     "MAG": "3024725607",
+     "DOI": "10.1016/j.mehy.2020.109856",
+     "CorpusId": 218685186,
+     "PubMed": "32460208"
+    },
+    "title": "Sodium chromo-glycate and palmitoylethanolamide: A possible strategy to treat mast cell-induced lung inflammation in COVID-19",
+    "venue": "Medical Hypotheses",
+    "year": 2020
+   },
+   {
+    "paperId": "d14648698ce7cbe70bc0973bf5ea55e05c4bac74",
+    "externalIds": {
+     "MAG": "2892244720",
+     "DOI": "10.1016/j.phymed.2018.09.191",
+     "CorpusId": 58947590,
+     "PubMed": "30668378"
+    },
+    "title": "Effects of a new compound containing Palmitoylethanolamide and Baicalein in myocardial ischaemia/reperfusion injury in vivo.",
+    "venue": "Phytomedicine",
+    "year": 2019
+   },
+   {
+    "paperId": "4091ada53aad5bef9d34dafc6de053b2747b35a1",
+    "externalIds": {
+     "MAG": "3024753435",
+     "DOI": "10.36648/NUTRACEUTICALS.5.2.3",
+     "CorpusId": 219445364
+    },
+    "title": "Increased Absorption of Palmitoylethanolamide Using a Novel Dispersion Technology System (LipiSperse)",
+    "venue": "",
+    "year": 2020
+   },
+   {
+    "paperId": "617a686c5f2d37ff75f1b0a9e80a6526c7f76559",
+    "externalIds": {
+     "PubMedCentral": "7605198",
+     "MAG": "3037968627",
+     "DOI": "10.1164/rccm.202003-0729LE",
+     "CorpusId": 220079239,
+     "PubMed": "32584603"
+    },
+    "title": "Blood Eosinophil Depletion with Mepolizumab, Benralizumab, and Prednisolone in Eosinophilic Asthma",
+    "venue": "American Journal of Respiratory and Critical Care Medicine",
+    "year": 2020
+   },
+   {
+    "paperId": "418e444866de85bc2efc06ee6373780471be808a",
+    "externalIds": {
+     "MAG": "3112803337",
+     "PubMedCentral": "7765232",
+     "DOI": "10.3390/ijms21249526",
+     "CorpusId": 229318459,
+     "PubMed": "33333772"
+    },
+    "title": "Palmitoylethanolamide: A Nutritional Approach to Keep Neuroinflammation within Physiological Boundaries—A Systematic Review",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2020
+   },
+   {
+    "paperId": "45c2a3192bae0b5db42df12b231bf27d88d665b9",
+    "externalIds": {
+     "PubMedCentral": "7408069",
+     "MAG": "3043620206",
+     "DOI": "10.3390/brainsci10070457",
+     "CorpusId": 221295051,
+     "PubMed": "32708932"
+    },
+    "title": "A New Palmitoylethanolamide Form Combined with Antioxidant Molecules to Improve Its Effectivess on Neuronal Aging",
+    "venue": "Brain Science",
+    "year": 2020
+   },
+   {
+    "paperId": "db9406fd77cbeb1f525b508629fa00eb34162286",
+    "externalIds": {
+     "MAG": "2892239540",
+     "DOI": "10.1016/j.bbi.2018.09.003",
+     "CorpusId": 52157529,
+     "PubMed": "30193877"
+    },
+    "title": "Palmitoylethanolamide counteracts autistic-like behaviours in BTBR T+tf/J mice: Contribution of central and peripheral mechanisms.",
+    "venue": "Brain, behavior, and immunity",
+    "year": 2018
+   },
+   {
+    "paperId": "9da05b880bcd382122731794e63b2be40a374e12",
+    "externalIds": {
+     "MAG": "2919550123",
+     "DOI": "10.2174/1871527318666190227205359",
+     "CorpusId": 260488709,
+     "PubMed": "30827269"
+    },
+    "title": "Ultramicronized Palmitoylethanolamide (um-PEA) as add-on Treatment in Fibromyalgia Syndrome (FMS): Retrospective Observational Study on 407 Patients.",
+    "venue": "CNS and Neurological Disorders - Drug Targets",
+    "year": 2019
+   },
+   {
+    "paperId": "05378cc0691b3cc8d4ba1a20c6b27a795f7ccd05",
+    "externalIds": {
+     "MAG": "2529133936",
+     "DOI": "10.1111/cns.12648",
+     "CorpusId": 30070184,
+     "PubMed": "27701827"
+    },
+    "title": "Beneficial Effects of Co‐Ultramicronized Palmitoylethanolamide/Luteolin in a Mouse Model of Autism and in a Case Report of Autism",
+    "venue": "CNS Neuroscience & Therapeutics",
+    "year": 2017
+   },
+   {
+    "paperId": "65e90e56c6ad44fcf71085e3a20c2e525cdffdfd",
+    "externalIds": {
+     "MAG": "2892794724",
+     "DOI": "10.1161/ATVBAHA.118.311185",
+     "CorpusId": 53027447,
+     "PubMed": "30354245"
+    },
+    "title": "Palmitoylethanolamide Promotes a Proresolving Macrophage Phenotype and Attenuates Atherosclerotic Plaque Formation",
+    "venue": "Arteriosclerosis, Thrombosis and Vascular Biology",
+    "year": 2018
+   },
+   {
+    "paperId": "32921b1788b8b54a1a38c6c767cca7e7062c005a",
+    "externalIds": {
+     "PubMedCentral": "5802581",
+     "MAG": "2788331446",
+     "DOI": "10.1038/s41398-017-0076-4",
+     "CorpusId": 3459190,
+     "PubMed": "29382825"
+    },
+    "title": "Ultramicronized palmitoylethanolamide rescues learning and memory impairments in a triple transgenic mouse model of Alzheimer’s disease by exerting anti-inflammatory and neuroprotective effects",
+    "venue": "Translational Psychiatry",
+    "year": 2018
+   },
+   {
+    "paperId": "271e8795c8352ce2c1657373ffcb180802f49a2b",
+    "externalIds": {
+     "MAG": "2783797280",
+     "PubMedCentral": "5822864",
+     "DOI": "10.1155/2018/4720532",
+     "CorpusId": 4341539,
+     "PubMed": "29576849"
+    },
+    "title": "Palmitoylethanolamide Dampens Reactive Astrogliosis and Improves Neuronal Trophic Support in a Triple Transgenic Model of Alzheimer's Disease: In Vitro and In Vivo Evidence",
+    "venue": "Oxidative Medicine and Cellular Longevity",
+    "year": 2018
+   },
+   {
+    "paperId": "bd4c6345e2a39538a17dac9618b69ffb32098ae0",
+    "externalIds": {
+     "MAG": "2575603189",
+     "PubMedCentral": "5400809",
+     "DOI": "10.1016/S0140-6736(17)30560-3",
+     "CorpusId": 1837055,
+     "PubMed": "28279484"
+    },
+    "title": "Doxycycline versus prednisolone as an initial treatment strategy for bullous pemphigoid: a pragmatic, non-inferiority, randomised controlled trial",
+    "venue": "The Lancet",
+    "year": 2017
+   },
+   {
+    "paperId": "bba697ac7384707e37fb308c5d459b0abe4c4605",
+    "externalIds": {
+     "MAG": "2757642320",
+     "DOI": "10.1042/CS20171288",
+     "CorpusId": 206160804,
+     "PubMed": "28954820"
+    },
+    "title": "Cannabidiol and palmitoylethanolamide are anti-inflammatory in the acutely inflamed human colon.",
+    "venue": "Clinical science",
+    "year": 2017
+   },
+   {
+    "paperId": "ef44ee4112cd16e291b9487f20cfc3ca2300ad53",
+    "externalIds": {
+     "PubMedCentral": "6878998",
+     "MAG": "2990508153",
+     "DOI": "10.2147/IJN.S219413",
+     "CorpusId": 208946872,
+     "PubMed": "31819422"
+    },
+    "title": "Co-Delivery of Prednisolone and Curcumin in Human Serum Albumin Nanoparticles for Effective Treatment of Rheumatoid Arthritis",
+    "venue": "International Journal of Nanomedicine",
+    "year": 2019
+   },
+   {
+    "paperId": "7a67128b78a423fd469e444a2fc8c6d5920b24dd",
+    "externalIds": {
+     "MAG": "2945042890",
+     "PubMedCentral": "6531851",
+     "DOI": "10.1136/bmj.l1800",
+     "CorpusId": 182643246,
+     "PubMed": "31335316"
+    },
+    "title": "Long term tapering versus standard prednisolone treatment for first episode of childhood nephrotic syndrome: phase III randomised controlled trial and economic evaluation",
+    "venue": "British medical journal",
+    "year": 2019
+   },
+   {
+    "paperId": "5d05ef6bc6a215497c4b1a7d8418ed20a08f0a64",
+    "externalIds": {
+     "MAG": "2945534715",
+     "DOI": "10.1016/j.ejpb.2019.05.018",
+     "CorpusId": 162171446,
+     "PubMed": "31112767"
+    },
+    "title": "Post-manufacture loading of filaments and 3D printed PLA scaffolds with prednisolone and dexamethasone for tissue regeneration applications.",
+    "venue": "European journal of pharmaceutics and biopharmaceutics",
+    "year": 2019
+   },
+   {
+    "paperId": "1328de2e75d2f41f7b5b43c9c399cda5a1cec351",
+    "externalIds": {
+     "PubMedCentral": "6381387",
+     "MAG": "2561573371",
+     "DOI": "10.1053/j.gastro.2016.12.019",
+     "CorpusId": 32881886,
+     "PubMed": "28043903"
+    },
+    "title": "In Patients With Severe Alcoholic Hepatitis, Prednisolone Increases Susceptibility to Infection and Infection-Related Mortality, and Is Associated With High Circulating Levels of Bacterial DNA",
+    "venue": "Gastroenterology",
+    "year": 2017
+   },
+   {
+    "paperId": "35b3e7103ff83172318e5b0854faa5792e619865",
+    "externalIds": {
+     "MAG": "3000328855",
+     "DOI": "10.1111/dmcn.14452",
+     "CorpusId": 209895541,
+     "PubMed": "31903560"
+    },
+    "title": "Prednisolone/prednisone as adrenocorticotropic hormone alternative for infantile spasms: a meta‐analysis of randomized controlled trials",
+    "venue": "Developmental Medicine & Child Neurology",
+    "year": 2020
+   },
+   {
+    "paperId": "f8f270f0893bf5856549357d773c6fccbc490d75",
+    "externalIds": {
+     "PubMedCentral": "5094513",
+     "MAG": "2400751176",
+     "DOI": "10.1111/bcp.13020",
+     "CorpusId": 3574871,
+     "PubMed": "27220803"
+    },
+    "title": "Palmitoylethanolamide for the treatment of pain: pharmacokinetics, safety and efficacy",
+    "venue": "British Journal of Clinical Pharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "5bc3102c503af928720d5b3668c04449efc467bb",
+    "externalIds": {
+     "MAG": "1872852415",
+     "DOI": "10.1111/bph.13084",
+     "CorpusId": 11513404,
+     "PubMed": "25598150"
+    },
+    "title": "The anti‐inflammatory mediator palmitoylethanolamide enhances the levels of 2‐arachidonoyl‐glycerol and potentiates its actions at TRPV1 cation channels",
+    "venue": "British Journal of Pharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "e287c37e0d6d2c542308ed8082f887e260704f7d",
+    "externalIds": {
+     "MAG": "2741810577",
+     "PubMedCentral": "5541643",
+     "DOI": "10.1186/s12917-017-1151-z",
+     "CorpusId": 4549650,
+     "PubMed": "28768536"
+    },
+    "title": "A novel composite formulation of palmitoylethanolamide and quercetin decreases inflammation and relieves pain in inflammatory and osteoarthritic pain models",
+    "venue": "BMC Veterinary Research",
+    "year": 2017
+   },
+   {
+    "paperId": "6cb3a0c61eeb1f078bb39f654d0db74aae983821",
+    "externalIds": {
+     "MAG": "2783060178",
+     "DOI": "10.1016/j.chest.2018.01.005",
+     "CorpusId": 4221752,
+     "PubMed": "29331473"
+    },
+    "title": "A Randomized Trial of Itraconazole vs Prednisolone in Acute‐Stage Allergic Bronchopulmonary Aspergillosis Complicating Asthma",
+    "venue": "Chest",
+    "year": 2018
+   },
+   {
+    "paperId": "8afda835c33d5a8ba2c592ec80317a189d2e3a59",
+    "externalIds": {
+     "MAG": "2801116518",
+     "DOI": "10.1016/j.jpsychires.2018.04.022",
+     "CorpusId": 44158584,
+     "PubMed": "29807317"
+    },
+    "title": "Palmitoylethanolamide as adjunctive therapy for autism: Efficacy and safety results from a randomized controlled trial.",
+    "venue": "Journal of Psychiatric Research",
+    "year": 2018
+   },
+   {
+    "paperId": "bd7a3002d39f33be1fa49f5718f83e528968a8d6",
+    "externalIds": {
+     "MAG": "2972491851",
+     "CorpusId": 11410543,
+     "PubMed": "28727699"
+    },
+    "title": "Efficacy of Palmitoylethanolamide for Pain: A Meta-Analysis.",
+    "venue": "Pain Physician",
+    "year": 2017
+   },
+   {
+    "paperId": "e8f3d8b604b66f138be81dc3d4c51d32a5761a19",
+    "externalIds": {
+     "MAG": "2792290331",
+     "DOI": "10.1016/j.jad.2018.02.057",
+     "CorpusId": 5007184,
+     "PubMed": "29486338"
+    },
+    "title": "Palmitoylethanolamide as adjunctive therapy in major depressive disorder: A double-blind, randomized and placebo-controlled trial.",
+    "venue": "Journal of Affective Disorders",
+    "year": 2018
+   },
+   {
+    "paperId": "e68201c2f6b7416c6cdeef622918955221c5547c",
+    "externalIds": {
+     "MAG": "2727215970",
+     "DOI": "10.1016/j.phrs.2017.06.014",
+     "CorpusId": 945749,
+     "PubMed": "28676456"
+    },
+    "title": "Palmitoylethanolamide and Polydatin combination reduces inflammation and oxidative stress in vascular injury",
+    "venue": "Pharmacological Research",
+    "year": 2017
+   },
+   {
+    "paperId": "4f06b3ba038325fc26748bbb2bdf99f4b34ec6a5",
+    "externalIds": {
+     "MAG": "2586479306",
+     "DOI": "10.1111/apt.13958",
+     "CorpusId": 46836154,
+     "PubMed": "28164346"
+    },
+    "title": "Randomised clinical trial: the analgesic properties of dietary supplementation with palmitoylethanolamide and polydatin in irritable bowel syndrome",
+    "venue": "Alimentary Pharmacology and Therapeutics",
+    "year": 2017
+   },
+   {
+    "paperId": "07815aef8dcbca1329ff551d57673de28d0c8235",
+    "externalIds": {
+     "PubMedCentral": "6852539",
+     "MAG": "2955039671",
+     "DOI": "10.1111/vde.12764",
+     "CorpusId": 195355359,
+     "PubMed": "31237065"
+    },
+    "title": "Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hypersensitivity dermatitis: a double‐blind, multicentre, randomized, placebo‐controlled study",
+    "venue": "Veterinary dermatology (Print)",
+    "year": 2019
+   },
+   {
+    "paperId": "a53768340a2736f1588e8639debbec5b4bd7c581",
+    "externalIds": {
+     "MAG": "2946170598",
+     "DOI": "10.1177/1049909119850807",
+     "CorpusId": 162169643,
+     "PubMed": "31113223"
+    },
+    "title": "The Potential Benefits of Palmitoylethanolamide in Palliation: A Qualitative Systematic Review",
+    "venue": "The American journal of hospice & palliative care",
+    "year": 2019
+   },
+   {
+    "paperId": "df35a92941be6ec6e35dfa0dd0ad82610f093383",
+    "externalIds": {
+     "MAG": "2950547863",
+     "DOI": "10.1007/s11095-019-2653-0",
+     "CorpusId": 195064341,
+     "PubMed": "31218557"
+    },
+    "title": "Folate Conjugated Double Liposomes Bearing Prednisolone and Methotrexate for Targeting Rheumatoid Arthritis",
+    "venue": "Pharmaceutical Research",
+    "year": 2019
+   },
+   {
+    "paperId": "0fa45ac3de2d98c0ae6b6fde7dce2a3814977cf2",
+    "externalIds": {
+     "MAG": "2898512100",
+     "DOI": "10.1016/j.jri.2018.10.001",
+     "CorpusId": 53217778,
+     "PubMed": "30390547"
+    },
+    "title": "The effect of prednisolone on endometrial uterine NK cell concentrations and pregnancy outcome in women with reproductive failure. A retrospective cohort study.",
+    "venue": "Journal of Reproductive Immunology",
+    "year": 2019
+   },
+   {
+    "paperId": "47de436b375f7e6e0712d04167ccc237fa0575af",
+    "externalIds": {
+     "MAG": "2947535295",
+     "DOI": "10.1016/J.ACA.2019.05.072",
+     "CorpusId": 191147004,
+     "PubMed": "31358214"
+    },
+    "title": "A paper-based analytical device coupled with electrochemical detection for the determination of dexamethasone and prednisolone in adulterated traditional medicines.",
+    "venue": "Analytica Chimica Acta",
+    "year": 2019
+   },
+   {
+    "paperId": "1682c6a9089c9b006784c04d7d29fc0081b14bf9",
+    "externalIds": {
+     "PubMedCentral": "5531370",
+     "MAG": "2585578522",
+     "DOI": "10.1089/can.2016.0030",
+     "CorpusId": 21762713,
+     "PubMed": "28861501"
+    },
+    "title": "Palmitoylethanolamide Modulates GPR55 Receptor Signaling in the Ventral Hippocampus to Regulate Mesolimbic Dopamine Activity, Social Interaction, and Memory Processing",
+    "venue": "Cannabis and Cannabinoid Research",
+    "year": 2017
+   },
+   {
+    "paperId": "9af9b61f30154acdc0d277850ed1594decff8ae6",
+    "externalIds": {
+     "MAG": "2600881065",
+     "DOI": "10.2174/1871527316666170321124949",
+     "CorpusId": 12745606,
+     "PubMed": "28325153"
+    },
+    "title": "Ultra-micronized Palmitoylethanolamide: An Efficacious Adjuvant Therapy for Parkinson's Disease.",
+    "venue": "CNS and Neurological Disorders - Drug Targets",
+    "year": 2017
+   },
+   {
+    "paperId": "8046d846ca2e69578fc1fe97d5101ae61ad7ca96",
+    "externalIds": {
+     "MAG": "2623165218",
+     "DOI": "10.1016/j.taap.2017.06.005",
+     "CorpusId": 24313416,
+     "PubMed": "28610993"
+    },
+    "title": "Effects of a Co‐Micronized Composite Containing Palmitoylethanolamide and Polydatin in an Experimental Model of Benign Prostatic Hyperplasia",
+    "venue": "Toxicology and Applied Pharmacology",
+    "year": 2017
+   },
+   {
+    "paperId": "060c8a11abb5a16ca1e40c00defd8d9c347ba9ac",
+    "externalIds": {
+     "MAG": "2600746387",
+     "PubMedCentral": "5337754",
+     "DOI": "10.3389/fphar.2017.00095",
+     "CorpusId": 14281169,
+     "PubMed": "28321191"
+    },
+    "title": "Palmitoylethanolamide Reduces Neuropsychiatric Behaviors by Restoring Cortical Electrophysiological Activity in a Mouse Model of Mild Traumatic Brain Injury",
+    "venue": "Frontiers in Pharmacology",
+    "year": 2017
+   },
+   {
+    "paperId": "f4a21ea94af1ae9b6267cb757510d75995317b73",
+    "externalIds": {
+     "MAG": "2775414052",
+     "PubMedCentral": "5732963",
+     "DOI": "10.3389/fphar.2017.00857",
+     "CorpusId": 33666226,
+     "PubMed": "29311913"
+    },
+    "title": "Palmitoylethanolamide Supplementation during Sensitization Prevents Airway Allergic Symptoms in the Mouse",
+    "venue": "Frontiers in Pharmacology",
+    "year": 2017
+   },
+   {
+    "paperId": "6d433382655dc9865c1bb93ff2545f14ca1b78d5",
+    "externalIds": {
+     "MAG": "2895895576",
+     "DOI": "10.1016/S2352-4642(18)30293-1",
+     "CorpusId": 53019793,
+     "PubMed": "30337183"
+    },
+    "title": "Efficacy and safety of intravenous immunoglobulin plus prednisolone therapy in patients with Kawasaki disease (Post RAISE): a multicentre, prospective cohort study.",
+    "venue": "The Lancet Child & Adolescent Health",
+    "year": 2018
+   },
+   {
+    "paperId": "71b6bfd4661ebd26d6a36ed792a5a6d0f45073e8",
+    "externalIds": {
+     "MAG": "2793027888",
+     "PubMedCentral": "6349812",
+     "DOI": "10.1007/s00467-018-3929-z",
+     "CorpusId": 3916909,
+     "PubMed": "29549463"
+    },
+    "title": "Pharmacology and pharmacogenetics of prednisone and prednisolone in patients with nephrotic syndrome",
+    "venue": "Pediatric nephrology (Berlin, West)",
+    "year": 2018
+   },
+   {
+    "paperId": "272bbdeb9b1c9238bca66dac5c004fafdb451d11",
+    "externalIds": {
+     "MAG": "2405713730",
+     "CorpusId": 33961303,
+     "PubMed": "26815246"
+    },
+    "title": "Palmitoylethanolamide, a Special Food for Medical Purposes, in the Treatment of Chronic Pain: A Pooled Data Meta-analysis.",
+    "venue": "Pain Physician",
+    "year": 2016
+   },
+   {
+    "paperId": "899ac877e366e2c21c59cfdea4a5485962531e73",
+    "externalIds": {
+     "MAG": "2898349998",
+     "DOI": "10.1007/s00784-018-2720-7",
+     "CorpusId": 53024954,
+     "PubMed": "30361792"
+    },
+    "title": "Efficacy of ultramicronized palmitoylethanolamide in burning mouth syndrome-affected patients: a preliminary randomized double-blind controlled trial",
+    "venue": "Clinical Oral Investigations",
+    "year": 2018
+   },
+   {
+    "paperId": "8ffbaedf976cdb3b9cee351943c023ef2492d5f2",
+    "externalIds": {
+     "MAG": "2617087217",
+     "DOI": "10.1016/j.autrev.2017.05.017",
+     "CorpusId": 205777457,
+     "PubMed": "28564619"
+    },
+    "title": "Repeated pulses of methyl-prednisolone with reduced doses of prednisone improve the outcome of class III, IV and V lupus nephritis: An observational comparative study of the Lupus-Cruces and lupus-Bordeaux cohorts.",
+    "venue": "Autoimmunity Reviews",
+    "year": 2017
+   },
+   {
+    "paperId": "a05d5208edfc434748778ee5831973d63b40ef41",
+    "externalIds": {
+     "MAG": "2953933157",
+     "DOI": "10.1016/j.earlhumdev.2019.06.007",
+     "CorpusId": 195788312,
+     "PubMed": "31265946"
+    },
+    "title": "Extended course of prednisolone in infants with severe bronchopulmonary dysplasia.",
+    "venue": "Early Human Development",
+    "year": 2019
+   },
+   {
+    "paperId": "da09fb98ca9ec34c59d4c55b487486f620126e9e",
+    "externalIds": {
+     "PubMedCentral": "6767037",
+     "MAG": "2882978393",
+     "DOI": "10.1002/mus.26191",
+     "CorpusId": 51703329,
+     "PubMed": "30028519"
+    },
+    "title": "Deflazacort versus prednisone/prednisolone for maintaining motor function and delaying loss of ambulation: A post HOC analysis from the ACT DMD trial",
+    "venue": "Muscle and Nerve",
+    "year": 2018
+   },
+   {
+    "paperId": "3b7d9f712a46cd17a26246bfe4cbc607f75b10bc",
+    "externalIds": {
+     "MAG": "2890661625",
+     "DOI": "10.1007/s12098-018-2782-1",
+     "CorpusId": 52301049,
+     "PubMed": "30232789"
+    },
+    "title": "Corticotrophin-ACTH in Comparison to Prednisolone in West Syndrome – A Randomized Study",
+    "venue": "Indian Journal of Pediatrics",
+    "year": 2018
+   },
+   {
+    "paperId": "4901fd82b59917be819caa0f39c2c2ef1ff310ed",
+    "externalIds": {
+     "MAG": "2804823124",
+     "DOI": "10.2217/nnm-2017-0377",
+     "CorpusId": 43983878,
+     "PubMed": "29790395"
+    },
+    "title": "Hyaluronic acid-conjugated pH-sensitive liposomes for targeted delivery of prednisolone on rheumatoid arthritis therapy.",
+    "venue": "Nanomedicine",
+    "year": 2018
+   },
+   {
+    "paperId": "af56e2db7bff105f1c82b0b3c05ba3784f3b2f97",
+    "externalIds": {
+     "MAG": "2776538941",
+     "DOI": "10.1080/03639045.2017.1420079",
+     "CorpusId": 4478808,
+     "PubMed": "29260916"
+    },
+    "title": "Eudragit S100 coated microsponges for Colon targeting of prednisolone",
+    "venue": "Drug Development and Industrial Pharmacy",
+    "year": 2018
+   },
+   {
+    "paperId": "a3643dd7ea331afeb470dbdc362d8eb671ca3016",
+    "externalIds": {
+     "MAG": "2729108066",
+     "DOI": "10.4415/ANN_17_02_08",
+     "CorpusId": 4917591,
+     "PubMed": "28617258"
+    },
+    "title": "Micronized palmitoylethanolamide/trans-polydatin treatment of endometriosis-related pain: a meta-analysis.",
+    "venue": "Annali dell'Istituto Superiore di Sanità",
+    "year": 2017
+   },
+   {
+    "paperId": "8148b4d987c9163014fa879b17d289cc7be3e8ec",
+    "externalIds": {
+     "PubMedCentral": "5332261",
+     "MAG": "2440898972",
+     "DOI": "10.1002/fsn3.392",
+     "CorpusId": 8392963,
+     "PubMed": "28265364"
+    },
+    "title": "Safety of micronized palmitoylethanolamide (microPEA): lack of toxicity and genotoxic potential",
+    "venue": "Food Science & Nutrition",
+    "year": 2016
+   },
+   {
+    "paperId": "1a8f91ebdf47baad51a379d92191ed7d1e7c81fe",
+    "externalIds": {
+     "MAG": "2783825830",
+     "DOI": "10.1016/S2213-2600(18)30008-0",
+     "CorpusId": 46795961,
+     "PubMed": "29373235"
+    },
+    "title": "Oral prednisolone in preschool children with virus-associated wheeze: a prospective, randomised, double-blind, placebo-controlled trial.",
+    "venue": "The Lancet Respiratory Medicine",
+    "year": 2018
+   },
+   {
+    "paperId": "bc530fcdaa29b22a284b2645c79b8d6ee926fcfb",
+    "externalIds": {
+     "MAG": "2595948971",
+     "DOI": "10.1016/j.joen.2016.12.012",
+     "CorpusId": 3881620,
+     "PubMed": "28320541"
+    },
+    "title": "Comparative Evaluation of Premedication with Ketorolac and Prednisolone on Postendodontic Pain: A Double‐blind Randomized Controlled Trial",
+    "venue": "Journal of Endodontics",
+    "year": 2017
+   },
+   {
+    "paperId": "18e101e3a97df6571dc71524a74b8db9921e9664",
+    "externalIds": {
+     "MAG": "2792556015",
+     "DOI": "10.1016/j.biopha.2018.02.082",
+     "CorpusId": 4802914,
+     "PubMed": "29635908"
+    },
+    "title": "Possible mechanisms of prednisolone-induced osteoporosis in zebrafish larva.",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2018
+   },
+   {
+    "paperId": "4407d414e72cdb21ed583837c9d32303a057e7d5",
+    "externalIds": {
+     "MAG": "2776645015",
+     "PubMedCentral": "5735888",
+     "DOI": "10.1186/s12871-017-0461-9",
+     "CorpusId": 6842595,
+     "PubMed": "29258432"
+    },
+    "title": "The beneficial use of ultramicronized palmitoylethanolamide as add-on therapy to Tapentadol in the treatment of low back pain: a pilot study comparing prospective and retrospective observational arms",
+    "venue": "BMC Anesthesiology",
+    "year": 2017
+   },
+   {
+    "paperId": "74cd5fa8dba98cf6cd70891032b3227fa8567a90",
+    "externalIds": {
+     "MAG": "2530430930",
+     "PubMedCentral": "5063853",
+     "DOI": "10.3389/fphar.2016.00382",
+     "CorpusId": 18006878,
+     "PubMed": "27790149"
+    },
+    "title": "Co-micronized Palmitoylethanolamide/Polydatin Treatment Causes Endometriotic Lesion Regression in a Rodent Model of Surgically Induced Endometriosis",
+    "venue": "Frontiers in Pharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "3e05c44a6fa0a93b39a58687d2e665d702241d44",
+    "externalIds": {
+     "MAG": "2471345196",
+     "DOI": "10.1016/j.phrs.2016.07.010",
+     "CorpusId": 34606175,
+     "PubMed": "27402190"
+    },
+    "title": "Ultramicronized palmitoylethanolamide (PEA-um(®)) in the treatment of idiopathic pulmonary fibrosis.",
+    "venue": "Pharmacological Research",
+    "year": 2016
+   }
+  ]
+ },
+ "rel:palmitoylethanolamide dexamethasone": {
+  "status": 429
+ },
+ "rel:palmitoylethanolamide rheumatoid arthritis": {
+  "status": 200,
+  "total": 251445,
+  "rec": [
+   {
+    "paperId": "2ff132f81f5a243ab900f453325c7c2be84cec84",
+    "externalIds": {
+     "DOI": "10.23736/S0026-4806.21.07486-3",
+     "CorpusId": 235255136,
+     "PubMed": "34056884"
+    },
+    "title": "Efficacy of a fixed combination of Palmitoylethanolamide and acetyl-l-carnitine (PEA + ALC FC) in the treatment of Neuropathies secondary to Rheumatic Diseases.",
+    "venue": "Minerva Medica",
+    "year": 2021
+   },
+   {
+    "paperId": "c0c633399e029b5472d895039df81ff0ad43ffeb",
+    "externalIds": {
+     "PubMedCentral": "9599300",
+     "DOI": "10.3390/biom12101453",
+     "CorpusId": 252858292,
+     "PubMed": "36291664"
+    },
+    "title": "Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol",
+    "venue": "Biomolecules",
+    "year": 2022
+   },
+   {
+    "paperId": "b03cde53a97698e7684047216969054c6da37349",
+    "externalIds": {
+     "DOI": "10.46563/2686-8997-2025-6-1-44-54",
+     "CorpusId": 278316333
+    },
+    "title": "Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic strategies",
+    "venue": "L O Badalyan Neurological Journal",
+    "year": 2025
+   },
+   {
+    "paperId": "402d8fbbb50ed41485fe79296a83b99d7e3383a4",
+    "externalIds": {
+     "PubMedCentral": "9985219",
+     "DOI": "10.1186/s13075-023-03018-6",
+     "CorpusId": 257312799,
+     "PubMed": "36871051"
+    },
+    "title": "The association between systemic immune-inflammation index and rheumatoid arthritis: evidence from NHANES 1999–2018",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2023
+   },
+   {
+    "paperId": "f97657a13f5a242d7c207e82081cfeb9f0e2fc5b",
+    "externalIds": {
+     "PubMedCentral": "9273041",
+     "DOI": "10.1002/acr.24596",
+     "CorpusId": 235370024,
+     "PubMed": "34101387"
+    },
+    "title": "2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2021
+   },
+   {
+    "paperId": "b8914926db201ca231bf338249792b92fd3a0813",
+    "externalIds": {
+     "DOI": "10.1002/art.42629",
+     "CorpusId": 259184160,
+     "PubMed": "37327357"
+    },
+    "title": "METTL14‐Mediated m6A Modification of TNFAIP3 Involved in Inflammation in Patients With Active Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2023
+   },
+   {
+    "paperId": "960c89b8edb35717f61d7667a34562ad7ad29f8e",
+    "externalIds": {
+     "PubMedCentral": "9272096",
+     "DOI": "10.1002/acr.24856",
+     "CorpusId": 245822473,
+     "PubMed": "34995017"
+    },
+    "title": "The Incidence, Risk Factors, and Mortality of Clinical and Subclinical Rheumatoid Arthritis-associated Interstitial Lung Disease: A Population-based Cohort",
+    "venue": "Arthritis care & research",
+    "year": 2022
+   },
+   {
+    "paperId": "bef82b9e2dfcc6da750baaa4d51d0767ba318925",
+    "externalIds": {
+     "DOI": "10.1016/j.semarthrit.2022.151992",
+     "CorpusId": 247370687,
+     "PubMed": "35303571"
+    },
+    "title": "Rheumatoid arthritis and inflammatory bowel disease: A bidirectional two-sample Mendelian randomization study.",
+    "venue": "Seminars in Arthritis & Rheumatism",
+    "year": 2022
+   },
+   {
+    "paperId": "52abfb67dcadb04d62026709edd86d0b3fa74a28",
+    "externalIds": {
+     "PubMedCentral": "8239709",
+     "DOI": "10.1002/art.41800",
+     "CorpusId": 233869566,
+     "PubMed": "33955209"
+    },
+    "title": "Risk of COVID‐19 in Rheumatoid Arthritis: A National Veterans Affairs Matched Cohort Study in At‐Risk Individuals",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2021
+   },
+   {
+    "paperId": "576385ab736840a7090ef9bc1f1cb4fb4804b407",
+    "externalIds": {
+     "PubMedCentral": "8361923",
+     "DOI": "10.1002/art.41666",
+     "CorpusId": 231763911,
+     "PubMed": "33512089"
+    },
+    "title": "Characterization and Function of Tumor Necrosis Factor and Interleukin‐6–Induced Osteoclasts in Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2021
+   },
+   {
+    "paperId": "cea155ccec012aad52ac4e689f9fdb152d97e9d0",
+    "externalIds": {
+     "PubMedCentral": "8596438",
+     "DOI": "10.1002/art.41780",
+     "CorpusId": 233741470,
+     "PubMed": "33949151"
+    },
+    "title": "Differences in the Oral Microbiome in Patients With Early Rheumatoid Arthritis and Individuals at Risk of Rheumatoid Arthritis Compared to Healthy Individuals",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2021
+   },
+   {
+    "paperId": "90fdaa2b2c3fe4718105462b16687707167d37e2",
+    "externalIds": {
+     "MAG": "2152348310",
+     "DOI": "10.1002/ART.1780310302",
+     "CorpusId": 20186513,
+     "PubMed": "3358796"
+    },
+    "title": "The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 1988
+   },
+   {
+    "paperId": "fd75f6e574b90ffb9344d6b3a1cddba7bc763b11",
+    "externalIds": {
+     "MAG": "2142004396",
+     "DOI": "10.1002/acr.22783",
+     "CorpusId": 42638848,
+     "PubMed": "26545825"
+    },
+    "title": "2015 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2016
+   },
+   {
+    "paperId": "3aa21463701abe9ff6fcbc040bf2bb9585b78853",
+    "externalIds": {
+     "MAG": "3112789381",
+     "DOI": "10.1016/j.semarthrit.2020.11.005",
+     "CorpusId": 230108148,
+     "PubMed": "33385862"
+    },
+    "title": "C-reactive protein and implications in rheumatoid arthritis and associated comorbidities.",
+    "venue": "Seminars in Arthritis & Rheumatism",
+    "year": 2020
+   },
+   {
+    "paperId": "c826faf6af859b26c34f7f3dee3963e6ca2c5062",
+    "externalIds": {
+     "MAG": "2961111920",
+     "DOI": "10.1002/art.41032",
+     "CorpusId": 195843803,
+     "PubMed": "31287230"
+    },
+    "title": "Upadacitinib Versus Placebo or Adalimumab in Patients With Rheumatoid Arthritis and an Inadequate Response to Methotrexate: Results of a Phase III, Double‐Blind, Randomized Controlled Trial",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "8eb4aa6d6346ac58e3b1093d3d54afb17eb4b4bd",
+    "externalIds": {
+     "PubMedCentral": "11293279",
+     "MAG": "3110936506",
+     "DOI": "10.1002/art.41622",
+     "CorpusId": 229175433,
+     "PubMed": "33314800"
+    },
+    "title": "The Pretreatment Gut Microbiome Is Associated With Lack of Response to Methotrexate in New-Onset Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "1a0ffc59b8c6f769fb774ad21adaa200be3ac99c",
+    "externalIds": {
+     "MAG": "2921889468",
+     "PubMedCentral": "6745288",
+     "DOI": "10.1002/acr.23875",
+     "CorpusId": 80620417,
+     "PubMed": "30875456"
+    },
+    "title": "Comparative Risk of Cardiovascular Events with Biologic and Synthetic Disease-Modifying Anti-Rheumatic Drugs in Patients with Rheumatoid Arthritis: A Systematic Review and Meta-analysis",
+    "venue": "Arthritis care & research",
+    "year": 2020
+   },
+   {
+    "paperId": "466bb73829700c08212bde5bf29b840a7f6414cd",
+    "externalIds": {
+     "MAG": "3039396378",
+     "DOI": "10.1002/art.41417",
+     "CorpusId": 220271219,
+     "PubMed": "32602263"
+    },
+    "title": "Rheumatoid Arthritis Pathogenesis, Prediction, and Prevention: An Emerging Paradigm Shift",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "0715693cb71e3437d022234bb6cb54a9eafb1c06",
+    "externalIds": {
+     "MAG": "3097462853",
+     "DOI": "10.1016/j.semarthrit.2020.10.008",
+     "CorpusId": 228940949,
+     "PubMed": "33412435"
+    },
+    "title": "The Jak/STAT pathway: A focus on pain in rheumatoid arthritis.",
+    "venue": "Seminars in Arthritis & Rheumatism",
+    "year": 2020
+   },
+   {
+    "paperId": "c962b79714770d21ce1124d108b2dcae56d0ac03",
+    "externalIds": {
+     "PubMedCentral": "7201559",
+     "MAG": "3020864358",
+     "DOI": "10.1186/s13075-020-02190-3",
+     "CorpusId": 218512639,
+     "PubMed": "32375861"
+    },
+    "title": "Serum calprotectin: a promising biomarker in rheumatoid arthritis and axial spondyloarthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2020
+   },
+   {
+    "paperId": "1100789820b33b5a4f2e8bb34e03f447f7ee187e",
+    "externalIds": {
+     "MAG": "2128952811",
+     "DOI": "10.1002/art.27584",
+     "CorpusId": 1191830,
+     "PubMed": "20872595"
+    },
+    "title": "2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2010
+   },
+   {
+    "paperId": "dac481c88982b59a9ee5718339630b34c57d3ab4",
+    "externalIds": {
+     "PubMedCentral": "7589242",
+     "MAG": "3024020861",
+     "DOI": "10.1002/art.41316",
+     "CorpusId": 218679033,
+     "PubMed": "32419304"
+    },
+    "title": "Efficacy and Safety of PF‐06651600 (Ritlecitinib), a Novel JAK3/TEC Inhibitor, in Patients With Moderate‐to‐Severe Rheumatoid Arthritis and an Inadequate Response to Methotrexate",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "83cfe5c4d3c81f4904109f75634a655caee0245b",
+    "externalIds": {
+     "PubMedCentral": "8247851",
+     "MAG": "3113161022",
+     "DOI": "10.1002/art.41597",
+     "CorpusId": 228080738,
+     "PubMed": "33295139"
+    },
+    "title": "Lifetime Risks, Life Expectancy, and Health Care Expenditures for Rheumatoid Arthritis: A Nationwide Cohort Followed Up From 2003 to 2016",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "b305ee4c4bb9e40ea082b20f743b1a0b581a8ffa",
+    "externalIds": {
+     "MAG": "2980447608",
+     "PubMedCentral": "7113097",
+     "DOI": "10.1002/art.41141",
+     "CorpusId": 204702511,
+     "PubMed": "31612614"
+    },
+    "title": "Rheumatoid arthritis morning stiffness is associated with synovial fibrin and neutrophils",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "70fc65a231136ec4254627ab2e332f733b3916a0",
+    "externalIds": {
+     "PubMedCentral": "6884664",
+     "MAG": "2988345887",
+     "DOI": "10.1002/acr.24042",
+     "CorpusId": 207964487,
+     "PubMed": "31709779"
+    },
+    "title": "2019 Update of the American College of Rheumatology Recommended Rheumatoid Arthritis Disease Activity Measures",
+    "venue": "Arthritis care & research",
+    "year": 2019
+   },
+   {
+    "paperId": "9f9c96be6e6ae6df27b68daf3dc81574b51f4166",
+    "externalIds": {
+     "MAG": "2971086071",
+     "DOI": "10.1002/art.41095",
+     "CorpusId": 201673596,
+     "PubMed": "31469238"
+    },
+    "title": "Cardiovascular Safety of Tocilizumab Versus Etanercept in Rheumatoid Arthritis: A Randomized Controlled Trial",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "1ce5944a6fca3da967174ad6a0db08220a5904e7",
+    "externalIds": {
+     "MAG": "2935393977",
+     "PubMedCentral": "6716994",
+     "DOI": "10.1002/art.40904",
+     "CorpusId": 96436594,
+     "PubMed": "30951251"
+    },
+    "title": "Rheumatoid arthritis disease activity predicting incident clinically-apparent RA-associated interstitial lung disease: A prospective cohort study",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "65e95895da7c1b1cb7ba3b6ffe7d0e835d87c12a",
+    "externalIds": {
+     "MAG": "2110177517",
+     "DOI": "10.1002/ART.1780380107",
+     "CorpusId": 11192145,
+     "PubMed": "7818570"
+    },
+    "title": "Modified disease activity scores that include twenty-eight-joint counts. Development and validation in a prospective longitudinal study of patients with rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 1995
+   },
+   {
+    "paperId": "d3ac76c6b70c4b1bb8bfaad523e950167c6368bd",
+    "externalIds": {
+     "MAG": "2805740714",
+     "DOI": "10.1002/acr.23611",
+     "CorpusId": 46918322,
+     "PubMed": "29856128"
+    },
+    "title": "Incidence and Risk of Glucocorticoid‐Associated Adverse Effects in Patients With Rheumatoid Arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2019
+   },
+   {
+    "paperId": "a621bea782f99a90865ff1e8a1945fa76269f958",
+    "externalIds": {
+     "PubMedCentral": "6790576",
+     "MAG": "2944312460",
+     "DOI": "10.1002/art.40920",
+     "CorpusId": 147705692,
+     "PubMed": "31067000"
+    },
+    "title": "N‐Linked Glycans in the Variable Domain of IgG Anti–Citrullinated Protein Antibodies Predict the Development of Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "ab8d6dabd23346b74fd4636fb1fd739a10b7259f",
+    "externalIds": {
+     "MAG": "2778484302",
+     "PubMedCentral": "6618316",
+     "DOI": "10.1002/art.40841",
+     "CorpusId": 58568953,
+     "PubMed": "30663869"
+    },
+    "title": "Cardiovascular Safety During Treatment With Baricitinib in Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "8880ca1de9ca704b6b0af29fd6c181457663ac40",
+    "externalIds": {
+     "PubMedCentral": "6716891",
+     "MAG": "2970752214",
+     "DOI": "10.1186/s13075-019-1977-9",
+     "CorpusId": 201671199,
+     "PubMed": "31470887"
+    },
+    "title": "Respiratory viral infections and the risk of rheumatoid arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2019
+   },
+   {
+    "paperId": "80ba93da4ebc19eb0774a111ef4a1273a1527e84",
+    "externalIds": {
+     "MAG": "2905169896",
+     "DOI": "10.1002/art.40798",
+     "CorpusId": 195662368,
+     "PubMed": "30552833"
+    },
+    "title": "Comparative Risk of Venous Thromboembolism in Rheumatoid Arthritis Patients Receiving Tofacitinib Versus Those Receiving Tumor Necrosis Factor Inhibitors: An Observational Cohort Study",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "c5f20674a2c8bd7d2553669bf924cc9eb9deb9bb",
+    "externalIds": {
+     "MAG": "2964826096",
+     "PubMedCentral": "6935396",
+     "DOI": "10.1002/art.41062",
+     "CorpusId": 198966943,
+     "PubMed": "31353807"
+    },
+    "title": "A Neutrophil Activation Biomarker Panel in Prognosis and Monitoring of Patients with Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2019
+   },
+   {
+    "paperId": "44983ecc157c0f8599ad45562b067f65582cd752",
+    "externalIds": {
+     "MAG": "2065419533",
+     "DOI": "10.1097/00006416-199003000-00011",
+     "CorpusId": 9770210,
+     "PubMed": "2183172"
+    },
+    "title": "Revised criteria for the classification of rheumatoid arthritis.",
+    "venue": "Orthopedic Nursing",
+    "year": 1990
+   },
+   {
+    "paperId": "f1e234704eeac8254153d77396e6da1782426307",
+    "externalIds": {
+     "MAG": "2789246385",
+     "PubMedCentral": "6019623",
+     "DOI": "10.1002/art.40504",
+     "CorpusId": 4639106,
+     "PubMed": "29579371"
+    },
+    "title": "Synovial cell metabolism and chronic inflammation in rheumatoid arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "3370929f323e1eb9ccf37a3fd24fde5a4b0c7859",
+    "externalIds": {
+     "MAG": "2615746594",
+     "DOI": "10.1002/acr.23280",
+     "CorpusId": 205226992,
+     "PubMed": "28511288"
+    },
+    "title": "Tele‐Health Followup Strategy for Tight Control of Disease Activity in Rheumatoid Arthritis: Results of a Randomized Controlled Trial",
+    "venue": "Arthritis care & research",
+    "year": 2018
+   },
+   {
+    "paperId": "ed9ed7ad88e6cfafdff38cdb73b6c1e433f9a30e",
+    "externalIds": {
+     "MAG": "2804264257",
+     "DOI": "10.1002/art.40569",
+     "CorpusId": 46894245,
+     "PubMed": "29790294"
+    },
+    "title": "JAK/STAT Blockade Alters Synovial Bioenergetics, Mitochondrial Function, and Proinflammatory Mediators in Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "fec27857180cc05ea5cdfbfe3e4a6a0cb2095db5",
+    "externalIds": {
+     "MAG": "2600458201",
+     "DOI": "10.1002/acr.23243",
+     "CorpusId": 46434742,
+     "PubMed": "28371512"
+    },
+    "title": "Cognitive Impairment in Rheumatoid Arthritis: A Systematic Review",
+    "venue": "Arthritis care & research",
+    "year": 2018
+   },
+   {
+    "paperId": "5021ed602f69336f2f1bd79291d6f47f918b6d31",
+    "externalIds": {
+     "MAG": "2806460375",
+     "DOI": "10.1002/art.40574",
+     "CorpusId": 44124162,
+     "PubMed": "29806092"
+    },
+    "title": "The Lung in Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "508e6868a1d6e405456a5712670227517ae3dfa5",
+    "externalIds": {
+     "PubMedCentral": "5452638",
+     "MAG": "2618183351",
+     "DOI": "10.1186/s13075-017-1303-3",
+     "CorpusId": 26272053,
+     "PubMed": "28569176"
+    },
+    "title": "Fibroblast-like synoviocyte metabolism in the pathogenesis of rheumatoid arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2017
+   },
+   {
+    "paperId": "8ad529cc8cbcf56cc7133b9cf182651e10e2b93c",
+    "externalIds": {
+     "MAG": "2530335997",
+     "PubMedCentral": "5347954",
+     "DOI": "10.1002/art.39953",
+     "CorpusId": 14744058,
+     "PubMed": "27723271"
+    },
+    "title": "Baricitinib, Methotrexate, or Combination in Patients With Rheumatoid Arthritis and No or Limited Prior Disease‐Modifying Antirheumatic Drug Treatment",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "47bb55d02b61b6493a85cbd64355acab48e5dba5",
+    "externalIds": {
+     "PubMedCentral": "6033023",
+     "MAG": "2793196752",
+     "DOI": "10.1002/acr.23539",
+     "CorpusId": 46764797,
+     "PubMed": "29438604"
+    },
+    "title": "Increased Burden of Psychiatric Disorders in Rheumatoid Arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2018
+   },
+   {
+    "paperId": "b465435bae173fb1725e92f80ac5f4152ecd209b",
+    "externalIds": {
+     "MAG": "2554128311",
+     "PubMedCentral": "5406252",
+     "DOI": "10.1002/art.40003",
+     "CorpusId": 19144568,
+     "PubMed": "27863183"
+    },
+    "title": "Evidence for Immune Relevance of Prevotella copri, a Gut Microbe, in Patients with Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "793e086cae5a0d5fa006d7fda4fcaeecbf8385f0",
+    "externalIds": {
+     "PubMedCentral": "6336443",
+     "MAG": "2791732570",
+     "DOI": "10.1002/art.40428",
+     "CorpusId": 3448754,
+     "PubMed": "29468833"
+    },
+    "title": "Identification of Three Rheumatoid Arthritis Disease Subtypes by Machine Learning Integration of Synovial Histologic Features and RNA Sequencing Data",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "ec6a23db3a0ecdab77956ddb3ebe405728c94d7e",
+    "externalIds": {
+     "PubMedCentral": "6590333",
+     "MAG": "2801943566",
+     "DOI": "10.1002/acr.23589",
+     "CorpusId": 19488586,
+     "PubMed": "29696812"
+    },
+    "title": "Effects of Aerobic and Resistance Exercise in Older Adults With Rheumatoid Arthritis: A Randomized Controlled Trial",
+    "venue": "Arthritis care & research",
+    "year": 2018
+   },
+   {
+    "paperId": "a8c271cc4228f2a52da72f29e91bc14cc3d79e9a",
+    "externalIds": {
+     "MAG": "2771930301",
+     "PubMedCentral": "5947164",
+     "DOI": "10.1002/art.40398",
+     "CorpusId": 3868972,
+     "PubMed": "29245178"
+    },
+    "title": "Review: Transcriptional Regulation of CD4+ T Cell Differentiation in Experimentally Induced Arthritis and Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "e4fdc79503976156b6f50085bd8ae108f63a0fd0",
+    "externalIds": {
+     "MAG": "2791871205",
+     "DOI": "10.1002/art.40451",
+     "CorpusId": 46827119,
+     "PubMed": "29439291"
+    },
+    "title": "Neurobiologic Features of Fibromyalgia Are Also Present Among Rheumatoid Arthritis Patients",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "d50d9e7e0b7111959cc94863b103b863bdf83854",
+    "externalIds": {
+     "PubMedCentral": "6203609",
+     "MAG": "2806040990",
+     "DOI": "10.1002/art.40578",
+     "CorpusId": 46921600,
+     "PubMed": "29855173"
+    },
+    "title": "T cell-dependent affinity maturation and innate immune pathways differentially drive autoreactive B cell responses in rheumatoid arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "7ab3ab52a46420b558ae180e7f2af5de8c613a20",
+    "externalIds": {
+     "MAG": "2808981647",
+     "PubMedCentral": "6261688",
+     "DOI": "10.1002/art.40590",
+     "CorpusId": 49345902,
+     "PubMed": "29927106"
+    },
+    "title": "Pathogenic citrulline-multispecific B cell receptor clades in rheumatoid arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "deea4db5eec03ed9b0d3b94940dc01ced51e6b67",
+    "externalIds": {
+     "MAG": "2547041957",
+     "PubMedCentral": "5328843",
+     "DOI": "10.1002/art.39971",
+     "CorpusId": 3657833,
+     "PubMed": "27788297"
+    },
+    "title": "Progressive Decline of Lung Function in Rheumatoid Arthritis Associated Interstitial Lung Disease",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "00ea0ab762c7bb959050e7868ce11808b3314a06",
+    "externalIds": {
+     "MAG": "2768838210",
+     "PubMedCentral": "5688621",
+     "DOI": "10.1186/s13075-017-1457-z",
+     "CorpusId": 10661467,
+     "PubMed": "29141688"
+    },
+    "title": "Chinese Registry of rheumatoid arthritis (CREDIT): II. prevalence and risk factors of major comorbidities in Chinese patients with rheumatoid arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2017
+   },
+   {
+    "paperId": "f5fb890d166b450c7b5f3a6c592ab5c264e1f23f",
+    "externalIds": {
+     "MAG": "2110826367",
+     "DOI": "10.1056/NEJMra1004965",
+     "CorpusId": 17460029,
+     "PubMed": "22150039"
+    },
+    "title": "The pathogenesis of rheumatoid arthritis.",
+    "venue": "New England Journal of Medicine",
+    "year": 2011
+   },
+   {
+    "paperId": "5097041b25bfe6b0684fdf35d0f20ab2c7f9ba51",
+    "externalIds": {
+     "MAG": "2589882987",
+     "DOI": "10.1002/art.40070",
+     "CorpusId": 11719578,
+     "PubMed": "28217871"
+    },
+    "title": "Secukinumab in Active Rheumatoid Arthritis: A Phase III Randomized, Double‐Blind, Active Comparator– and Placebo‐Controlled Study",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "0eb809e1bc884357110d6f9a0be2c4007bd1f735",
+    "externalIds": {
+     "MAG": "2355702181",
+     "DOI": "10.1002/acr.22932",
+     "CorpusId": 205226188,
+     "PubMed": "27159376"
+    },
+    "title": "Impact of Obesity on Remission and Disease Activity in Rheumatoid Arthritis: A Systematic Review and Meta‐Analysis",
+    "venue": "Arthritis care & research",
+    "year": 2017
+   },
+   {
+    "paperId": "22c45aea22959388270551e4c4391705a76a0f78",
+    "externalIds": {
+     "PubMedCentral": "5656925",
+     "MAG": "2772625902",
+     "DOI": "10.1002/art.40187",
+     "CorpusId": 11140063,
+     "PubMed": "28845577"
+    },
+    "title": "The Safety and Immunogenicity of Live Zoster Vaccination in Patients With Rheumatoid Arthritis Before Starting Tofacitinib: A Randomized Phase II Trial",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "9e8afa87d2279c52377aa541dfd23d3f66cc4fe8",
+    "externalIds": {
+     "MAG": "2607258133",
+     "PubMedCentral": "5387190",
+     "DOI": "10.1186/s13075-017-1283-3",
+     "CorpusId": 6541100,
+     "PubMed": "28399896"
+    },
+    "title": "Glutaminase 1 plays a key role in the cell growth of fibroblast-like synoviocytes in rheumatoid arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2017
+   },
+   {
+    "paperId": "50c63446fe99b1a92aa39943a997767dd2872a91",
+    "externalIds": {
+     "MAG": "2319957449",
+     "DOI": "10.1056/NEJM200011303432202",
+     "CorpusId": 39222132,
+     "PubMed": "11096166"
+    },
+    "title": "Infliximab and methotrexate in the treatment of rheumatoid arthritis. Anti-Tumor Necrosis Factor Trial in Rheumatoid Arthritis with Concomitant Therapy Study Group.",
+    "venue": "New England Journal of Medicine",
+    "year": 2000
+   },
+   {
+    "paperId": "92af0717f6e20734bd9963c4caf9edfa8dcb852c",
+    "externalIds": {
+     "MAG": "2909171664",
+     "DOI": "10.1136/ANNRHEUMDIS-2018-EULAR.3373",
+     "CorpusId": 4984634
+    },
+    "title": "AB0259 Clinical management of seronegative and seropositive rheumatoid arthritis: a comparative study",
+    "venue": "Rheumatoid arthritis – prognosis, predictors and outcome",
+    "year": 2018
+   },
+   {
+    "paperId": "ea9136ac8f8479f7d71e3a0049815cdbea571893",
+    "externalIds": {
+     "PubMedCentral": "5767745",
+     "MAG": "2759367587",
+     "DOI": "10.1002/art.40323",
+     "CorpusId": 3563107,
+     "PubMed": "28941039"
+    },
+    "title": "A Randomized Phase IIb Study of Mavrilimumab and Golimumab in Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "e81c004bcaa2d1588c8798339583a333b0145b68",
+    "externalIds": {
+     "MAG": "2564811679",
+     "DOI": "10.1002/art.40017",
+     "CorpusId": 39797770,
+     "PubMed": "27992692"
+    },
+    "title": "Rheumatoid Arthritis and Risk of Malignant Lymphoma: Is the Risk Still Increased?",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "6d806bf6ecef13d078fe9305004916fb41f79cd7",
+    "externalIds": {
+     "PubMedCentral": "5634905",
+     "MAG": "2606815103",
+     "DOI": "10.1002/acr.23229",
+     "CorpusId": 205226876,
+     "PubMed": "28393498"
+    },
+    "title": "The impact of obesity and adiposity on inflammatory markers in patients with rheumatoid arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2017
+   },
+   {
+    "paperId": "914d717a84fbba1bc50d5b346545c3722dd47b7f",
+    "externalIds": {
+     "MAG": "2625769798",
+     "PubMedCentral": "5656813",
+     "DOI": "10.1002/art.40186",
+     "CorpusId": 22945164,
+     "PubMed": "28622463"
+    },
+    "title": "Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Filgotinib, a Selective JAK‐1 Inhibitor, After Short‐Term Treatment of Rheumatoid Arthritis: Results of Two Randomized Phase IIa Trials",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "4ec296da8761158ee616449840a0e98b6c383c5a",
+    "externalIds": {
+     "MAG": "2762410318",
+     "DOI": "10.1002/art.40152",
+     "CorpusId": 19043829,
+     "PubMed": "28635179"
+    },
+    "title": "Changing Trends in Opioid Use Among Patients With Rheumatoid Arthritis in the United States",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "e897f9b21fc0fd69faeab67f7ff00f95e0bf697f",
+    "externalIds": {
+     "MAG": "2510873852",
+     "DOI": "10.1002/acr.23014",
+     "CorpusId": 23827479,
+     "PubMed": "27564223"
+    },
+    "title": "Secular Changes in Clinical Features at Presentation of Rheumatoid Arthritis: Increase in Comorbidity But Improved Inflammatory States",
+    "venue": "Arthritis care & research",
+    "year": 2017
+   },
+   {
+    "paperId": "121f82a73b096329c99f7e16747a828c052d5f2a",
+    "externalIds": {
+     "MAG": "2557876117",
+     "PubMedCentral": "5396306",
+     "DOI": "10.1002/art.39996",
+     "CorpusId": 18776594,
+     "PubMed": "27907269"
+    },
+    "title": "Brief Report: Remission Rates With Tofacitinib Treatment in Rheumatoid Arthritis: A Comparison of Various Remission Criteria",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2017
+   },
+   {
+    "paperId": "75f7bc0b3b0aab9dd2a63a6d43dfb648865adae5",
+    "externalIds": {
+     "MAG": "2155702314",
+     "DOI": "10.1038/nri2094",
+     "CorpusId": 28125222,
+     "PubMed": "17525752"
+    },
+    "title": "Cytokines in the pathogenesis of rheumatoid arthritis",
+    "venue": "Nature reviews. Immunology",
+    "year": 2007
+   },
+   {
+    "paperId": "51b1beeff707b8974b63d8064598f62f7bdf7525",
+    "externalIds": {
+     "MAG": "2159106700",
+     "DOI": "10.1002/ART.1780380602",
+     "CorpusId": 8748809,
+     "PubMed": "7779114"
+    },
+    "title": "American College of Rheumatology. Preliminary definition of improvement in rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 1995
+   },
+   {
+    "paperId": "645a0eb43ca85f0405274f59917b6ac15e711eb9",
+    "externalIds": {
+     "MAG": "2460126719",
+     "PubMedCentral": "4963240",
+     "DOI": "10.1002/art.39608",
+     "CorpusId": 23315279,
+     "PubMed": "26815411"
+    },
+    "title": "Critical Role of Glucose Metabolism in Rheumatoid Arthritis Fibroblast-like Synoviocytes",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "a1f97dd323175ed9f19b51a630a161cb33c47d0d",
+    "externalIds": {
+     "MAG": "2540497002",
+     "PubMedCentral": "5086038",
+     "DOI": "10.1186/s13075-016-1151-6",
+     "CorpusId": 16674080,
+     "PubMed": "27793211"
+    },
+    "title": "Patient global assessment in measuring disease activity in rheumatoid arthritis: a review of the literature",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2016
+   },
+   {
+    "paperId": "22c105e5f146b8215ff508493d19050305cb255e",
+    "externalIds": {
+     "PubMedCentral": "5134070",
+     "MAG": "2558513068",
+     "DOI": "10.1186/s13075-016-1178-8",
+     "CorpusId": 17413555,
+     "PubMed": "27906035"
+    },
+    "title": "Extracellular vesicles in the pathogenesis of rheumatoid arthritis and osteoarthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2016
+   },
+   {
+    "paperId": "c51f339a30792689f8b567c1e1486deefd9f5305",
+    "externalIds": {
+     "MAG": "2584596309",
+     "PubMedCentral": "6207906",
+     "DOI": "10.1002/art.39944",
+     "CorpusId": 12687981,
+     "PubMed": "27860410"
+    },
+    "title": "Sarilumab and Nonbiologic Disease‐Modifying Antirheumatic Drugs in Patients With Active Rheumatoid Arthritis and Inadequate Response or Intolerance to Tumor Necrosis Factor Inhibitors",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "3cc18d8ab18be64eb75c28ea6be79c285f017bec",
+    "externalIds": {
+     "MAG": "2414401850",
+     "DOI": "10.1016/j.semarthrit.2016.05.012",
+     "CorpusId": 22539356,
+     "PubMed": "27388027"
+    },
+    "title": "Psoriasis, psoriatic arthritis, and rheumatoid arthritis: Is all inflammation the same?",
+    "venue": "Seminars in Arthritis & Rheumatism",
+    "year": 2016
+   },
+   {
+    "paperId": "e4a8df3364b1bf2187d41d9e07f279b92ed93fa8",
+    "externalIds": {
+     "MAG": "2146000946",
+     "PubMedCentral": "4767537",
+     "DOI": "10.1002/art.39491",
+     "CorpusId": 205432038,
+     "PubMed": "26554752"
+    },
+    "title": "Antibodies to Porphyromonas gingivalis indicate interaction between oral infection, smoking and risk genes in rheumatoid arthritis etiology",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "77f48f59f4814fccceb34606becf6b7afa910aa8",
+    "externalIds": {
+     "PubMedCentral": "5538140",
+     "MAG": "2406411192",
+     "DOI": "10.1002/ART.39761",
+     "CorpusId": 22424749
+    },
+    "title": "Risk for Gastrointestinal Perforation among Rheumatoid Arthritis Patients receiving Tofacitinib, Tocilizumab, or other Biologics",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "fdfc66c7dd1043cdb95ef3b10a212403e726555c",
+    "externalIds": {
+     "PubMedCentral": "5132065",
+     "MAG": "2559743688",
+     "DOI": "10.1002/art.39808",
+     "CorpusId": 14278997,
+     "PubMed": "27390150"
+    },
+    "title": "Efficacy and Safety of ABT‐494, a Selective JAK‐1 Inhibitor, in a Phase IIb Study in Patients With Rheumatoid Arthritis and an Inadequate Response to Methotrexate",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "a0aa9365e33bfa010c5c950bbe0f7d24a44fb441",
+    "externalIds": {
+     "MAG": "1916256274",
+     "DOI": "10.1002/art.39473",
+     "CorpusId": 28707749,
+     "PubMed": "26473751"
+    },
+    "title": "VX‐509 (Decernotinib), an Oral Selective JAK‐3 Inhibitor, in Combination With Methotrexate in Patients With Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "4c93e54535ca7192a4c4483de089ef60054e1991",
+    "externalIds": {
+     "MAG": "2116306551",
+     "PubMedCentral": "4740283",
+     "DOI": "10.1002/acr.22683",
+     "CorpusId": 29083861,
+     "PubMed": "26239524"
+    },
+    "title": "Posttraumatic Stress Disorder and Risk for Incident Rheumatoid Arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2016
+   },
+   {
+    "paperId": "e8704d45cea15a62b3b89452d75360b9438fa025",
+    "externalIds": {
+     "PubMedCentral": "5042824",
+     "MAG": "2528863916",
+     "DOI": "10.1002/art.39771",
+     "CorpusId": 26663750,
+     "PubMed": "27273876"
+    },
+    "title": "IgA Plasmablasts are Elevated in Subjects At Risk for Future Rheumatoid Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "92b5c0b77e48319144f987b34a314886d2faa263",
+    "externalIds": {
+     "MAG": "2565481992",
+     "DOI": "10.1002/acr.23183",
+     "CorpusId": 34813596,
+     "PubMed": "28029753"
+    },
+    "title": "Performance of the Patient‐Reported Outcomes Measurement Information System 29‐Item Profile in Rheumatoid Arthritis, Osteoarthritis, Fibromyalgia, and Systemic Lupus Erythematosus",
+    "venue": "Arthritis care & research",
+    "year": 2016
+   },
+   {
+    "paperId": "fadeb505c2e0aca76da1203aa9617f957dbf75f0",
+    "externalIds": {
+     "MAG": "2984159141",
+     "PubMedCentral": "6217964",
+     "DOI": "10.1002/acr.22711",
+     "CorpusId": 36430323,
+     "PubMed": "26314559"
+    },
+    "title": "Light Intensity Physical Activity is Associated with Lower Cardiovascular Risk Factor Burden in Rheumatoid Arthritis",
+    "venue": "Arthritis care & research",
+    "year": 2016
+   },
+   {
+    "paperId": "3c44c61b52dd6a434c018e57bdc5781de1b875fd",
+    "externalIds": {
+     "MAG": "2587272665",
+     "PubMedCentral": "5103164",
+     "DOI": "10.1002/art.39630",
+     "CorpusId": 35160687,
+     "PubMed": "26866831"
+    },
+    "title": "Associations of smoking and age with inflammatory joint signs among first-degree relatives without rheumatoid arthritis: Results from the Studies of the Etiology of RA",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "4bb476aad6fb51b6ddf4b294c3b44b33cda1ba5a",
+    "externalIds": {
+     "MAG": "2205328596",
+     "DOI": "10.1002/acr.22824",
+     "CorpusId": 9241835,
+     "PubMed": "26713518"
+    },
+    "title": "Unraveling Patient‐Preferred Health and Treatment Outcomes in Early Rheumatoid Arthritis: A Longitudinal Qualitative Study",
+    "venue": "Arthritis care & research",
+    "year": 2016
+   },
+   {
+    "paperId": "1a01862c0ff1e3c80149244ddcd00ed7c779cdb4",
+    "externalIds": {
+     "MAG": "2787443244",
+     "PubMedCentral": "5299504",
+     "DOI": "10.1002/art.39946",
+     "CorpusId": 16009837,
+     "PubMed": "27696778"
+    },
+    "title": "Little Evidence for Usefulness of Biomarkers for Predicting Successful Dose Reduction or Discontinuation of a Biologic Agent in Rheumatoid Arthritis: A Systematic Review",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2016
+   },
+   {
+    "paperId": "eab3468db148bded5de4c624b1eb521606cc23d6",
+    "externalIds": {
+     "MAG": "2107005433",
+     "DOI": "10.1002/ART.20018",
+     "CorpusId": 36001117,
+     "PubMed": "14872479"
+    },
+    "title": "Specific autoantibodies precede the symptoms of rheumatoid arthritis: a study of serial measurements in blood donors.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2004
+   },
+   {
+    "paperId": "d0195b1d8c020364ecd33133d59f9cbcca996dcf",
+    "externalIds": {
+     "MAG": "2024988150",
+     "DOI": "10.1002/ART.11223",
+     "CorpusId": 22107682,
+     "PubMed": "14558078"
+    },
+    "title": "Antibodies against cyclic citrullinated peptide and IgA rheumatoid factor predict the development of rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2003
+   },
+   {
+    "paperId": "719007ba2150eda3b07eeb07c1e5170b2f1d8217",
+    "externalIds": {
+     "MAG": "2015865604",
+     "DOI": "10.1002/ART.1780301102",
+     "CorpusId": 21314721,
+     "PubMed": "2446635"
+    },
+    "title": "The shared epitope hypothesis. An approach to understanding the molecular genetics of susceptibility to rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 1987
+   },
+   {
+    "paperId": "4e569ce30c7d530460d742822e77e5d40c31c76a",
+    "externalIds": {
+     "MAG": "1996389186",
+     "DOI": "10.1002/ART.21519",
+     "CorpusId": 10499075,
+     "PubMed": "16385520"
+    },
+    "title": "The PREMIER study: A multicenter, randomized, double-blind clinical trial of combination therapy with adalimumab plus methotrexate versus methotrexate alone or adalimumab alone in patients with early, aggressive rheumatoid arthritis who had not had previous methotrexate treatment.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2006
+   },
+   {
+    "paperId": "4f1a812ab795ce8f52d779694aadf6e31306025c",
+    "externalIds": {
+     "PubMedCentral": "4081542",
+     "MAG": "1761300068",
+     "DOI": "10.1002/acr.21641",
+     "CorpusId": 30187113,
+     "PubMed": "22473917"
+    },
+    "title": "2012 Update of the 2008 American College of Rheumatology (ACR) Recommendations for the use of Disease-Modifying Anti-Rheumatic Drugs and Biologics in the treatment of Rheumatoid Arthritis (RA)",
+    "venue": "Arthritis care & research",
+    "year": 2012
+   },
+   {
+    "paperId": "2903f52f9f5884f52946e0897be86abf5a28f799",
+    "externalIds": {
+     "MAG": "2024644107",
+     "DOI": "10.1002/ART.22025",
+     "CorpusId": 33947853,
+     "PubMed": "16947627"
+    },
+    "title": "Rituximab for rheumatoid arthritis refractory to anti-tumor necrosis factor therapy: Results of a multicenter, randomized, double-blind, placebo-controlled, phase III trial evaluating primary efficacy and safety at twenty-four weeks.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2006
+   },
+   {
+    "paperId": "27fa64eb32986c21fd3cef2d40ad050be9454369",
+    "externalIds": {
+     "MAG": "1979364075",
+     "DOI": "10.1002/ART.10697",
+     "CorpusId": 12776072,
+     "PubMed": "12528101"
+    },
+    "title": "Adalimumab, a fully human anti-tumor necrosis factor alpha monoclonal antibody, for the treatment of rheumatoid arthritis in patients taking concomitant methotrexate: the ARMADA trial.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2003
+   },
+   {
+    "paperId": "a7cc7b3f66dfdb0c564a679897398861e7f24995",
+    "externalIds": {
+     "MAG": "2117335168",
+     "PubMedCentral": "4536786",
+     "DOI": "10.1186/s13075-015-0728-9",
+     "CorpusId": 38307012,
+     "PubMed": "26271620"
+    },
+    "title": "Incidence of malignancy in adult patients with rheumatoid arthritis: a meta-analysis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2015
+   },
+   {
+    "paperId": "1ae6e884cafb08e0ceebf1497accb22bed31cb26",
+    "externalIds": {
+     "MAG": "1911773670",
+     "PubMedCentral": "4446181",
+     "DOI": "10.1002/art.39098",
+     "CorpusId": 27998902,
+     "PubMed": "25776112"
+    },
+    "title": "Disease Activity in Rheumatoid Arthritis and the Risk of Cardiovascular Events",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "8b243fb649505de0cfd50f7b52fbb40a771c2d58",
+    "externalIds": {
+     "MAG": "1586828706",
+     "DOI": "10.1002/art.39093",
+     "CorpusId": 24804543,
+     "PubMed": "25733246"
+    },
+    "title": "Sarilumab Plus Methotrexate in Patients With Active Rheumatoid Arthritis and Inadequate Response to Methotrexate: Results of a Phase III Study",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "11a7d233234c21b3d0a0acb932c206b6c7b34579",
+    "externalIds": {
+     "MAG": "1852851908",
+     "PubMedCentral": "4832324",
+     "DOI": "10.1002/art.39313",
+     "CorpusId": 10210609,
+     "PubMed": "26245941"
+    },
+    "title": "Release of Active Peptidyl Arginine Deiminases by Neutrophils Can Explain Production of Extracellular Citrullinated Autoantigens in Rheumatoid Arthritis Synovial Fluid",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "e569f5771003648c1520a162ea3926796304e108",
+    "externalIds": {
+     "MAG": "2980910022",
+     "PubMedCentral": "5469548",
+     "DOI": "10.1002/art.38969",
+     "CorpusId": 7079819,
+     "PubMed": "25417811"
+    },
+    "title": "Malondialdehyde-acetaldehyde adducts (MAA) and anti-MAA antibody in rheumatoid arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "ab8b5d3417eaea092e52c5aee489c6fe50491df5",
+    "externalIds": {
+     "MAG": "1975829694",
+     "PubMedCentral": "4422605",
+     "DOI": "10.1186/s13075-015-0601-x",
+     "CorpusId": 15899152,
+     "PubMed": "25890172"
+    },
+    "title": "Body mass index and the risk of rheumatoid arthritis: a systematic review and dose-response meta-analysis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2015
+   },
+   {
+    "paperId": "ffb55c08b1c3ff738ded2dc1233445d100fb3e5b",
+    "externalIds": {
+     "MAG": "1572054273",
+     "PubMedCentral": "5024065",
+     "DOI": "10.1002/art.38974",
+     "CorpusId": 16675499,
+     "PubMed": "25470338"
+    },
+    "title": "Potential Mechanisms Leading to the Abnormal Lipid Profile in Patients With Rheumatoid Arthritis Versus Healthy Volunteers and Reversal by Tofacitinib,",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "10ba76e80de1b4a578b41fbbd80f9d72c6931d60",
+    "externalIds": {
+     "MAG": "1996472975",
+     "DOI": "10.1002/1529-0131(199809)41:9<1552::AID-ART5>3.0.CO;2-W",
+     "CorpusId": 8621676,
+     "PubMed": "9751087"
+    },
+    "title": "Therapeutic efficacy of multiple intravenous infusions of anti-tumor necrosis factor alpha monoclonal antibody combined with low-dose weekly methotrexate in rheumatoid arthritis.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 1998
+   },
+   {
+    "paperId": "9674c90db60ffc09da6e17f44ad09716ad79574b",
+    "externalIds": {
+     "MAG": "2025408360",
+     "DOI": "10.1002/ART.21575",
+     "CorpusId": 25558602,
+     "PubMed": "16385494"
+    },
+    "title": "A new model for an etiology of rheumatoid arthritis: smoking may trigger HLA-DR (shared epitope)-restricted immune reactions to autoantigens modified by citrullination.",
+    "venue": "Arthritis & Rheumatism",
+    "year": 2006
+   }
+  ]
+ },
+ "rel:palmitoylethanolamide adjuvant arthritis": {
+  "status": 200,
+  "total": 11224,
+  "rec": [
+   {
+    "paperId": "61920342cf323a302ed58d7f19525f6d07841016",
+    "externalIds": {
+     "MAG": "2411336333",
+     "DOI": "10.1124/jpet.115.230516",
+     "CorpusId": 32054576,
+     "PubMed": "26769918"
+    },
+    "title": "An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund’s Adjuvant Rat Model of Arthritis",
+    "venue": "Journal of Pharmacology and Experimental Therapeutics",
+    "year": 2016
+   },
+   {
+    "paperId": "e7c9f67ced0ede2e4bb8ab25881164b5d428723b",
+    "externalIds": {
+     "MAG": "2131929749",
+     "PubMedCentral": "3978572",
+     "DOI": "10.1186/ar4382",
+     "CorpusId": 16227115,
+     "PubMed": "24246048"
+    },
+    "title": "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2013
+   },
+   {
+    "paperId": "bd3010ef9fe52bbe8ef623e8fcdf20b46d9e421b",
+    "externalIds": {
+     "MAG": "2565629120",
+     "DOI": "10.1096/fasebj.30.1_supplement.927.8",
+     "CorpusId": 90791707
+    },
+    "title": "Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain",
+    "venue": "The FASEB Journal",
+    "year": 2016
+   },
+   {
+    "paperId": "584d9b6f22353441bc4231689069f9502f747261",
+    "externalIds": {
+     "PubMedCentral": "10692035",
+     "DOI": "10.1007/s10787-023-01295-w",
+     "CorpusId": 260349332,
+     "PubMed": "37526838"
+    },
+    "title": "Rhein methotrexate-decorated solid lipid nanoparticles altering adjuvant arthritis progression through endoplasmic reticulum stress-mediated apoptosis",
+    "venue": "InflammoPharmacology",
+    "year": 2023
+   },
+   {
+    "paperId": "778e5745f5e1d04bc39dda1ab6ae731326a66bd4",
+    "externalIds": {
+     "PubMedCentral": "10242991",
+     "DOI": "10.1186/s13075-023-03069-9",
+     "CorpusId": 259077702,
+     "PubMed": "37280714"
+    },
+    "title": "Increased gut permeability and intestinal inflammation precede arthritis onset in the adjuvant-induced model of arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2023
+   },
+   {
+    "paperId": "5c53d052116de108381aeb76f0fae42cdf806775",
+    "externalIds": {
+     "PubMedCentral": "9132473",
+     "DOI": "10.1080/13880209.2022.2066700",
+     "CorpusId": 249015528,
+     "PubMed": "35608068"
+    },
+    "title": "Effect of Er Miao San on peritoneal macrophage polarisation through the miRNA-33/NLRP3 signalling pathway in a rat model of adjuvant arthritis",
+    "venue": "Pharmaceutical Biology",
+    "year": 2022
+   },
+   {
+    "paperId": "0db4a47e48d25f016a69fbebaef67addd1595ef4",
+    "externalIds": {
+     "PubMedCentral": "9028621",
+     "DOI": "10.3233/THC-228018",
+     "CorpusId": 246553525,
+     "PubMed": "35124596"
+    },
+    "title": "Anti-inflammatory effect of baicalin in rats with adjuvant arthritis and its autophagy- related mechanism",
+    "venue": "Technology and Health Care",
+    "year": 2022
+   },
+   {
+    "paperId": "02a4888ee9dc185dbcccfd1d7cb58587cd49c725",
+    "externalIds": {
+     "DOI": "10.1016/j.intimp.2021.108169",
+     "CorpusId": 238356431,
+     "PubMed": "34607227"
+    },
+    "title": "The monomer derivative of paeoniflorin inhibits macrophage pyroptosis via regulating TLR4/ NLRP3/ GSDMD signaling pathway in adjuvant arthritis rats.",
+    "venue": "International Immunopharmacology",
+    "year": 2021
+   },
+   {
+    "paperId": "7c85f358577f45114008423e0afd5860e1070945",
+    "externalIds": {
+     "PubMedCentral": "8498067",
+     "MAG": "3194454400",
+     "DOI": "10.1002/fsn3.2529",
+     "CorpusId": 238643437,
+     "PubMed": "34646534"
+    },
+    "title": "Anti‐arthritic effect of chicken embryo tissue hydrolyzate against adjuvant arthritis in rats (X‐ray microtomographic and histopathological analysis)",
+    "venue": "Food Science & Nutrition",
+    "year": 2021
+   },
+   {
+    "paperId": "727da89a8b7f5f4632b1cc3d104aedf9bdc92c52",
+    "externalIds": {
+     "PubMedCentral": "8069410",
+     "DOI": "10.3390/nu13041268",
+     "CorpusId": 233395782,
+     "PubMed": "33924354"
+    },
+    "title": "Bioflavonoid Robinin from Astragalus falcatus Lam. Mildly Improves the Effect of Metothrexate in Rats with Adjuvant Arthritis",
+    "venue": "Nutrients",
+    "year": 2021
+   },
+   {
+    "paperId": "a979ccc4430df4ce338a0e0764798093d9de50dc",
+    "externalIds": {
+     "MAG": "3129277081",
+     "DOI": "10.1093/jpp/rgaa053",
+     "CorpusId": 232480947,
+     "PubMed": "33791811"
+    },
+    "title": "Sorafenib suppresses proliferation rate of fibroblast-like synoviocytes through the arrest of cell cycle in experimental adjuvant arthritis.",
+    "venue": "The Journal of pharmacy and pharmacology",
+    "year": 2021
+   },
+   {
+    "paperId": "3f7ad3f4bd08358ba4906855672f766f26335b73",
+    "externalIds": {
+     "MAG": "3038566692",
+     "DOI": "10.1007/s10787-020-00736-0",
+     "CorpusId": 220310771,
+     "PubMed": "32617791"
+    },
+    "title": "Anti-inflammatory effect of stevioside abates Freund’s complete adjuvant (FCA)-induced adjuvant arthritis in rats",
+    "venue": "InflammoPharmacology",
+    "year": 2020
+   },
+   {
+    "paperId": "90c99d309bfa89c36572e51b4271a6d30552609b",
+    "externalIds": {
+     "MAG": "3015789879",
+     "DOI": "10.1016/j.biopha.2020.110130",
+     "CorpusId": 215772314,
+     "PubMed": "32289576"
+    },
+    "title": "Effects of Atractylodes Oil on Inflammatory Response and Serum Metabolites in Adjuvant Arthritis Rats.",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2020
+   },
+   {
+    "paperId": "a80d554e83660336e2530e2b9fdf10e64c4b8f86",
+    "externalIds": {
+     "DOI": "10.1016/j.ejphar.2021.174044",
+     "CorpusId": 232310713,
+     "PubMed": "33745959"
+    },
+    "title": "Activation of the Nrf2/HO-1 signaling pathway by dimethyl fumarate ameliorates complete Freund's adjuvant-induced arthritis in rats.",
+    "venue": "European Journal of Pharmacology",
+    "year": 2021
+   },
+   {
+    "paperId": "49cc43e29f16b80a007a96951bc6984ce3ac466c",
+    "externalIds": {
+     "PubMedCentral": "8654228",
+     "DOI": "10.1371/journal.pone.0260423",
+     "CorpusId": 245005638,
+     "PubMed": "34879087"
+    },
+    "title": "Effects of different doses of complete Freund’s adjuvant on nociceptive behaviour and inflammatory parameters in polyarthritic rat model mimicking rheumatoid arthritis",
+    "venue": "PLoS ONE",
+    "year": 2021
+   },
+   {
+    "paperId": "4896af789b109393bb2f81985f6568ed5cd41059",
+    "externalIds": {
+     "MAG": "3016456688",
+     "DOI": "10.1007/s00011-020-01332-2",
+     "CorpusId": 215804866,
+     "PubMed": "32303781"
+    },
+    "title": "Inhibition of glycolysis ameliorate arthritis in adjuvant arthritis rats by inhibiting synoviocyte activation through AMPK/NF-кB pathway",
+    "venue": "Inflammation Research",
+    "year": 2020
+   },
+   {
+    "paperId": "fab9531751e6c6f060b921f1ae108d98306b7a98",
+    "externalIds": {
+     "MAG": "2997485964",
+     "DOI": "10.1016/j.toxicon.2019.12.153",
+     "CorpusId": 213865390,
+     "PubMed": "32250746"
+    },
+    "title": "Botulinum toxin type A ameliorates adjuvant-arthritis pain by inhibiting microglial activation-mediated neuroinflammation and intracellular molecular signaling.",
+    "venue": "Toxicon",
+    "year": 2020
+   },
+   {
+    "paperId": "9dbf2b592fdfba19c35258588cc3916bf42d492a",
+    "externalIds": {
+     "MAG": "3048545422",
+     "DOI": "10.1021/acs.jproteome.0c00300",
+     "CorpusId": 221122449,
+     "PubMed": "32786678"
+    },
+    "title": "A joint synovial fluid metabolomics method to decipher the metabolic mechanisms of adjuvant arthritis and Geniposide intervention.",
+    "venue": "Journal of Proteome Research",
+    "year": 2020
+   },
+   {
+    "paperId": "91f158bc86166704071f84ce6772ebb526892cc9",
+    "externalIds": {
+     "PubMedCentral": "7667938",
+     "MAG": "3095011958",
+     "DOI": "10.5114/reum.2020.99764",
+     "CorpusId": 227072729,
+     "PubMed": "33227058"
+    },
+    "title": "Investigation of anti-inflammatory effects of bee venom in experimentally induced adjuvant arthritis",
+    "venue": "Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "c61843b657a5d52b8a859ca3b596cbcb85e0aec5",
+    "externalIds": {
+     "DOI": "10.1016/j.biopha.2021.111347",
+     "CorpusId": 231867680,
+     "PubMed": "33550047"
+    },
+    "title": "'Methyl palmitate attenuates adjuvant induced arthritis in rats by decrease of CD68 synovial macrophages.",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2021
+   },
+   {
+    "paperId": "2bb8e68c4f34159f407b00c8e1f1640eb5eb43b5",
+    "externalIds": {
+     "PubMedCentral": "8067485",
+     "DOI": "10.3390/ph14040336",
+     "CorpusId": 233388413,
+     "PubMed": "33917573"
+    },
+    "title": "Ultramicronized Palmitoylethanolamide (um-PEA): A New Possible Adjuvant Treatment in COVID-19 patients",
+    "venue": "Pharmaceuticals",
+    "year": 2021
+   },
+   {
+    "paperId": "52bcf1d5f581492c9f50cb73fb9fac4388520967",
+    "externalIds": {
+     "PubMedCentral": "9052534",
+     "DOI": "10.1186/s13075-022-02774-1",
+     "CorpusId": 248424041,
+     "PubMed": "35488311"
+    },
+    "title": "Effects of local cryotherapy on systemic endothelial activation, dysfunction, and vascular inflammation in adjuvant-induced arthritis (AIA) rats",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2022
+   },
+   {
+    "paperId": "26d8213b9c58d602c9a8bde48daf760c914a1428",
+    "externalIds": {
+     "PubMedCentral": "6601504",
+     "MAG": "2950259625",
+     "DOI": "10.1155/2019/5741931",
+     "CorpusId": 196555235,
+     "PubMed": "31316573"
+    },
+    "title": "Electroacupuncture on ST36 and GB39 Acupoints Inhibits Synovial Angiogenesis via Downregulating HIF-1α/VEGF Expression in a Rat Model of Adjuvant Arthritis",
+    "venue": "Evidence-Based Complementary and Alternative Medicine",
+    "year": 2019
+   },
+   {
+    "paperId": "caefe5cdfe4568825fea62667db12f29bbe6a5eb",
+    "externalIds": {
+     "MAG": "2945034202",
+     "PubMedCentral": "6580038",
+     "DOI": "10.3892/mmr.2019.10273",
+     "CorpusId": 181970330,
+     "PubMed": "31180523"
+    },
+    "title": "Resveratrol alleviates inflammatory injury and enhances the apoptosis of fibroblast-like synoviocytes via mitochondrial dysfunction and ER stress in rats with adjuvant arthritis",
+    "venue": "Molecular Medicine Reports",
+    "year": 2019
+   },
+   {
+    "paperId": "8b8f26cefc833c29d28d937ce2b210b25c1b2279",
+    "externalIds": {
+     "MAG": "2973223006",
+     "DOI": "10.1016/j.biopha.2019.109432",
+     "CorpusId": 202581361,
+     "PubMed": "31521892"
+    },
+    "title": "Regulation of CP-25 on P-glycoprotein in synoviocytes of rats with adjuvant arthritis.",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2019
+   },
+   {
+    "paperId": "74e6c5084746fa676c56ba772235a21eac3141e7",
+    "externalIds": {
+     "MAG": "2902254969",
+     "DOI": "10.1038/s41374-018-0135-3",
+     "CorpusId": 53815354,
+     "PubMed": "30487596"
+    },
+    "title": "The role of Ca2+ in acid-sensing ion channel 1a-mediated chondrocyte pyroptosis in rat adjuvant arthritis",
+    "venue": "Laboratory Investigation",
+    "year": 2018
+   },
+   {
+    "paperId": "4b0c5e51fbd439560f3623061a75e17aef0e29ec",
+    "externalIds": {
+     "PubMedCentral": "6699118",
+     "MAG": "2969383069",
+     "DOI": "10.1186/s40659-019-0250-7",
+     "CorpusId": 201058206,
+     "PubMed": "31426853"
+    },
+    "title": "Resveratrol reduces store-operated Ca2+ entry and enhances the apoptosis of fibroblast-like synoviocytes in adjuvant arthritis rats model via targeting ORAI1–STIM1 complex",
+    "venue": "Biological Research",
+    "year": 2019
+   },
+   {
+    "paperId": "b363a040bcbb483db012216e6dba1946d6bc7875",
+    "externalIds": {
+     "CorpusId": 246429286,
+     "PubMed": "35096476"
+    },
+    "title": "Palmitoylethanolamide/Luteolin as Adjuvant Therapy to Improve an Unusual Case of Camptocormia in a Patient with Parkinson's Disease: A Case Report.",
+    "venue": "Innovations in Clinical Neuroscience",
+    "year": 2021
+   },
+   {
+    "paperId": "fb178f7b62760e6b558aae73d4b6c2bb9e913c84",
+    "externalIds": {
+     "MAG": "2892295213",
+     "DOI": "10.1016/j.bbrc.2018.09.031",
+     "CorpusId": 52279285,
+     "PubMed": "30219231"
+    },
+    "title": "Necrostatin-1 ameliorates adjuvant arthritis rat articular chondrocyte injury via inhibiting ASIC1a-mediated necroptosis.",
+    "venue": "Biochemical and Biophysical Research Communications - BBRC",
+    "year": 2018
+   },
+   {
+    "paperId": "365b3ff9173586290e95f020e11158ee84ca02d2",
+    "externalIds": {
+     "MAG": "2611934860",
+     "DOI": "10.1016/j.toxicon.2017.05.001",
+     "CorpusId": 205439207,
+     "PubMed": "28478059"
+    },
+    "title": "Botulinum toxin type A reduces TRPV1 expression in the dorsal root ganglion in rats with adjuvant‐arthritis pain",
+    "venue": "Toxicon",
+    "year": 2017
+   },
+   {
+    "paperId": "50cbdb09343ebf69e22c33cc9e090c399904e744",
+    "externalIds": {
+     "MAG": "2788984084",
+     "DOI": "10.1007/s10753-018-0757-z",
+     "CorpusId": 3494332,
+     "PubMed": "29473135"
+    },
+    "title": "Immunomodulatory Effects of CP-25 on Splenic T Cells of Rats with Adjuvant Arthritis",
+    "venue": "Inflammation",
+    "year": 2018
+   },
+   {
+    "paperId": "166011af0c19b77e542f5753fa29b64ba4b5f452",
+    "externalIds": {
+     "MAG": "2916828250",
+     "DOI": "10.1016/j.ejphar.2019.02.036",
+     "CorpusId": 73506141,
+     "PubMed": "30796904"
+    },
+    "title": "Berberine attenuates arthritis in adjuvant‐induced arthritic rats associated with regulating polarization of macrophages through AMPK/NF‐&kgr;B pathway",
+    "venue": "European Journal of Pharmacology",
+    "year": 2019
+   },
+   {
+    "paperId": "69bd74e6661381d5f2940b2f2700aa93fea904cc",
+    "externalIds": {
+     "MAG": "2594672398",
+     "DOI": "10.3989/GYA.0796161",
+     "CorpusId": 90178955
+    },
+    "title": "Anti-inflammatory activity of two varieties of pumpkin seed oil in an adjuvant arthritis model in rats",
+    "venue": "",
+    "year": 2017
+   },
+   {
+    "paperId": "b993e56e1d77d974584d177d8697e693c3740cb6",
+    "externalIds": {
+     "MAG": "1991935610",
+     "DOI": "10.1111/1756-185X.12353",
+     "CorpusId": 3984889,
+     "PubMed": "24702728"
+    },
+    "title": "Proteasome inhibitor MG132 modulates inflammatory pain by central mechanisms in adjuvant arthritis",
+    "venue": "International Journal of Rheumatic Diseases",
+    "year": 2017
+   },
+   {
+    "paperId": "9e87033849deeb0dd78d66850c302938fe7d1346",
+    "externalIds": {
+     "MAG": "3036636916",
+     "DOI": "10.1016/j.imlet.2020.06.010",
+     "CorpusId": 219973810,
+     "PubMed": "32565114"
+    },
+    "title": "Protective effect of Ganoderic acid A on adjuvant-induced arthritis.",
+    "venue": "Immunology Letters",
+    "year": 2020
+   },
+   {
+    "paperId": "64dac45f4ade0bc0a9d2d7c80cbc9f9ef39e4a65",
+    "externalIds": {
+     "MAG": "2965090083",
+     "DOI": "10.1016/j.phymed.2019.153036",
+     "CorpusId": 199539255,
+     "PubMed": "31401534"
+    },
+    "title": "Genkwanin ameliorates adjuvant-induced arthritis in rats through inhibiting JAK/STAT and NF-κB signaling pathways.",
+    "venue": "Phytomedicine",
+    "year": 2019
+   },
+   {
+    "paperId": "f765641565d93d144746f7f8eab1443332e9438a",
+    "externalIds": {
+     "PubMedCentral": "9196084",
+     "MAG": "3111033583",
+     "DOI": "10.1002/art.41611",
+     "CorpusId": 230628055,
+     "PubMed": "33615742"
+    },
+    "title": "Regulation of Synovial Inflammation and Tissue Destruction by Guanylate Binding Protein 5 in Synovial Fibroblasts From Patients With Rheumatoid Arthritis and Rats With Adjuvant-Induced Arthritis",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2020
+   },
+   {
+    "paperId": "6c564950eaee65df15461ee3683c6cfce2e312e3",
+    "externalIds": {
+     "MAG": "2609592632",
+     "DOI": "10.1016/j.clim.2017.04.015",
+     "CorpusId": 23866353,
+     "PubMed": "28461107"
+    },
+    "title": "Tofacitinib attenuates arthritis manifestations and reduces the pathogenic CD4 T cells in adjuvant arthritis rats.",
+    "venue": "Clinical Immunology",
+    "year": 2017
+   },
+   {
+    "paperId": "2517f3e5edf4d04c9e9e38fe9f2fcf5bbf390f26",
+    "externalIds": {
+     "MAG": "2643703475",
+     "DOI": "10.1002/ptr.5847",
+     "CorpusId": 23043986,
+     "PubMed": "28631356"
+    },
+    "title": "Immune Tolerance Effect in Mesenteric Lymph Node Lymphocytes of Geniposide on Adjuvant Arthritis Rats",
+    "venue": "Phytotherapy Research",
+    "year": 2017
+   },
+   {
+    "paperId": "279cc0df2e97ddf59100e25254b9812e94485e34",
+    "externalIds": {
+     "PubMedCentral": "5017199",
+     "MAG": "2512866293",
+     "DOI": "10.1038/srep32928",
+     "CorpusId": 17769729,
+     "PubMed": "27611176"
+    },
+    "title": "Autophagy and mitochondrial dysfunction in adjuvant-arthritis rats treatment with resveratrol",
+    "venue": "Scientific Reports",
+    "year": 2016
+   },
+   {
+    "paperId": "7291206a580853e563ff77dd019266ab232aeb1f",
+    "externalIds": {
+     "PubMedCentral": "5089557",
+     "MAG": "2547706032",
+     "DOI": "10.1371/journal.pone.0165916",
+     "CorpusId": 18204947,
+     "PubMed": "27802332"
+    },
+    "title": "Anti-Arthritic Activity of Schistosoma mansoni and Trichinella spiralis Derived-Antigens in Adjuvant Arthritis in Rats: Role of FOXP3+ Treg Cells",
+    "venue": "PLoS ONE",
+    "year": 2016
+   },
+   {
+    "paperId": "19c3ea517b512957886ed51202ec3b7de6f5912a",
+    "externalIds": {
+     "MAG": "2518934806",
+     "DOI": "10.1016/j.jep.2016.09.008",
+     "CorpusId": 10109817,
+     "PubMed": "27616030"
+    },
+    "title": "Inhibitory effects of Saussurea involucrata (Kar. et Kir.) Sch. -Bip. on adjuvant arthritis in rats.",
+    "venue": "Journal of Ethnopharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "bd2e1335a8c024fd430e6b445c3b409021d6d032",
+    "externalIds": {
+     "MAG": "2966116479",
+     "DOI": "10.1002/jbt.22373",
+     "CorpusId": 198999146,
+     "PubMed": "31364231"
+    },
+    "title": "Protective effect of betulinic acid on Freund's complete adjuvant‐induced arthritis in rats",
+    "venue": "Journal of biochemical and molecular toxicology",
+    "year": 2019
+   },
+   {
+    "paperId": "de35cebbf4d83fad107401e41aee8146f77aec6b",
+    "externalIds": {
+     "MAG": "2796035257",
+     "DOI": "10.1007/s10067-018-4080-8",
+     "CorpusId": 4625012,
+     "PubMed": "29611086"
+    },
+    "title": "Resveratrol as an effective adjuvant therapy in the management of rheumatoid arthritis: a clinical study",
+    "venue": "Clinical Rheumatology",
+    "year": 2018
+   },
+   {
+    "paperId": "213c0bfaf80da12419a682bda3d1c1c422ad6da5",
+    "externalIds": {
+     "MAG": "2512276542",
+     "DOI": "10.1097/MJT.0000000000000477",
+     "CorpusId": 21419328,
+     "PubMed": "27574922"
+    },
+    "title": "Effect of Electroacupuncture in “Zusanli” and “Kunlun” Acupoints on TLR4 Signaling Pathway of Adjuvant Arthritis Rats",
+    "venue": "American Journal of Therapeutics",
+    "year": 2016
+   },
+   {
+    "paperId": "2d0d08546de3db85567c73effd45a77bdba586b5",
+    "externalIds": {
+     "MAG": "2801634715",
+     "DOI": "10.1016/j.nut.2018.03.055",
+     "CorpusId": 51723568,
+     "PubMed": "30048884"
+    },
+    "title": "Micellar solubilisation enhances the antiinflammatory activities of curcumin and boswellic acids in rats with adjuvant-induced arthritis.",
+    "venue": "Nutrition (Burbank, Los Angeles County, Calif.)",
+    "year": 2018
+   },
+   {
+    "paperId": "265bc27c706b3edfb9f162ebcb4f2e9f4f2f86fc",
+    "externalIds": {
+     "MAG": "2521243706",
+     "PubMedCentral": "5055955",
+     "DOI": "10.1155/2016/9280529",
+     "CorpusId": 14357070,
+     "PubMed": "27738392"
+    },
+    "title": "High-Methionine Diet Attenuates Severity of Arthritis and Modulates IGF-I Related Gene Expressions in an Adjuvant Arthritis Rats Model",
+    "venue": "Mediators of Inflammation",
+    "year": 2016
+   },
+   {
+    "paperId": "5b8cddeb009105a8a97f1604a7a8a571caf28dea",
+    "externalIds": {
+     "PubMedCentral": "4736313",
+     "MAG": "2207688015",
+     "DOI": "10.1155/2016/2970783",
+     "CorpusId": 6857174,
+     "PubMed": "26881215"
+    },
+    "title": "Establishment of a Rat Adjuvant Arthritis-Interstitial Lung Disease Model",
+    "venue": "BioMed Research International",
+    "year": 2016
+   },
+   {
+    "paperId": "0d7f8cff2ec977af55d22850d69fe06b82ea807a",
+    "externalIds": {
+     "PubMedCentral": "4904002",
+     "MAG": "2417544154",
+     "DOI": "10.3389/fimmu.2016.00203",
+     "CorpusId": 16530469,
+     "PubMed": "27379088"
+    },
+    "title": "Modulation of Adjuvant Arthritis by Cellular and Humoral Immunity to Hsp65",
+    "venue": "Frontiers in Immunology",
+    "year": 2016
+   },
+   {
+    "paperId": "4c02f99f3c2aad55e9b8c6d1c47fc54fe8e77fa4",
+    "externalIds": {
+     "MAG": "2591619117",
+     "DOI": "10.1016/j.biopha.2017.02.099",
+     "CorpusId": 3467059,
+     "PubMed": "28282791"
+    },
+    "title": "Anti-arthritic effect of berberine on adjuvant-induced rheumatoid arthritis in rats.",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2017
+   },
+   {
+    "paperId": "4d7fcdc12848322783cb416b48726e4370bcb7a9",
+    "externalIds": {
+     "MAG": "2609799369",
+     "DOI": "10.1016/j.jep.2017.04.020",
+     "CorpusId": 4383574,
+     "PubMed": "28457902"
+    },
+    "title": "Anti-rheumatoid arthritis effects of traditional Chinese herb couple in adjuvant-induced arthritis in rats.",
+    "venue": "Journal of Ethnopharmacology",
+    "year": 2017
+   },
+   {
+    "paperId": "9af9b61f30154acdc0d277850ed1594decff8ae6",
+    "externalIds": {
+     "MAG": "2600881065",
+     "DOI": "10.2174/1871527316666170321124949",
+     "CorpusId": 12745606,
+     "PubMed": "28325153"
+    },
+    "title": "Ultra-micronized Palmitoylethanolamide: An Efficacious Adjuvant Therapy for Parkinson's Disease.",
+    "venue": "CNS and Neurological Disorders - Drug Targets",
+    "year": 2017
+   },
+   {
+    "paperId": "3a829b35534960304c1dd29968cae9de60f0e061",
+    "externalIds": {
+     "PubMedCentral": "5382880",
+     "MAG": "2588509721",
+     "DOI": "10.5114/ceji.2016.65132",
+     "CorpusId": 512557,
+     "PubMed": "28450796"
+    },
+    "title": "Ellagic acid alleviates adjuvant induced arthritis by modulation of pro- and anti-inflammatory cytokines",
+    "venue": "Central European Journal of Immunology",
+    "year": 2017
+   },
+   {
+    "paperId": "fce4ead7c4056ec8498b492bc17f0799c38b1777",
+    "externalIds": {
+     "MAG": "2563049308",
+     "DOI": "10.1016/j.biopha.2016.12.027",
+     "CorpusId": 20659619,
+     "PubMed": "28012393"
+    },
+    "title": "Modulatory effect of standardised amentoflavone isolated from Juniperus communis L. agianst Freund's adjuvant induced arthritis in rats (histopathological and X Ray anaysis).",
+    "venue": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": 2017
+   },
+   {
+    "paperId": "0a166a52704e4a25da7af5c90978782892a8aad9",
+    "externalIds": {
+     "PubMedCentral": "11762532",
+     "DOI": "10.1186/s13075-025-03483-1",
+     "CorpusId": 275906191,
+     "PubMed": "39856718"
+    },
+    "title": "GPIHBP1 increase accounts for rheumatic arthritis-related hypotriglyceridemia by facilitating lipids uptake of white adipose tissues",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2025
+   },
+   {
+    "paperId": "1881ab6097d4fa300dd9ae5637aa4edaeac0a96f",
+    "externalIds": {
+     "MAG": "2176674050",
+     "DOI": "10.1016/j.intimp.2015.11.026",
+     "CorpusId": 1469535,
+     "PubMed": "26637957"
+    },
+    "title": "The protective effects of curculigoside A on adjuvant-induced arthritis by inhibiting NF-кB/NLRP3 activation in rats.",
+    "venue": "International Immunopharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "7375ac0834c5bc8fc0159cd607e4cdbc18a17420",
+    "externalIds": {
+     "MAG": "1176710366",
+     "DOI": "10.1016/j.abb.2015.08.008",
+     "CorpusId": 23841521,
+     "PubMed": "26297952"
+    },
+    "title": "Quercetin reduced inflammation and increased antioxidant defense in rat adjuvant arthritis.",
+    "venue": "Archives of Biochemistry and Biophysics",
+    "year": 2015
+   },
+   {
+    "paperId": "6ff3a7d9d2c3875992182f3953cd79a6b75b19c5",
+    "externalIds": {
+     "MAG": "2280988486",
+     "DOI": "10.1016/j.jbspin.2015.10.007",
+     "CorpusId": 25950178,
+     "PubMed": "26934991"
+    },
+    "title": "MicroRNA-20a negatively regulates expression of NLRP3-inflammasome by targeting TXNIP in adjuvant-induced arthritis fibroblast-like synoviocytes.",
+    "venue": "Joint, bone, spine : revue du rhumatisme",
+    "year": 2016
+   },
+   {
+    "paperId": "91f5f5a4960cb539f9e26e473af87f7244ee90c3",
+    "externalIds": {
+     "MAG": "2342750304",
+     "DOI": "10.1016/j.jep.2016.04.031",
+     "CorpusId": 24688007,
+     "PubMed": "27109342"
+    },
+    "title": "Anti-inflammatory and anti-arthritic effects of taraxasterol on adjuvant-induced arthritis in rats.",
+    "venue": "Journal of Ethnopharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "de964a9e65003f803f28b24d48c96e65cd5272ad",
+    "externalIds": {
+     "MAG": "2556607959",
+     "PubMedCentral": "5121977",
+     "DOI": "10.1186/s13075-016-1161-4",
+     "CorpusId": 8198197,
+     "PubMed": "27881147"
+    },
+    "title": "p53 predominantly regulates IL-6 production and suppresses synovial inflammation in fibroblast-like synoviocytes and adjuvant-induced arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2016
+   },
+   {
+    "paperId": "21884c9a20cfd76e5d38d06ff2aed2d9aa707d66",
+    "externalIds": {
+     "MAG": "2084125175",
+     "DOI": "10.1016/j.intimp.2014.11.017",
+     "CorpusId": 40680493,
+     "PubMed": "25434608"
+    },
+    "title": "Anti-inflammatory effects and pharmacokinetics study of geniposide on rats with adjuvant arthritis.",
+    "venue": "International Immunopharmacology",
+    "year": 2015
+   },
+   {
+    "paperId": "02c8b1552d5f40cb6a19fc1da874a2ba036dbe64",
+    "externalIds": {
+     "PubMedCentral": "4474424",
+     "MAG": "1538621277",
+     "DOI": "10.1186/s12906-015-0694-4",
+     "CorpusId": 3940255,
+     "PubMed": "26088322"
+    },
+    "title": "Effect of Uncaria tomentosa extract on purinergic enzyme activities in lymphocytes of rats submitted to experimental adjuvant arthritis model",
+    "venue": "BMC Complementary and Alternative Medicine",
+    "year": 2015
+   },
+   {
+    "paperId": "23ae4af973bb217176773c95de67f8d9ea9507fe",
+    "externalIds": {
+     "MAG": "2403821056",
+     "DOI": "10.3109/13880209.2015.1074254",
+     "CorpusId": 20620508,
+     "PubMed": "27218142"
+    },
+    "title": "The ginsenoside metabolite compound K exerts its anti-inflammatory activity by downregulating memory B cell in adjuvant-induced arthritis",
+    "venue": "Pharmaceutical Biology",
+    "year": 2016
+   },
+   {
+    "paperId": "13454382d4e08c3a49d027ea18fb255d848ed186",
+    "externalIds": {
+     "MAG": "1500918956",
+     "DOI": "10.4049/jimmunol.1402457",
+     "CorpusId": 25944610,
+     "PubMed": "25964493"
+    },
+    "title": "Immune Tolerance Induction with Multiepitope Peptide Derived from Citrullinated Autoantigens Attenuates Arthritis Manifestations in Adjuvant Arthritis Rats",
+    "venue": "Journal of Immunology",
+    "year": 2015
+   },
+   {
+    "paperId": "b21751a999d19f866c84cc3bd12470ee00d8e104",
+    "externalIds": {
+     "MAG": "1994888582",
+     "DOI": "10.1016/j.jpba.2015.01.044",
+     "CorpusId": 24332755,
+     "PubMed": "25771205"
+    },
+    "title": "Determination of geniposide in adjuvant arthritis rat plasma by ultra-high performance liquid chromatography tandem mass spectrometry method and its application to oral bioavailability and plasma protein binding ability studies.",
+    "venue": "Journal of Pharmaceutical and Biomedical Analysis",
+    "year": 2015
+   },
+   {
+    "paperId": "fff8d731c5a1bb16407157e54bdc0eb9d1083ecb",
+    "externalIds": {
+     "MAG": "1586928261",
+     "DOI": "10.1111/bph.13138",
+     "CorpusId": 38001603,
+     "PubMed": "25799914"
+    },
+    "title": "Activation of NALP1 inflammasomes in rats with adjuvant arthritis; a novel therapeutic target of carboxyamidotriazole in a model of rheumatoid arthritis",
+    "venue": "British Journal of Pharmacology",
+    "year": 2015
+   },
+   {
+    "paperId": "5e938997117eab38d1b60ae8d03907f1c61e4390",
+    "externalIds": {
+     "PubMedCentral": "10452638",
+     "DOI": "10.3390/biomedicines11082189",
+     "CorpusId": 263943444,
+     "PubMed": "37626685"
+    },
+    "title": "Efficacy of Palmitoylethanolamide and Luteolin Association on Post-Covid Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Clinical Studies",
+    "venue": "Biomedicines",
+    "year": 2023
+   },
+   {
+    "paperId": "8d1706cb6baeca6be086538b5f2221c8289d406f",
+    "externalIds": {
+     "MAG": "1677043489",
+     "DOI": "10.1038/46303",
+     "CorpusId": 4411606,
+     "PubMed": "10580503"
+    },
+    "title": "Activated T cells regulate bone loss and joint destruction in adjuvant arthritis through osteoprotegerin ligand",
+    "venue": "Nature",
+    "year": 1999
+   },
+   {
+    "paperId": "830f170678af322ff7bf50366071b058dde652b9",
+    "externalIds": {
+     "MAG": "2565060369",
+     "PubMedCentral": "4858864",
+     "DOI": "10.1186/s13075-016-0999-9",
+     "CorpusId": 52870766,
+     "PubMed": "27149951"
+    },
+    "title": "Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2016
+   },
+   {
+    "paperId": "1df23fcc70cc74432ab2d66b12fc0f0d3f21cef6",
+    "externalIds": {
+     "MAG": "2028142863",
+     "DOI": "10.1016/j.intimp.2014.02.021",
+     "CorpusId": 24962415,
+     "PubMed": "24583144"
+    },
+    "title": "Effects and mechanisms of Geniposide on rats with adjuvant arthritis.",
+    "venue": "International Immunopharmacology",
+    "year": 2014
+   },
+   {
+    "paperId": "31d668f89406c9cc65b9e1d9da974b14f5531e3a",
+    "externalIds": {
+     "MAG": "2096627942",
+     "DOI": "10.3892/mmr.2014.2070",
+     "CorpusId": 9709990,
+     "PubMed": "24676467"
+    },
+    "title": "Anti-inflammatory effect of resveratrol on adjuvant arthritis rats with abnormal immunological function via the reduction of cyclooxygenase-2 and prostaglandin E2.",
+    "venue": "Molecular Medicine Reports",
+    "year": 2014
+   },
+   {
+    "paperId": "68b573f34ad592509f874a8e78953c01005bef7f",
+    "externalIds": {
+     "PubMedCentral": "13563903",
+     "DOI": "10.1186/s13075-026-03853-3",
+     "CorpusId": 289612385,
+     "PubMed": "42363284"
+    },
+    "title": "Artemisinin increases susceptibility to ferroptosis of fibroblast-like synoviocytes in rheumatoid arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2026
+   },
+   {
+    "paperId": "f5d1f2dd46d64b80238434415c33beff0d599412",
+    "externalIds": {
+     "MAG": "2086578883",
+     "DOI": "10.1016/j.fitote.2014.05.023",
+     "CorpusId": 20718387,
+     "PubMed": "24910002"
+    },
+    "title": "Identification and distribution of four metabolites of geniposide in rats with adjuvant arthritis.",
+    "venue": "Fitoterapia",
+    "year": 2014
+   },
+   {
+    "paperId": "9f8b50aaa26940cd0be2712ee9d7727ba049eff7",
+    "externalIds": {
+     "MAG": "1993813901",
+     "DOI": "10.1016/j.ejphar.2013.10.068",
+     "CorpusId": 5934730,
+     "PubMed": "24239715"
+    },
+    "title": "Anti-proliferative effect of recombinant human endostatin on synovial fibroblasts in rats with adjuvant arthritis.",
+    "venue": "European Journal of Pharmacology",
+    "year": 2014
+   },
+   {
+    "paperId": "ab247f6779db953632ba0bcce58b3ff5f380db2f",
+    "externalIds": {
+     "PubMedCentral": "4186323",
+     "MAG": "2149058812",
+     "DOI": "10.3892/etm.2014.1941",
+     "CorpusId": 16967905,
+     "PubMed": "25289073"
+    },
+    "title": "Protective effect of Asarum extract in rats with adjuvant arthritis",
+    "venue": "Experimental and Therapeutic Medicine",
+    "year": 2014
+   },
+   {
+    "paperId": "b862aa03e5bf4d01f25c6d69863cc292a297136b",
+    "externalIds": {
+     "MAG": "2023519109",
+     "DOI": "10.1002/jps.23819",
+     "CorpusId": 32641179,
+     "PubMed": "24375187"
+    },
+    "title": "Glucosamine dose/concentration-effect correlation in the rat with adjuvant arthritis.",
+    "venue": "Journal of Pharmacy and Science",
+    "year": 2014
+   },
+   {
+    "paperId": "b8d83cce673fb2518559cb31444dedebb229b715",
+    "externalIds": {
+     "MAG": "1972530470",
+     "PubMedCentral": "3984822",
+     "DOI": "10.1155/2014/854954",
+     "CorpusId": 14788296,
+     "PubMed": "24791002"
+    },
+    "title": "Therapeutic Effects of PADRE-BAFF Autovaccine on Rat Adjuvant Arthritis",
+    "venue": "BioMed Research International",
+    "year": 2014
+   },
+   {
+    "paperId": "1026ed6a8aeb169510ee75085a54a194b9e01e09",
+    "externalIds": {
+     "CorpusId": 2724860
+    },
+    "title": "References Subscriptions Permissions Email Alerts Immunostimulatory DNA Sequences Influence the Course of Adjuvant Arthritis",
+    "venue": "",
+    "year": 2013
+   },
+   {
+    "paperId": "579b3d53f87578dafa381a35a2040750a59cac5e",
+    "externalIds": {
+     "MAG": "2109430899",
+     "DOI": "10.1016/J.INTIMP.2013.10.011",
+     "CorpusId": 4582253,
+     "PubMed": "24455774"
+    },
+    "title": "Scopoletin suppresses IL-6 production from fibroblast-like synoviocytes of adjuvant arthritis rats induced by IL-1β stimulation.",
+    "venue": "International Immunopharmacology",
+    "year": 2013
+   },
+   {
+    "paperId": "098ae980103cea9bafec9311d4f8d2ad73c13115",
+    "externalIds": {
+     "MAG": "2015636728",
+     "PubMedCentral": "3735719",
+     "DOI": "10.3892/etm.2013.1078",
+     "CorpusId": 15983183,
+     "PubMed": "23935741"
+    },
+    "title": "Regulation of synoviocyte activity by resveratrol in rats with adjuvant arthritis",
+    "venue": "Experimental and Therapeutic Medicine",
+    "year": 2013
+   },
+   {
+    "paperId": "76b143ed4c0593abdd722747924b490bcfc56b44",
+    "externalIds": {
+     "MAG": "2004416505",
+     "DOI": "10.1016/j.jep.2013.03.011",
+     "CorpusId": 2971437,
+     "PubMed": "23538163"
+    },
+    "title": "Inhibitory effects of the root extract of Litsea cubeba (lour.) pers. on adjuvant arthritis in rats.",
+    "venue": "Journal of Ethnopharmacology",
+    "year": 2013
+   },
+   {
+    "paperId": "cdb62074c9e633748338feced112272f38a1f41e",
+    "externalIds": {
+     "MAG": "1885080853",
+     "DOI": "10.1016/j.ejphar.2015.07.038",
+     "CorpusId": 23370685,
+     "PubMed": "26189022"
+    },
+    "title": "Effect of galantamine on adjuvant-induced arthritis in rats.",
+    "venue": "European Journal of Pharmacology",
+    "year": 2015
+   },
+   {
+    "paperId": "95f2e68b04a722bbf01d96040996b4bb5622a585",
+    "externalIds": {
+     "MAG": "2024088276",
+     "DOI": "10.1016/j.jcma.2013.08.002",
+     "CorpusId": 6686816,
+     "PubMed": "24060529"
+    },
+    "title": "Effect of tripterygium glycosides on pulmonary function in adjuvant arthritis rats",
+    "venue": "Journal of the Chinese Medical Association",
+    "year": 2013
+   },
+   {
+    "paperId": "1b685044ff520c6a3a98b1bc8a191c3e48d32039",
+    "externalIds": {
+     "PubMedCentral": "4555965",
+     "MAG": "1832245796",
+     "DOI": "10.2147/DDDT.S90147",
+     "CorpusId": 2117835,
+     "PubMed": "26345159"
+    },
+    "title": "The effect of curcumin and its nanoformulation on adjuvant-induced arthritis in rats",
+    "venue": "Drug Design, Development and Therapy",
+    "year": 2015
+   },
+   {
+    "paperId": "7b3c8c1d92780595233a260f790e8c815cb80618",
+    "externalIds": {
+     "MAG": "2058864761",
+     "DOI": "10.3109/08916934.2014.939268",
+     "CorpusId": 21341770,
+     "PubMed": "25046647"
+    },
+    "title": "Markers of inflammation and oxidative stress studied in adjuvant-induced arthritis in the rat on systemic and local level affected by pinosylvin and methotrexate and their combination",
+    "venue": "Autoimmunity",
+    "year": 2015
+   },
+   {
+    "paperId": "806facc572a7efcdcd4cf0909eb194c4722efb52",
+    "externalIds": {
+     "MAG": "1495449297",
+     "DOI": "10.1002/ejp.620",
+     "CorpusId": 31617616,
+     "PubMed": "25400173"
+    },
+    "title": "Curcumin loaded solid lipid nanoparticles ameliorate adjuvant‐induced arthritis in rats",
+    "venue": "European Journal of Pain",
+    "year": 2015
+   },
+   {
+    "paperId": "2deed5ed9cdbcb1399cd1b0fd63fbdfe4b23f56e",
+    "externalIds": {
+     "MAG": "2119949093",
+     "DOI": "10.1136/annrheumdis-2014-206417",
+     "CorpusId": 19883897,
+     "PubMed": "25596157"
+    },
+    "title": "MicroRNA-124 inhibits the progression of adjuvant-induced arthritis in rats",
+    "venue": "Annals of the Rheumatic Diseases",
+    "year": 2015
+   },
+   {
+    "paperId": "baa17488097b54abe9def09fe400d524a5910c94",
+    "externalIds": {
+     "PubMedCentral": "4390336",
+     "MAG": "1970903730",
+     "DOI": "10.1371/journal.pone.0121523",
+     "CorpusId": 11203568,
+     "PubMed": "25853428"
+    },
+    "title": "Antioxidant and Angiostatic Effect of Spirulina platensis Suspension in Complete Freund’s Adjuvant-Induced Arthritis in Rats",
+    "venue": "PLoS ONE",
+    "year": 2015
+   },
+   {
+    "paperId": "9410b0bc58f3b368adf5d085a099877c0eb58d7f",
+    "externalIds": {
+     "PubMedCentral": "4506462",
+     "MAG": "2141705824",
+     "DOI": "10.1186/s13075-015-0700-8",
+     "CorpusId": 10499076,
+     "PubMed": "26183428"
+    },
+    "title": "Association between arthritis score at the onset of the disease and long-term locomotor outcome in adjuvant-induced arthritis in rats",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2015
+   },
+   {
+    "paperId": "c9dc14c06df8245ef253ed5589bf6af9e66608c5",
+    "externalIds": {
+     "PubMedCentral": "11877731",
+     "DOI": "10.1186/s13075-025-03518-7",
+     "CorpusId": 276778304,
+     "PubMed": "40038720"
+    },
+    "title": "Burden and determinants of multi-b/tsDMARD failure in psoriatic arthritis",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2025
+   },
+   {
+    "paperId": "461fd832ef9613ba6285a16c276ff4c53ad048d9",
+    "externalIds": {
+     "MAG": "1830271513",
+     "DOI": "10.1002/art.39065",
+     "CorpusId": 30068325,
+     "PubMed": "25708190"
+    },
+    "title": "Microvascular Abnormalities in Adjuvant‐Induced Arthritis: Relationship to Macrovascular Endothelial Function and Markers of Endothelial Activation",
+    "venue": "Arthritis & Rheumatology",
+    "year": 2015
+   },
+   {
+    "paperId": "2bb881e33f38d13a154e64549153831550a80df0",
+    "externalIds": {
+     "DOI": "10.1038/35005552",
+     "CorpusId": 4398589
+    },
+    "title": "Activated T cells regulate bone loss and joint destruction in adjuvant arthritis through osteoprotegerin ligand",
+    "venue": "Nature",
+    "year": 1999
+   },
+   {
+    "paperId": "1f9acb51d7861f429358d08f29de59fdb6d4eb27",
+    "externalIds": {
+     "MAG": "2073611489",
+     "DOI": "10.1016/j.jconrel.2011.12.024",
+     "CorpusId": 32633684,
+     "PubMed": "22226777"
+    },
+    "title": "Glucocorticoids in nano-liposomes administered intravenously and subcutaneously to adjuvant arthritis rats are superior to the free drugs in suppressing arthritis and inflammatory cytokines.",
+    "venue": "Journal of Controlled Release",
+    "year": 2012
+   },
+   {
+    "paperId": "b85abfa0b3919dfb640c17b19c86ea39517509af",
+    "externalIds": {
+     "MAG": "2002493659",
+     "DOI": "10.1002/jcb.24156",
+     "CorpusId": 39079037,
+     "PubMed": "22473817"
+    },
+    "title": "Norisoboldine inhibits the production of interleukin‐6 in fibroblast‐like synoviocytes from adjuvant arthritis rats through PKC/MAPK/NF‐κB‐p65/CREB pathways",
+    "venue": "Journal of Cellular Biochemistry",
+    "year": 2012
+   },
+   {
+    "paperId": "90c4c5cbfb3154db3c2f001a888c1aa25069fc70",
+    "externalIds": {
+     "PubMedCentral": "4002707",
+     "MAG": "2043010046",
+     "DOI": "10.1038/aps.2012.77",
+     "CorpusId": 15507027,
+     "PubMed": "22842731"
+    },
+    "title": "The natural stilbenoid pinosylvin and activated neutrophils: effects on oxidative burst, protein kinase C, apoptosis and efficiency in adjuvant arthritis",
+    "venue": "Acta Pharmacologica Sinica",
+    "year": 2012
+   },
+   {
+    "paperId": "0a5f6393f4470f6d12dd2c831068458d682bcc66",
+    "externalIds": {
+     "MAG": "2159511749",
+     "DOI": "10.1016/j.phrs.2012.05.009",
+     "CorpusId": 7264671,
+     "PubMed": "22728690"
+    },
+    "title": "Cocoa intake attenuates oxidative stress associated with rat adjuvant arthritis.",
+    "venue": "Pharmacological Research",
+    "year": 2012
+   },
+   {
+    "paperId": "a7a611aa68387a00a1084c844972d9edd8f86445",
+    "externalIds": {
+     "MAG": "2065354414",
+     "DOI": "10.1007/s00296-011-2177-3",
+     "CorpusId": 20409610,
+     "PubMed": "22083611"
+    },
+    "title": "Effect of methotrexate on inflammatory cells redistribution in experimental adjuvant arthritis",
+    "venue": "Rheumatology International",
+    "year": 2012
+   },
+   {
+    "paperId": "0dc8e4cf3322d81a1e114f2570765c0a9b9f3134",
+    "externalIds": {
+     "MAG": "2009187197",
+     "DOI": "10.1007/s00011-012-0477-z",
+     "CorpusId": 16173179,
+     "PubMed": "22610149"
+    },
+    "title": "Recombinant human endostatin inhibits adjuvant arthritis by down-regulating VEGF expression and suppression of TNF-α, IL-1β production",
+    "venue": "Inflammation Research",
+    "year": 2012
+   },
+   {
+    "paperId": "9129b2d721a2369a7ea268a703be4e74c345765e",
+    "externalIds": {
+     "MAG": "2130557148",
+     "PubMedCentral": "3485659",
+     "DOI": "10.2478/v10102-012-0015-4",
+     "CorpusId": 14012120,
+     "PubMed": "23118593"
+    },
+    "title": "Pharmacological influence on processes of adjuvant arthritis: Effect of the combination of an antioxidant active substance with methotrexate",
+    "venue": "Interdisciplinary Toxicology",
+    "year": 2012
+   },
+   {
+    "paperId": "e786455eb15613423597662287c998a292e7a431",
+    "externalIds": {
+     "MAG": "167679633",
+     "DOI": "10.31083/ph.2012.2026",
+     "CorpusId": 21234323,
+     "PubMed": "23346762"
+    },
+    "title": "Pharmacokinetics of paeoniflorin microemulsion after repeated dosing in rats with adjuvant arthritis.",
+    "venue": "Pharmazie",
+    "year": 2012
+   }
+  ]
+ },
+ "rel:palmitoylethanolamide glucocorticoid sparing": {
+  "status": 429
+ },
+ "rel:palmitoylethanolamide oxidative stress arthritis": {
+  "status": 429
+ },
+ "bulk:palmitoylethanolamide + (prednisolone | dexamethasone | glucocorticoid | corticosteroid)": {
+  "status": 200,
+  "total": 25,
+  "rec": [
+   {
+    "paperId": "058c65898270be077c95d306ae8dd5abb6e7d146",
+    "externalIds": {
+     "CorpusId": 96447560
+    },
+    "title": "SYSTEM IN INFLAMMATORY BOWEL DISEASE",
+    "venue": "",
+    "year": 2008
+   },
+   {
+    "paperId": "0d136d16405e0b2890769decc9de12d0aa9d18f4",
+    "externalIds": {
+     "PubMedCentral": "8765123",
+     "DOI": "10.7573/dic.2021-10-8",
+     "CorpusId": 245902651,
+     "PubMed": "35106067"
+    },
+    "title": "Experience with nutraceutical supplements in the treatment of pelvic pain in gynaecology: case reports",
+    "venue": "Drugs in Context",
+    "year": 2022
+   },
+   {
+    "paperId": "16154bccbc71dc987fe7d9ba7dba0b91d0c23a16",
+    "externalIds": {
+     "PubMedCentral": "8929753",
+     "DOI": "10.1093/ijnp/pyab070",
+     "CorpusId": 239457635,
+     "PubMed": "34676867"
+    },
+    "title": "Alterations of Stress-Related Glucocorticoids and Endocannabinoids in Hair of Chronic Cocaine Users",
+    "venue": "International Journal of Neuropsychopharmacology",
+    "year": 2021
+   },
+   {
+    "paperId": "200bfed3db83ab8c4d4b48e145c579ba450bad94",
+    "externalIds": {
+     "PubMedCentral": "10707829",
+     "DOI": "10.3390/nu15234940",
+     "CorpusId": 265537923,
+     "PubMed": "38068797"
+    },
+    "title": "The Effect of Levagen+ (Palmitoylethanolamide) Supplementation on Symptoms of Allergic Rhinitis—A Double-Blind Placebo-Controlled Trial",
+    "venue": "Nutrients",
+    "year": 2023
+   },
+   {
+    "paperId": "435bc09e098d5b9731e41367f86ec7e9e92edec5",
+    "externalIds": {
+     "DOI": "10.30704/http-www-jivs-net.1243160",
+     "CorpusId": 258857014
+    },
+    "title": "Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis",
+    "venue": "Journal of Istanbul Veterinary Sciences",
+    "year": 2023
+   },
+   {
+    "paperId": "4393aa8a2c156890359de17266fb52b83e4a39fd",
+    "externalIds": {
+     "MAG": "3035626490",
+     "DOI": "10.1007/978-3-030-29836-4_23",
+     "CorpusId": 226427870
+    },
+    "title": "Feline Atopic Syndrome: Therapy",
+    "venue": "Feline Dermatology",
+    "year": 2020
+   },
+   {
+    "paperId": "52a8e62931903a34781b150dab1746ff77a3d1f4",
+    "externalIds": {
+     "PubMedCentral": "9216461",
+     "MAG": "3176081943",
+     "DOI": "10.1016/j.cpnec.2021.100068",
+     "CorpusId": 237706983,
+     "PubMed": "35757050"
+    },
+    "title": "Hair-based biomarkers in women with major depressive disorder: Glucocorticoids, endocannabinoids, N-acylethanolamines, and testosterone",
+    "venue": "Comprehensive Psychoneuroendocrinology",
+    "year": 2021
+   },
+   {
+    "paperId": "73dbba18cdf841e38e83bfc0052a499a08ad999b",
+    "externalIds": {
+     "DOI": "10.1080/14728214.2024.2313650",
+     "CorpusId": 267362255,
+     "PubMed": "38296815"
+    },
+    "title": "Emerging drugs for the treatment of irritability associated with autism spectrum disorder",
+    "venue": "Expert Opinion on Emerging Drugs",
+    "year": 2024
+   },
+   {
+    "paperId": "770b743e2c0118fa3a93c58608c5f56f04a93d38",
+    "externalIds": {
+     "PubMedCentral": "11511580",
+     "DOI": "10.1055/s-0044-1786046",
+     "CorpusId": 270048290,
+     "PubMed": "39464360"
+    },
+    "title": "Treatments for Olfactory Dysfunction in COVID-19: A Systematic Review",
+    "venue": "International Archives of Otorhinolaryngology",
+    "year": 2023
+   },
+   {
+    "paperId": "812569391bd2a2e562fb5c2cd53e1635f3de8f27",
+    "externalIds": {
+     "DOI": "10.1097/DER.0000000000000722",
+     "CorpusId": 232101115,
+     "PubMed": "33654018"
+    },
+    "title": "Anti-inflammatory Effect of Cannabidiol and Palmitoylethanolamide Containing Topical Formulation on Skin in a 12-O-Tetradecanoylphorbol-13-Acetate–Induced Dermatitis Model in Mice",
+    "venue": "Dermatitis",
+    "year": 2021
+   },
+   {
+    "paperId": "989494f3b8913a7469f81dcd96a35f520ac982d2",
+    "externalIds": {
+     "MAG": "1926496310",
+     "DOI": "10.1586/14787210.2015.1077700",
+     "CorpusId": 207199627,
+     "PubMed": "26293166"
+    },
+    "title": "Bacterial meningitis: an update of new treatment options",
+    "venue": "Expert Review of Anti-Infective Therapy",
+    "year": 2015
+   },
+   {
+    "paperId": "a09e302e22843b77eeea9286e6301c39f306a675",
+    "externalIds": {
+     "MAG": "1552230807",
+     "DOI": "10.6092/UNINA/FEDOA/4090",
+     "CorpusId": 82629739
+    },
+    "title": "PALMITOYLETHANOLAMIDE, AN ENDOGENOUS PPAR-ALPHA AGONIST, MODULATES NEUROSTEROIDS DE NOVO SYNTHESIS",
+    "venue": "",
+    "year": 2009
+   },
+   {
+    "paperId": "a3a3211427604eadc590931937ca0a32ed2b6296",
+    "externalIds": {
+     "MAG": "2765299148",
+     "DOI": "10.1016/j.jid.2017.07.853",
+     "CorpusId": 3533731,
+     "PubMed": "29054595"
+    },
+    "title": "The N-Acylethanolamine Acid Amidase Inhibitor ARN077 Suppresses Inflammation and Pruritus in a Mouse Model of Allergic Dermatitis.",
+    "venue": "Journal of Investigative Dermatology",
+    "year": 2017
+   },
+   {
+    "paperId": "ac79f11651a39e08887d3ef1ca91fa87ecb7d6f3",
+    "externalIds": {
+     "MAG": "3094988748",
+     "PubMedCentral": "7662642",
+     "DOI": "10.3390/ijms21218136",
+     "CorpusId": 226249725,
+     "PubMed": "33143356"
+    },
+    "title": "Protective Effects of Colomast®, a New Formulation of Adelmidrol and Sodium Hyaluronate, in a Mouse Model of Acute Restraint Stress",
+    "venue": "International Journal of Molecular Sciences",
+    "year": 2020
+   },
+   {
+    "paperId": "b03cde53a97698e7684047216969054c6da37349",
+    "externalIds": {
+     "DOI": "10.46563/2686-8997-2025-6-1-44-54",
+     "CorpusId": 278316333
+    },
+    "title": "Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic strategies",
+    "venue": "L O Badalyan Neurological Journal",
+    "year": 2025
+   },
+   {
+    "paperId": "b056c8b24302a8367e777347b974ed5fe453f0b1",
+    "externalIds": {
+     "MAG": "2071092825",
+     "DOI": "10.1097/01.all.0000244795.41357.6e",
+     "CorpusId": 23584860,
+     "PubMed": "16954788"
+    },
+    "title": "Steroids versus other immune modulators in the management of allergic dermatoses",
+    "venue": "Current Opinion in Allergy and Clinical Immunology",
+    "year": 2006
+   },
+   {
+    "paperId": "bc2a77950a0159b4aaa1a06a96a35b53765620d8",
+    "externalIds": {
+     "DOI": "10.1002/14651858.CD013876.pub3",
+     "CorpusId": 263562040,
+     "PubMed": "36062970"
+    },
+    "title": "Interventions for the treatment of persistent post-COVID-19 olfactory dysfunction.",
+    "venue": "Cochrane Database of Systematic Reviews",
+    "year": 2022
+   },
+   {
+    "paperId": "bef7b42c40919aa0bfd0c62a8d44fe737fa66a3e",
+    "externalIds": {
+     "PubMedCentral": "10395913",
+     "DOI": "10.1371/journal.pone.0288285",
+     "CorpusId": 260431362,
+     "PubMed": "37531338"
+    },
+    "title": "Effect of any form of steroids in comparison with that of other medications on the duration of olfactory dysfunction in patients with COVID-19: A systematic review of randomized trials and quasi-experimental studies",
+    "venue": "PLoS ONE",
+    "year": 2023
+   },
+   {
+    "paperId": "c1f30c1391db248488aadfcd68bc0a362346bb2a",
+    "externalIds": {
+     "PubMedCentral": "2914801",
+     "MAG": "2031674889",
+     "DOI": "10.1016/j.psyneuen.2010.03.005",
+     "CorpusId": 26098563,
+     "PubMed": "20399021"
+    },
+    "title": "Rapid Elevations in Limbic Endocannabinoid Content by Glucocorticoid Hormones In Vivo",
+    "venue": "Psychoneuroendocrinology",
+    "year": 2010
+   },
+   {
+    "paperId": "c864676632db8a2ec644f6ff87925056d4ecdabe",
+    "externalIds": {
+     "PubMedCentral": "11525399",
+     "DOI": "10.1007/s11882-024-01182-6",
+     "CorpusId": 273702021,
+     "PubMed": "39477832"
+    },
+    "title": "Treatment of COVID-19 Associated Olfactory Dysfunction: A Systematic Review",
+    "venue": "Current Allergy and Asthma Reports",
+    "year": 2024
+   },
+   {
+    "paperId": "cef5725a10d77b7303bfabf25cf02275928cff91",
+    "externalIds": {
+     "MAG": "2996680243",
+     "CorpusId": 163168042,
+     "PubMed": "31122007"
+    },
+    "title": "Sinerga may prevent recurrent respiratory infections in allergic children.",
+    "venue": "Journal of Biological Regulators and Homeostatic Agents",
+    "year": 2019
+   },
+   {
+    "paperId": "dd8cf7e01386a1ad67179fc81bdfaf6401f6b7c4",
+    "externalIds": {
+     "MAG": "3091438910",
+     "DOI": "10.32098/mltj.03.2020.04",
+     "CorpusId": 225212551
+    },
+    "title": "Influence of Supplements and Drugs used for the Treatment of Musculoskeletal Disorders on Adult Human Tendon-Derived Stem Cells",
+    "venue": "",
+    "year": 2020
+   },
+   {
+    "paperId": "e124981d7ff5c5dda0836f619798cc44ed6d247c",
+    "externalIds": {
+     "MAG": "2067519058",
+     "DOI": "10.1016/j.ejphar.2015.04.025",
+     "CorpusId": 1099175,
+     "PubMed": "25934566"
+    },
+    "title": "The anti-inflammatory effects of palmitoylethanolamide (PEA) on endotoxin-induced uveitis in rats.",
+    "venue": "European Journal of Pharmacology",
+    "year": 2015
+   },
+   {
+    "paperId": "e2378032df48310ac7540228a587269d77200894",
+    "externalIds": {
+     "PubMedCentral": "7772331",
+     "DOI": "10.1038/s41598-020-79859-x",
+     "CorpusId": 229719152,
+     "PubMed": "33376241"
+    },
+    "title": "Associating Emergency Medical Services personnel’s workload, trauma exposure, and health with the cortisol, endocannabinoid, and N-acylethanolamine concentrations in their hair",
+    "venue": "Scientific Reports",
+    "year": 2020
+   },
+   {
+    "paperId": "ef0fe23acfa5856a18ef229998e21a673d5dc948",
+    "externalIds": {
+     "MAG": "9246964",
+     "CorpusId": 44305155,
+     "PubMed": "20514790"
+    },
+    "title": "A nonsteroidal lamellar matrix cream containing palmitoylethanolamide for the treatment of atopic dermatitis.",
+    "venue": "Journal of Drugs in Dermatology",
+    "year": 2010
+   }
+  ]
+ },
+ "bulk:palmitoylethanolamide + (arthritis | Freund | synovitis)": {
+  "status": 200,
+  "total": 20,
+  "rec": [
+   {
+    "paperId": "0043f1d13fec40397d2a8e6312fa91d21ddb33e2",
+    "externalIds": {
+     "MAG": "1580469584",
+     "DOI": "10.6092/UNINA/FEDOA/4129",
+     "CorpusId": 82740544
+    },
+    "title": "EFFECT OF ENDOCANNABINOID SYSTEM AND CANNABIMIMETIC COMPOUNDS IN THE CONTROL OF MAST CELLS: POSSIBLE IMPLICATION IN ACUTE AND CHRONIC INFLAMMATION",
+    "venue": "",
+    "year": 2009
+   },
+   {
+    "paperId": "0ba3975a2067b818af847a5784057bd62987ac1e",
+    "externalIds": {
+     "MAG": "2105771810",
+     "DOI": "10.1124/jpet.106.111385",
+     "CorpusId": 35044165,
+     "PubMed": "16997973"
+    },
+    "title": "Rapid Broad-Spectrum Analgesia through Activation of Peroxisome Proliferator-Activated Receptor-α",
+    "venue": "Journal of Pharmacology and Experimental Therapeutics",
+    "year": 2006
+   },
+   {
+    "paperId": "2ff132f81f5a243ab900f453325c7c2be84cec84",
+    "externalIds": {
+     "DOI": "10.23736/S0026-4806.21.07486-3",
+     "CorpusId": 235255136,
+     "PubMed": "34056884"
+    },
+    "title": "Efficacy of a fixed combination of Palmitoylethanolamide and acetyl-l-carnitine (PEA + ALC FC) in the treatment of Neuropathies secondary to Rheumatic Diseases.",
+    "venue": "Minerva Medica",
+    "year": 2021
+   },
+   {
+    "paperId": "4bfd541e71e3d176f44c0157fe4919f1eb282ae3",
+    "externalIds": {
+     "MAG": "2886149587",
+     "DOI": "10.1007/s00011-018-1179-y",
+     "CorpusId": 52040080,
+     "PubMed": "30121836"
+    },
+    "title": "Micronized palmitoylethanolamide reduces joint pain and glial cell activation",
+    "venue": "Inflammation Research",
+    "year": 2018
+   },
+   {
+    "paperId": "56da72006f54870c7e044f3576b97517603ca043",
+    "externalIds": {
+     "DOI": "10.1007/s00011-018-1179-y",
+     "CorpusId": 253590254
+    },
+    "title": "Micronized palmitoylethanolamide reduces joint pain and glial cell activation",
+    "venue": "Inflammation Research",
+    "year": 2018
+   },
+   {
+    "paperId": "61920342cf323a302ed58d7f19525f6d07841016",
+    "externalIds": {
+     "MAG": "2411336333",
+     "DOI": "10.1124/jpet.115.230516",
+     "CorpusId": 32054576,
+     "PubMed": "26769918"
+    },
+    "title": "An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund’s Adjuvant Rat Model of Arthritis",
+    "venue": "Journal of Pharmacology and Experimental Therapeutics",
+    "year": 2016
+   },
+   {
+    "paperId": "6e9c3b0698ddf42edd6502e2e839675f49cb96b9",
+    "externalIds": {
+     "MAG": "2096213349",
+     "DOI": "10.4172/2167-0846.1000114",
+     "CorpusId": 55774304
+    },
+    "title": "Professor Rita Levi-Montalcini on Nerve Growth Factor, Mast Cells and Palmitoylethanolamide, an Endogenous Anti-Inflammatory and Analgesic Compound",
+    "venue": "",
+    "year": 2013
+   },
+   {
+    "paperId": "6ef4b0161437c3cd424d8b6379b681feca017e77",
+    "externalIds": {
+     "DOI": "10.56782/pps.479",
+     "CorpusId": 281920411
+    },
+    "title": "A NOVEL TARGETED FORMULATION FOR OSTEOARTHRITIS: EXPLORING SYNERGISTIC BENEFITS OF CISSUS QUADRANGULARIS, BOSWELLIA SERRATA, PROPOLIS AND PALMITOYLETHANOLAMIDE",
+    "venue": "Prospects in Pharmaceutical Sciences",
+    "year": 2025
+   },
+   {
+    "paperId": "74cab119ef2f778dd6ea32cd21053430af359cbd",
+    "externalIds": {
+     "MAG": "2511495196",
+     "DOI": "10.1016/j.bcp.2016.09.001",
+     "CorpusId": 25185824,
+     "PubMed": "27599446"
+    },
+    "title": "Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammation.",
+    "venue": "Biochemical Pharmacology",
+    "year": 2016
+   },
+   {
+    "paperId": "819f52a9cd72b4643f59a2747550b41ac93f6d6b",
+    "externalIds": {
+     "DOI": "10.16965/ijpr.2022.192",
+     "CorpusId": 256813397
+    },
+    "title": "Hyaluronic acid alone versus hyaluronic acid associated with adelmidrol for Intra-articular treatment of knee osteoarthritis: A long-term follow-up",
+    "venue": "International Journal of Physiotherapy and Research",
+    "year": 2023
+   },
+   {
+    "paperId": "830f170678af322ff7bf50366071b058dde652b9",
+    "externalIds": {
+     "MAG": "2565060369",
+     "PubMedCentral": "4858864",
+     "DOI": "10.1186/s13075-016-0999-9",
+     "CorpusId": 52870766,
+     "PubMed": "27149951"
+    },
+    "title": "Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2016
+   },
+   {
+    "paperId": "9dbf2b592fdfba19c35258588cc3916bf42d492a",
+    "externalIds": {
+     "MAG": "3048545422",
+     "DOI": "10.1021/acs.jproteome.0c00300",
+     "CorpusId": 221122449,
+     "PubMed": "32786678"
+    },
+    "title": "A joint synovial fluid metabolomics method to decipher the metabolic mechanisms of adjuvant arthritis and Geniposide intervention.",
+    "venue": "Journal of Proteome Research",
+    "year": 2020
+   },
+   {
+    "paperId": "a8c81ee71fafb1248d9b1662077c0219520113aa",
+    "externalIds": {
+     "PubMedCentral": "8227714",
+     "DOI": "10.3390/biomedicines9060610",
+     "CorpusId": 235299794,
+     "PubMed": "34072060"
+    },
+    "title": "Pharmacological Blockade of PPARα Exacerbates Inflammatory Pain-Related Impairment of Spatial Memory in Rats",
+    "venue": "Biomedicines",
+    "year": 2021
+   },
+   {
+    "paperId": "b03cde53a97698e7684047216969054c6da37349",
+    "externalIds": {
+     "DOI": "10.46563/2686-8997-2025-6-1-44-54",
+     "CorpusId": 278316333
+    },
+    "title": "Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic strategies",
+    "venue": "L O Badalyan Neurological Journal",
+    "year": 2025
+   },
+   {
+    "paperId": "bd3010ef9fe52bbe8ef623e8fcdf20b46d9e421b",
+    "externalIds": {
+     "MAG": "2565629120",
+     "DOI": "10.1096/fasebj.30.1_supplement.927.8",
+     "CorpusId": 90791707
+    },
+    "title": "Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain",
+    "venue": "The FASEB Journal",
+    "year": 2016
+   },
+   {
+    "paperId": "c0c633399e029b5472d895039df81ff0ad43ffeb",
+    "externalIds": {
+     "PubMedCentral": "9599300",
+     "DOI": "10.3390/biom12101453",
+     "CorpusId": 252858292,
+     "PubMed": "36291664"
+    },
+    "title": "Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol",
+    "venue": "Biomolecules",
+    "year": 2022
+   },
+   {
+    "paperId": "e7c9f67ced0ede2e4bb8ab25881164b5d428723b",
+    "externalIds": {
+     "MAG": "2131929749",
+     "PubMedCentral": "3978572",
+     "DOI": "10.1186/ar4382",
+     "CorpusId": 16227115,
+     "PubMed": "24246048"
+    },
+    "title": "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice",
+    "venue": "Arthritis Research & Therapy",
+    "year": 2013
+   },
+   {
+    "paperId": "e9ccbfb28b808866d59a08b99bc7a430be818622",
+    "externalIds": {
+     "MAG": "1497181705",
+     "CorpusId": 82049370
+    },
+    "title": "ALIAmides: EXPERIMENTAL STUDIES ON THE CONTROL OF ANGIOGENESIS",
+    "venue": "",
+    "year": 2011
+   },
+   {
+    "paperId": "f09f6d71b4738a2e1c889b91e9068b273856c953",
+    "externalIds": {
+     "MAG": "3080493256",
+     "PubMedCentral": "7552276",
+     "DOI": "10.3390/ani10091469",
+     "CorpusId": 221235681,
+     "PubMed": "32825646"
+    },
+    "title": "Oral Supplementation with Ultramicronized Palmitoylethanolamide for Joint Disease and Lameness Management in Four Jumping Horses: A Case Report",
+    "venue": "Animals",
+    "year": 2020
+   },
+   {
+    "paperId": "f3b57775120cb04017f21e8771f76bda61becb7b",
+    "externalIds": {
+     "MAG": "1992445235",
+     "DOI": "10.1111/j.1365-2826.2008.01674.x",
+     "CorpusId": 6391365,
+     "PubMed": "18426495"
+    },
+    "title": "Cannabinomimetic Control of Mast Cell Mediator Release: New Perspective in Chronic Inflammation",
+    "venue": "Journal of neuroendocrinology",
+    "year": 2008
+   }
+  ]
+ },
+ "bulk:palmitoylethanolamide + (baricitinib | tofacitinib | tacrolimus)": {
+  "status": 200,
+  "total": 2,
+  "rec": [
+   {
+    "paperId": "31bfd037119d76ce8e8d270bf65716bf43e7468d",
+    "externalIds": {
+     "MAG": "3108523517",
+     "PubMedCentral": "7705291",
+     "DOI": "10.1177/2633105520975412",
+     "CorpusId": 227341525,
+     "PubMed": "33294845"
+    },
+    "title": "Effects of Tacrolimus and Other Immune Targeting Compounds on Binge-Like Ethanol Drinking in High Drinking in the Dark Mice",
+    "venue": "Neuroscience Insights",
+    "year": 2020
+   },
+   {
+    "paperId": "435bc09e098d5b9731e41367f86ec7e9e92edec5",
+    "externalIds": {
+     "DOI": "10.30704/http-www-jivs-net.1243160",
+     "CorpusId": 258857014
+    },
+    "title": "Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis",
+    "venue": "Journal of Istanbul Veterinary Sciences",
+    "year": 2023
+   }
+  ]
+ }
+}

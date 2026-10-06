@@ -1,0 +1,47 @@
+1. Inflamm Res. 2018 Oct;67(10):891-901. doi: 10.1007/s00011-018-1179-y. Epub
+2018  Aug 18.
+
+Micronized palmitoylethanolamide reduces joint pain and glial cell activation.
+
+Bartolucci ML(1), Marini I(1), Bortolotti F(1), Impellizzeri D(2), Di Paola 
+R(2), Bruschetta G(2), Crupi R(2), Portelli M(3), Militi A(3), Oteri G(3), 
+Esposito E(2), Cuzzocrea S(4)(5).
+
+Author information:
+(1)Section of Orthodontics, Department of Biomedical Sciences, University of 
+Bologna, Via San Vitale 59, 40125, Bologna, Italy.
+(2)Department of Chemical, Biological, Pharmaceutical and Environmental Science, 
+University of Messina, Viale Ferdinando Stagno d'Alcontres 31, 98166, Messina, 
+Italy.
+(3)Department of Biomedical, Dental Science and Morphological and Functional 
+Images, Dental School, 98125, Messina, Italy.
+(4)Department of Chemical, Biological, Pharmaceutical and Environmental Science, 
+University of Messina, Viale Ferdinando Stagno d'Alcontres 31, 98166, Messina, 
+Italy. salvator@unime.it.
+(5)Department of Pharmacological and Physiological Sciences, Saint Louis 
+University, School of Medicine, 1402 South Grand Blvd, St. Louis, MO, 63104, 
+USA. salvator@unime.it.
+
+OBJECTIVE AND DESIGN: Temporomandibular disorder (TMD) is a common painful 
+condition in the temporomandibular joint (TMJ). Joint inflammation is believed 
+to be a chief cause of pain in patients with TMD, through the release of 
+pro-inflammatory cytokines that induce peripheral sensitization of nerve 
+terminals followed by microglial stimulation.
+MATERIALS AND SUBJECT: TMJ was induced in rats with the injection of complete 
+Freund's adjuvant (CFA) emulsion into the left TMJ capsule.
+TREATMENT: The present study would assess the effects of micronized 
+palmitoylethanolamide (m-PEA) on glial activation and trigeminal 
+hypersensitivity.
+METHODS: Ten mg/kg m-PEA or corresponding vehicle was administered 1 h after CFA 
+and mechanical allodynia and edema were evaluated at 24 and 72 h after CFA 
+injection.
+RESULTS: CFA-injected animals showed TMJ edema and ipsilateral mechanical 
+allodynia accompanied by a robust growth in GFAP protein-positive satellite 
+glial cells and activation of resident macrophages in the TG. Moreover, m-PEA 
+administration significantly reduced the degree of TMJ damage and pain, 
+macrophage activation in TG and up-regulation of Iba1.
+CONCLUSIONS: The results confirm that m-PEA could represent a novel approach for 
+monitoring pain during trigeminal nerve sensitization.
+
+DOI: 10.1007/s00011-018-1179-y
+PMID: 30121836 [Indexed for MEDLINE]

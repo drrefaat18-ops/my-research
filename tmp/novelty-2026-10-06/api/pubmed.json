@@ -1,0 +1,459 @@
+{
+ "PM_delta": {
+  "q": "(palmitoylethanolamide OR palmitoylethanolamide[tw] OR \"palmitoyl ethanolamide\" OR PEA[ti]) AND (arthritis OR glucocorticoid* OR prednisolone OR Freund OR corticosteroid* OR dexamethasone)",
+  "extra": {
+   "datetype": "edat",
+   "mindate": "2026/09/25",
+   "maxdate": "2026/12/31"
+  },
+  "n": "0",
+  "rec": []
+ },
+ "PM_delta_broad": {
+  "q": "palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine",
+  "extra": {
+   "datetype": "edat",
+   "mindate": "2026/09/25",
+   "maxdate": "2026/12/31"
+  },
+  "n": "8",
+  "rec": [
+   [
+    "42832826",
+    "2026 Oct 5",
+    "Nutraceuticals and phytoceuticals in the treatment of bipolar disorder: A systematic review and network meta-analysis.",
+    "Eur Neuropsychopharmacol"
+   ],
+   [
+    "42821324",
+    "2026 Dec 30",
+    "Effects of dietary supplements on lower-limb power and jump performance in physically active individuals and athletes: a systematic review and Bayesian network meta-analysis.",
+    "J Int Soc Sports Nutr"
+   ],
+   [
+    "42820274",
+    "2026 Oct 1",
+    "Brain structure correlates of circulating endocannabinoids and related lipids in early adolescents.",
+    "Dev Psychopathol"
+   ],
+   [
+    "42820272",
+    "2026 Oct 1",
+    "Maternal obesity induces sex-specific gut microbiota changes associated with reduced fecal levels of endocannabinoid-like molecules in rat offspring at weaning.",
+    "J Dev Orig Health Dis"
+   ],
+   [
+    "42812398",
+    "2026",
+    "ALIAmides and pediatric health: a structured narrative review.",
+    "Front Pharmacol"
+   ],
+   [
+    "42809944",
+    "2026 Sep 12",
+    "Associations of endocannabinoids and related lipid mediators with depressive symptoms during perimenopause.",
+    "Psychoneuroendocrinology"
+   ],
+   [
+    "42796932",
+    "2026 Sep 9",
+    "Palmitoylethanolamide and Luteolin in Brain Aging and Cognitive Decline: Biological Rationale and Current Evidence.",
+    "Nutrients"
+   ],
+   [
+    "42792821",
+    "2026 Sep 16",
+    "Palmitoylethanolamide as an Intestinal Gatekeeper: Linking Inflammation, Angiogenesis and Colorectal Cancer Interception.",
+    "Biomedicines"
+   ]
+  ]
+ },
+ "PM_OS": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine) AND (malondialdehyde OR glutathione OR \"superoxide dismutase\" OR catalase OR \"oxidative stress\" OR Nrf2 OR antioxidant*) AND (arthritis OR Freund OR adjuvant OR synovi* OR joint OR osteoarthritis)",
+  "extra": null,
+  "n": "16",
+  "rec": [
+   [
+    "42406250",
+    "2026 Aug",
+    "REJENERA(©), a multi-component bioflavonoid-based formula, alleviates osteoarthritis and provides chondroprotection by regulating the NLRP3-TXNIP-iNOS axis and inflammation: a comparative study with olive leaf nutraceuticals and ibuprofen.",
+    "Inflammopharmacology"
+   ],
+   [
+    "42342159",
+    "2026 Sep",
+    "Hyaluronic acid and PEA-based Rutin-loaded nanoparticles as new cardioprotective tool against anthracycline-induced cardiotoxicity.",
+    "Eur J Pharm Biopharm"
+   ],
+   [
+    "42198460",
+    "2026 May 17",
+    "New Adjuvant Therapies for Obesity-Related Disorders Associated with Meta-Neuroinflammation.",
+    "Pharmaceuticals (Basel)"
+   ],
+   [
+    "40085960",
+    "2025 Jun 24",
+    "Neuroprotective, anti-inflammatory, and analgesic activity of palmitoylethanolamide in sickle cell mice.",
+    "Blood Adv"
+   ],
+   [
+    "38203336",
+    "2023 Dec 21",
+    "Intrarectal Administration of Adelmidrol plus Hyaluronic Acid Gel Ameliorates Experimental Colitis in Mice and Inhibits Pro-Inflammatory Response in Ex Vivo Cultured Biopsies Derived from Ulcerative Colitis-Affected Patients.",
+    "Int J Mol Sci"
+   ],
+   [
+    "37626685",
+    "2023 Aug 3",
+    "Efficacy of Palmitoylethanolamide and Luteolin Association on Post-Covid Olfactory Dysfunction: A Systematic Review and Meta-Analysis of Clinical Studies.",
+    "Biomedicines"
+   ],
+   [
+    "37535783",
+    "2023 Jul",
+    "Alpha-Lipoic Acid, Palmitoylethanolamide, Myrrh, and Oxygen-Ozone Therapy Improve Pharmacological Therapy in Acute Painful Lumbosacral Radiculopathy due to Herniated Disc.",
+    "Pain Physician"
+   ],
+   [
+    "37111679",
+    "2023 Apr 9",
+    "Orofacial Pain Management: An Overview of the Potential Benefits of Palmitoylethanolamide and Other Natural Agents.",
+    "Pharmaceutics"
+   ],
+   [
+    "36281831",
+    "2022",
+    "Therapeutic Potential of Diacerein in Management of Pain.",
+    "Curr Drug Res Rev"
+   ],
+   [
+    "35215365",
+    "2022 Feb 19",
+    "Effects of Ultramicronized Palmitoylethanolamide (um-PEA) in COVID-19 Early Stages: A Case-Control Study.",
+    "Pharmaceuticals (Basel)"
+   ],
+   [
+    "35204084",
+    "2022 Jan 21",
+    "Antioxidant and Anti-Inflammatory Activity of Combined Phycocyanin and Palmitoylethanolamide in Human Lung and Prostate Epithelial Cells.",
+    "Antioxidants (Basel)"
+   ],
+   [
+    "34799468",
+    "2021 Nov 19",
+    "PPARα agonist relieves spinal cord injury in rats by activating Nrf2/HO-1 via the Raf-1/MEK/ERK pathway.",
+    "Aging (Albany NY)"
+   ],
+   [
+    "33143356",
+    "2020 Oct 30",
+    "Protective effects of Colomast(®), A New Formulation of Adelmidrol and Sodium Hyaluronate, in A Mouse Model of Acute Restraint Stress.",
+    "Int J Mol Sci"
+   ],
+   [
+    "33081127",
+    "2020 Oct 16",
+    "Natural Products: Evidence for Neuroprotection to Be Exploited in Glaucoma.",
+    "Nutrients"
+   ],
+   [
+    "28768536",
+    "2017 Aug 2",
+    "A novel composite formulation of palmitoylethanolamide and quercetin decreases inflammation and relieves pain in inflammatory and osteoarthritic pain models.",
+    "BMC Vet Res"
+   ],
+   [
+    "24246048",
+    "2013",
+    "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice.",
+    "Arthritis Res Ther"
+   ]
+  ]
+ },
+ "PM_mech": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine) AND (\"NF-kappaB\" OR \"NF-kB\" OR \"NF-κB\" OR p65 OR \"p38\" OR MAPK OR TLR4 OR \"toll-like receptor 4\") AND (arthritis OR Freund OR adjuvant OR synovi* OR \"CFA\")",
+  "extra": null,
+  "n": "4",
+  "rec": [
+   [
+    "34073872",
+    "2021 May 24",
+    "Management of Acute Lung Injury: Palmitoylethanolamide as a New Approach.",
+    "Int J Mol Sci"
+   ],
+   [
+    "33143356",
+    "2020 Oct 30",
+    "Protective effects of Colomast(®), A New Formulation of Adelmidrol and Sodium Hyaluronate, in A Mouse Model of Acute Restraint Stress.",
+    "Int J Mol Sci"
+   ],
+   [
+    "29573741",
+    "2018 Mar 24",
+    "HIV-1 Tat-induced diarrhea is improved by the PPARalpha agonist, palmitoylethanolamide, by suppressing the activation of enteric glia.",
+    "J Neuroinflammation"
+   ],
+   [
+    "27599446",
+    "2016 Nov 1",
+    "Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammation.",
+    "Biochem Pharmacol"
+   ]
+  ]
+ },
+ "PM_GC": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\" OR palmitoylethanolamine) AND (prednisolone OR prednisone OR dexamethasone OR methylprednisolone OR glucocorticoid* OR corticosteroid* OR steroid-sparing OR \"steroid sparing\")",
+  "extra": null,
+  "n": "33",
+  "rec": [
+   [
+    "42612238",
+    "2026 Jul-Aug",
+    "Fattening Physiology in a Long-Distance Migrant: Interplay between Baseline Corticosterone, Diet, and the Endocannabinoidome.",
+    "Ecol Evol Physiol"
+   ],
+   [
+    "42549879",
+    "2026 Jul 23",
+    "Development and validation of an LC-MS/MS method for the determination of glucocorticoids and endocannabinoids in hair: application to longitudinal pregnancy samples.",
+    "J Anal Toxicol"
+   ],
+   [
+    "41923295",
+    "2026 Apr",
+    "Persistent Trigeminal Neuralgia-Like Pain Following Isolated Hyaluronic Acid Lip Augmentation: A Case Report.",
+    "J Cosmet Dermatol"
+   ],
+   [
+    "40818974",
+    "2025 Aug 16",
+    "Therapeutic potential of cannabinoids for treating atopic dermatitis.",
+    "J Cannabis Res"
+   ],
+   [
+    "39477832",
+    "2024 Oct 31",
+    "Treatment of COVID-19 Associated Olfactory Dysfunction: A Systematic Review.",
+    "Curr Allergy Asthma Rep"
+   ],
+   [
+    "39464360",
+    "2024 Oct",
+    "Treatments for Olfactory Dysfunction in COVID-19: A Systematic Review.",
+    "Int Arch Otorhinolaryngol"
+   ],
+   [
+    "38296815",
+    "2024 Mar",
+    "Emerging drugs for the treatment of irritability associated with autism spectrum disorder.",
+    "Expert Opin Emerg Drugs"
+   ],
+   [
+    "38068797",
+    "2023 Nov 28",
+    "The Effect of Levagen+ (Palmitoylethanolamide) Supplementation on Symptoms of Allergic Rhinitis-A Double-Blind Placebo-Controlled Trial.",
+    "Nutrients"
+   ],
+   [
+    "37531338",
+    "2023",
+    "Effect of any form of steroids in comparison with that of other medications on the duration of olfactory dysfunction in patients with COVID-19: A systematic review of randomized trials and quasi-experimental studies.",
+    "PLoS One"
+   ],
+   [
+    "36062970",
+    "2022 Sep 5",
+    "Interventions for the treatment of persistent post-COVID-19 olfactory dysfunction.",
+    "Cochrane Database Syst Rev"
+   ],
+   [
+    "35757050",
+    "2021 Aug",
+    "Hair-based biomarkers in women with major depressive disorder: Glucocorticoids, endocannabinoids, N-acylethanolamines, and testosterone.",
+    "Compr Psychoneuroendocrinol"
+   ],
+   [
+    "35106067",
+    "2022",
+    "Experience with nutraceutical supplements in the treatment of pelvic pain in gynaecology: case reports.",
+    "Drugs Context"
+   ],
+   [
+    "34676867",
+    "2022 Mar 17",
+    "Alterations of Stress-Related Glucocorticoids and Endocannabinoids in Hair of Chronic Cocaine Users.",
+    "Int J Neuropsychopharmacol"
+   ],
+   [
+    "33654018",
+    "2022 Jul-Aug 01",
+    "Anti-inflammatory Effect of Cannabidiol and Palmitoylethanolamide Containing Topical Formulation on Skin in a 12- O -Tetradecanoylphorbol-13-Acetate-Induced Dermatitis Model in Mice.",
+    "Dermatitis"
+   ],
+   [
+    "33470011",
+    "2021 Feb",
+    "Treatment of the feline atopic syndrome - a systematic review.",
+    "Vet Dermatol"
+   ],
+   [
+    "33376241",
+    "2020 Dec 29",
+    "Associating Emergency Medical Services personnel's workload, trauma exposure, and health with the cortisol, endocannabinoid, and N-acylethanolamine concentrations in their hair.",
+    "Sci Rep"
+   ],
+   [
+    "33143356",
+    "2020 Oct 30",
+    "Protective effects of Colomast(®), A New Formulation of Adelmidrol and Sodium Hyaluronate, in A Mouse Model of Acute Restraint Stress.",
+    "Int J Mol Sci"
+   ],
+   [
+    "31779692",
+    "2019 Nov 28",
+    "Safety and efficacy of a new micronized formulation of the ALIAmide palmitoylglucosamine in preclinical models of inflammation and osteoarthritis pain.",
+    "Arthritis Res Ther"
+   ],
+   [
+    "31237065",
+    "2019 Oct",
+    "Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hypersensitivity dermatitis: a double-blind, multicentre, randomized, placebo-controlled study.",
+    "Vet Dermatol"
+   ],
+   [
+    "31122007",
+    "2019 Mar-Apr",
+    "Sinerga may prevent recurrent respiratory infections in allergic children.",
+    "J Biol Regul Homeost Agents"
+   ],
+   [
+    "29388323",
+    "2018 Jun",
+    "Effects of repeated long-term psychosocial stress and acute cannabinoid exposure on mouse corticostriatal circuitries: Implications for neuropsychiatric disorders.",
+    "CNS Neurosci Ther"
+   ],
+   [
+    "29054595",
+    "2018 Mar",
+    "The N-Acylethanolamine Acid Amidase Inhibitor ARN077 Suppresses Inflammation and Pruritus in a Mouse Model of Allergic Dermatitis.",
+    "J Invest Dermatol"
+   ],
+   [
+    "26293166",
+    "2015",
+    "Bacterial meningitis: an update of new treatment options.",
+    "Expert Rev Anti Infect Ther"
+   ],
+   [
+    "25934566",
+    "2015 Aug 15",
+    "The anti-inflammatory effects of palmitoylethanolamide (PEA) on endotoxin-induced uveitis in rats.",
+    "Eur J Pharmacol"
+   ],
+   [
+    "24035186",
+    "2013 Dec",
+    "Reductions in circulating endocannabinoid levels in individuals with post-traumatic stress disorder following exposure to the World Trade Center attacks.",
+    "Psychoneuroendocrinology"
+   ],
+   [
+    "22029953",
+    "2012 Jun",
+    "Intense exercise increases circulating endocannabinoid and BDNF levels in humans--possible implications for reward and depression.",
+    "Psychoneuroendocrinology"
+   ],
+   [
+    "20514790",
+    "2010 Apr",
+    "A nonsteroidal lamellar matrix cream containing palmitoylethanolamide for the treatment of atopic dermatitis.",
+    "J Drugs Dermatol"
+   ],
+   [
+    "20399021",
+    "2010 Oct",
+    "Rapid elevations in limbic endocannabinoid content by glucocorticoid hormones in vivo.",
+    "Psychoneuroendocrinology"
+   ],
+   [
+    "18181976",
+    "2008 Jan",
+    "Adjuvant treatment of atopic eczema: assessment of an emollient containing N-palmitoylethanolamine (ATOPA study).",
+    "J Eur Acad Dermatol Venereol"
+   ],
+   [
+    "16954788",
+    "2006 Oct",
+    "Steroids versus other immune modulators in the management of allergic dermatoses.",
+    "Curr Opin Allergy Clin Immunol"
+   ],
+   [
+    "16554178",
+    "2007 Jan",
+    "The psychedelic haze of inflammation.",
+    "Vet J"
+   ],
+   [
+    "19618742",
+    "2005",
+    "Incorporation of labelled N-acylethanolamine (NAE) into rat brain regions in vivo and adaptive properties of saturated NAE under x-ray irradiation.",
+    "Ukr Biokhim Zh (1999)"
+   ],
+   [
+    "10979576",
+    "2000 Mar-Apr",
+    "[N-acylethanolamine--a new class of natural adrenotropic modulators].",
+    "Ukr Biokhim Zh (1999)"
+   ]
+  ]
+ },
+ "PM_JAK": {
+  "q": "(palmitoylethanolamide OR \"palmitoyl ethanolamide\") AND (baricitinib OR tofacitinib OR upadacitinib OR \"JAK inhibitor\" OR tacrolimus OR cyclosporin* OR ciclosporin OR calcineurin)",
+  "extra": null,
+  "n": "7",
+  "rec": [
+   [
+    "40313591",
+    "2025",
+    "Chronic palmitoylethanolamide administration via slow-release subcutaneous pellets promotes neuroprotection and mitigates neuroinflammation in the Tg2576 mouse model of Alzheimer's disease.",
+    "Front Cell Neurosci"
+   ],
+   [
+    "33470011",
+    "2021 Feb",
+    "Treatment of the feline atopic syndrome - a systematic review.",
+    "Vet Dermatol"
+   ],
+   [
+    "33294845",
+    "2020",
+    "Effects of Tacrolimus and Other Immune Targeting Compounds on Binge-Like Ethanol Drinking in High Drinking in the Dark Mice.",
+    "Neurosci Insights"
+   ],
+   [
+    "29388323",
+    "2018 Jun",
+    "Effects of repeated long-term psychosocial stress and acute cannabinoid exposure on mouse corticostriatal circuitries: Implications for neuropsychiatric disorders.",
+    "CNS Neurosci Ther"
+   ],
+   [
+    "24312564",
+    "2013",
+    "Monoacylglycerols activate TRPV1--a link between phospholipase C and TRPV1.",
+    "PLoS One"
+   ],
+   [
+    "20514790",
+    "2010 Apr",
+    "A nonsteroidal lamellar matrix cream containing palmitoylethanolamide for the treatment of atopic dermatitis.",
+    "J Drugs Dermatol"
+   ],
+   [
+    "16954788",
+    "2006 Oct",
+    "Steroids versus other immune modulators in the management of allergic dermatoses.",
+    "Curr Opin Allergy Clin Immunol"
+   ]
+  ]
+ }
+}

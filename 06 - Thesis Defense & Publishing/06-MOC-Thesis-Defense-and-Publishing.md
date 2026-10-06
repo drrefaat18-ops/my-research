@@ -51,6 +51,7 @@ graph TD
 ---
 
 ## 🔗 Bidirectional Second Brain Connections
+- [[C2-novelty-gap-search-2026-10-06|🆕 Novelty gap search 2026-10-06 — 30+ sources, 0 claims broken, claim 2 (GC-sparing) weakened]] · base search: [[C-novelty]]
 - [[Swarm-Verified-Novelty-2026-09-06|🆕 Swarm-Verified Novelty Certificate — PubMed Browser Search Evidence (2026-09-06)]]
 - [[Novelty-and-Affordable-Biomarker-Decision-2026-09-06|2026-09-06 source-checked novelty and affordable assay decision: conditional shortlist and evidence corrections]]
 - [[Refaat-What-to-Assay-and-Novelty-2026-09-06|⚠️ القرار الموحَّد (Reconciled) — Tier A/B مشروط بتأكيد البروتوكول الرسمي، بعد 3 توصيات متضاربة في نفس اليوم]]

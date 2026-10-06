@@ -1,0 +1,381 @@
+·药学研究·
+
+防风石油醚提取物调节中性粒细胞胞外诱捕网对类风湿性关节 炎大鼠的改善作用及机制Δ
+
+张向阳 1＊，魏 薇 1，徐 鹏 1，李 宁 1，葛文静 2，王新义 1，梁瑞峰 2，3，薛爱荣 1（# 1. 河南省中西医结合医院/河南省 中医药研究院疼痛风湿科，郑州　450004；2. 河南省中西医结合医院/河南省中医药研究院中药研究所，郑州　 450004；3. 河南中医药大学药学院，郑州　450046）
+
+中图分类号 R965；R285
+
+文献标志码 A
+
+DOI 10.6039/j.issn.1001-0408.2024.19.05
+
+文章编号 1001-0408（2024）19-2345-07
+
+摘 要 目的 探究防风石油醚提取物通过调节中性粒细胞胞外诱捕网（NETs）对类风湿性关节炎（RA）大鼠的改善作用及机制。 方法 采用牛Ⅱ型胶原与弗氏完全佐剂建立大鼠 RA 模型。将造模成功的大鼠随机分为模型组和防风石油醚提取物低、中、高剂 量组（55、110、220 mg/kg），另设不造模的正常组，每组 10 只。各组大鼠灌胃相应药液或等体积 2% 吐温-80 溶液，每天 1 次，连续 28 d。观察大鼠足趾肿胀度并进行关节炎指数（AI）评分，检测大鼠血清中白细胞介素 1β（IL-1β）、IL-10、IL-17、肿瘤坏死因子 α （TNF-α）、25-羟基维生素 D3[25（OH）D3]、髓过氧化物酶（MPO）、中性粒细胞弹性蛋白酶（NE）和 NETs 的水平，观察大鼠踝关节病 理学形态变化，检测大鼠踝关节中瓜氨酸化组蛋白 H3（CitH3）以及滑膜组织中细胞色素 P450 24A1（CYP24A1）、细胞色素 P450 27B1（CYP27B1）、维生素 D 受体（VDR）、肽基精氨酸脱亚胺酶 4（PAD4）的表达水平。结果 与模型组比较，防风石油醚提取物中、 高剂量组大鼠给药后第 14 天至第 28 天的足趾肿胀度和 AI 评分均显著降低（P＜0.05 或 P＜0.01）；血清中 IL-1β、IL-17、TNF-α、 MPO、NE 和 NETs 水平均显著降低，IL-10、25（OH）D3水平均显著升高（P＜0.05 或 P＜0.01）；踝关节间隙变宽，结构明显改善；踝关 节中 CitH3 以及滑膜组织中 CYP24A1、PAD4 表达水平均显著降低，滑膜组织中 CYP27B1、VDR 表达水平均显著升高（P＜0.05 或 P＜0.01）。结论 防风石油醚提取物可能通过调控维生素 D 系统，抑制 NETs 生成，进而改善 RA 症状。 关键词 类风湿性关节炎；防风；石油醚提取物；维生素 D；中性粒细胞胞外诱捕网；炎症因子
+
+Improvement effect and mechanism of petroleum ether extract of Saposhnikovia divaricata on rheumatoid arthritis rats by regulating neutrophil extracellular traps ZHANG　Xiangyang1，WEI　Wei1，XU　Peng1，LI　Ning1，GE　Wenjing2，WANG　Xinyi1，LIANG　Ruifeng2，3，XUE　 Airong1（1. Dept. of Pain and Rheumatology，Henan Integrative Medicine Hospital/Henan Academy of Chinese Medicine， Zhengzhou 450004， China；2. Institute of Chinese Materia Medica， Henan Integrative Medicine Hospital/Henan Academy of Chinese Medicine，Zhengzhou 450004，China；3. School of Pharmacy，Henan University of Chinese Medicine，Zhengzhou 450046，China）
+
+ABSTRACT OBJECTIVE To explore the improvement effect and mechanism of petroleum ether extract of Saposhnikovia
+
+divaricata on rheumatoid arthritis（RA）rats by regulating neutrophil extracellular traps（NETs）. METHODS Establishment of rat
+
+RA model using bovine type Ⅱ collagen and Freund’s complete adjuvant. The model rats were randomly divided into model group
+
+and low-dose，middle-dose and high-dose groups（55，110，220 mg/kg）of petroleum ether extract of S. divaricata；the normal
+
+group without modeling was also established，with 10 rats in each group. Each group was given corresponding drugs or constant
+
+volume of 2% Tween-80 solution intragastrically，once a day，for consecutive 28 days. The toe swelling degree in rats was
+
+observed，and the arthritis index （AI） was scored. The serum levels of interleukin-1β （IL-1β），IL-10，IL-17，tumor necrosis
+
+factor-α（TNF-α），25-hydroxyvitamin D3 [25（OH）D3]，myeloperoxidase（MPO），neutrophil elastase（NE）and NETs in rats were
+
+detected. The histopathological changes in ankle joint were
+
+Δ 基金项目 国家自然科学基金面上项目（No.81873022）；河南省 中医药科学研究专项课题（No.2019ZYZD09）
+＊第一作者 副主任医师，硕士。研究方向：中药防治风湿性疾病。 E-mail：zhhn371@163.com
+# 通信作者 主任医师，硕士生导师。研究方向：中药防治风湿性 疾病。E-mail：zhongyao626@126.com
+
+observed. The expression of citrullinated histone H3 （CitH3） in ankle joint as well as the expressions of cytochrome P450 24A1 （CYP24A1）， cytochrome P450 27B1 （CYP27B1）， vitamin D receptor （VDR） and peptidyl arginine deiminase 4 （PAD4） in synovium were all determined. RESULTS
+
+中国药房 2024 年第 35 卷第 19 期
+
+China Pharmacy 2024 Vol. 35 No. 19 ·2345·
+
+Compared with the model group，the toe swelling degree and AI score in the middle-dose and high-dose groups of petroleum ether extract of S. divaricata decreased significantly from day 14 to day 28 after administration（P＜0.05 or P＜0.01）. The serum levels of IL-1β，IL-17，TNF- α，MPO，NE and NETs decreased significantly，while the levels of IL-10 and 25（OH）D3 increased significantly（P＜0.05 or P＜0.01）. The widened ankle joint space and the improved structure were found；the expression of CitH3 in ankle joint，and the expressions of CYP24A1 and PAD4 in synovium were down-regulated significantly，while the expressions of CYP27B1 and VDR were up-regulated significantly in synovium （P＜0.05 or P＜0.01）. CONCLUSIONS The petroleum ether extract of S. divaricata may inhibit the production of NETs and improve the symptoms of RA by regulating the vitamin D system. KEYWORDS rheumatoid arthritis；Saposhnikovia divaricata；petroleum ether extract；vitamin D；neutrophil extracellular traps； inflammatory factors
+
+类风湿性关节炎（rheumatoid arthritis，RA）是一种以 滑膜炎症为主要特征的进行性自身免疫疾病，主要表现 为关节滑膜炎症和异常增生、关节与骨破坏，最终引发 关节畸形和功能丧失[1]。RA 致病因素众多，中性粒细胞 胞外诱捕网（neutrophil extracellular traps，NETs）的大量 形成被认为是 RA 致病的关键环节。RA 患者的外周血 液和关节液中存在大量中性粒细胞，当其受刺激后可激 活髓过氧化物酶（myeloperoxidase，MPO），并触发中性 粒细胞弹性蛋白酶（neutrophil elastase，NE）从嗜酸性颗 粒中转运至细胞核，从而水解染色质上的组蛋白，使染 色 质 成 为 游 离 的 DNA，最 终 形 成 以 DNA 为 骨 架 的 NETs[2]。高水平的 NETs 不仅可增加抗环瓜氨酸肽抗体 的分泌进而加重 RA 病情，而且可促进滑膜成纤维细胞 增殖并产生促炎因子[3]。研究发现，维生素 D、维生素 D 受体（vitamin D receptor，VDR）及相关代谢酶构成的维 生素 D 系统可通过抑制核因子 κB 信号通路减少 NETs 的形成[4]。流行病学调查也显示，维生素 D 水平与 RA 的 发病率和疾病活动度之间呈负相关[5]。
+中药防风具有祛风解表、胜湿止痛的功效，临床常 用于治疗感冒头痛、风湿痹痛、风疹瘙痒等症。在治疗 RA 的方剂中，防风也常作为基础组方应用，如大防风 汤、防风通络丸等。防风主要含有色原酮、香豆素、挥发 油等活性成分，具有镇痛、抗炎等药理作用[6]。本课题组 前期研究发现，防风石油醚提取物、正丁醇提取物均具 有抗 RA 作用，且石油醚提取部位的抗 RA 作用更为显 著，可降低关节炎大鼠的足趾肿胀度，抑制 RA 成纤维样 滑膜细胞增殖[7]。本研究在前期实验基础上，通过注射 Ⅱ型胶原建立大鼠 RA 模型，基于维生素 D 系统和 NETs 考察防风石油醚提取物对 RA 大鼠的改善作用及机制， 以期为 RA 的临床治疗提供实验依据。
+1　材料
+1.1　主要仪器 本研究所用主要仪器有 Synergy NEO 型全功能酶
+标仪（美国 Bio-Tek 公司）、PV-200 型足趾容积测量仪（成 都泰盟软件有限公司）、2K15 型高速低温离心机（德国 Sigma 公司）、RM2245 型切片机（德国 Leica 公司）、CX31 型显微镜（日本 Olympus 公司）、Fluor Chem R 型凝胶成
+
+像分析仪（美国 Protein Simple 公司）、1290 InfinityⅡ型 高效液相色谱仪（美国 Agilent 公司）。 1.2　主要药品与试剂
+防风（批号 2301041）购自安徽普仁中药饮片有限公 司，经河南省中医药研究院王慧森副研究员鉴定为伞形 科植物防风 Saposhnikovia divaricata（Turcz.）Schischk. 的干燥根。香柑内酯、异欧前胡素对照品（批号分别为 2023157、2022331，纯度均大于 98%）购自上海阿拉丁生 化科技股份有限公司；牛Ⅱ型胶原（批号 20021）购自美 国 Chondrex 公司；免疫组化试剂盒、DAB 显色试剂盒、 苏 木 素 - 伊 红（HE）染 色 试 剂 盒（批 号 分 别 为 P0615、 P0203、C0105S）均购自上海碧云天生物技术有限公司； 弗氏完全佐剂（批号 068K8761）购自美国 Sigma 公司；白 细胞介素 1β（interleukin-1β，IL-1β）、IL-10、IL-17、肿瘤 坏死因子 α（tumor necrosis factor-α，TNF-α）试剂盒（批 号分别为 20230704、20230609、20230719、20230602）均 购自北京索莱宝科技有限公司；25-羟基维生素 D3[25hydroxyvitamin D3，25（OH）D3；用于评价体内维生素 D 水平]、MPO、NE、NETs 酶联免疫吸附测定（ELISA）试 剂 盒（批 号 分 别 为 ml038316、ml003250、ml003280、 ml060524）均购自上海酶联生物科技有限公司；兔源细 胞色素 P450 27B1（cytochrome P450 27B1，CYP27B1）多 克隆抗体、兔源细胞色素 P450 24A1（cytochrome P450 24A1，CYP24A1）多克隆抗体、兔源 VDR 多克隆抗体、辣 根过氧化物酶标记的山羊抗兔免疫球蛋白 G 二抗（批号 分别为 bs14146R、bs3899R、bs10618R、bs0295G）均购自 北京博奥森生物技术有限公司；兔源瓜氨酸化组蛋白 H3（citrullinated histone H3，CitH3）、肽基精氨酸脱亚胺 酶 4（peptidyl arginine deiminase 4，PAD4）、甘油醛-3-磷 酸脱氢酶（GAPDH）单克隆抗体（批号分别为 ab281584、 ab214810、ab181602）均购自英国 Abcam 公司。 1.3　实验动物
+本研究所用动物为 8 周龄的 SPF 级雄性 SD 大鼠，共 70 只，体重（200±10）g，购自北京华阜康生物科技股份 有限公司，动物生产许可证号为 SCXK（京）2019-0008。
+大鼠饲养于河南省中医药研究院实验动物中心（环境温 度 22～25 ℃ 、相 对 湿 度 50%～60%、12 h/12 h 明 暗 交
+
+·2346· China Pharmacy 2024 Vol. 35 No. 19
+
+中国药房 2024 年第 35 卷第 19 期
+
+替），自由摄食饮水。本实验方案经河南省中医药研究 院实验动物福利伦理审查委员会审核和批准（伦理审查 批件号为 HNTCMDW-20230214）。
+2　方法
+2.1　药物制备 参考本课题组前期研究方法制备[8]：将防风饮片粉
+碎过 40 目筛，称取 1 kg 粉末，加入 95% 乙醇 8 L 加热回 流提取 2 次，每次 1.5 h，合并滤液并回收溶剂至无乙醇 气味，得乙醇提取物。残渣用 6 L 蒸馏水煎煮 2 次，每次 1.0 h，合并滤液，浓缩干燥后得水提取物。将乙醇提取 物与水提取物混合后用适量蒸馏水制成混悬液，用等体 积的石油醚萃取 4 次，合并萃取液，减压浓缩，得石油醚 提取物 22.73 g，得率为 2.27%。采用高效液相色谱法检 测石油醚提取物中香柑内酯、异欧前胡素含量分别为 16.43、9.27 mg/g。实验时取石油醚提取物溶于 2% 吐 温-80 溶液后使用。 2.2　动物分组、造模与给药
+大鼠适应性饲养 5 d 后，随机分为正常组（10 只）和 造模组（60 只）。将牛Ⅱ型胶原溶液（2.0 g/L，用 0.1 mol/L 醋酸溶解）与等体积的弗氏完全佐剂混合乳化，制成含 牛Ⅱ型胶原（1 g/L）的乳化剂。造模组大鼠于 5 个点（背 部 3 个点、尾根部及右后足跟部各 1 个点，0.1 mL/点）注 射乳化剂；7 d 后每只大鼠于尾根部再次注射乳化剂 0.2 mL 以加强免疫，建立 RA 大鼠模型[9]。正常组大鼠不造 模，仅在相应部位注射等体积生理盐水代替。14 d 后进 行关节炎指数（arthritis index，AI）评分，具体评分标准 为：关节无发红、无肿胀记为 0 分；足趾关节轻度肿胀或 局部发红记为 1 分；足趾至足背肿胀或发红记为 2 分；踝 关节及以下红肿且活动轻微受限记为 3 分；关节严重红 肿、畸形、僵硬且活动明显受限记为 4 分；四肢累计得分 为 AI 评分，最高分为 16 分，评分≥4 分视为造模成功[10]。
+选取造模成功的大鼠 40 只按随机数字表法分为模 型组和防风石油醚提取物低、中、高剂量组（55、110、220 mg/kg，相当于防风生药临床等效剂量的 2.5、5、10 倍）， 每组 10 只。正常组和模型组大鼠灌胃等体积 2% 吐 温-80 溶液，其余各组大鼠灌胃相应药物，每天 1 次，连续 28 d。实验期间，观察大鼠的一般情况，包括大鼠毛发色 泽、精神状态、活动情况、关节肿胀等的变化。 2.3　大鼠足趾肿胀度及 AI 评分
+分别于给药前及给药后第 7、14、21、28 天用足趾容 积测量仪测量大鼠右后足容积，以与造模前的足趾容积 差值为足趾肿胀度。定期观察大鼠足趾及关节红肿、畸 形、活动等情况，并进行 AI 评分。 2.4　大鼠血清中炎症因子、25（OH）D3、MPO、NE 和 NETs 的检测
+采用 ELISA 法检测。末次给药 24 h 后，用异氟烷麻
+
+醉大鼠，腹主动脉取血，静置 30 min 后，以 3 000 r/min 离 心 10 min 分离血清，按照试剂盒说明书方法检测大鼠血 清中 IL-1β、IL-10、IL-17、TNF-α、25（OH）D3、MPO、NE 和 NETs 的水平。 2.5　大鼠踝关节病理学形态观察
+采用 HE 染色法观察。采血后处死大鼠，小心分离 其右后踝关节，置于 4% 多聚甲醛溶液中固定 48 h，经脱 钙、脱水、透明、石蜡包埋后，进行常规切片。取部分组 织切片（剩余部分用于 CitH3 表达水平的检测）置于二甲 苯中脱蜡后放入梯度乙醇中水化，随后将切片放入苏木 素染液中染色 5 min，用流水冲洗后再浸入伊红染液中 染色 2 min，经中性树胶封固后，采用显微镜观察大鼠踝 关节病理学形态改变情况。 2.6　大鼠踝关节中 CitH3 表达水平的检测
+采用免疫组化法检测。取大鼠踝关节组织切片，脱 蜡水化，以柠檬酸钠抗原修复液修复、10% 正常山羊血 清室温封闭 1 h，随后滴加 CitH3 一抗（稀释度为 1∶300）， 4 ℃孵育过夜，然后以磷酸盐缓冲液冲洗 3 次；滴加二抗 （稀释度为 1∶500），37 ℃孵育 30 min，再次清洗 3 次后滴 加 DAB 显色，以苏木素复染，经分化、冲洗、返蓝、梯度 乙醇脱水后，以二甲苯透明、封片，再置于显微镜下观 察。采用 Image-Pro Plus 6.0 软件分析 CitH3 蛋白的阳性 表达水平，结果以平均光密度值表示。每张切片随机选 3 个视野分析，取其平均值。 2.7　 大 鼠 滑 膜 组 织 中 CYP24A1、CYP27B1、VDR、 PAD4 表达水平的检测
+采用 Western blot 法检测。分离各组大鼠右后膝关 节滑膜组织，加入裂解液研磨后提取总蛋白，分离上清 液，根据 BCA 蛋白定量试剂盒说明书方法检测蛋白浓 度。取蛋白样品适量，加入 5×上样缓冲液煮沸变性，取 等量蛋白经 12% 十二烷基硫酸钠-聚丙烯酰胺凝胶电泳 在 120 V 分离 60 min，通过 200 mA 恒流将蛋白电转至聚 偏二氟乙烯膜上，加 5% 脱脂奶粉室温封闭 1 h；弃封闭 液后漂洗 3 次，分别加入 CYP24A1（稀释度为 1∶800）、 CYP27B1（稀释度为 1∶1 000）、VDR（稀释度为 1∶800）、 PAD4（稀释度为 1∶800）及 GAPDH 一抗（稀释度为 1∶ 5 000），4 ℃孵育过夜；漂洗 3 次，滴加相应二抗（稀释度 为 1∶8 000）室温孵育 60 min，然后滴加 ECL 发光液曝 光 ，采 用 凝 胶 成 像 仪 拍 照 ，以 目 的 蛋 白 与 内 参 蛋 白 GAPDH 的灰度值比值表示目的蛋白的表达水平。 2.8　统计学方法
+采 用 SPSS 26.0 软 件 分 析 数 据 。 计 量 资 料 经 Shapiro-Wilk 检验均服从正态分布，以 x±s 表示，多组间 比较采用单因素方差分析，组间两两比较使用 LSD-t 检 验。检验水准 α＝0.05。
+
+中国药房 2024 年第 35 卷第 19 期
+
+China Pharmacy 2024 Vol. 35 No. 19 ·2347·
+
+3　结果
+
+3.1　防风石油醚提取物对 RA 大鼠一般情况的影响
+
+正常组大鼠毛发正常有光泽，活动自如，反应敏捷。
+
+模型组大鼠毛发干黄，精神状态差，下肢踝关节处出现
+
+明显肿胀，行动迟缓，活动受限。与模型组比较，防风石
+
+油醚提取物中、高剂量组大鼠相关症状明显改善，精神
+
+状况一般，双下肢关节虽仍有肿胀，但是活动度较好。
+
+3.2　防风石油醚提取物对 RA 大鼠足趾肿胀度的影响
+
+与正常组比较，给药前后模型组大鼠足趾肿胀度均
+
+显著升高（P＜0.01）。与模型组比较，给药后，防风石油
+
+醚提取物各剂量组大鼠足趾肿胀度均不同程度地降低，
+
+且部分差异具有统计学意义（P＜0.05 或 P＜0.01）。结
+
+果见表 1。
+
+表 1　各组大鼠足趾肿胀度的比较（x±s，n＝10）
+
+组别
+正常组 模型组 防风石油醚提取物低剂量组 防风石油醚提取物中剂量组 防风石油醚提取物高剂量组
+
+给药前
+0.06±0.05 1.28±0.21a 1.32±0.24 1.24±0.20 1.33±0.23
+
+第7天 0.08±0.05 1.35±0.33a 1.19±0.28 1.14±0.25 1.06±0.21b
+
+给药后 第14天 第21天 0.07±0.04 0.08±0.06 1.38±0.36a 1.36±0.34a 1.17±0.29 1.09±0.27b 1.08±0.26b 0.97±0.22c 0.99±0.23c 0.90±0.19c
+
+第 28 天 0.07±0.05 1.35±0.36a 1.07±0.28b 0.92±0.21c 0.84±0.18c
+
+a：与正常组比较，P＜0.01；b：与模型组比较，P＜0.05；c：与模型组 比较，P＜0.01。
+
+3.3　防风石油醚提取物对 RA 大鼠 AI 评分的影响
+
+与正常组比较，给药前后模型组大鼠 AI 评分均显著
+
+升高（P＜0.01）。与模型组比较，给药后，防风石油醚提
+
+取物各剂量组大鼠 AI 评分均不同程度地降低，且部分差
+
+异具有统计学意义（P＜0.05 或 P＜0.01）。结果见表 2。
+
+表 2　各组大鼠 AI 评分的比较（x±s，n＝10，分）
+
+组别
+正常组 模型组 防风石油醚提取物低剂量组 防风石油醚提取物中剂量组 防风石油醚提取物高剂量组
+
+给药前
+0.00±0.00 9.70±1.70a 9.60±1.71 9.80±1.75 9.90±1.73
+
+第7天 0.00±0.00 9.80±1.75a 9.50±1.78 8.90±1.73 8.20±1.62b
+
+给药后 第14天 第21天 0.00±0.00 0.00±0.00 9.70±1.83a 9.90±1.80a 9.10±1.73 8.50±1.72b 8.30±1.64b 7.80±1.70c 7.50±1.58c 7.10±1.60c
+
+第 28 天 0.00±0.00 9.60±1.78a 8.10±1.66b 7.30±1.64c 6.70±1.70c
+
+a：与正常组比较，P＜0.01；b：与模型组比较，P＜0.05；c：与模型组 比较，P＜0.01。
+
+3.4　防风石油醚提取物对 RA 大鼠血清中炎症因子的
+
+影响
+
+与正常组比较，模型组大鼠血清中 IL-1β、IL-17 和
+
+TNF-α 水平均显著升高，IL-10 水平显著降低（P＜0.01）。
+
+与模型组比较，防风石油醚提取物中、高剂量组大鼠血
+
+清中 IL-1β、IL-17 和 TNF-α 水平均显著降低，IL-10 水平
+
+均显著升高（P＜0.05 或 P＜0.01）。结果见表 3。
+
+3.5　防风石油醚提取物对 RA 大鼠血清中 25（OH）D3、
+
+MPO、NE 和 NETs 的影响
+
+与正常组比较，模型组大鼠血清中 25（OH）D3 水平
+
+显 著 降 低 ，MPO、NE 和 NETs 水 平 均 显 著 升 高（P＜
+
+表 3　各组大鼠血清中炎症因子水平的比较（x±s，n＝ 10，ng/L）
+
+组别 正常组 模型组 防风石油醚提取物低剂量组 防风石油醚提取物中剂量组 防风石油醚提取物高剂量组
+
+IL-1β 24.29±3.85 98.87±19.74a 89.68±18.59 80.73±17.36b 71.49±15.91c
+
+IL-10 67.85±9.81 41.29±7.22a 46.80±8.68 51.66±8.95b 58.32±9.67c
+
+IL-17 35.33±4.94 60.86±11.65a 53.57±9.78 46.22±9.39c 42.75±7.37c
+
+TNF-α 31.65±5.83 54.91±10.74a 49.62±9.19 45.36±8.20b 39.44±7.65c
+
+a：与正常组比较，P＜0.01；b：与模型组比较，P＜0.05；c：与模型组 比较，P＜0.01。
+
+0.01）。与模型组比较，防风石油醚提取物中、高剂量组
+
+大鼠血清中 25（OH）D3 水平均显著升高，MPO、NE 和
+
+NETs 水 平 均 显 著 降 低（P＜0.05 或 P＜0.01）。 结 果
+
+见表 4。
+
+表 4　各组大鼠血清中 25（OH）D3、MPO、NE 和 NETs 水 平的比较（x±s，n＝10，μg/L）
+
+组别 正常组 模型组 防风石油醚提取物低剂量组 防风石油醚提取物中剂量组 防风石油醚提取物高剂量组
+
+25（OH）D3 28.06±3.04 15.77±3.29a 17.44±3.37 19.59±3.62b 21.68±3.43c
+
+MPO 83.25±17.91 151.03±25.36a 138.55±23.82 123.76±20.75c 112.64±18.29c
+
+NE 12.57±2.83 23.09±5.11a 21.45±4.63 18.86±4.16b 16.71±3.77c
+
+NETs 18.49±3.14 32.15±5.27a 29.71±5.09 26.93±4.75b 23.27±4.46c
+
+a：与正常组比较，P＜0.01；b：与模型组比较，P＜0.05；c：与模型组 比较，P＜0.01。
+
+3.6　防风石油醚提取物对 RA 大鼠踝关节组织病理学
+
+的影响
+
+正常组大鼠踝关节结构清晰、间隙正常，软骨面光
+
+滑、未见骨质破坏，滑膜细胞排列有序，未见炎症细胞浸
+
+润。模型组大鼠踝关节可见大量炎症细胞浸润，关节间
+
+隙变窄，结缔及滑膜组织增生，软骨面较为粗糙，关节出
+
+现侵蚀，结构破坏严重。防风石油醚提取物低剂量组大
+
+鼠踝关节组织可见炎症细胞，但关节结构及骨质破坏有
+
+所改善；防风石油醚提取物中、高剂量组大鼠踝关节间
+
+隙变宽，结构明显改善，腔中可见少量炎症细胞，滑膜组
+
+织轻度增生。各组大鼠踝关节病理学形态见图 1。
+
+3.7　防风石油醚提取物对 RA 大鼠踝关节中 CitH3 表达
+
+的影响
+
+免疫组化染色结果显示，正常组大鼠踝关节可见少
+
+量 CitH3 阳性细胞，且染色较浅；模型组大鼠踝关节中
+
+CitH3 阳性细胞数量增多且染色较深，主要定位于被侵
+
+袭的滑膜组织和被侵蚀的关节面周围。与正常组（平均
+
+光密度值为 48.29±9.17）比较，模型组大鼠踝关节中
+
+CitH3 表达水平（平均光密度值为 107.06±20.62）显著升
+
+高（P＜0.01）。与模型组比较，防风石油醚提取物各剂
+
+量组大鼠踝关节中 CitH3 阳性细胞数量减少，染色变浅，
+
+表达水平（平均光密度值分别为 90.63±18.04、75.49±
+
+16.25、64.02±14.81）均显著降低（P＜0.05 或 P＜0.01）。
+
+结果见图 2。
+
+·2348· China Pharmacy 2024 Vol. 35 No. 19
+
+中国药房 2024 年第 35 卷第 19 期
+
+A. 正常组
+
+B. 模型组
+
+C. 防风石油醚提取物低剂量组 D. 防风石油醚提取物中剂量组
+
+注：黑色箭头表示关节间隙；蓝色箭头表示炎症细胞。
+
+图 1　各组大鼠踝关节病理显微图（HE 染色）
+
+E. 防风石油醚提取物高剂量组
+
+A. 正常组
+
+B. 模型组
+
+C. 防风石油醚提取物低剂量组 D. 防风石油醚提取物中剂量组
+
+图 2　各组大鼠踝关节中 CitH3 的表达情况（免疫组化染色）
+
+E. 防风石油醚提取物高剂量组
+
+3.8　 防 风 石 油 醚 提 取 物 对 RA 大 鼠 滑 膜 组 织 中 CYP24A1、CYP27B1、VDR、PAD4 表达的影响
+与正常组比较，模型组大鼠滑膜组织中 CYP24A1、 PAD4 表达水平均显著升高，CYP27B1、VDR 表达水平 均显著降低（P＜0.01）。与模型组比较，防风石油醚提 取物中、高剂量组大鼠滑膜组织中 CYP24A1、PAD4 表 达水平均显著降低，CYP27B1、VDR 表达水平均显著升 高（P＜0.05 或 P＜0.01）。结果见图 3、表 5。
+
+CYP24A1
+
+60 kDa
+
+CYP27B1
+
+57 kDa
+
+VDR
+
+48 kDa
+
+PAD4
+
+74 kDa
+
+GAPDH
+
+36 kDa
+
+Ⅰ
+
+Ⅱ
+
+Ⅲ
+
+Ⅳ
+
+Ⅴ
+
+Ⅰ：正常组；Ⅱ：模型组；Ⅲ：防风石油醚提取物低剂量组；Ⅳ：防风
+
+石油醚提取物中剂量组；Ⅴ：防风石油醚提取物高剂量组。
+图 3　各 组 大 鼠 滑 膜 组 织 中 CYP24A1、CYP27B1、 VDR、PAD4 蛋白表达的电泳图
+
+表 5　各 组 大 鼠 滑 膜 组 织 中 CYP24A1、CYP27B1、 VDR、PAD4 蛋白表达水平的比较（x±s，n＝10）
+
+组别 正常组 模型组 防风石油醚提取物低剂量组 防风石油醚提取物中剂量组 防风石油醚提取物高剂量组
+
+CYP24A1/GAPDH 0.36±0.11 0.74±0.19a 0.71±0.20 0.54±0.15b 0.45±0.13b
+
+CYP27B1/GAPDH 0.59±0.17 0.23±0.06a 0.35±0.09 0.44±0.14b 0.52±0.16b
+
+VDR/GAPDH 0.47±0.15 0.24±0.06a 0.27±0.08 0.33±0.10c 0.39±0.12b
+
+PAD4/GAPDH 0.34±0.10 0.65±0.23a 0.59±0.21 0.45±0.15c 0.41±0.13b
+
+a：与正常组比较，P＜0.01；b：与模型组比较，P＜0.01；c：与模型组 比较，P＜0.05。
+
+4　讨论
+目前药物是治疗 RA 的主要方法，常用的有抗风湿 药、非甾体抗炎药、糖皮质激素等，但这些药物的不良反 应较多，患者难以耐受，限制了其长期使用[11]。中医药 治疗 RA 的效果确切，且具有较好的安全性，逐渐成为临 床治疗 RA 的重要手段。
+理想的动物模型在研究疾病发生发展机制和相关 药物疗效评价中具有关键作用。RA 大鼠的发病机制、 症状表现等与人类 RA 具有较高的相似性，被公认为是 研究 RA 的成熟模型[12]。在本研究中，RA 大鼠表现出典 型的关节炎症状，包括足趾肿胀、关节活动受限及 AI 评 分升高等；HE 染色结果进一步证实 RA 大鼠关节结构紊 乱和炎症细胞浸润。经防风石油醚提取物干预后，大鼠 相关症状得到了明显改善，关节组织病变减轻。这表明 防风石油醚提取物对 RA 具有治疗潜力。
+免疫功能紊乱是 RA 发生的重要因素，其中辅助性 T 细胞 17（Th17）和调节性 T 细胞（Treg）的失衡起着关键 作用[13]。Th17 细胞分泌 IL-17、TNF-α 等促炎因子，招募 中性粒细胞，然后激活 T 细胞，从而加重炎症的发生发 展；Treg 细胞主要分泌 IL-10 等抑炎因子，能抑制 T 细胞 的激活，并上调共刺激分子和Ⅱ类主要组织相容性复合 体分子，从而保护骨组织免受损伤[14]。因此，调控机体 内促炎和抗炎因子的失衡状态是防治 RA 的重要策略之 一。本研究结果显示，经防风石油醚提取物干预后，RA 大鼠血清中 IL-1β、IL-17 和 TNF-α 水平降低，IL-10 水平 升高。这表明防风石油醚提取物对 RA 大鼠具有较好的 抗炎作用。
+维生素 D 的缺乏可促进 RA 的发生发展，RA 患者血 清中 25（OH）D3 水平与 RA 的病变程度呈负相关[15]。临 床试验表明，补充维生素 D 可有效降低 RA 发病风险[16]。
+
+中国药房 2024 年第 35 卷第 19 期
+
+China Pharmacy 2024 Vol. 35 No. 19 ·2349·
+
+维生素 D 不仅直接参与了机体的钙磷代谢、骨盐沉积， 而且还可通过抑制 T 细胞、B 细胞的增殖分化减少 IL1β、TNF-α 等促炎因子的分泌，从而减轻 RA 的炎症程 度[17]。天然维生素 D 包括维生素 D2 和维生素 D3，二者 均无活性，在体内先被 25-羟化酶催化成 25（OH）D3； 25（OH）D3 进 一 步 经 CYP27B1 代 谢 生 成 具 有 活 性 的 1，25-二羟维生素 D3，然后在维生素 D 结合蛋白的转运 下与靶组织的 VDR 结合发挥生物学效应[18]。CYP24A1 则可将 25（OH）D3、1，25-二羟维生素 D3 催化为无活性 的 24，25-二羟维生素 D3，而 24，25-二羟维生素 D3 是维 生 素 D 系 统 灭 活 的 关 键 酶[19]。 研 究 表 明 ，CYP27B1、 CYP24A1 和 VDR 除了在肝肾组织中表达，还表达于巨 噬细胞、T 细胞、树突状细胞等免疫细胞中，并受炎症因 子调控[20]。本研究结果显示，RA 大鼠血清中 25（OH）D3 水平和滑膜组织中 CYP27B1、VDR 表达水平均降低， CYP24A1 表达水平均升高；经防风石油醚提取物干预 后，大鼠血清或滑膜组织中上述指标水平均逆转。这表 明防风石油醚提取物可通过调控维生素 D 系统对 RA 产 生改善作用。
+中性粒细胞受到病原体的刺激后可活化 MPO，并促 使 NE 水解染色质上的组蛋白，使染色质去掉组装成为 游离 DNA，从而形成由 DNA 纤维、组蛋白和抗菌蛋白组 成的网状 NETs[21]。研究表明，NETs 可加重炎症反应进 而对组织造成损伤，许多免疫性疾病（如 RA、系统性红 斑狼疮等）均被证明与高水平的 NETs 有关[22]。维生素 D 可通过抑制核因子 κB 信号通路、下调还原型烟酰胺腺 嘌呤二核苷酸磷酸氧化酶，减少 NETs 的产生[4]。此外， PAD4 是 PAD 的一种亚型，表达于中性粒细胞，其催化组 蛋白的精氨酸残基以脱亚胺的方式水解为 CitH3，而 CitH3 可 驱 动 染 色 质 去 致 密 化 ，从 而 促 进 NETs 的 形 成[23]。PAD4 是 RA 等自身免疫性疾病的始动因素，介导 了 NETs 的生成[24]。本研究结果显示，RA 大鼠血清中 MPO、NE、NETs 水 平 以 及 踝 关 节 中 CitH3 和 滑 膜 中 PAD4 的表达水平均升高；经防风石油醚提取物干预后， 大鼠上述指标均逆转。这表明防风石油醚提取物可通 过下调 PAD4 和 CitH3 表达，抑制 NETs 生成及其组分 MPO、NE 的释放，从而改善 RA 症状。
+综上所述，防风石油醚提取物可通过调控维生素 D 系统，抑制 NETs 生成，进而改善 RA 病理症状。
+参考文献
+[ 1 ] VENETSANOPOULOU A I，ALAMANOS Y，VOULGARI P V，et al. Epidemiology and risk factors for rheumatoid arthritis development[J]. Mediterr J Rheumatol，2023，34 （4）：404-413.
+
+[ 2 ] 刘春晓，胡庆华 . 中性粒细胞胞外诱捕网及其参与的免 疫 炎 症 性 疾 病 研 究 进 展 [J]. 药 学 研 究 ，2020，39（7）： 405-410. LIU C X，HU Q H. Research progress on neutrophil extra‐ cellular traps and related immune-inflammatory diseases [J]. J Pharm Res，2020，39（7）：405-410.
+[ 3 ] OKAMOTO Y，DEVOE S，SETO N，et al. Association of sputum neutrophil extracellular trap subsets with IgA anticitrullinated protein antibodies in subjects at risk for rheu‐ matoid arthritis[J]. Arthritis Rheumatol，2022，74（1）： 38-48.
+[ 4 ] HANDONO K，SIDARTA Y O，PRADANA B A，et al. Vi‐ tamin D prevents endothelial damage induced by in‐ creased neutrophil extracellular traps formation in patients with systemic lupus erythematosus[J]. Acta Med Indones， 2014，46（3）：189-198.
+[ 5 ] TV P，KUMAR B，CHIDAMBARAM Y，et al. Correla‐ tion of rheumatoid arthritis disease severity with serum vi‐ tamin D levels[J]. Clin Nutr ESPEN，2023，57：697-702.
+[ 6 ] 韩春雯，张丽娜，杨秀娟 . 基于网络药理学的防风治疗类 风湿性关节炎分子机制研究[J]. 长治医学院学报，2020， 34（6）：401-407. HAN C W，ZHANG L N，YANG X J. Study on the mo‐ lecular mechanism of Saposhnikoviae Radix for rheuma‐ toid arthritis based on network pharmacology[J]. J Chang‐ zhi Med Coll，2020，34（6）：401-407.
+[ 7 ] 宋献美，李兵杰，张艳燕，等 . 防风石油醚提取物对胶原 诱导型关节炎大鼠 p38 MAPK 磷酸化和 AQP-1 表达的 影响[J]. 中药药理与临床，2021，37（5）：80-85. SONG X M，LI B J，ZHANG Y Y，et al. Effects of petro‐ leum ether extract of Saposhnikovia divaricata on p38 MAPK phosphorylation and AQP-1 expression in collagen-induced arthritis rats[J]. Pharmacol Clin Chin Mater Med，2021，37（5）：80-85.
+[ 8 ] 梁瑞峰，葛文静，李兵杰，等 . 防风不同极性部位对腹泻 大鼠的止泻作用和结肠不同亚型 AQP 的调控[J]. 天然 产物研究与开发，2021，33（8）：1348-1355. LIANG R F，GE W J，LI B J，et al. Antidiarrheal effect of different polarity extracts from Saposhnikovia divaricata and their regulatory roles on colonic expression of different AQP subtypes[J]. Nat Prod Res Dev，2021，33（8）：13481355.
+[ 9 ] LIU C H，LIN L，CUI W D，et al. Lactiplantibacillus plan‐ tarum HG20 attenuates Ⅱ type collagen-induced rheuma‐ toid arthritis in rats via anti-inflammatory and inhibition of apoptosis[J]. J Appl Microbiol，2022，132（3）：23232330.
+
+·2350· China Pharmacy 2024 Vol. 35 No. 19
+
+中国药房 2024 年第 35 卷第 19 期
+
+[10] 唐今扬，周彩云，王鑫，等 . 金藤清痹颗粒通过调节免疫 微环境对类风湿关节炎大鼠的干预作用[J]. 中成药， 2022，44（11）：3459-3468. TANG J Y，ZHOU C Y，WANG X，et al. Effects of Jin‐ teng qingbi granules on rheumatoid arthritis rats through intervention of immune microenvironment[J]. Chin Tradit Pat Med，2022，44（11）：3459-3468.
+[11] 杨琴，杨进锋，杨玉涛，等 . 类风湿关节炎药物及手术治 疗 的 研 究 进 展 [J]. 中 华 中 医 药 学 刊 ，2023，41（1）： 133-136. YANG Q，YANG J F，YANG Y T，et al. Research progress on drug and surgical treatment of rheumatoid arthritis[J]. Chin Arch Tradit Chin Med，2023，41（1）：133-136.
+[12] 江梦园，闫敏，李晓芳，等 . 类风湿性关节炎动物模型的 研究进展[J]. 世界中医药，2023，18（24）：3597-3602. JIANG M Y，YAN M，LI X F，et al. Research progress in animal models of rheumatoid arthritis[J]. World Chin Med，2023，18（24）：3597-3602.
+[13] WANG T，RUI J B，SHAN W Q，et al. Imbalance of Th17，Treg，and helper innate lymphoid cell in the peripheral blood of patients with rheumatoid arthritis[J]. Clin Rheumatol，2022，41（12）：3837-3849.
+[14] 秦黄冠，周刊，付宇蕾，等 . 飞龙掌血醇提物对类风湿性 关节炎“肠-免疫-关节轴”中 Th17/Treg 平衡的影响[J]. 中国医院药学杂志，2023，43（10）：1089-1094. QIN H G，ZHOU K，FU Y L，et al. Effect of ethanolic ex‐ tract of Toddalia asiatica on balance of Th17/Treg in the
+“gut-immune-joint”axis of rheumatoid arthritis[J]. Chin J Hosp Pharm，2023，43（10）：1089-1094.
+[15] CHANG R，DENG W Y，SONG X Q，et al. Value of com‐ bination of 25-（OH）-D3，IL-6，and cyclic peptide containing citrulline antibodies in different stages of rheumatoid arthritis[J]. Am J Transl Res，2021，13（12）：13599-13607.
+[16] MUKHERJEE D，LAHIRY S，THAKUR S，et al. Effect of 1，25 dihydroxy vitamin D3 supplementation on pain re‐ lief in early rheumatoid arthritis[J]. J Family Med Prim
+
+Care，2019，8（2）：517-522. [17] SAKALYTE R，DENKOVSKIJ J，BERNOTIENE E，
+et al. The expression of inflammasomes NLRP1 and NLRP3，toll-like receptors，and vitamin D receptor in sy‐ novial fibroblasts from patients with different types of knee arthritis[J]. Front Immunol，2022，12：767512. [18] LUO M，LIU J，YUAN Y S，et al. The role of vitamin Dsynthesizing enzyme CYP27B1 in systemic lupus erythe‐ matosus[J]. Turk J Med Sci，2022，52（4）：984-989. [19] TUCKEY R C，CHENG C Y S，SLOMINSKI A T. The se‐ rum vitamin D metabolome：what we know and what is still to discover[J]. J Steroid Biochem Mol Biol，2019， 186：4-21. [20] SAPONARO F，SABA A，ZUCCHI R. An update on vita‐ min D metabolism[J]. Int J Mol Sci，2020，21（18）：6573. [21] ISLAM M M，TAKEYAMA N. Role of neutrophil extra‐ cellular traps in health and disease pathophysiology：re‐ cent insights and advances[J]. Int J Mol Sci，2023，24 （21）：15805. [22] WRIGHT H L，LYON M，CHAPMAN E A，et al. Rheu‐ matoid arthritis synovial fluid neutrophils drive inflamma‐ tion through production of chemokines，reactive oxygen species，and neutrophil extracellular traps[J]. Front Immu‐ nol，2020，11：584116. [23] 陈本露，钱龙 . 肽酰基精氨酸脱亚胺酶 4 参与中性粒细 胞外诱捕网的形成[J]. 中华风湿病学杂志，2015，19（3）： 210-213. CHEN B L，QIAN L. Peptide acyl arginine deiminase 4 participates in the formation of neutrophil extracellular trap net[J]. Chin J Rheumatol，2015，19（3）：210-213. [24] YU S R，SHODA H，SUZUKI A，et al. Peptidylarginine deiminase type 4 deficiency reduced arthritis severity in a glucose-6-phosphate isomerase-induced arthritis model[J]. Sci Rep，2015，5：13041.
+（收稿日期：2024-06-11 修回日期：2024-08-21） （编辑：唐晓莲）
+
+中国药房 2024 年第 35 卷第 19 期
+
+China Pharmacy 2024 Vol. 35 No. 19 ·2351·
+
+

@@ -1,0 +1,379 @@
+HTTP 429 retry 0
+HTTP 429 retry 1
+HTTP 429 retry 2
+===== rel:palmitoylethanolamide prednisolone total 64962 got 100
+  2024 Palmitoylethanolamide and polydatin in pediatric irritable bowel syndrome: A multicentric randomized controlled trial. | 38479039 10.1016/j.nut.2024.112397
+  2024 The effect of prednisolone and a short-term prednisolone discontinuation for the diagnostic accuracy of FDG-PET/CT in polymyalgia  | 38563881 10.1007/s00259-024-06697-8
+  2023 Palmitoylethanolamide in the Treatment of Chronic Pain: A Systematic Review and Meta-Analysis of Double-Blind Randomized Controlle | 36986081 10.3390/nu15061350
+  2023 Blood eosinophil-guided oral prednisolone for COPD exacerbations in primary care in the UK (STARR2): a non-inferiority, multicentr | 37924830 10.1016/s2213-2600(23)00298-9
+  2023 High-dose (40 mg) versus low-dose (20 mg) prednisolone for treating sarcoidosis: a randomised trial (SARCORT trial) | 37690784 10.1183/13993003.00198-2023
+  2022 Palmitoylethanolamide dampens neuroinflammation and anxiety-like behavior in obese mice | 35176443 10.1016/j.bbi.2022.02.008
+  2022 Ultramicronized Palmitoylethanolamide and Luteolin Supplement Combined with Olfactory Training to Treat Post-COVID-19 Olfactory Im | 35450527 10.2174/1570159X20666220420113513
+  2022 Effect of Ultra-Micronized Palmitoylethanolamide and Luteolin on Olfaction and Memory in Patients with Long COVID: Results of a Lo | 36010630 10.3390/cells11162552
+  2021 Abiraterone acetate and prednisolone with or without enzalutamide for high-risk non-metastatic prostate cancer: a meta-analysis of | 34953525 10.1016/S0140-6736(21)02437-5
+  2021 Palmitoylethanolamide: A Natural Compound for Health Management | 34069940 10.3390/ijms22105305
+  2022 Low dose, add-on prednisolone in patients with rheumatoid arthritis aged 65+: the pragmatic randomised, double-blind placebo-contr | 35641125 10.1136/annrheumdis-2021-221957
+  2021 Ipatasertib plus abiraterone and prednisolone in metastatic castration-resistant prostate cancer (IPATential150): a multicentre, r | 34246347 10.1016/S0140-6736(21)00580-8
+  2022 Fecal microbiota transplantation compared with prednisolone in severe alcoholic hepatitis patients: a randomized trial | 36469298 10.1007/s12072-022-10438-0
+  2022 Sirolimus plus prednisolone vs sirolimus monotherapy for kaposiform hemangioendothelioma: a randomized clinical trial. | 35030255 10.1182/blood.2021014027
+  2021 Randomized clinical trial "olfactory dysfunction after COVID-19: olfactory rehabilitation therapy vs. intervention treatment with  | 34156697 10.26355/eurrev_202106_26059
+  2022 Palmitoylethanolamide (PEA) Inhibits SARS-CoV-2 Entry by Interacting with S Protein and ACE-2 Receptor | 35632821 10.3390/v14051080
+  2022 The Effect of Palmitoylethanolamide on Pain Intensity, Central and Peripheral Sensitization, and Pain Modulation in Healthy Volunt | 36235736 10.3390/nu14194084
+  2022 Synaptic Effects of Palmitoylethanolamide in Neurodegenerative Disorders | 36009055 10.3390/biom12081161
+  2022 Efficacy and safety of palmitoylethanolamide as an adjunctive treatment for acute mania: A randomized, double‐blind, placebo‐contr | 35737597 10.1111/pcn.13441
+  2020 The Basal Pharmacology of Palmitoylethanolamide | 33114698 10.3390/ijms21217942
+  2021 Management of Acute Lung Injury: Palmitoylethanolamide as a New Approach | 34073872 10.3390/ijms22115533
+  2019 Addition of radium-223 to abiraterone acetate and prednisone or prednisolone in patients with castration-resistant prostate cancer | 30738780 10.1016/S1470-2045(18)30860-X
+  2021 Palmitoylethanolamide Reduces Colon Cancer Cell Proliferation and Migration, Influences Tumor Cell Cycle and Exerts In Vivo Chemop | 33923494 10.3390/cancers13081923
+  2021 Engineered Lactobacillus paracasei Producing Palmitoylethanolamide (PEA) Prevents Colitis in Mice | 33799405 10.3390/ijms22062945
+  2022 Efficacy of Prednisolone for Bell Palsy in Children | 36008143 10.1212/WNL.0000000000201164
+  2017 The pharmacology of palmitoylethanolamide and first data on the therapeutic efficacy of some of its new formulations | 27539936 10.1111/bph.13580
+  2019 Palmitoylethanolamide and Cannabidiol Prevent Inflammation-induced Hyperpermeability of the Human Gut In Vitro and In Vivo-A Rando | 31054246 10.1093/IBD/IZZ017
+  2020 ALIAmides Update: Palmitoylethanolamide and Its Formulations on Management of Peripheral Neuropathic Pain | 32727084 10.3390/ijms21155330
+  2021 Palmitoylethanolamide/Baicalein Regulates the Androgen Receptor Signaling and NF-κB/Nrf2 Pathways in Benign Prostatic Hyperplasia | 34202665 10.3390/antiox10071014
+  2019 Palmitoylethanolamide (PEA) as a Potential Therapeutic Agent in Alzheimer’s Disease | 31396087 10.3389/fphar.2019.00821
+  2021 Ultramicronized Palmitoylethanolamide Inhibits NLRP3 Inflammasome Expression and Pro-Inflammatory Response Activated by SARS-CoV-2 | 34564408 10.3390/metabo11090592
+  2021 A Phase-2 Pilot Study of a Therapeutic Combination of Δ9-Tetrahydracannabinol and Palmitoylethanolamide for Adults With Tourette's | 34340527 10.1176/appi.neuropsych.19080178
+  2021 Palmitoylethanolamide and hemp oil extract exert synergistic anti-nociceptive effects in mouse models of acute and chronic pain. | 33722712 10.1016/j.phrs.2021.105545
+  2021 A randomised trial of prednisolone versus prednisolone and itraconazole in acute-stage allergic bronchopulmonary aspergillosis com | 34503983 10.1183/13993003.01787-2021
+  2020 Effects of Palmitoylethanolamide Combined with Luteoline on Frontal Lobe Functions, High Frequency Oscillations, and GABAergic Tra | 32623398 10.3233/JAD-200426
+  2021 High-dose versus low-dose prednisolone in symptomatic patients with post-COVID-19 diffuse parenchymal lung abnormalities: an open- | 34887325 10.1183/13993003.02930-2021
+  2020 A short course of prednisolone in chronic type B hepatitis. Report of a randomized, double-blind, placebo-controlled trial. | 3940480 10.7326/0003-4819-104-1-12
+  2020 An Update of Palmitoylethanolamide and Luteolin Effects in Preclinical and Clinical Studies of Neuroinflammatory Events | 32150935 10.3390/antiox9030216
+  2019 N-Palmitoylethanolamide-Oxazoline Protects against Middle Cerebral Artery Occlusion Injury in Diabetic Rats by Regulating the SIRT | 31569558 10.3390/ijms20194845
+  2020 Chronic Oral Palmitoylethanolamide Administration Rescues Cognitive Deficit and Reduces Neuroinflammation, Oxidative Stress, and G | 32033363 10.3390/jcm9020428
+  2020 Pan-AKT Inhibitor Capivasertib With Docetaxel and Prednisolone in Metastatic Castration-Resistant Prostate Cancer: A Randomized, P | 33326257 10.1200/JCO.20.01576
+  2019 Therapeutic Efficacy of Palmitoylethanolamide and Its New Formulations in Synergy with Different Antioxidant Molecules Present in  | 31514292 10.3390/nu11092175
+  2019 Results of a 6-week treatment with 10 mg prednisolone in patients with hand osteoarthritis (HOPE): a double-blind, randomised, pla | 31727410 10.1016/s0140-6736(19)32489-4
+  2017 Palmitoylethanolamide induces microglia changes associated with increased migration and phagocytic activity: involvement of the CB | 28336953 10.1038/s41598-017-00342-1
+  2020 Sodium chromo-glycate and palmitoylethanolamide: A possible strategy to treat mast cell-induced lung inflammation in COVID-19 | 32460208 10.1016/j.mehy.2020.109856
+  2019 Effects of a new compound containing Palmitoylethanolamide and Baicalein in myocardial ischaemia/reperfusion injury in vivo. | 30668378 10.1016/j.phymed.2018.09.191
+  2020 Increased Absorption of Palmitoylethanolamide Using a Novel Dispersion Technology System (LipiSperse) | None 10.36648/NUTRACEUTICALS.5.2.3
+  2020 Blood Eosinophil Depletion with Mepolizumab, Benralizumab, and Prednisolone in Eosinophilic Asthma | 32584603 10.1164/rccm.202003-0729LE
+  2020 Palmitoylethanolamide: A Nutritional Approach to Keep Neuroinflammation within Physiological Boundaries—A Systematic Review | 33333772 10.3390/ijms21249526
+  2020 A New Palmitoylethanolamide Form Combined with Antioxidant Molecules to Improve Its Effectivess on Neuronal Aging | 32708932 10.3390/brainsci10070457
+  2018 Palmitoylethanolamide counteracts autistic-like behaviours in BTBR T+tf/J mice: Contribution of central and peripheral mechanisms. | 30193877 10.1016/j.bbi.2018.09.003
+  2019 Ultramicronized Palmitoylethanolamide (um-PEA) as add-on Treatment in Fibromyalgia Syndrome (FMS): Retrospective Observational Stu | 30827269 10.2174/1871527318666190227205359
+  2017 Beneficial Effects of Co‐Ultramicronized Palmitoylethanolamide/Luteolin in a Mouse Model of Autism and in a Case Report of Autism | 27701827 10.1111/cns.12648
+  2018 Palmitoylethanolamide Promotes a Proresolving Macrophage Phenotype and Attenuates Atherosclerotic Plaque Formation | 30354245 10.1161/ATVBAHA.118.311185
+  2018 Ultramicronized palmitoylethanolamide rescues learning and memory impairments in a triple transgenic mouse model of Alzheimer’s di | 29382825 10.1038/s41398-017-0076-4
+  2018 Palmitoylethanolamide Dampens Reactive Astrogliosis and Improves Neuronal Trophic Support in a Triple Transgenic Model of Alzheime | 29576849 10.1155/2018/4720532
+  2017 Doxycycline versus prednisolone as an initial treatment strategy for bullous pemphigoid: a pragmatic, non-inferiority, randomised  | 28279484 10.1016/S0140-6736(17)30560-3
+  2017 Cannabidiol and palmitoylethanolamide are anti-inflammatory in the acutely inflamed human colon. | 28954820 10.1042/CS20171288
+  2019 Co-Delivery of Prednisolone and Curcumin in Human Serum Albumin Nanoparticles for Effective Treatment of Rheumatoid Arthritis | 31819422 10.2147/IJN.S219413
+  2019 Long term tapering versus standard prednisolone treatment for first episode of childhood nephrotic syndrome: phase III randomised  | 31335316 10.1136/bmj.l1800
+  2019 Post-manufacture loading of filaments and 3D printed PLA scaffolds with prednisolone and dexamethasone for tissue regeneration app | 31112767 10.1016/j.ejpb.2019.05.018
+  2017 In Patients With Severe Alcoholic Hepatitis, Prednisolone Increases Susceptibility to Infection and Infection-Related Mortality, a | 28043903 10.1053/j.gastro.2016.12.019
+  2020 Prednisolone/prednisone as adrenocorticotropic hormone alternative for infantile spasms: a meta‐analysis of randomized controlled  | 31903560 10.1111/dmcn.14452
+  2016 Palmitoylethanolamide for the treatment of pain: pharmacokinetics, safety and efficacy | 27220803 10.1111/bcp.13020
+  2016 The anti‐inflammatory mediator palmitoylethanolamide enhances the levels of 2‐arachidonoyl‐glycerol and potentiates its actions at | 25598150 10.1111/bph.13084
+  2017 A novel composite formulation of palmitoylethanolamide and quercetin decreases inflammation and relieves pain in inflammatory and  | 28768536 10.1186/s12917-017-1151-z
+  2018 A Randomized Trial of Itraconazole vs Prednisolone in Acute‐Stage Allergic Bronchopulmonary Aspergillosis Complicating Asthma | 29331473 10.1016/j.chest.2018.01.005
+  2018 Palmitoylethanolamide as adjunctive therapy for autism: Efficacy and safety results from a randomized controlled trial. | 29807317 10.1016/j.jpsychires.2018.04.022
+  2017 Efficacy of Palmitoylethanolamide for Pain: A Meta-Analysis. | 28727699 None
+  2018 Palmitoylethanolamide as adjunctive therapy in major depressive disorder: A double-blind, randomized and placebo-controlled trial. | 29486338 10.1016/j.jad.2018.02.057
+  2017 Palmitoylethanolamide and Polydatin combination reduces inflammation and oxidative stress in vascular injury | 28676456 10.1016/j.phrs.2017.06.014
+  2017 Randomised clinical trial: the analgesic properties of dietary supplementation with palmitoylethanolamide and polydatin in irritab | 28164346 10.1111/apt.13958
+  2019 Effect of dietary supplementation with ultramicronized palmitoylethanolamide in maintaining remission in cats with nonflea hyperse | 31237065 10.1111/vde.12764
+  2019 The Potential Benefits of Palmitoylethanolamide in Palliation: A Qualitative Systematic Review | 31113223 10.1177/1049909119850807
+  2019 Folate Conjugated Double Liposomes Bearing Prednisolone and Methotrexate for Targeting Rheumatoid Arthritis | 31218557 10.1007/s11095-019-2653-0
+  2019 The effect of prednisolone on endometrial uterine NK cell concentrations and pregnancy outcome in women with reproductive failure. | 30390547 10.1016/j.jri.2018.10.001
+  2019 A paper-based analytical device coupled with electrochemical detection for the determination of dexamethasone and prednisolone in  | 31358214 10.1016/J.ACA.2019.05.072
+  2017 Palmitoylethanolamide Modulates GPR55 Receptor Signaling in the Ventral Hippocampus to Regulate Mesolimbic Dopamine Activity, Soci | 28861501 10.1089/can.2016.0030
+  2017 Ultra-micronized Palmitoylethanolamide: An Efficacious Adjuvant Therapy for Parkinson's Disease. | 28325153 10.2174/1871527316666170321124949
+  2017 Effects of a Co‐Micronized Composite Containing Palmitoylethanolamide and Polydatin in an Experimental Model of Benign Prostatic H | 28610993 10.1016/j.taap.2017.06.005
+  2017 Palmitoylethanolamide Reduces Neuropsychiatric Behaviors by Restoring Cortical Electrophysiological Activity in a Mouse Model of M | 28321191 10.3389/fphar.2017.00095
+  2017 Palmitoylethanolamide Supplementation during Sensitization Prevents Airway Allergic Symptoms in the Mouse | 29311913 10.3389/fphar.2017.00857
+  2018 Efficacy and safety of intravenous immunoglobulin plus prednisolone therapy in patients with Kawasaki disease (Post RAISE): a mult | 30337183 10.1016/S2352-4642(18)30293-1
+  2018 Pharmacology and pharmacogenetics of prednisone and prednisolone in patients with nephrotic syndrome | 29549463 10.1007/s00467-018-3929-z
+  2016 Palmitoylethanolamide, a Special Food for Medical Purposes, in the Treatment of Chronic Pain: A Pooled Data Meta-analysis. | 26815246 None
+  2018 Efficacy of ultramicronized palmitoylethanolamide in burning mouth syndrome-affected patients: a preliminary randomized double-bli | 30361792 10.1007/s00784-018-2720-7
+  2017 Repeated pulses of methyl-prednisolone with reduced doses of prednisone improve the outcome of class III, IV and V lupus nephritis | 28564619 10.1016/j.autrev.2017.05.017
+  2019 Extended course of prednisolone in infants with severe bronchopulmonary dysplasia. | 31265946 10.1016/j.earlhumdev.2019.06.007
+  2018 Deflazacort versus prednisone/prednisolone for maintaining motor function and delaying loss of ambulation: A post HOC analysis fro | 30028519 10.1002/mus.26191
+  2018 Corticotrophin-ACTH in Comparison to Prednisolone in West Syndrome – A Randomized Study | 30232789 10.1007/s12098-018-2782-1
+  2018 Hyaluronic acid-conjugated pH-sensitive liposomes for targeted delivery of prednisolone on rheumatoid arthritis therapy. | 29790395 10.2217/nnm-2017-0377
+  2018 Eudragit S100 coated microsponges for Colon targeting of prednisolone | 29260916 10.1080/03639045.2017.1420079
+  2017 Micronized palmitoylethanolamide/trans-polydatin treatment of endometriosis-related pain: a meta-analysis. | 28617258 10.4415/ANN_17_02_08
+  2016 Safety of micronized palmitoylethanolamide (microPEA): lack of toxicity and genotoxic potential | 28265364 10.1002/fsn3.392
+  2018 Oral prednisolone in preschool children with virus-associated wheeze: a prospective, randomised, double-blind, placebo-controlled  | 29373235 10.1016/S2213-2600(18)30008-0
+  2017 Comparative Evaluation of Premedication with Ketorolac and Prednisolone on Postendodontic Pain: A Double‐blind Randomized Controll | 28320541 10.1016/j.joen.2016.12.012
+  2018 Possible mechanisms of prednisolone-induced osteoporosis in zebrafish larva. | 29635908 10.1016/j.biopha.2018.02.082
+  2017 The beneficial use of ultramicronized palmitoylethanolamide as add-on therapy to Tapentadol in the treatment of low back pain: a p | 29258432 10.1186/s12871-017-0461-9
+  2016 Co-micronized Palmitoylethanolamide/Polydatin Treatment Causes Endometriotic Lesion Regression in a Rodent Model of Surgically Ind | 27790149 10.3389/fphar.2016.00382
+  2016 Ultramicronized palmitoylethanolamide (PEA-um(®)) in the treatment of idiopathic pulmonary fibrosis. | 27402190 10.1016/j.phrs.2016.07.010
+HTTP 429 retry 0
+HTTP 429 retry 1
+HTTP 429 retry 2
+HTTP 429 retry 3
+HTTP 429 retry 4
+HTTP 429 retry 5
+===== rel:palmitoylethanolamide dexamethasone HTTP 429 {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+HTTP 429 retry 0
+HTTP 429 retry 1
+===== rel:palmitoylethanolamide rheumatoid arthritis total 251445 got 100
+  2021 Efficacy of a fixed combination of Palmitoylethanolamide and acetyl-l-carnitine (PEA + ALC FC) in the treatment of Neuropathies se | 34056884 10.23736/S0026-4806.21.07486-3
+  2022 Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol | 36291664 10.3390/biom12101453
+  2025 Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic st | None 10.46563/2686-8997-2025-6-1-44-54
+  2023 The association between systemic immune-inflammation index and rheumatoid arthritis: evidence from NHANES 1999–2018 | 36871051 10.1186/s13075-023-03018-6
+  2021 2021 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis | 34101387 10.1002/acr.24596
+  2023 METTL14‐Mediated m6A Modification of TNFAIP3 Involved in Inflammation in Patients With Active Rheumatoid Arthritis | 37327357 10.1002/art.42629
+  2022 The Incidence, Risk Factors, and Mortality of Clinical and Subclinical Rheumatoid Arthritis-associated Interstitial Lung Disease:  | 34995017 10.1002/acr.24856
+  2022 Rheumatoid arthritis and inflammatory bowel disease: A bidirectional two-sample Mendelian randomization study. | 35303571 10.1016/j.semarthrit.2022.151992
+  2021 Risk of COVID‐19 in Rheumatoid Arthritis: A National Veterans Affairs Matched Cohort Study in At‐Risk Individuals | 33955209 10.1002/art.41800
+  2021 Characterization and Function of Tumor Necrosis Factor and Interleukin‐6–Induced Osteoclasts in Rheumatoid Arthritis | 33512089 10.1002/art.41666
+  2021 Differences in the Oral Microbiome in Patients With Early Rheumatoid Arthritis and Individuals at Risk of Rheumatoid Arthritis Com | 33949151 10.1002/art.41780
+  1988 The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis. | 3358796 10.1002/ART.1780310302
+  2016 2015 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis | 26545825 10.1002/acr.22783
+  2020 C-reactive protein and implications in rheumatoid arthritis and associated comorbidities. | 33385862 10.1016/j.semarthrit.2020.11.005
+  2019 Upadacitinib Versus Placebo or Adalimumab in Patients With Rheumatoid Arthritis and an Inadequate Response to Methotrexate: Result | 31287230 10.1002/art.41032
+  2020 The Pretreatment Gut Microbiome Is Associated With Lack of Response to Methotrexate in New-Onset Rheumatoid Arthritis | 33314800 10.1002/art.41622
+  2020 Comparative Risk of Cardiovascular Events with Biologic and Synthetic Disease-Modifying Anti-Rheumatic Drugs in Patients with Rheu | 30875456 10.1002/acr.23875
+  2020 Rheumatoid Arthritis Pathogenesis, Prediction, and Prevention: An Emerging Paradigm Shift | 32602263 10.1002/art.41417
+  2020 The Jak/STAT pathway: A focus on pain in rheumatoid arthritis. | 33412435 10.1016/j.semarthrit.2020.10.008
+  2020 Serum calprotectin: a promising biomarker in rheumatoid arthritis and axial spondyloarthritis | 32375861 10.1186/s13075-020-02190-3
+  2010 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collabor | 20872595 10.1002/art.27584
+  2020 Efficacy and Safety of PF‐06651600 (Ritlecitinib), a Novel JAK3/TEC Inhibitor, in Patients With Moderate‐to‐Severe Rheumatoid Arth | 32419304 10.1002/art.41316
+  2020 Lifetime Risks, Life Expectancy, and Health Care Expenditures for Rheumatoid Arthritis: A Nationwide Cohort Followed Up From 2003  | 33295139 10.1002/art.41597
+  2020 Rheumatoid arthritis morning stiffness is associated with synovial fibrin and neutrophils | 31612614 10.1002/art.41141
+  2019 2019 Update of the American College of Rheumatology Recommended Rheumatoid Arthritis Disease Activity Measures | 31709779 10.1002/acr.24042
+  2019 Cardiovascular Safety of Tocilizumab Versus Etanercept in Rheumatoid Arthritis: A Randomized Controlled Trial | 31469238 10.1002/art.41095
+  2019 Rheumatoid arthritis disease activity predicting incident clinically-apparent RA-associated interstitial lung disease: A prospecti | 30951251 10.1002/art.40904
+  1995 Modified disease activity scores that include twenty-eight-joint counts. Development and validation in a prospective longitudinal  | 7818570 10.1002/ART.1780380107
+  2019 Incidence and Risk of Glucocorticoid‐Associated Adverse Effects in Patients With Rheumatoid Arthritis | 29856128 10.1002/acr.23611
+  2019 N‐Linked Glycans in the Variable Domain of IgG Anti–Citrullinated Protein Antibodies Predict the Development of Rheumatoid Arthrit | 31067000 10.1002/art.40920
+  2019 Cardiovascular Safety During Treatment With Baricitinib in Rheumatoid Arthritis | 30663869 10.1002/art.40841
+  2019 Respiratory viral infections and the risk of rheumatoid arthritis | 31470887 10.1186/s13075-019-1977-9
+  2019 Comparative Risk of Venous Thromboembolism in Rheumatoid Arthritis Patients Receiving Tofacitinib Versus Those Receiving Tumor Nec | 30552833 10.1002/art.40798
+  2019 A Neutrophil Activation Biomarker Panel in Prognosis and Monitoring of Patients with Rheumatoid Arthritis | 31353807 10.1002/art.41062
+  1990 Revised criteria for the classification of rheumatoid arthritis. | 2183172 10.1097/00006416-199003000-00011
+  2018 Synovial cell metabolism and chronic inflammation in rheumatoid arthritis | 29579371 10.1002/art.40504
+  2018 Tele‐Health Followup Strategy for Tight Control of Disease Activity in Rheumatoid Arthritis: Results of a Randomized Controlled Tr | 28511288 10.1002/acr.23280
+  2018 JAK/STAT Blockade Alters Synovial Bioenergetics, Mitochondrial Function, and Proinflammatory Mediators in Rheumatoid Arthritis | 29790294 10.1002/art.40569
+  2018 Cognitive Impairment in Rheumatoid Arthritis: A Systematic Review | 28371512 10.1002/acr.23243
+  2018 The Lung in Rheumatoid Arthritis | 29806092 10.1002/art.40574
+  2017 Fibroblast-like synoviocyte metabolism in the pathogenesis of rheumatoid arthritis | 28569176 10.1186/s13075-017-1303-3
+  2017 Baricitinib, Methotrexate, or Combination in Patients With Rheumatoid Arthritis and No or Limited Prior Disease‐Modifying Antirheu | 27723271 10.1002/art.39953
+  2018 Increased Burden of Psychiatric Disorders in Rheumatoid Arthritis | 29438604 10.1002/acr.23539
+  2017 Evidence for Immune Relevance of Prevotella copri, a Gut Microbe, in Patients with Rheumatoid Arthritis | 27863183 10.1002/art.40003
+  2018 Identification of Three Rheumatoid Arthritis Disease Subtypes by Machine Learning Integration of Synovial Histologic Features and  | 29468833 10.1002/art.40428
+  2018 Effects of Aerobic and Resistance Exercise in Older Adults With Rheumatoid Arthritis: A Randomized Controlled Trial | 29696812 10.1002/acr.23589
+  2018 Review: Transcriptional Regulation of CD4+ T Cell Differentiation in Experimentally Induced Arthritis and Rheumatoid Arthritis | 29245178 10.1002/art.40398
+  2018 Neurobiologic Features of Fibromyalgia Are Also Present Among Rheumatoid Arthritis Patients | 29439291 10.1002/art.40451
+  2018 T cell-dependent affinity maturation and innate immune pathways differentially drive autoreactive B cell responses in rheumatoid a | 29855173 10.1002/art.40578
+  2018 Pathogenic citrulline-multispecific B cell receptor clades in rheumatoid arthritis | 29927106 10.1002/art.40590
+  2017 Progressive Decline of Lung Function in Rheumatoid Arthritis Associated Interstitial Lung Disease | 27788297 10.1002/art.39971
+  2017 Chinese Registry of rheumatoid arthritis (CREDIT): II. prevalence and risk factors of major comorbidities in Chinese patients with | 29141688 10.1186/s13075-017-1457-z
+  2011 The pathogenesis of rheumatoid arthritis. | 22150039 10.1056/NEJMra1004965
+  2017 Secukinumab in Active Rheumatoid Arthritis: A Phase III Randomized, Double‐Blind, Active Comparator– and Placebo‐Controlled Study | 28217871 10.1002/art.40070
+  2017 Impact of Obesity on Remission and Disease Activity in Rheumatoid Arthritis: A Systematic Review and Meta‐Analysis | 27159376 10.1002/acr.22932
+  2017 The Safety and Immunogenicity of Live Zoster Vaccination in Patients With Rheumatoid Arthritis Before Starting Tofacitinib: A Rand | 28845577 10.1002/art.40187
+  2017 Glutaminase 1 plays a key role in the cell growth of fibroblast-like synoviocytes in rheumatoid arthritis | 28399896 10.1186/s13075-017-1283-3
+  2000 Infliximab and methotrexate in the treatment of rheumatoid arthritis. Anti-Tumor Necrosis Factor Trial in Rheumatoid Arthritis wit | 11096166 10.1056/NEJM200011303432202
+  2018 AB0259 Clinical management of seronegative and seropositive rheumatoid arthritis: a comparative study | None 10.1136/ANNRHEUMDIS-2018-EULAR.3373
+  2017 A Randomized Phase IIb Study of Mavrilimumab and Golimumab in Rheumatoid Arthritis | 28941039 10.1002/art.40323
+  2017 Rheumatoid Arthritis and Risk of Malignant Lymphoma: Is the Risk Still Increased? | 27992692 10.1002/art.40017
+  2017 The impact of obesity and adiposity on inflammatory markers in patients with rheumatoid arthritis | 28393498 10.1002/acr.23229
+  2017 Efficacy, Safety, Pharmacokinetics, and Pharmacodynamics of Filgotinib, a Selective JAK‐1 Inhibitor, After Short‐Term Treatment of | 28622463 10.1002/art.40186
+  2017 Changing Trends in Opioid Use Among Patients With Rheumatoid Arthritis in the United States | 28635179 10.1002/art.40152
+  2017 Secular Changes in Clinical Features at Presentation of Rheumatoid Arthritis: Increase in Comorbidity But Improved Inflammatory St | 27564223 10.1002/acr.23014
+  2017 Brief Report: Remission Rates With Tofacitinib Treatment in Rheumatoid Arthritis: A Comparison of Various Remission Criteria | 27907269 10.1002/art.39996
+  2007 Cytokines in the pathogenesis of rheumatoid arthritis | 17525752 10.1038/nri2094
+  1995 American College of Rheumatology. Preliminary definition of improvement in rheumatoid arthritis. | 7779114 10.1002/ART.1780380602
+  2016 Critical Role of Glucose Metabolism in Rheumatoid Arthritis Fibroblast-like Synoviocytes | 26815411 10.1002/art.39608
+  2016 Patient global assessment in measuring disease activity in rheumatoid arthritis: a review of the literature | 27793211 10.1186/s13075-016-1151-6
+  2016 Extracellular vesicles in the pathogenesis of rheumatoid arthritis and osteoarthritis | 27906035 10.1186/s13075-016-1178-8
+  2016 Sarilumab and Nonbiologic Disease‐Modifying Antirheumatic Drugs in Patients With Active Rheumatoid Arthritis and Inadequate Respon | 27860410 10.1002/art.39944
+  2016 Psoriasis, psoriatic arthritis, and rheumatoid arthritis: Is all inflammation the same? | 27388027 10.1016/j.semarthrit.2016.05.012
+  2016 Antibodies to Porphyromonas gingivalis indicate interaction between oral infection, smoking and risk genes in rheumatoid arthritis | 26554752 10.1002/art.39491
+  2016 Risk for Gastrointestinal Perforation among Rheumatoid Arthritis Patients receiving Tofacitinib, Tocilizumab, or other Biologics | None 10.1002/ART.39761
+  2016 Efficacy and Safety of ABT‐494, a Selective JAK‐1 Inhibitor, in a Phase IIb Study in Patients With Rheumatoid Arthritis and an Ina | 27390150 10.1002/art.39808
+  2016 VX‐509 (Decernotinib), an Oral Selective JAK‐3 Inhibitor, in Combination With Methotrexate in Patients With Rheumatoid Arthritis | 26473751 10.1002/art.39473
+  2016 Posttraumatic Stress Disorder and Risk for Incident Rheumatoid Arthritis | 26239524 10.1002/acr.22683
+  2016 IgA Plasmablasts are Elevated in Subjects At Risk for Future Rheumatoid Arthritis | 27273876 10.1002/art.39771
+  2016 Performance of the Patient‐Reported Outcomes Measurement Information System 29‐Item Profile in Rheumatoid Arthritis, Osteoarthriti | 28029753 10.1002/acr.23183
+  2016 Light Intensity Physical Activity is Associated with Lower Cardiovascular Risk Factor Burden in Rheumatoid Arthritis | 26314559 10.1002/acr.22711
+  2016 Associations of smoking and age with inflammatory joint signs among first-degree relatives without rheumatoid arthritis: Results f | 26866831 10.1002/art.39630
+  2016 Unraveling Patient‐Preferred Health and Treatment Outcomes in Early Rheumatoid Arthritis: A Longitudinal Qualitative Study | 26713518 10.1002/acr.22824
+  2016 Little Evidence for Usefulness of Biomarkers for Predicting Successful Dose Reduction or Discontinuation of a Biologic Agent in Rh | 27696778 10.1002/art.39946
+  2004 Specific autoantibodies precede the symptoms of rheumatoid arthritis: a study of serial measurements in blood donors. | 14872479 10.1002/ART.20018
+  2003 Antibodies against cyclic citrullinated peptide and IgA rheumatoid factor predict the development of rheumatoid arthritis. | 14558078 10.1002/ART.11223
+  1987 The shared epitope hypothesis. An approach to understanding the molecular genetics of susceptibility to rheumatoid arthritis. | 2446635 10.1002/ART.1780301102
+  2006 The PREMIER study: A multicenter, randomized, double-blind clinical trial of combination therapy with adalimumab plus methotrexate | 16385520 10.1002/ART.21519
+  2012 2012 Update of the 2008 American College of Rheumatology (ACR) Recommendations for the use of Disease-Modifying Anti-Rheumatic Dru | 22473917 10.1002/acr.21641
+  2006 Rituximab for rheumatoid arthritis refractory to anti-tumor necrosis factor therapy: Results of a multicenter, randomized, double- | 16947627 10.1002/ART.22025
+  2003 Adalimumab, a fully human anti-tumor necrosis factor alpha monoclonal antibody, for the treatment of rheumatoid arthritis in patie | 12528101 10.1002/ART.10697
+  2015 Incidence of malignancy in adult patients with rheumatoid arthritis: a meta-analysis | 26271620 10.1186/s13075-015-0728-9
+  2015 Disease Activity in Rheumatoid Arthritis and the Risk of Cardiovascular Events | 25776112 10.1002/art.39098
+  2015 Sarilumab Plus Methotrexate in Patients With Active Rheumatoid Arthritis and Inadequate Response to Methotrexate: Results of a Pha | 25733246 10.1002/art.39093
+  2015 Release of Active Peptidyl Arginine Deiminases by Neutrophils Can Explain Production of Extracellular Citrullinated Autoantigens i | 26245941 10.1002/art.39313
+  2015 Malondialdehyde-acetaldehyde adducts (MAA) and anti-MAA antibody in rheumatoid arthritis | 25417811 10.1002/art.38969
+  2015 Body mass index and the risk of rheumatoid arthritis: a systematic review and dose-response meta-analysis | 25890172 10.1186/s13075-015-0601-x
+  2015 Potential Mechanisms Leading to the Abnormal Lipid Profile in Patients With Rheumatoid Arthritis Versus Healthy Volunteers and Rev | 25470338 10.1002/art.38974
+  1998 Therapeutic efficacy of multiple intravenous infusions of anti-tumor necrosis factor alpha monoclonal antibody combined with low-d | 9751087 10.1002/1529-0131(199809)41:9<1552::AID-ART5>3.0.CO;2-W
+  2006 A new model for an etiology of rheumatoid arthritis: smoking may trigger HLA-DR (shared epitope)-restricted immune reactions to au | 16385494 10.1002/ART.21575
+===== rel:palmitoylethanolamide adjuvant arthritis total 11224 got 100
+  2016 An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund’s Adjuvant Rat Model of Arthritis | 26769918 10.1124/jpet.115.230516
+  2013 Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | 24246048 10.1186/ar4382
+  2016 Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain | None 10.1096/fasebj.30.1_supplement.927.8
+  2023 Rhein methotrexate-decorated solid lipid nanoparticles altering adjuvant arthritis progression through endoplasmic reticulum stres | 37526838 10.1007/s10787-023-01295-w
+  2023 Increased gut permeability and intestinal inflammation precede arthritis onset in the adjuvant-induced model of arthritis | 37280714 10.1186/s13075-023-03069-9
+  2022 Effect of Er Miao San on peritoneal macrophage polarisation through the miRNA-33/NLRP3 signalling pathway in a rat model of adjuva | 35608068 10.1080/13880209.2022.2066700
+  2022 Anti-inflammatory effect of baicalin in rats with adjuvant arthritis and its autophagy- related mechanism | 35124596 10.3233/THC-228018
+  2021 The monomer derivative of paeoniflorin inhibits macrophage pyroptosis via regulating TLR4/ NLRP3/ GSDMD signaling pathway in adjuv | 34607227 10.1016/j.intimp.2021.108169
+  2021 Anti‐arthritic effect of chicken embryo tissue hydrolyzate against adjuvant arthritis in rats (X‐ray microtomographic and histopat | 34646534 10.1002/fsn3.2529
+  2021 Bioflavonoid Robinin from Astragalus falcatus Lam. Mildly Improves the Effect of Metothrexate in Rats with Adjuvant Arthritis | 33924354 10.3390/nu13041268
+  2021 Sorafenib suppresses proliferation rate of fibroblast-like synoviocytes through the arrest of cell cycle in experimental adjuvant  | 33791811 10.1093/jpp/rgaa053
+  2020 Anti-inflammatory effect of stevioside abates Freund’s complete adjuvant (FCA)-induced adjuvant arthritis in rats | 32617791 10.1007/s10787-020-00736-0
+  2020 Effects of Atractylodes Oil on Inflammatory Response and Serum Metabolites in Adjuvant Arthritis Rats. | 32289576 10.1016/j.biopha.2020.110130
+  2021 Activation of the Nrf2/HO-1 signaling pathway by dimethyl fumarate ameliorates complete Freund's adjuvant-induced arthritis in rat | 33745959 10.1016/j.ejphar.2021.174044
+  2021 Effects of different doses of complete Freund’s adjuvant on nociceptive behaviour and inflammatory parameters in polyarthritic rat | 34879087 10.1371/journal.pone.0260423
+  2020 Inhibition of glycolysis ameliorate arthritis in adjuvant arthritis rats by inhibiting synoviocyte activation through AMPK/NF-кB p | 32303781 10.1007/s00011-020-01332-2
+  2020 Botulinum toxin type A ameliorates adjuvant-arthritis pain by inhibiting microglial activation-mediated neuroinflammation and intr | 32250746 10.1016/j.toxicon.2019.12.153
+  2020 A joint synovial fluid metabolomics method to decipher the metabolic mechanisms of adjuvant arthritis and Geniposide intervention. | 32786678 10.1021/acs.jproteome.0c00300
+  2020 Investigation of anti-inflammatory effects of bee venom in experimentally induced adjuvant arthritis | 33227058 10.5114/reum.2020.99764
+  2021 'Methyl palmitate attenuates adjuvant induced arthritis in rats by decrease of CD68 synovial macrophages. | 33550047 10.1016/j.biopha.2021.111347
+  2021 Ultramicronized Palmitoylethanolamide (um-PEA): A New Possible Adjuvant Treatment in COVID-19 patients | 33917573 10.3390/ph14040336
+  2022 Effects of local cryotherapy on systemic endothelial activation, dysfunction, and vascular inflammation in adjuvant-induced arthri | 35488311 10.1186/s13075-022-02774-1
+  2019 Electroacupuncture on ST36 and GB39 Acupoints Inhibits Synovial Angiogenesis via Downregulating HIF-1α/VEGF Expression in a Rat Mo | 31316573 10.1155/2019/5741931
+  2019 Resveratrol alleviates inflammatory injury and enhances the apoptosis of fibroblast-like synoviocytes via mitochondrial dysfunctio | 31180523 10.3892/mmr.2019.10273
+  2019 Regulation of CP-25 on P-glycoprotein in synoviocytes of rats with adjuvant arthritis. | 31521892 10.1016/j.biopha.2019.109432
+  2018 The role of Ca2+ in acid-sensing ion channel 1a-mediated chondrocyte pyroptosis in rat adjuvant arthritis | 30487596 10.1038/s41374-018-0135-3
+  2019 Resveratrol reduces store-operated Ca2+ entry and enhances the apoptosis of fibroblast-like synoviocytes in adjuvant arthritis rat | 31426853 10.1186/s40659-019-0250-7
+  2021 Palmitoylethanolamide/Luteolin as Adjuvant Therapy to Improve an Unusual Case of Camptocormia in a Patient with Parkinson's Diseas | 35096476 None
+  2018 Necrostatin-1 ameliorates adjuvant arthritis rat articular chondrocyte injury via inhibiting ASIC1a-mediated necroptosis. | 30219231 10.1016/j.bbrc.2018.09.031
+  2017 Botulinum toxin type A reduces TRPV1 expression in the dorsal root ganglion in rats with adjuvant‐arthritis pain | 28478059 10.1016/j.toxicon.2017.05.001
+  2018 Immunomodulatory Effects of CP-25 on Splenic T Cells of Rats with Adjuvant Arthritis | 29473135 10.1007/s10753-018-0757-z
+  2019 Berberine attenuates arthritis in adjuvant‐induced arthritic rats associated with regulating polarization of macrophages through A | 30796904 10.1016/j.ejphar.2019.02.036
+  2017 Anti-inflammatory activity of two varieties of pumpkin seed oil in an adjuvant arthritis model in rats | None 10.3989/GYA.0796161
+  2017 Proteasome inhibitor MG132 modulates inflammatory pain by central mechanisms in adjuvant arthritis | 24702728 10.1111/1756-185X.12353
+  2020 Protective effect of Ganoderic acid A on adjuvant-induced arthritis. | 32565114 10.1016/j.imlet.2020.06.010
+  2019 Genkwanin ameliorates adjuvant-induced arthritis in rats through inhibiting JAK/STAT and NF-κB signaling pathways. | 31401534 10.1016/j.phymed.2019.153036
+  2020 Regulation of Synovial Inflammation and Tissue Destruction by Guanylate Binding Protein 5 in Synovial Fibroblasts From Patients Wi | 33615742 10.1002/art.41611
+  2017 Tofacitinib attenuates arthritis manifestations and reduces the pathogenic CD4 T cells in adjuvant arthritis rats. | 28461107 10.1016/j.clim.2017.04.015
+  2017 Immune Tolerance Effect in Mesenteric Lymph Node Lymphocytes of Geniposide on Adjuvant Arthritis Rats | 28631356 10.1002/ptr.5847
+  2016 Autophagy and mitochondrial dysfunction in adjuvant-arthritis rats treatment with resveratrol | 27611176 10.1038/srep32928
+  2016 Anti-Arthritic Activity of Schistosoma mansoni and Trichinella spiralis Derived-Antigens in Adjuvant Arthritis in Rats: Role of FO | 27802332 10.1371/journal.pone.0165916
+  2016 Inhibitory effects of Saussurea involucrata (Kar. et Kir.) Sch. -Bip. on adjuvant arthritis in rats. | 27616030 10.1016/j.jep.2016.09.008
+  2019 Protective effect of betulinic acid on Freund's complete adjuvant‐induced arthritis in rats | 31364231 10.1002/jbt.22373
+  2018 Resveratrol as an effective adjuvant therapy in the management of rheumatoid arthritis: a clinical study | 29611086 10.1007/s10067-018-4080-8
+  2016 Effect of Electroacupuncture in “Zusanli” and “Kunlun” Acupoints on TLR4 Signaling Pathway of Adjuvant Arthritis Rats | 27574922 10.1097/MJT.0000000000000477
+  2018 Micellar solubilisation enhances the antiinflammatory activities of curcumin and boswellic acids in rats with adjuvant-induced art | 30048884 10.1016/j.nut.2018.03.055
+  2016 High-Methionine Diet Attenuates Severity of Arthritis and Modulates IGF-I Related Gene Expressions in an Adjuvant Arthritis Rats M | 27738392 10.1155/2016/9280529
+  2016 Establishment of a Rat Adjuvant Arthritis-Interstitial Lung Disease Model | 26881215 10.1155/2016/2970783
+  2016 Modulation of Adjuvant Arthritis by Cellular and Humoral Immunity to Hsp65 | 27379088 10.3389/fimmu.2016.00203
+  2017 Anti-arthritic effect of berberine on adjuvant-induced rheumatoid arthritis in rats. | 28282791 10.1016/j.biopha.2017.02.099
+  2017 Anti-rheumatoid arthritis effects of traditional Chinese herb couple in adjuvant-induced arthritis in rats. | 28457902 10.1016/j.jep.2017.04.020
+  2017 Ultra-micronized Palmitoylethanolamide: An Efficacious Adjuvant Therapy for Parkinson's Disease. | 28325153 10.2174/1871527316666170321124949
+  2017 Ellagic acid alleviates adjuvant induced arthritis by modulation of pro- and anti-inflammatory cytokines | 28450796 10.5114/ceji.2016.65132
+  2017 Modulatory effect of standardised amentoflavone isolated from Juniperus communis L. agianst Freund's adjuvant induced arthritis in | 28012393 10.1016/j.biopha.2016.12.027
+  2025 GPIHBP1 increase accounts for rheumatic arthritis-related hypotriglyceridemia by facilitating lipids uptake of white adipose tissu | 39856718 10.1186/s13075-025-03483-1
+  2016 The protective effects of curculigoside A on adjuvant-induced arthritis by inhibiting NF-кB/NLRP3 activation in rats. | 26637957 10.1016/j.intimp.2015.11.026
+  2015 Quercetin reduced inflammation and increased antioxidant defense in rat adjuvant arthritis. | 26297952 10.1016/j.abb.2015.08.008
+  2016 MicroRNA-20a negatively regulates expression of NLRP3-inflammasome by targeting TXNIP in adjuvant-induced arthritis fibroblast-lik | 26934991 10.1016/j.jbspin.2015.10.007
+  2016 Anti-inflammatory and anti-arthritic effects of taraxasterol on adjuvant-induced arthritis in rats. | 27109342 10.1016/j.jep.2016.04.031
+  2016 p53 predominantly regulates IL-6 production and suppresses synovial inflammation in fibroblast-like synoviocytes and adjuvant-indu | 27881147 10.1186/s13075-016-1161-4
+  2015 Anti-inflammatory effects and pharmacokinetics study of geniposide on rats with adjuvant arthritis. | 25434608 10.1016/j.intimp.2014.11.017
+  2015 Effect of Uncaria tomentosa extract on purinergic enzyme activities in lymphocytes of rats submitted to experimental adjuvant arth | 26088322 10.1186/s12906-015-0694-4
+  2016 The ginsenoside metabolite compound K exerts its anti-inflammatory activity by downregulating memory B cell in adjuvant-induced ar | 27218142 10.3109/13880209.2015.1074254
+  2015 Immune Tolerance Induction with Multiepitope Peptide Derived from Citrullinated Autoantigens Attenuates Arthritis Manifestations i | 25964493 10.4049/jimmunol.1402457
+  2015 Determination of geniposide in adjuvant arthritis rat plasma by ultra-high performance liquid chromatography tandem mass spectrome | 25771205 10.1016/j.jpba.2015.01.044
+  2015 Activation of NALP1 inflammasomes in rats with adjuvant arthritis; a novel therapeutic target of carboxyamidotriazole in a model o | 25799914 10.1111/bph.13138
+  2023 Efficacy of Palmitoylethanolamide and Luteolin Association on Post-Covid Olfactory Dysfunction: A Systematic Review and Meta-Analy | 37626685 10.3390/biomedicines11082189
+  1999 Activated T cells regulate bone loss and joint destruction in adjuvant arthritis through osteoprotegerin ligand | 10580503 10.1038/46303
+  2016 Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | 27149951 10.1186/s13075-016-0999-9
+  2014 Effects and mechanisms of Geniposide on rats with adjuvant arthritis. | 24583144 10.1016/j.intimp.2014.02.021
+  2014 Anti-inflammatory effect of resveratrol on adjuvant arthritis rats with abnormal immunological function via the reduction of cyclo | 24676467 10.3892/mmr.2014.2070
+  2026 Artemisinin increases susceptibility to ferroptosis of fibroblast-like synoviocytes in rheumatoid arthritis | 42363284 10.1186/s13075-026-03853-3
+  2014 Identification and distribution of four metabolites of geniposide in rats with adjuvant arthritis. | 24910002 10.1016/j.fitote.2014.05.023
+  2014 Anti-proliferative effect of recombinant human endostatin on synovial fibroblasts in rats with adjuvant arthritis. | 24239715 10.1016/j.ejphar.2013.10.068
+  2014 Protective effect of Asarum extract in rats with adjuvant arthritis | 25289073 10.3892/etm.2014.1941
+  2014 Glucosamine dose/concentration-effect correlation in the rat with adjuvant arthritis. | 24375187 10.1002/jps.23819
+  2014 Therapeutic Effects of PADRE-BAFF Autovaccine on Rat Adjuvant Arthritis | 24791002 10.1155/2014/854954
+  2013 References Subscriptions Permissions Email Alerts Immunostimulatory DNA Sequences Influence the Course of Adjuvant Arthritis | None None
+  2013 Scopoletin suppresses IL-6 production from fibroblast-like synoviocytes of adjuvant arthritis rats induced by IL-1β stimulation. | 24455774 10.1016/J.INTIMP.2013.10.011
+  2013 Regulation of synoviocyte activity by resveratrol in rats with adjuvant arthritis | 23935741 10.3892/etm.2013.1078
+  2013 Inhibitory effects of the root extract of Litsea cubeba (lour.) pers. on adjuvant arthritis in rats. | 23538163 10.1016/j.jep.2013.03.011
+  2015 Effect of galantamine on adjuvant-induced arthritis in rats. | 26189022 10.1016/j.ejphar.2015.07.038
+  2013 Effect of tripterygium glycosides on pulmonary function in adjuvant arthritis rats | 24060529 10.1016/j.jcma.2013.08.002
+  2015 The effect of curcumin and its nanoformulation on adjuvant-induced arthritis in rats | 26345159 10.2147/DDDT.S90147
+  2015 Markers of inflammation and oxidative stress studied in adjuvant-induced arthritis in the rat on systemic and local level affected | 25046647 10.3109/08916934.2014.939268
+  2015 Curcumin loaded solid lipid nanoparticles ameliorate adjuvant‐induced arthritis in rats | 25400173 10.1002/ejp.620
+  2015 MicroRNA-124 inhibits the progression of adjuvant-induced arthritis in rats | 25596157 10.1136/annrheumdis-2014-206417
+  2015 Antioxidant and Angiostatic Effect of Spirulina platensis Suspension in Complete Freund’s Adjuvant-Induced Arthritis in Rats | 25853428 10.1371/journal.pone.0121523
+  2015 Association between arthritis score at the onset of the disease and long-term locomotor outcome in adjuvant-induced arthritis in r | 26183428 10.1186/s13075-015-0700-8
+  2025 Burden and determinants of multi-b/tsDMARD failure in psoriatic arthritis | 40038720 10.1186/s13075-025-03518-7
+  2015 Microvascular Abnormalities in Adjuvant‐Induced Arthritis: Relationship to Macrovascular Endothelial Function and Markers of Endot | 25708190 10.1002/art.39065
+  1999 Activated T cells regulate bone loss and joint destruction in adjuvant arthritis through osteoprotegerin ligand | None 10.1038/35005552
+  2012 Glucocorticoids in nano-liposomes administered intravenously and subcutaneously to adjuvant arthritis rats are superior to the fre | 22226777 10.1016/j.jconrel.2011.12.024
+  2012 Norisoboldine inhibits the production of interleukin‐6 in fibroblast‐like synoviocytes from adjuvant arthritis rats through PKC/MA | 22473817 10.1002/jcb.24156
+  2012 The natural stilbenoid pinosylvin and activated neutrophils: effects on oxidative burst, protein kinase C, apoptosis and efficienc | 22842731 10.1038/aps.2012.77
+  2012 Cocoa intake attenuates oxidative stress associated with rat adjuvant arthritis. | 22728690 10.1016/j.phrs.2012.05.009
+  2012 Effect of methotrexate on inflammatory cells redistribution in experimental adjuvant arthritis | 22083611 10.1007/s00296-011-2177-3
+  2012 Recombinant human endostatin inhibits adjuvant arthritis by down-regulating VEGF expression and suppression of TNF-α, IL-1β produc | 22610149 10.1007/s00011-012-0477-z
+  2012 Pharmacological influence on processes of adjuvant arthritis: Effect of the combination of an antioxidant active substance with me | 23118593 10.2478/v10102-012-0015-4
+  2012 Pharmacokinetics of paeoniflorin microemulsion after repeated dosing in rats with adjuvant arthritis. | 23346762 10.31083/ph.2012.2026
+HTTP 429 retry 0
+HTTP 429 retry 1
+HTTP 429 retry 2
+HTTP 429 retry 3
+HTTP 429 retry 4
+HTTP 429 retry 5
+===== rel:palmitoylethanolamide glucocorticoid sparing HTTP 429 {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+HTTP 429 retry 0
+HTTP 429 retry 1
+HTTP 429 retry 2
+HTTP 429 retry 3
+HTTP 429 retry 4
+HTTP 429 retry 5
+===== rel:palmitoylethanolamide oxidative stress arthritis HTTP 429 {"message": "Too Many Requests. Please wait and try again or apply for a key for higher rate limits. https://www.semanticscholar.org/product/api#api-key-form", "code": "429"}
+===== bulk:palmitoylethanolamide + (prednisolone | dexamethasone | glucocorticoid | corticosteroid) total 25 got 25
+  2008 SYSTEM IN INFLAMMATORY BOWEL DISEASE | None None
+  2022 Experience with nutraceutical supplements in the treatment of pelvic pain in gynaecology: case reports | 35106067 10.7573/dic.2021-10-8
+  2021 Alterations of Stress-Related Glucocorticoids and Endocannabinoids in Hair of Chronic Cocaine Users | 34676867 10.1093/ijnp/pyab070
+  2023 The Effect of Levagen+ (Palmitoylethanolamide) Supplementation on Symptoms of Allergic Rhinitis—A Double-Blind Placebo-Controlled  | 38068797 10.3390/nu15234940
+  2023 Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis | None 10.30704/http-www-jivs-net.1243160
+  2020 Feline Atopic Syndrome: Therapy | None 10.1007/978-3-030-29836-4_23
+  2021 Hair-based biomarkers in women with major depressive disorder: Glucocorticoids, endocannabinoids, N-acylethanolamines, and testost | 35757050 10.1016/j.cpnec.2021.100068
+  2024 Emerging drugs for the treatment of irritability associated with autism spectrum disorder | 38296815 10.1080/14728214.2024.2313650
+  2023 Treatments for Olfactory Dysfunction in COVID-19: A Systematic Review | 39464360 10.1055/s-0044-1786046
+  2021 Anti-inflammatory Effect of Cannabidiol and Palmitoylethanolamide Containing Topical Formulation on Skin in a 12-O-Tetradecanoylph | 33654018 10.1097/DER.0000000000000722
+  2015 Bacterial meningitis: an update of new treatment options | 26293166 10.1586/14787210.2015.1077700
+  2009 PALMITOYLETHANOLAMIDE, AN ENDOGENOUS PPAR-ALPHA AGONIST, MODULATES NEUROSTEROIDS DE NOVO SYNTHESIS | None 10.6092/UNINA/FEDOA/4090
+  2017 The N-Acylethanolamine Acid Amidase Inhibitor ARN077 Suppresses Inflammation and Pruritus in a Mouse Model of Allergic Dermatitis. | 29054595 10.1016/j.jid.2017.07.853
+  2020 Protective Effects of Colomast®, a New Formulation of Adelmidrol and Sodium Hyaluronate, in a Mouse Model of Acute Restraint Stres | 33143356 10.3390/ijms21218136
+  2025 Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic st | None 10.46563/2686-8997-2025-6-1-44-54
+  2006 Steroids versus other immune modulators in the management of allergic dermatoses | 16954788 10.1097/01.all.0000244795.41357.6e
+  2022 Interventions for the treatment of persistent post-COVID-19 olfactory dysfunction. | 36062970 10.1002/14651858.CD013876.pub3
+  2023 Effect of any form of steroids in comparison with that of other medications on the duration of olfactory dysfunction in patients w | 37531338 10.1371/journal.pone.0288285
+  2010 Rapid Elevations in Limbic Endocannabinoid Content by Glucocorticoid Hormones In Vivo | 20399021 10.1016/j.psyneuen.2010.03.005
+  2024 Treatment of COVID-19 Associated Olfactory Dysfunction: A Systematic Review | 39477832 10.1007/s11882-024-01182-6
+  2019 Sinerga may prevent recurrent respiratory infections in allergic children. | 31122007 None
+  2020 Influence of Supplements and Drugs used for the Treatment of Musculoskeletal Disorders on Adult Human Tendon-Derived Stem Cells | None 10.32098/mltj.03.2020.04
+  2015 The anti-inflammatory effects of palmitoylethanolamide (PEA) on endotoxin-induced uveitis in rats. | 25934566 10.1016/j.ejphar.2015.04.025
+  2020 Associating Emergency Medical Services personnel’s workload, trauma exposure, and health with the cortisol, endocannabinoid, and N | 33376241 10.1038/s41598-020-79859-x
+  2010 A nonsteroidal lamellar matrix cream containing palmitoylethanolamide for the treatment of atopic dermatitis. | 20514790 None
+===== bulk:palmitoylethanolamide + (arthritis | Freund | synovitis) total 20 got 20
+  2009 EFFECT OF ENDOCANNABINOID SYSTEM AND CANNABIMIMETIC COMPOUNDS IN THE CONTROL OF MAST CELLS: POSSIBLE IMPLICATION IN ACUTE AND CHRO | None 10.6092/UNINA/FEDOA/4129
+  2006 Rapid Broad-Spectrum Analgesia through Activation of Peroxisome Proliferator-Activated Receptor-α | 16997973 10.1124/jpet.106.111385
+  2021 Efficacy of a fixed combination of Palmitoylethanolamide and acetyl-l-carnitine (PEA + ALC FC) in the treatment of Neuropathies se | 34056884 10.23736/S0026-4806.21.07486-3
+  2018 Micronized palmitoylethanolamide reduces joint pain and glial cell activation | 30121836 10.1007/s00011-018-1179-y
+  2018 Micronized palmitoylethanolamide reduces joint pain and glial cell activation | None 10.1007/s00011-018-1179-y
+  2016 An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund’s Adjuvant Rat Model of Arthritis | 26769918 10.1124/jpet.115.230516
+  2013 Professor Rita Levi-Montalcini on Nerve Growth Factor, Mast Cells and Palmitoylethanolamide, an Endogenous Anti-Inflammatory and A | None 10.4172/2167-0846.1000114
+  2025 A NOVEL TARGETED FORMULATION FOR OSTEOARTHRITIS: EXPLORING SYNERGISTIC BENEFITS OF CISSUS QUADRANGULARIS, BOSWELLIA SERRATA, PROPO | None 10.56782/pps.479
+  2016 Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammat | 27599446 10.1016/j.bcp.2016.09.001
+  2023 Hyaluronic acid alone versus hyaluronic acid associated with adelmidrol for Intra-articular treatment of knee osteoarthritis: A lo | None 10.16965/ijpr.2022.192
+  2016 Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | 27149951 10.1186/s13075-016-0999-9
+  2020 A joint synovial fluid metabolomics method to decipher the metabolic mechanisms of adjuvant arthritis and Geniposide intervention. | 32786678 10.1021/acs.jproteome.0c00300
+  2021 Pharmacological Blockade of PPARα Exacerbates Inflammatory Pain-Related Impairment of Spatial Memory in Rats | 34072060 10.3390/biomedicines9060610
+  2025 Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic st | None 10.46563/2686-8997-2025-6-1-44-54
+  2016 Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain | None 10.1096/fasebj.30.1_supplement.927.8
+  2022 Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol | 36291664 10.3390/biom12101453
+  2013 Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | 24246048 10.1186/ar4382
+  2011 ALIAmides: EXPERIMENTAL STUDIES ON THE CONTROL OF ANGIOGENESIS | None None
+  2020 Oral Supplementation with Ultramicronized Palmitoylethanolamide for Joint Disease and Lameness Management in Four Jumping Horses:  | 32825646 10.3390/ani10091469
+  2008 Cannabinomimetic Control of Mast Cell Mediator Release: New Perspective in Chronic Inflammation | 18426495 10.1111/j.1365-2826.2008.01674.x
+===== bulk:palmitoylethanolamide + (baricitinib | tofacitinib | tacrolimus) total 2 got 2
+  2020 Effects of Tacrolimus and Other Immune Targeting Compounds on Binge-Like Ethanol Drinking in High Drinking in the Dark Mice | 33294845 10.1177/2633105520975412
+  2023 Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis | None 10.30704/http-www-jivs-net.1243160

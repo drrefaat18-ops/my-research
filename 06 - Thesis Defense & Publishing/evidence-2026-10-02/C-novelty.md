@@ -297,6 +297,8 @@ Notes:
 ---
 
 ## 7. Limitations of this search
+> [!NOTE] Gaps below were partly filled on 2026-10-06 — see [[C2-novelty-gap-search-2026-10-06]].
+
 - Scopus, Web of Science, Embase, Google Scholar and regional databases (EKB theses, CNKI) were **not** searched here. Strings for Scopus and WoS are provided in Section 5.
 - Semantic Scholar returned results for only 5 of 8 planned queries, because of HTTP 429 rate limiting. Its relevance ranking is OR-like, so only the top 100 records per query were screened.
 - Europe PMC full-text search covers the open-access subset only. OpenAlex abstract coverage is incomplete, and it returned only 1 indexed reference for Morvaridi 2025.

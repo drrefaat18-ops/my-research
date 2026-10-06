@@ -1,0 +1,683 @@
+===== fulltext.search:palmitoylethanolamide prednisolone 101
+  2015 Efficacy of ultra‐micronized palmitoylethanolamide in canine atopic dermatitis: an open‐label multi‐centre study | https://doi.org/10.1111/vde.12250 https://pubmed.ncbi.nlm.nih.gov/26283633
+  2025 A novel targeted formulation for osteoarthritis: exploring synergistic benefits of Cissus quadrangularis, Boswellia serrata, propo | https://doi.org/10.56782/pps.479 None
+  2024 Emerging drugs for the treatment of irritability associated with autism spectrum disorder | https://doi.org/10.1080/14728214.2024.2313650 https://pubmed.ncbi.nlm.nih.gov/38296815
+  2023 Successful Treatment with Dexamethasone of a Cat with Suspected Feline Atopic Skin Syndrome Not Responding to Prednisolone | https://doi.org/10.53913/aduveterinary.1289183 None
+  2021 Use of the hyperpolarization-activated cyclic nucleotide-gated (HCN) channel blocker ivabradine in the management of suspected spo | https://doi.org/10.1016/j.vaa.2021.03.007 https://pubmed.ncbi.nlm.nih.gov/34059459
+  2024 Feasibility, safety and effectiveness of prednisolone and vitamin B1, B6, and B12 in patients with post-COVID-19-syndrome (PreVita | https://doi.org/10.1186/s12879-023-08925-2 https://pubmed.ncbi.nlm.nih.gov/38184567
+  2016 Therapeutic anti-inflammatory effects of luteolin on endotoxin-induced uveitis in Lewis rats | https://doi.org/10.1292/jvms.16-0196 https://pubmed.ncbi.nlm.nih.gov/27170432
+  2024 Treatment of COVID-19 Associated Olfactory Dysfunction: A Systematic Review | https://doi.org/10.1007/s11882-024-01182-6 https://pubmed.ncbi.nlm.nih.gov/39477832
+  2021 The immune system and autism spectrum disorder: association and therapeutic challenges | https://doi.org/10.21307/ane-2021-023 https://pubmed.ncbi.nlm.nih.gov/34672295
+  2022 Pharmacological Management of Core Symptoms and Comorbidities of Autism Spectrum Disorder in Children and Adolescents: A Systemati | https://doi.org/10.2147/ndt.s371013 https://pubmed.ncbi.nlm.nih.gov/35968512
+  2021 A case series of canine cutaneous inverted papilloma with one case showing evidence of recurrence | https://doi.org/10.1111/vde.12961 https://pubmed.ncbi.nlm.nih.gov/33908122
+  2024 Treatments for Olfactory Dysfunction in COVID-19: A Systematic Review | https://doi.org/10.1055/s-0044-1786046 https://pubmed.ncbi.nlm.nih.gov/39464360
+  2026 Dose-dependent protective effects of Tripterygium wilfordii glycosides on joint and lung injury and gut microbiota remodeling in c | https://doi.org/10.3389/fphar.2026.1783503 https://pubmed.ncbi.nlm.nih.gov/42110528
+  2012 Inhibitory effect of topical Adelmidrol on antigen-induced skin wheal and mast cell behavior in a canine model of allergic dermati | https://doi.org/10.1186/1746-6148-8-230 https://pubmed.ncbi.nlm.nih.gov/23181761
+  2025 Manejo das condições pós COVID por profissionais da saúde | https://doi.org/10.18569/tempus.v18i1.3524 None
+  2023 Alternative clinical approaches to the treatment of pruritus related with canine atopic dermatitis | https://doi.org/10.30704/http-www-jivs-net.1243160 None
+  2019 Review of Clinical Studies Targeting Inflammatory Pathways for Individuals With Autism | https://doi.org/10.3389/fpsyt.2019.00849 https://pubmed.ncbi.nlm.nih.gov/31824351
+  2021 Treatment of the feline atopic syndrome – a systematic review | https://doi.org/10.1111/vde.12933 https://pubmed.ncbi.nlm.nih.gov/33470011
+  2020 Peroxisome Proliferator-Activated Receptors: Experimental Targeting for the Treatment of Inflammatory Bowel Diseases | https://doi.org/10.3389/fphar.2020.00730 https://pubmed.ncbi.nlm.nih.gov/32536865
+  2022 Therapeutic options of post-COVID-19 related olfactory dysfunction: a systematic review and meta-analysis | https://doi.org/10.4193/rhin22.221 https://pubmed.ncbi.nlm.nih.gov/36173148
+  2024 The effectiveness of olfactory training for chronic olfactory disorder following COVID-19: a systematic review | https://doi.org/10.3389/fnhum.2024.1457527 https://pubmed.ncbi.nlm.nih.gov/39588055
+  2025 Study of the antiulcer properties of extracts obtained from the fruit of the domestic plum (Prunus Domestica L.) | https://doi.org/10.15587/2519-8025.2025.342552 None
+  2019 Chronic prostatitis: current treatment options | https://doi.org/10.2147/rru.s194679 https://pubmed.ncbi.nlm.nih.gov/31240202
+  2025 Olfactory Training for Post-COVID-19 Olfactory Dysfunction: A Meta-Analysis of Efficacy and Combination Therapies | https://doi.org/10.3390/jcm14186578 https://pubmed.ncbi.nlm.nih.gov/41010778
+  2024 Effects of a Protocol Combining a Non-Irritating Shampoo and an Adelmidrol-Based Adsorbent Mousse on Seborrhoea and Other Signs an | https://doi.org/10.3390/vetsci11060229 https://pubmed.ncbi.nlm.nih.gov/38921976
+  2017 Editorial: diet, inflammation and irritable bowel syndrome | https://doi.org/10.1111/apt.14014 https://pubmed.ncbi.nlm.nih.gov/28370035
+  2023 Evidence‐base for the beneficial effect of nutraceuticals in canine dermatological immune‐mediated inflammatory diseases — A liter | https://doi.org/10.1111/vde.13152 https://pubmed.ncbi.nlm.nih.gov/36938651
+  2015 From the Ancient Diets to the Recent Acquisitions on the Role of Brain Inflammation in Epilepsy, Are there Any Links? | https://doi.org/10.4172/2155-9562.1000304 None
+  2017 Editorial: infliximab trough cut‐off for perianal Crohn's disease – another piece of the therapeutic drug monitoring‐guided inflix | https://doi.org/10.1111/apt.14020 https://pubmed.ncbi.nlm.nih.gov/28370040
+  2024 The immune system and metabolic products in epilepsy and glioma-associated epilepsy: emerging therapeutic directions | https://doi.org/10.1172/jci.insight.174753 https://pubmed.ncbi.nlm.nih.gov/38193532
+  2024 A GraphSAGE-based model with fingerprints only to predict drug-drug interactions | https://doi.org/10.3934/mbe.2024130 https://pubmed.ncbi.nlm.nih.gov/38454713
+  2023 Post-viral olfactory loss and parosmia | https://doi.org/10.1136/bmjmed-2022-000382 https://pubmed.ncbi.nlm.nih.gov/37841969
+  2012 Lack of effect of chronic pre‐treatment with the FAAH inhibitor URB597 on inflammatory pain behaviour: evidence for plastic change | https://doi.org/10.1111/j.1476-5381.2012.02028.x https://pubmed.ncbi.nlm.nih.gov/22595021
+  2017 Advanced Analgesic Drug Delivery and Nanobiotechnology | https://doi.org/10.1007/s40265-017-0744-y https://pubmed.ncbi.nlm.nih.gov/28470586
+  2016 New drugs in dermatology | https://doi.org/10.5167/uzh-126578 None
+  2024 Long‐term olfactory loss post‐COVID‐19: Pathobiology and potential therapeutic strategies | https://doi.org/10.1002/wjo2.165 https://pubmed.ncbi.nlm.nih.gov/38855286
+  2022 Nutraceuticals and Diet Supplements in Crohn’s Disease: A General Overview of the Most Promising Approaches in the Clinic | https://doi.org/10.3390/foods11071044 https://pubmed.ncbi.nlm.nih.gov/35407131
+  2025 Exploring the Potential of Dietary Supplements to Alleviate Pain Due to Long COVID | https://doi.org/10.3390/nu17071287 https://pubmed.ncbi.nlm.nih.gov/40219044
+  2024 Neuropathic pain in cats: mechanisms and multimodal management | https://doi.org/10.1177/1098612x241246518 https://pubmed.ncbi.nlm.nih.gov/38710218
+  2022 Mast cell mediation of visceral sensation and permeability in irritable bowel syndrome | https://doi.org/10.1111/nmo.14339 https://pubmed.ncbi.nlm.nih.gov/35315179
+  2021 The usefulness of a hydrolysed fish and rice starch elimination diet for the diagnosis of adverse food reactions in cats: an open  | https://doi.org/10.1111/vde.12970 https://pubmed.ncbi.nlm.nih.gov/34033172
+  2013 Combination therapy with melatonin and dexamethasone in a mouse model of traumatic brain injury | https://doi.org/10.1530/joe-13-0022 https://pubmed.ncbi.nlm.nih.gov/23532863
+  2026 Impacts of different treatment methods on patients with COVID-related olfactory dysfunction: a systematic review and network meta- | https://doi.org/10.1016/j.clinsp.2026.101103 https://pubmed.ncbi.nlm.nih.gov/42710356
+  2025 The endocannabinoid system and ophthalmic pathologies: a review of molecular mechanisms and its implications for clinical practice | https://doi.org/10.3389/fmed.2025.1500179 https://pubmed.ncbi.nlm.nih.gov/39975680
+  2022 Olfactory training – Thirteen years of research reviewed | https://doi.org/10.1016/j.neubiorev.2022.104853 https://pubmed.ncbi.nlm.nih.gov/36064146
+  2017 Anti-inflammatory intestinal activity ofCombretum duarteanumCambess. in trinitrobenzene sulfonic acid colitis model | https://doi.org/10.3748/wjg.v23.i8.1353 https://pubmed.ncbi.nlm.nih.gov/28293082
+  2024 Regulating lipid metabolism in osteoarthritis: a complex area with important future therapeutic potential | https://doi.org/10.1080/07853890.2024.2420863 https://pubmed.ncbi.nlm.nih.gov/39466361
+  2020 Irritable bowel syndrome with diarrhea: Treatment is a work in progress | https://doi.org/10.3949/ccjm.87a.19011 https://pubmed.ncbi.nlm.nih.gov/32737051
+  2026 Treatment of Canine Atopic Dermatitis: Updated Guidelines From the International Committee on Allergic Diseases of Animals ( ICADA | https://doi.org/10.1111/vde.70128 https://pubmed.ncbi.nlm.nih.gov/42805756
+  2024 Mechanisms of Insulin Signaling as a Potential Therapeutic Method in Intestinal Diseases | https://doi.org/10.3390/cells13221879 https://pubmed.ncbi.nlm.nih.gov/39594627
+  2026 Targeting the Tlr4–Md2 Complex with Coumarin Derivatives: Integrated In Silico and In vitro Evaluation of Scopoletin as a Potentia | https://doi.org/10.22159/ijap.2026v18i5.59383 None
+  2016 Pharmacological treatment options for mast cell activation disease | https://doi.org/10.1007/s00210-016-1247-1 https://pubmed.ncbi.nlm.nih.gov/27132234
+  2021 Use of Autologous Leucocyte- and Platelet-Rich Plasma (L-PRP) in the Treatment of Aural Hematoma in Dogs | https://doi.org/10.3390/vetsci8090172 https://pubmed.ncbi.nlm.nih.gov/34564566
+  2023 The Effect of Corticosteroids on Post-Covid-19 Smell Loss: A Meta-Analysis. | https://doi.org/10.22038/ijorl.2023.72451.3456 https://pubmed.ncbi.nlm.nih.gov/38090618
+  2024 Effect of high-dose Spirulina supplementation on hospitalized adults with COVID-19: a randomized controlled trial | https://doi.org/10.3389/fimmu.2024.1332425 https://pubmed.ncbi.nlm.nih.gov/38655258
+  2026 Sorafenib nanoparticles coated with Eudragit RL for ocular drug delivery: a potential treatment for diabetic retinopathy | https://doi.org/10.1016/j.ijpx.2026.100523 https://pubmed.ncbi.nlm.nih.gov/41939438
+  2023 Assessment of COVID-19-related olfactory dysfunction and its association with psychological, neuropsychiatric, and cognitive sympt | https://doi.org/10.3389/fnins.2023.1165329 https://pubmed.ncbi.nlm.nih.gov/37599993
+  2017 Impact of a terbinafine–florfenicol–betamethasone acetate otic gel on the quality of life of dogs with acute otitis externa and th | https://doi.org/10.1111/vde.12433 https://pubmed.ncbi.nlm.nih.gov/28295766
+  2023 Persistierende Riechminderung nach COVID-19 – Empfehlungen der Arbeitsgemeinschaft Olfaktologie und Gustologie der Deutschen Gesel | https://doi.org/10.1007/s00106-023-01368-w https://pubmed.ncbi.nlm.nih.gov/37801102
+  2026 Cisti di Tarlov e aracnoidite adesiva:: uno studio di caso a tre anni dall'intervento chirurgico | None None
+  2022 New Insights into Treatment of Patients with Carpal Tunnel Syndrome | https://doi.org/10.55295/psl.2022.d2 None
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2015 Cetirizin till hund - farmakokinetik och biverkningar | None None
+  2026 Total ear canal ablation for the treatment of auricular hemangiosarcoma in a cat: case report | https://doi.org/10.29374/2527-2179.bjvm012626 https://pubmed.ncbi.nlm.nih.gov/42807950
+  2023 Position paper on olfactory dysfunction: 2023 | https://doi.org/10.4193/rhin22.483 https://pubmed.ncbi.nlm.nih.gov/37454287
+  2022 Immune modulating nanoparticles for the treatment of ocular diseases | https://doi.org/10.1186/s12951-022-01658-5 https://pubmed.ncbi.nlm.nih.gov/36424630
+  2024 The Versatile Role of Peroxisome Proliferator-Activated Receptors in Immune-Mediated Intestinal Diseases | https://doi.org/10.3390/cells13201688 https://pubmed.ncbi.nlm.nih.gov/39451206
+  2024 Performance of applications of Ophytrium-containing mousse with or without shampoo in cats with pruritic and irritated skin: a mul | https://doi.org/10.1177/1098612x241264718 https://pubmed.ncbi.nlm.nih.gov/39325756
+  2021 Role of natural products in alleviation of rheumatoid arthritis—A review | https://doi.org/10.1111/jfbc.13673 https://pubmed.ncbi.nlm.nih.gov/33624882
+  2025 Liver diseases: epidemiology, causes, trends and predictions | https://doi.org/10.1038/s41392-024-02072-z https://pubmed.ncbi.nlm.nih.gov/39904973
+  2022 Antidepressant Potential of Quercetin and its Glycoside Derivatives: A Comprehensive Review and Update | https://doi.org/10.3389/fphar.2022.865376 https://pubmed.ncbi.nlm.nih.gov/35462940
+  2025 Purine metabolites regulate leukemic cell sensitivity toward cytarabine | https://doi.org/10.3324/haematol.2024.286308 https://pubmed.ncbi.nlm.nih.gov/39781620
+  2024 Canine Atopic Dermatitis: Prevalence, Impact, and Management Strategies | https://doi.org/10.2147/vmrr.s412570 https://pubmed.ncbi.nlm.nih.gov/38371487
+  2022 Recent Strategies for Ocular Drug Delivery: Promises and Challenges | https://doi.org/10.5772/intechopen.106335 None
+  2023 From brain fog to COVID toe: A head-to-toe review of long COVID | https://doi.org/10.25259/ajpps_2023_012 None
+  2023 Abstracts of the 41st SIF National Congress | https://doi.org/10.36118/pharmadvances.2023.50 None
+  2015 Endocannabinoid system modulation of the ocular immune response | None None
+  2014 Immunopharmacology | https://doi.org/10.1111/bcpt.12259_9 None
+  2026 Comparative neuroprotective and exercise capacity effects of prophylactic intermittent fasting and probiotics in sleep-deprived ra | https://doi.org/10.3389/fphar.2026.1796727 https://pubmed.ncbi.nlm.nih.gov/42358374
+  2023 Post-COVID syndrome | https://doi.org/10.3238/arztebl.m2022.0409 https://pubmed.ncbi.nlm.nih.gov/36633452
+  2024 Functional Food Nutrients, Redox Resilience Signaling and Neurosteroids for Brain Health | https://doi.org/10.3390/ijms252212155 https://pubmed.ncbi.nlm.nih.gov/39596221
+  2024 Endocannabinoid concentrations in major depression: effects of childhood maltreatment and relation to hippocampal volume | https://doi.org/10.1038/s41398-024-03151-z https://pubmed.ncbi.nlm.nih.gov/39394160
+  2023 Treatment of Canine Disc-Associated Cervical Spondylomyelopathy with a Cervical Distraction–Stabilization Technique (C-LOX Combine | https://doi.org/10.3390/ani13162549 https://pubmed.ncbi.nlm.nih.gov/37627343
+  2020 Emerging therapies in primary sclerosing cholangitis: pathophysiological basis and clinical opportunities | https://doi.org/10.1007/s00535-020-01681-z https://pubmed.ncbi.nlm.nih.gov/32222826
+  2022 The Dynamic Role of Microglia and the Endocannabinoid System in Neuroinflammation | https://doi.org/10.3389/fphar.2021.806417 https://pubmed.ncbi.nlm.nih.gov/35185547
+  2017 Cannabinoid 2 receptor signalling in endotoxin-induced uveitis | None None
+  2025 The Interplay of Oxidative Stress, Mitochondrial Dysfunction, and Neuroinflammation in Autism Spectrum Disorder: Behavioral Implic | https://doi.org/10.3390/brainsci15080853 https://pubmed.ncbi.nlm.nih.gov/40867184
+  2017 The effect of Denosumab, the inhibitor for receptor activator of nuclear factor kappa-B ligand (RANKL), on dinitrobenzensulfonic a | None None
+  2023 Animal models of inflammatory bowel disease: category and evaluation indexes | https://doi.org/10.1093/gastro/goae021 https://pubmed.ncbi.nlm.nih.gov/38634007
+  2013 Avaliação do potencial antialérgico de flavonóides: estudo sinergístico e influência de sistemas lipossomais | https://doi.org/10.11606/d.60.2013.tde-06092013-094238 None
+  2012 Modulation de l'activité des neutrophiles humains par la prostaglandine E₂ glycérylester | None None
+  2024 Autism spectrum disorder: pathogenesis, biomarker, and intervention therapy | https://doi.org/10.1002/mco2.497 https://pubmed.ncbi.nlm.nih.gov/38434761
+  2023 The Skin and Natural Cannabinoids–Topical and Transdermal Applications | https://doi.org/10.3390/ph16071049 https://pubmed.ncbi.nlm.nih.gov/37513960
+  2020 The anti-inflammatory nanocrystals development of phthalimide associated with budesonide hybrid compound for ophthalmic applicatio | https://doi.org/10.11606/d.9.2020.tde-05072021-163351 None
+  2025 嗅覚障害診療ガイドライン | https://doi.org/10.7248/jjrhi.64.1 None
+  2023 Adding a polyphenol-rich fiber bundle to food impacts the gastrointestinal microbiome and metabolome in dogs | https://doi.org/10.3389/fvets.2022.1039032 https://pubmed.ncbi.nlm.nih.gov/36744230
+  2026 Clinical effectiveness of spinal cord stimulation in managing refractory upper-extremity pain | https://doi.org/10.1007/s10143-025-04123-7 https://pubmed.ncbi.nlm.nih.gov/41718837
+  2022 Post-COVID-Syndrom (PCS) | https://doi.org/10.3238/arztebl.2022.stellungnahme_pcs None
+  2025 Recent Advances in Solid Lipid Nanoparticle Preparation: Methods, Ingredients, and Routes of Administration | https://doi.org/10.22270/jddt.v15i6.7160 None
+  2022 Advanced Drug Delivery Systems | https://doi.org/10.5772/intechopen.100967 None
+  2023 Study Models of Drug–Drug Interactions Involving P-Glycoprotein: The Potential Benefit of P-Glycoprotein Modulation at the Kidney  | https://doi.org/10.3390/molecules28227532 https://pubmed.ncbi.nlm.nih.gov/38005253
+===== fulltext.search:palmitoylethanolamide prednisolone arthritis 35
+  2025 A novel targeted formulation for osteoarthritis: exploring synergistic benefits of Cissus quadrangularis, Boswellia serrata, propo | https://doi.org/10.56782/pps.479 None
+  2021 Role of natural products in alleviation of rheumatoid arthritis—A review | https://doi.org/10.1111/jfbc.13673 https://pubmed.ncbi.nlm.nih.gov/33624882
+  2026 Dose-dependent protective effects of Tripterygium wilfordii glycosides on joint and lung injury and gut microbiota remodeling in c | https://doi.org/10.3389/fphar.2026.1783503 https://pubmed.ncbi.nlm.nih.gov/42110528
+  2016 Therapeutic anti-inflammatory effects of luteolin on endotoxin-induced uveitis in Lewis rats | https://doi.org/10.1292/jvms.16-0196 https://pubmed.ncbi.nlm.nih.gov/27170432
+  2021 The immune system and autism spectrum disorder: association and therapeutic challenges | https://doi.org/10.21307/ane-2021-023 https://pubmed.ncbi.nlm.nih.gov/34672295
+  2019 Review of Clinical Studies Targeting Inflammatory Pathways for Individuals With Autism | https://doi.org/10.3389/fpsyt.2019.00849 https://pubmed.ncbi.nlm.nih.gov/31824351
+  2015 From the Ancient Diets to the Recent Acquisitions on the Role of Brain Inflammation in Epilepsy, Are there Any Links? | https://doi.org/10.4172/2155-9562.1000304 None
+  2012 Lack of effect of chronic pre‐treatment with the FAAH inhibitor URB597 on inflammatory pain behaviour: evidence for plastic change | https://doi.org/10.1111/j.1476-5381.2012.02028.x https://pubmed.ncbi.nlm.nih.gov/22595021
+  2020 Peroxisome Proliferator-Activated Receptors: Experimental Targeting for the Treatment of Inflammatory Bowel Diseases | https://doi.org/10.3389/fphar.2020.00730 https://pubmed.ncbi.nlm.nih.gov/32536865
+  2019 Chronic prostatitis: current treatment options | https://doi.org/10.2147/rru.s194679 https://pubmed.ncbi.nlm.nih.gov/31240202
+  2013 Combination therapy with melatonin and dexamethasone in a mouse model of traumatic brain injury | https://doi.org/10.1530/joe-13-0022 https://pubmed.ncbi.nlm.nih.gov/23532863
+  2024 Regulating lipid metabolism in osteoarthritis: a complex area with important future therapeutic potential | https://doi.org/10.1080/07853890.2024.2420863 https://pubmed.ncbi.nlm.nih.gov/39466361
+  2025 Exploring the Potential of Dietary Supplements to Alleviate Pain Due to Long COVID | https://doi.org/10.3390/nu17071287 https://pubmed.ncbi.nlm.nih.gov/40219044
+  2024 Mechanisms of Insulin Signaling as a Potential Therapeutic Method in Intestinal Diseases | https://doi.org/10.3390/cells13221879 https://pubmed.ncbi.nlm.nih.gov/39594627
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2016 Pharmacological treatment options for mast cell activation disease | https://doi.org/10.1007/s00210-016-1247-1 https://pubmed.ncbi.nlm.nih.gov/27132234
+  2024 Effect of high-dose Spirulina supplementation on hospitalized adults with COVID-19: a randomized controlled trial | https://doi.org/10.3389/fimmu.2024.1332425 https://pubmed.ncbi.nlm.nih.gov/38655258
+  2017 The effect of Denosumab, the inhibitor for receptor activator of nuclear factor kappa-B ligand (RANKL), on dinitrobenzensulfonic a | None None
+  2014 Immunopharmacology | https://doi.org/10.1111/bcpt.12259_9 None
+  2026 Cisti di Tarlov e aracnoidite adesiva:: uno studio di caso a tre anni dall'intervento chirurgico | None None
+  2022 New Insights into Treatment of Patients with Carpal Tunnel Syndrome | https://doi.org/10.55295/psl.2022.d2 None
+  2023 Abstracts of the 41st SIF National Congress | https://doi.org/10.36118/pharmadvances.2023.50 None
+  2022 Antidepressant Potential of Quercetin and its Glycoside Derivatives: A Comprehensive Review and Update | https://doi.org/10.3389/fphar.2022.865376 https://pubmed.ncbi.nlm.nih.gov/35462940
+  2015 Endocannabinoid system modulation of the ocular immune response | None None
+  2025 Liver diseases: epidemiology, causes, trends and predictions | https://doi.org/10.1038/s41392-024-02072-z https://pubmed.ncbi.nlm.nih.gov/39904973
+  2024 The Versatile Role of Peroxisome Proliferator-Activated Receptors in Immune-Mediated Intestinal Diseases | https://doi.org/10.3390/cells13201688 https://pubmed.ncbi.nlm.nih.gov/39451206
+  2023 Post-COVID syndrome | https://doi.org/10.3238/arztebl.m2022.0409 https://pubmed.ncbi.nlm.nih.gov/36633452
+  2023 The Skin and Natural Cannabinoids–Topical and Transdermal Applications | https://doi.org/10.3390/ph16071049 https://pubmed.ncbi.nlm.nih.gov/37513960
+  2017 Cannabinoid 2 receptor signalling in endotoxin-induced uveitis | None None
+  2013 Avaliação do potencial antialérgico de flavonóides: estudo sinergístico e influência de sistemas lipossomais | https://doi.org/10.11606/d.60.2013.tde-06092013-094238 None
+  2012 Modulation de l'activité des neutrophiles humains par la prostaglandine E₂ glycérylester | None None
+  2026 Clinical effectiveness of spinal cord stimulation in managing refractory upper-extremity pain | https://doi.org/10.1007/s10143-025-04123-7 https://pubmed.ncbi.nlm.nih.gov/41718837
+  2025 Recent Advances in Solid Lipid Nanoparticle Preparation: Methods, Ingredients, and Routes of Administration | https://doi.org/10.22270/jddt.v15i6.7160 None
+  2022 Post-COVID-Syndrom (PCS) | https://doi.org/10.3238/arztebl.2022.stellungnahme_pcs None
+  2022 Advanced Drug Delivery Systems | https://doi.org/10.5772/intechopen.100967 None
+===== fulltext.search:palmitoylethanolamide glucocorticoid arthritis 226
+  2012 Mast cell–glia axis in neuroinflammation and therapeutic potential of the anandamide congener palmitoylethanolamide | https://doi.org/10.1098/rstb.2011.0391 https://pubmed.ncbi.nlm.nih.gov/23108549
+  2026 Palmitoylethanolamide in Human and Animal Obesity | https://doi.org/10.3390/molecules31142524 https://pubmed.ncbi.nlm.nih.gov/42513202
+  2013 Molecular evidence for the involvement of PPAR-δ and PPAR-γ in anti-inflammatory and neuroprotective activities of palmitoylethano | https://doi.org/10.1186/1742-2094-10-20 https://pubmed.ncbi.nlm.nih.gov/23374874
+  2025 Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic st | https://doi.org/10.46563/2686-8997-2025-6-1-44-54 None
+  2020 Oral Supplementation with Ultramicronized Palmitoylethanolamide for Joint Disease and Lameness Management in Four Jumping Horses:  | https://doi.org/10.3390/ani10091469 https://pubmed.ncbi.nlm.nih.gov/32825646
+  2012 Ulcerative Colitis Impairs the Acylethanolamide-Based Anti-Inflammatory System Reversal by 5-Aminosalicylic Acid and Glucocorticoi | https://doi.org/10.1371/journal.pone.0037729 https://pubmed.ncbi.nlm.nih.gov/22662201
+  2016 The therapeutic potential of plant flavonoids on rheumatoid arthritis | https://doi.org/10.1080/10408398.2016.1246413 https://pubmed.ncbi.nlm.nih.gov/27874281
+  2015 Cannabinoid-based drugs targeting CB1 and TRPV1, the sympathetic nervous system, and arthritis | https://doi.org/10.1186/s13075-015-0743-x https://pubmed.ncbi.nlm.nih.gov/26343051
+  2021 Cannabinoid-based therapy as a future for joint degeneration. Focus on the role of CB2 receptor in the arthritis progression and p | https://doi.org/10.1007/s43440-021-00270-y https://pubmed.ncbi.nlm.nih.gov/34050525
+  2020 Influence of Supplements and Drugs used for the Treatment of Musculoskeletal Disorders on Adult Human Tendon-Derived Stem Cells | https://doi.org/10.32098/mltj.03.2020.04 None
+  2009 Nicotinic Acid‐Mediated Activation of Both Membrane and Nuclear Receptors towards Therapeutic Glucocorticoid Mimetics for Treating | https://doi.org/10.1155/2009/853707 https://pubmed.ncbi.nlm.nih.gov/19461950
+  2015 Anti-inflammatory effects of N-acylethanolamines in rheumatoid arthritis synovial cells are mediated by TRPV1 and TRPA1 in a COX-2 | https://doi.org/10.1186/s13075-015-0845-5 https://pubmed.ncbi.nlm.nih.gov/26567045
+  2025 Early prediction of bone destruction in rheumatoid arthritis through machine learning analysis of plasma metabolites | https://doi.org/10.1186/s13075-025-03576-x https://pubmed.ncbi.nlm.nih.gov/40399914
+  2026 Dose-dependent protective effects of Tripterygium wilfordii glycosides on joint and lung injury and gut microbiota remodeling in c | https://doi.org/10.3389/fphar.2026.1783503 https://pubmed.ncbi.nlm.nih.gov/42110528
+  2022 Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol | https://doi.org/10.3390/biom12101453 https://pubmed.ncbi.nlm.nih.gov/36291664
+  2019 Altered gut microbiota and endocannabinoid system tone in vitamin D deficiency-mediated chronic pain | https://doi.org/10.1016/j.bbi.2019.04.006 https://pubmed.ncbi.nlm.nih.gov/30953765
+  2020 Relative Deficiency of Anti-Inflammatory N-Acylethanolamines Compared to Prostaglandins in Oral Lichen Planus | https://doi.org/10.3390/biomedicines8110481 https://pubmed.ncbi.nlm.nih.gov/33172176
+  2021 Antinociceptive Profile of ARN19702, (2-Ethylsulfonylphenyl)-[(2S)-4-(6-fluoro-1,3-benzothiazol-2-yl)-2-methylpiperazin-1-yl]metha | https://doi.org/10.1124/jpet.121.000674 https://pubmed.ncbi.nlm.nih.gov/33986036
+  2018 Intrathecal morphine administration reduces postoperative pain and peripheral endocannabinoid levels in total knee arthroplasty pa | https://doi.org/10.1186/s12871-018-0489-5 https://pubmed.ncbi.nlm.nih.gov/29486720
+  2024 The Predictive Value of Plasma Bioactive Lipids on Craving in Human Volunteers With Alcohol Use Disorder | https://doi.org/10.1016/j.bpsgos.2024.100368 https://pubmed.ncbi.nlm.nih.gov/39282655
+  2019 Reduced Glutamate in the Medial Prefrontal Cortex Is Associated With Emotional and Cognitive Dysregulation in People With Chronic  | https://doi.org/10.3389/fneur.2019.01110 https://pubmed.ncbi.nlm.nih.gov/31849800
+  2018 Mansoa alliacea extract presents antinociceptive effect in a chronic inflammatory pain model in mice through opioid mechanisms | https://doi.org/10.1016/j.neuint.2018.11.017 https://pubmed.ncbi.nlm.nih.gov/30496767
+  2026 New Adjuvant Therapies for Obesity-Related Disorders Associated with Meta-Neuroinflammation | https://doi.org/10.3390/ph19050786 https://pubmed.ncbi.nlm.nih.gov/42198460
+  2016 Adelmidrol, in combination with hyaluronic acid, displays increased anti-inflammatory and analgesic effects against monosodium iod | https://doi.org/10.1186/s13075-016-1189-5 https://pubmed.ncbi.nlm.nih.gov/27955699
+  2014 Immunopharmacology | https://doi.org/10.1111/bcpt.12259_9 None
+  2022 Aerosol-Administered Adelmidrol Attenuates Lung Inflammation in a Murine Model of Acute Lung Injury | https://doi.org/10.3390/biom12091308 https://pubmed.ncbi.nlm.nih.gov/36139146
+  2023 NAPE-PLD regulates specific baseline affective behaviors but is dispensable for inflammatory hyperalgesia | https://doi.org/10.1016/j.ynpai.2023.100135 https://pubmed.ncbi.nlm.nih.gov/38099275
+  2024 Associations between Social Adversity and Biomarkers of Inflammation, Stress, and Aging in Children | https://doi.org/10.1038/s41390-023-02992-6 https://pubmed.ncbi.nlm.nih.gov/38233512
+  2021 Oxidative Stress and Lipid Mediators Modulate Immune Cell Functions in Autoimmune Diseases | https://doi.org/10.3390/ijms22020723 https://pubmed.ncbi.nlm.nih.gov/33450863
+  2023 Pharmacological Treatments of Temporomandibular Disorders: A Systematic Review Including a Network Meta-Analysis | https://doi.org/10.1007/s40265-023-01971-9 https://pubmed.ncbi.nlm.nih.gov/38103150
+  2018 An Inflammation-Centric View of Neurological Disease: Beyond the Neuron | https://doi.org/10.3389/fncel.2018.00072 https://pubmed.ncbi.nlm.nih.gov/29618972
+  2020 Peroxisome Proliferator-Activated Receptors: Experimental Targeting for the Treatment of Inflammatory Bowel Diseases | https://doi.org/10.3389/fphar.2020.00730 https://pubmed.ncbi.nlm.nih.gov/32536865
+  2011 PPARs are a unique set of fatty acid regulated transcription factors controlling both lipid metabolism and inflammation | https://doi.org/10.1016/j.bbadis.2011.02.014 https://pubmed.ncbi.nlm.nih.gov/21382489
+  2007 Cannabinoids: A New Group of Agonists of PPARs | https://doi.org/10.1155/2007/23513 https://pubmed.ncbi.nlm.nih.gov/18288264
+  2021 The Endocannabinoid System and PPARs: Focus on Their Signalling Crosstalk, Action and Transcriptional Regulation | https://doi.org/10.3390/cells10030586 https://pubmed.ncbi.nlm.nih.gov/33799988
+  2021 Comorbid anxiety-like behavior in a rat model of colitis is mediated by an upregulation of corticolimbic fatty acid amide hydrolas | https://doi.org/10.1038/s41386-020-00939-7 https://pubmed.ncbi.nlm.nih.gov/33452437
+  2018 PPARs and pain | https://doi.org/10.1111/bph.14339 https://pubmed.ncbi.nlm.nih.gov/29679493
+  2019 Some Prospective Alternatives for Treating Pain: The Endocannabinoid System and Its Putative Receptors GPR18 and GPR55 | https://doi.org/10.3389/fphar.2018.01496 https://pubmed.ncbi.nlm.nih.gov/30670965
+  2021 Regulation of Inflammatory and Proliferative Pathways by Fotemustine and Dexamethasone in Endometriosis | https://doi.org/10.3390/ijms22115998 https://pubmed.ncbi.nlm.nih.gov/34206129
+  2013 Combination therapy with melatonin and dexamethasone in a mouse model of traumatic brain injury | https://doi.org/10.1530/joe-13-0022 https://pubmed.ncbi.nlm.nih.gov/23532863
+  2026 REJENERA©, a multi-component bioflavonoid-based formula, alleviates osteoarthritis and provides chondroprotection by regulating th | https://doi.org/10.1007/s10787-026-02314-2 https://pubmed.ncbi.nlm.nih.gov/42406250
+  2023 Phytochemicals in the treatment of inflammation-associated diseases: the journey from preclinical trials to clinical practice | https://doi.org/10.3389/fphar.2023.1177050 https://pubmed.ncbi.nlm.nih.gov/37229273
+  2024 Circulating endocannabinoid levels in SARS-CoV-2 infection and their potential role in the inflammatory response | https://doi.org/10.1038/s41598-024-70172-5 https://pubmed.ncbi.nlm.nih.gov/39174572
+  2017 The endocannabinoid system in pain and inflammation: Its relevance to rheumatic disease | https://doi.org/10.5152/eurjrheum.2017.17025 https://pubmed.ncbi.nlm.nih.gov/29164003
+  2019 The role of nitric oxide in inflammation and oxidative stress | https://doi.org/10.15171/ipp.2019.08 None
+  2018 Topical Application of Adelmidrol + Trans-Traumatic Acid Enhances Skin Wound Healing in a Streptozotocin-Induced Diabetic Mouse Mo | https://doi.org/10.3389/fphar.2018.00871 https://pubmed.ncbi.nlm.nih.gov/30190675
+  2010 Regulation of Inflammatory Pain by Inhibition of Fatty Acid Amide Hydrolase | https://doi.org/10.1124/jpet.109.164806 https://pubmed.ncbi.nlm.nih.gov/20375198
+  2025 Immune Dysregulation in Depression and Anxiety: A Review of the Immune Response in Disease and Treatment | https://doi.org/10.3390/cells14080607 https://pubmed.ncbi.nlm.nih.gov/40277932
+  2023 Antioxidant Activity of a Sicilian Almond Skin Extract Using In Vitro and In Vivo Models | https://doi.org/10.3390/ijms241512115 https://pubmed.ncbi.nlm.nih.gov/37569490
+  2022 N-Palmitoyl-D-Glucosamine Inhibits TLR-4/NLRP3 and Improves DNBS-Induced Colon Inflammation through a PPAR-α-Dependent Mechanism | https://doi.org/10.3390/biom12081163 https://pubmed.ncbi.nlm.nih.gov/36009057
+  2025 The Role and Safety of Plant Derived Nutraceuticals as Adjuvant Treatment for Pain Management: A Narrative Review | https://doi.org/10.20944/preprints202509.1442.v1 None
+  2023 The role of efferocytosis‐fueled macrophage metabolism in the resolution of inflammation | https://doi.org/10.1111/imr.13214 https://pubmed.ncbi.nlm.nih.gov/37158427
+  2018 Modulation of the Oxidative Stress and Lipid Peroxidation by Endocannabinoids and Their Lipid Analogues | https://doi.org/10.3390/antiox7070093 https://pubmed.ncbi.nlm.nih.gov/30021985
+  2012 Lack of effect of chronic pre‐treatment with the FAAH inhibitor URB597 on inflammatory pain behaviour: evidence for plastic change | https://doi.org/10.1111/j.1476-5381.2012.02028.x https://pubmed.ncbi.nlm.nih.gov/22595021
+  2023 Polyunsaturated Fatty Acids And Lipid Mediators Controlling Chronic Inflammation In Asthma | https://doi.org/10.15275/rusomj.2023.0201 None
+  2021 Key Mechanisms and Potential Implications of Hericium erinaceus in NLRP3 Inflammasome Activation by Reactive Oxygen Species during | https://doi.org/10.3390/antiox10111664 https://pubmed.ncbi.nlm.nih.gov/34829535
+  2017 Neuroinflammation, Mast Cells, and Glia: Dangerous Liaisons | https://doi.org/10.1177/1073858416687249 https://pubmed.ncbi.nlm.nih.gov/29283023
+  2020 Pathophysiologic Approach to Pain Therapy for Complex Pain Entities: A Narrative Review | https://doi.org/10.1007/s40122-019-00147-2 https://pubmed.ncbi.nlm.nih.gov/31902121
+  2023 Targeting Nrf2 and NF-κB Signaling Pathways in Inflammatory Pain: The Role of Polyphenols from Thinned Apples | https://doi.org/10.3390/molecules28145376 https://pubmed.ncbi.nlm.nih.gov/37513248
+  2013 Macrophage-Mediated Inflammatory Disorders | https://doi.org/10.1155/2013/316482 https://pubmed.ncbi.nlm.nih.gov/23843681
+  2022 P143 EDOXABAN EFFECT IN A BREAST CANCER PATIENT WITH LIVER ARTERIAL INFUSION CHEMOTHERAPY (LAIC) AND BOTH JUGULAR VEIN AND HEPATIC | https://doi.org/10.1093/eurheartj/suac012.138 None
+  2021 Clinical efficacy of Curcuvet and Boswellic acid combined with conventional nutraceutical product: An aid to canine osteoarthritis | https://doi.org/10.1371/journal.pone.0252279 https://pubmed.ncbi.nlm.nih.gov/34048452
+  2025 The Role and Safety of Plant-Derived Nutraceuticals as Adjuvant Treatments for Pain Management: A Narrative Review | https://doi.org/10.3390/nutraceuticals5040038 None
+  2023 Fisetin, a Natural Polyphenol, Ameliorates Endometriosis Modulating Mast Cells Derived NLRP-3 Inflammasome Pathway and Oxidative S | https://doi.org/10.3390/ijms24065076 https://pubmed.ncbi.nlm.nih.gov/36982152
+  2023 Cannabidiol inhibits inflammation in rat osteoarthritis | https://doi.org/10.21203/rs.3.rs-2626587/v1 None
+  2022 N-acylethanolamide metabolizing enzymes are upregulated in human neural progenitor-derived neurons exposed to sub-lethal oxidative | https://doi.org/10.3389/fncel.2022.902278 https://pubmed.ncbi.nlm.nih.gov/36003139
+  2022 From Innate Immunity to Inflammation: A Primer on Multiple Facets of NF-κB Signaling in COVID-19 | https://doi.org/10.3390/physiologia2020004 None
+  2019 The Role of Mast Cells in Stroke | https://doi.org/10.3390/cells8050437 https://pubmed.ncbi.nlm.nih.gov/31083342
+  2022 Toll-like receptor 4 in the interface between neuroimmune response and behavioral alterations caused by stress | https://doi.org/10.37349/ent.2022.00028 None
+  2020 Crosstalk Between the Gut Microbiome and Bioactive Lipids: Therapeutic Targets in Cognitive Frailty | https://doi.org/10.3389/fnut.2020.00017 https://pubmed.ncbi.nlm.nih.gov/32219095
+  2021 Paving Luteolin Therapeutic Potentialities and Agro‐Food‐Pharma Applications: Emphasis on In Vivo Pharmacological Effects and Bioa | https://doi.org/10.1155/2021/1987588 https://pubmed.ncbi.nlm.nih.gov/34594472
+  2016 B-Cell Depletion with CD20 Antibodies as New Approach in the Treatment of Inflammatory and Immunological Events Associated with Sp | https://doi.org/10.1007/s13311-016-0446-2 https://pubmed.ncbi.nlm.nih.gov/27215219
+  2019 Exercise-Induced Hypoalgesia in Pain-Free and Chronic Pain Populations: State of the Art and Future Directions | https://doi.org/10.1016/j.jpain.2019.03.005 https://pubmed.ncbi.nlm.nih.gov/30904519
+  2023 A administração repetida de um agonista do receptor ativado pelo proliferador de peroxissomos gama (PPARγ) reverte o prejuízo na e | https://doi.org/10.11606/d.17.2023.tde-10082023-090340 None
+  2022 Single-cell transcriptomics and network pharmacology reveal therapeutic targets of Jianpi Yiqi Bugan Yishen decoction in immune ce | https://doi.org/10.21037/tp-22-593 https://pubmed.ncbi.nlm.nih.gov/36643680
+  2017 Neuroplasticity of Supraspinal Structures Associated with Pathological Pain | https://doi.org/10.1002/ar.23587 https://pubmed.ncbi.nlm.nih.gov/28263454
+  2019 Immunotherapy for cardiovascular disease | https://doi.org/10.1093/eurheartj/ehz283 https://pubmed.ncbi.nlm.nih.gov/31121017
+  2014 Brain Innate Immunity in the Regulation of Neuroinflammation: Therapeutic Strategies by Modulating CD200-CD200R Interaction Involv | https://doi.org/10.2174/1381612820666140130202911 https://pubmed.ncbi.nlm.nih.gov/24588829
+  2022 CB2 receptor activation inhibits the phagocytic function of microglia through activating ERK/AKT-Nurr1 signal pathways | https://doi.org/10.1038/s41401-021-00853-8 https://pubmed.ncbi.nlm.nih.gov/35132190
+  2016 Ursolic acid prevents augmented peripheral inflammation and inflammatory hyperalgesia in high-fat diet-induced obese rats by resto | https://doi.org/10.3892/mmr.2016.5172 https://pubmed.ncbi.nlm.nih.gov/27108888
+  2016 Pharmacological treatment options for mast cell activation disease | https://doi.org/10.1007/s00210-016-1247-1 https://pubmed.ncbi.nlm.nih.gov/27132234
+  2023 Measures of sleep are not routinely captured in trials assessing treatment outcomes in knee osteoarthritis - A scoping systematic  | https://doi.org/10.1016/j.ocarto.2023.100400 https://pubmed.ncbi.nlm.nih.gov/37636007
+  2013 Nuclear Control of the Inflammatory Response in Mammals by Peroxisome Proliferator-Activated Receptors | https://doi.org/10.1155/2013/613864 https://pubmed.ncbi.nlm.nih.gov/23577023
+  2023 Combined Rehabilitation with Alpha Lipoic Acid, Acetyl-L-Carnitine, Resveratrol, and Cholecalciferolin Discogenic Sciatica in Youn | https://doi.org/10.3390/medicina59122197 https://pubmed.ncbi.nlm.nih.gov/38138300
+  2007 Targeting Polymorphonuclear Leukocytes in Acute Myocardial Infarction | https://doi.org/10.1100/tsw.2007.45 https://pubmed.ncbi.nlm.nih.gov/17334605
+  2021 Cannabinoids and Inflammations of the Gut-Lung-Skin Barrier | https://doi.org/10.3390/jpm11060494 https://pubmed.ncbi.nlm.nih.gov/34072930
+  2012 β (CCL2) and α (CXCL10) chemokine modulations by cytokines and peroxisome proliferator-activated receptor-α agonists in Graves' op | https://doi.org/10.1530/joe-11-0488 https://pubmed.ncbi.nlm.nih.gov/22378921
+  2026 Modulation of Intestinal–Bone Crosstalk by a Standardised Nutraceutical Combination: An In Vitro Mechanistic Study | https://doi.org/10.3390/nu18091331 https://pubmed.ncbi.nlm.nih.gov/42123933
+  2025 Steamed ginger extract ameliorates the symptoms of osteoarthritis in monosodium iodoacetate-induced osteoarthritis rats | https://doi.org/10.4162/nrp.2025.19.5.682 https://pubmed.ncbi.nlm.nih.gov/41098406
+  2016 Transcriptomics: A Step behind the Comprehension of the Polygenic Influence on Oxidative Stress, Immune Deregulation, and Mitochon | https://doi.org/10.1155/2016/9290857 https://pubmed.ncbi.nlm.nih.gov/27419142
+  2023 Differences of gut microbiota and behavioral symptoms between two subgroups of autistic children based on γδT cells-derived IFN-γ  | https://doi.org/10.3389/fimmu.2023.1100816 https://pubmed.ncbi.nlm.nih.gov/36875075
+  2023 Mast Cells as a Target—A Comprehensive Review of Recent Therapeutic Approaches | https://doi.org/10.3390/cells12081187 https://pubmed.ncbi.nlm.nih.gov/37190096
+  2020 Role of PPARs in Progression of Anxiety: Literature Analysis and Signaling Pathways Reconstruction | https://doi.org/10.1155/2020/8859017 https://pubmed.ncbi.nlm.nih.gov/33312191
+  2021 Balneotherapy for Fibromyalgia Syndrome: A Systematic Review and Meta-Analysis | https://doi.org/10.3390/jcm10071493 https://pubmed.ncbi.nlm.nih.gov/33916744
+  2021 Therapeutic Single Compounds for Osteoarthritis Treatment | https://doi.org/10.3390/ph14020131 https://pubmed.ncbi.nlm.nih.gov/33562161
+  2016 Origins of Inflammopharmacology. Twenty-five years on | https://doi.org/10.1007/s10787-016-0295-y https://pubmed.ncbi.nlm.nih.gov/27822636
+  2013 Elevating endocannabinoid levels: pharmacological strategies and potential therapeutic applications | https://doi.org/10.1017/s0029665113003649 https://pubmed.ncbi.nlm.nih.gov/24135210
+  2020 Roles of G protein-coupled receptors in inflammatory bowel disease | https://doi.org/10.3748/wjg.v26.i12.1242 https://pubmed.ncbi.nlm.nih.gov/32256014
+  2025 Metabolomics and machine learning identify urine metabolic characteristics and potential biomarkers for severe Mycoplasma pneumoni | https://doi.org/10.1038/s41598-025-01895-2 https://pubmed.ncbi.nlm.nih.gov/40379752
+  2025 Exploring the Potential of Dietary Supplements to Alleviate Pain Due to Long COVID | https://doi.org/10.3390/nu17071287 https://pubmed.ncbi.nlm.nih.gov/40219044
+  2023 Cool the Inflamed Brain: A Novel Anti-inflammatory Strategy for the Treatment of Major Depressive Disorder | https://doi.org/10.2174/1570159x21666230809112028 https://pubmed.ncbi.nlm.nih.gov/37559243
+  2021 Quality of Life and a Surveillant Endocannabinoid System | https://doi.org/10.3389/fnins.2021.747229 https://pubmed.ncbi.nlm.nih.gov/34776851
+  2024 Luteolin and its antidepressant properties: From mechanism of action to potential therapeutic application | https://doi.org/10.1016/j.jpha.2024.101097 https://pubmed.ncbi.nlm.nih.gov/40276566
+  2023 Potential of dietary hemp and cannabinoids to modulate immune response to enhance health and performance in animals: opportunities | https://doi.org/10.3389/fimmu.2023.1285052 https://pubmed.ncbi.nlm.nih.gov/38111585
+  2017 The effect of Denosumab, the inhibitor for receptor activator of nuclear factor kappa-B ligand (RANKL), on dinitrobenzensulfonic a | None None
+  2024 Alterations of oral microbiome and metabolic signatures and their interaction in oral lichen planus | https://doi.org/10.1080/20002297.2024.2422164 https://pubmed.ncbi.nlm.nih.gov/39498115
+  2013 Effect of Ramadan Fasting On Classically Activated, Oxidative Stress and Inflammation of Macrophage | https://doi.org/10.9790/3013-034101422 None
+  2017 An Update on Safety and Side Effects of Cannabidiol: A Review of Clinical Data and Relevant Animal Studies | https://doi.org/10.1089/can.2016.0034 https://pubmed.ncbi.nlm.nih.gov/28861514
+  2023 Phytochemicals for mitigating the COVID-19 crisis: evidence from pre-clinical and clinical studies | https://doi.org/10.37349/eds.2023.00024 None
+  2021 An Update of Anthraquinone Derivatives Emodin, Diacerein, and Catenarin in Diabetes | https://doi.org/10.1155/2021/3313419 https://pubmed.ncbi.nlm.nih.gov/34589130
+  2022 Total Triterpenes of Wolfiporia cocos (Schwein.) Ryvarden & Gilb Exerts Antidepressant-Like Effects in a Chronic Unpredictable Mil | https://doi.org/10.3389/fphar.2022.793525 https://pubmed.ncbi.nlm.nih.gov/35237160
+  2024 Targeting Metabolic Diseases: The Role of Nutraceuticals in Modulating Oxidative Stress and Inflammation | https://doi.org/10.3390/nu16040507 https://pubmed.ncbi.nlm.nih.gov/38398830
+  1989 P-25 ツニカマイシン処理ラット小腸絨毛上皮細胞における小腸型 Alkaline Phosphataseの免疫組織化学及び酵素組織化学 | None None
+  2024 Cannabinoids for Acute Pain Management: Approaches and Rationale | https://doi.org/10.1007/s11916-024-01252-4 https://pubmed.ncbi.nlm.nih.gov/38607548
+  2018 Mast cells as protectors of health | https://doi.org/10.1016/j.jaci.2018.10.054 https://pubmed.ncbi.nlm.nih.gov/30468774
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2020 Adjuvant Cannabinoid Receptor Type 2 Agonist Modulates the Polarization of Microglia Towards a Non-Inflammatory Phenotype in Exper | https://doi.org/10.3389/fcimb.2020.588195 https://pubmed.ncbi.nlm.nih.gov/33251159
+  2026 Cisti di Tarlov e aracnoidite adesiva:: uno studio di caso a tre anni dall'intervento chirurgico | None None
+  2021 Fibromyalgia: Pathogenesis, Mechanisms, Diagnosis and Treatment Options Update | https://doi.org/10.3390/ijms22083891 https://pubmed.ncbi.nlm.nih.gov/33918736
+  2020 Cannabinoid Receptor and Inflammation | https://doi.org/10.22541/au.159986420.00633539 None
+  2020 You Talking to Me? Says the Enteric Nervous System (ENS) to the Microbe. How Intestinal Microbes Interact with the ENS | https://doi.org/10.3390/jcm9113705 https://pubmed.ncbi.nlm.nih.gov/33218203
+  2021 Resilience in the face of pelvic pain: A pilot study in males and females affected by urologic chronic pelvic pain | https://doi.org/10.1002/nau.24659 https://pubmed.ncbi.nlm.nih.gov/33764614
+  2024 Avaliação da atividade do extrato hidroetanólico da planta >i /i< e anotação de seus metabólitos | https://doi.org/10.11606/d.60.2024.tde-20082025-081014 None
+  2023 Antinociceptive effects of vitamin B-complex: A behavioral and histochemical study in rats | https://doi.org/10.1016/j.ibneur.2023.09.005 https://pubmed.ncbi.nlm.nih.gov/37860709
+  2025 The 7th International Congress on Controversies in Fibromyalgia | https://doi.org/10.55563/clinexprheumatol/zol8zo https://pubmed.ncbi.nlm.nih.gov/39977009
+  2025 The CB₂ Receptor in Immune Regulation and Disease: Genetic Architecture, Epigenetic Control, and Emerging Therapeutic Strategies | https://doi.org/10.20944/preprints202507.0638.v1 None
+  2021 A Systematic Review of Fibromyalgia and Recent Advancements in Treatment: Is Medicinal Cannabis a New Hope? | https://doi.org/10.7759/cureus.17332 https://pubmed.ncbi.nlm.nih.gov/34567876
+  2024 Antiplatelet Effects of Flavonoid Aglycones Are Mediated by Activation of Cyclic Nucleotide-Dependent Protein Kinases | https://doi.org/10.3390/ijms25094864 https://pubmed.ncbi.nlm.nih.gov/38732081
+  2020 Polyphenols and their applications: An approach in food chemistry and innovation potential | https://doi.org/10.1016/j.foodchem.2020.127535 https://pubmed.ncbi.nlm.nih.gov/32798817
+  2025 The N-of-1 Trials and where to use them in Rheumatology | https://doi.org/10.31138/mjr.200125.ehr https://pubmed.ncbi.nlm.nih.gov/41122189
+  2022 Cannabinoids and the endocannabinoid system in fibromyalgia: A review of preclinical and clinical research | https://doi.org/10.1016/j.pharmthera.2022.108216 https://pubmed.ncbi.nlm.nih.gov/35609718
+  2020 Alterations in Anandamide Synthesis and Degradation during Osteoarthritis Progression in an Animal Model | https://doi.org/10.3390/ijms21197381 https://pubmed.ncbi.nlm.nih.gov/33036283
+  2024 How a dietary supplement could preserve cellular homeostasis: an in vitro study | None None
+  2018 Stress-induced exacerbation of LPS/GalN liver injury | https://doi.org/10.13025/16910 None
+  2024 Endocannabinoid Hydrolase Inhibitors: Potential Novel Anxiolytic Drugs | https://doi.org/10.2147/dddt.s462785 https://pubmed.ncbi.nlm.nih.gov/38882045
+  2022 Antidepressant Potential of Quercetin and its Glycoside Derivatives: A Comprehensive Review and Update | https://doi.org/10.3389/fphar.2022.865376 https://pubmed.ncbi.nlm.nih.gov/35462940
+  2022 Temporomandibular disorders, neuropathic and idiopathic orofacial pain, and headaches: a literature review | https://doi.org/10.21037/fomm-21-86 None
+  2021 Endocannabinoid System and Its Regulation by Polyunsaturated Fatty Acids and Full Spectrum Hemp Oils | https://doi.org/10.3390/ijms22115479 https://pubmed.ncbi.nlm.nih.gov/34067450
+  2021 Network Pharmacology and Experimental Evidence: PI3K/AKT Signaling Pathway is Involved in the Antidepressive Roles of Chaihu Shuga | https://doi.org/10.2147/dddt.s315060 https://pubmed.ncbi.nlm.nih.gov/34385814
+  2026 Psychological stress and gut microbiota regulation of osteoarthritis progression: mechanisms and therapeutic strategies | https://doi.org/10.3389/fmicb.2026.1851267 https://pubmed.ncbi.nlm.nih.gov/42490980
+  2013 PRECLINICAL DEVELOPMENT OF PHYTOCANNABINOID- AND ENDOCANNABINOID- BASED PHARMACOTHERAPIES FOR THE TREATMENT OF ETHANOL-INDUCED NEU | None None
+  2022 Nutraceuticals for Complementary Treatment of Multisystem Inflammatory Syndrome in Children: A Perspective from Their Use in COVID | https://doi.org/10.3390/life12101652 https://pubmed.ncbi.nlm.nih.gov/36295088
+  2026 Fatty Acid-Sensing G Protein-Coupled Receptors in Skeletal Metabolism | https://doi.org/10.11005/jbm.25.937 https://pubmed.ncbi.nlm.nih.gov/41850316
+  2025 A comprehensive review of the multifaceted role of cannabinoid receptor type 2 in neurodegenerative and neuropsychiatric disorders | https://doi.org/10.1016/j.phrs.2025.107657 https://pubmed.ncbi.nlm.nih.gov/39978657
+  2020 Mechanisms of repetitive transcranial magnetic stimulation for anti-depression: Evidence from preclinical studies | https://doi.org/10.5498/wjp.v10.i10.223 https://pubmed.ncbi.nlm.nih.gov/33134113
+  2021 Cannabis sativa: Interdisciplinary Strategies and Avenues for Medical and Commercial Progression Outside of CBD and THC | https://doi.org/10.3390/biomedicines9030234 https://pubmed.ncbi.nlm.nih.gov/33652704
+  2024 Diabetic Neuropathic Pain and Circadian Rhythm: A Future Direction Worthy of Study | https://doi.org/10.2147/jpr.s467249 https://pubmed.ncbi.nlm.nih.gov/39308994
+  2008 The Endocannabinoid System: An Osteopathic Perspective | https://doi.org/10.7556/jaoa.2008.108.10.586 https://pubmed.ncbi.nlm.nih.gov/18948642
+  2024 Endocannabinoid signaling in stress, nausea, and vomiting | https://doi.org/10.1111/nmo.14911 https://pubmed.ncbi.nlm.nih.gov/39223918
+  2022 Involvement of the cannabinoid system in chronic inflammatory intestinal diseases: opportunities for new therapies | https://doi.org/10.5217/ir.2021.00160 https://pubmed.ncbi.nlm.nih.gov/35645322
+  2021 Pancreatic Pain—Knowledge Gaps and Research Opportunities in Children and Adults | https://doi.org/10.1097/mpa.0000000000001899 https://pubmed.ncbi.nlm.nih.gov/34643606
+  2023 The 5th International Congress on Controversies in Fibromyalgia | https://doi.org/10.55563/clinexprheumatol/vk3cq3 None
+  2018 The Prokineticins: Neuromodulators and Mediators of Inflammation and Myeloid Cell-Dependent Angiogenesis | https://doi.org/10.1152/physrev.00012.2017 https://pubmed.ncbi.nlm.nih.gov/29537336
+  2025 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) in Pain Management Caused by Temporomandibular Joint (TMJ) Disorders | https://doi.org/10.5772/intechopen.1012254 None
+  2023 Regulatory role of the endocannabinoid system on glial cells toward cognitive function in Alzheimer’s disease: A systematic review | https://doi.org/10.3389/fphar.2023.1053680 https://pubmed.ncbi.nlm.nih.gov/36959856
+  2021 The Role of Cannabinoids in Bone Metabolism: A New Perspective for Bone Disorders | https://doi.org/10.3390/ijms222212374 https://pubmed.ncbi.nlm.nih.gov/34830256
+  2026 Luteolin and neuroinflammation: a multi-target therapeutic strategy for central nervous system disorders | https://doi.org/10.3389/fphar.2026.1844585 https://pubmed.ncbi.nlm.nih.gov/42272845
+  2025 Evaluating the Effects of Exercise on Inflammation Markers in Musculoskeletal Pain: A Systematic Review and Meta-Analysis | https://doi.org/10.3390/sports13060168 https://pubmed.ncbi.nlm.nih.gov/40559680
+  2022 The Molecular Basis of Resilience: A Narrative Review | https://doi.org/10.3389/fpsyt.2022.856998 https://pubmed.ncbi.nlm.nih.gov/35599764
+  2017 Cannabinoid 2 receptor signalling in endotoxin-induced uveitis | None None
+  2021 Effects of non-steroidal anti-inflammatory drugs and other eicosanoid pathway modifiers on antiviral and allergic responses. EAACI | https://doi.org/10.22541/au.163790432.20160380/v1 None
+  2016 Lipids and Oxidative Stress Associated with Ethanol‐Induced Neurological Damage | https://doi.org/10.1155/2016/1543809 https://pubmed.ncbi.nlm.nih.gov/26949445
+  2023 The role of peroxisome proliferator-activated receptors in the modulation of hyperinflammation induced by SARS-CoV-2 infection: A  | https://doi.org/10.3389/fimmu.2023.1127358 https://pubmed.ncbi.nlm.nih.gov/36875108
+  2015 Interferon alpha-induced changes in emotional and nociceptive processing: involvement of the endocannabinoid system | https://doi.org/10.13025/17261 None
+  2018 How to reprogram microglia toward beneficial functions | https://doi.org/10.1002/glia.23484 https://pubmed.ncbi.nlm.nih.gov/30195261
+  1999 Técnicas de análisis multivariante: Análisis de Correspondencias Múltiples :«b»Escalamiento Multidimensional | None None
+  2013 Implication des canaux Cav3.2 dans l'effet antalgique du paracétamol et dans la douleur inflammatoire | https://doi.org/10.70675/cc6abe2cz3cddz4178zbc07z9a122d6277e4 None
+  2018 The role of the endocannabinoid system in the emotional modulation of pain | https://doi.org/10.13025/17711 None
+  2024 The Versatile Role of Peroxisome Proliferator-Activated Receptors in Immune-Mediated Intestinal Diseases | https://doi.org/10.3390/cells13201688 https://pubmed.ncbi.nlm.nih.gov/39451206
+  2022 Effects of non‐steroidal anti‐inflammatory drugs and other eicosanoid pathway modifiers on antiviral and allergic responses: EAACI | https://doi.org/10.1111/all.15258 https://pubmed.ncbi.nlm.nih.gov/35174512
+  2025 Liver diseases: epidemiology, causes, trends and predictions | https://doi.org/10.1038/s41392-024-02072-z https://pubmed.ncbi.nlm.nih.gov/39904973
+  2025 Probiotics in inflammatory bowel diseases: emphasis on mechanisms and clinical application | https://doi.org/10.3389/fmed.2025.1620079 https://pubmed.ncbi.nlm.nih.gov/40823559
+  2020 Endocannabinoid Receptors in the CNS: Potential Drug Targets for the Prevention and Treatment of Neurologic and Psychiatric Disord | https://doi.org/10.2174/1570159x18666200217140255 https://pubmed.ncbi.nlm.nih.gov/32065105
+  2017 A Practical Guide for Treatment of Pain in Patients with Systemic Mast Cell Activation Disease | https://doi.org/10.36076/ppj.20.5.e849 https://pubmed.ncbi.nlm.nih.gov/28934791
+  2026 Acod1/itaconate axis controls anxiety-like behaviors induced by chronic infection of Toxoplasma gondii in mice | https://doi.org/10.1371/journal.pntd.0014077 https://pubmed.ncbi.nlm.nih.gov/41824475
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v6 None
+  2023 The Unmet Needs for Studying Chronic Pelvic/Visceral Pain Using Animal Models | https://doi.org/10.3390/biomedicines11030696 https://pubmed.ncbi.nlm.nih.gov/36979674
+  2020 Effectiveness of NSAIDs in the treatment of major depressive disorder: a comprehensive review | https://doi.org/10.34626/zdne-6j32 None
+  2022 Effects of non-steroidal anti-inflammatory drugs and other eicosanoid pathway modifiers on antiviral and allergic responses: EAACI | https://doi.org/10.1111/all.15258 None
+  2025 Differential changes in the microglial transcriptome between neonatal and adult mice after spinal cord injury | https://doi.org/10.1038/s41598-025-98429-7 https://pubmed.ncbi.nlm.nih.gov/40258965
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v4 None
+  2020 Peroxisome Proliferator-Activated Receptors as a Therapeutic Target in Asthma | https://doi.org/10.1155/2020/8906968 https://pubmed.ncbi.nlm.nih.gov/32395125
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v5 None
+  2024 COVID-19-Associated Sepsis: Potential Role of Phytochemicals as Functional Foods and Nutraceuticals | https://doi.org/10.3390/ijms25158481 https://pubmed.ncbi.nlm.nih.gov/39126050
+  2020 Keep an eye on adenosine: Its role in retinal inflammation | https://doi.org/10.1016/j.pharmthera.2020.107513 https://pubmed.ncbi.nlm.nih.gov/32109489
+  2023 Chronic primary pelvic pain syndrome in men—differential diagnostic evaluation and treatment | https://doi.org/10.3238/arztebl.m2023.0036 https://pubmed.ncbi.nlm.nih.gov/36922749
+  2023 The Skin and Natural Cannabinoids–Topical and Transdermal Applications | https://doi.org/10.3390/ph16071049 https://pubmed.ncbi.nlm.nih.gov/37513960
+  2015 Influence of moderate alcohol consumption on emotional and physical well-being | https://doi.org/10.18174/343310 None
+  2022 Potential Role of Polyphenolic Flavonoids as Senotherapeutic Agents in Degenerative Diseases and Geroprotection | https://doi.org/10.1007/s40290-022-00444-w https://pubmed.ncbi.nlm.nih.gov/36100824
+  2002 Health and social care students and interprofessional learning, opinion, attitudes and self assessment of relevant skills | None None
+  2024 Investigating the Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: A Systematic Review Focused on Inflammation, | https://doi.org/10.3390/antiox13040393 https://pubmed.ncbi.nlm.nih.gov/38671841
+  2018 Emerging Mechanisms of Innate Immunity and Their Translational Potential in Inflammatory Bowel Disease | https://doi.org/10.3389/fmed.2018.00032 https://pubmed.ncbi.nlm.nih.gov/29515999
+  2022 Canabidiol em modelo pré-clínico de dor neuropática: uma avaliação dos aspectos sensoriais, emocionais e inflamatórios relacionado | https://doi.org/10.11606/t.59.2022.tde-01092022-134636 None
+  2024 Repurposed Drugs and Plant-Derived Natural Products as Potential Host-Directed Therapeutic Candidates for Tuberculosis | https://doi.org/10.3390/biom14121497 https://pubmed.ncbi.nlm.nih.gov/39766204
+  2026 Orphan GPCRs in diabetes mellitus: metabolic control, inflammation, and drug development | https://doi.org/10.3389/fendo.2026.1916297 https://pubmed.ncbi.nlm.nih.gov/42688438
+  2025 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v1 None
+  2023 Post-COVID syndrome | https://doi.org/10.3238/arztebl.m2022.0409 https://pubmed.ncbi.nlm.nih.gov/36633452
+  2008 Análise genotípica da linhagem RT2 de Aspergillus nidulans e caracterização de sua glicoproteína antiinflamatória. | https://doi.org/10.11606/t.87.2008.tde-07012009-172622 None
+  2022 The Therapeutic Potential of the Endocannabinoid System in Age-Related Diseases | https://doi.org/10.3390/biomedicines10102492 https://pubmed.ncbi.nlm.nih.gov/36289755
+  2015 Endocannabinoid system modulation of the ocular immune response | None None
+===== fulltext.search:palmitoylethanolamide "adjuvant-induced arthritis" 65
+  2020 Joint Synovial Fluid Metabolomics Method to Decipher the Metabolic Mechanisms of Adjuvant Arthritis and Geniposide Intervention | https://doi.org/10.1021/acs.jproteome.0c00300 https://pubmed.ncbi.nlm.nih.gov/32786678
+  2021 Management of Acute Lung Injury: Palmitoylethanolamide as a New Approach | https://doi.org/10.3390/ijms22115533 https://pubmed.ncbi.nlm.nih.gov/34073872
+  2021 GPR119 and GPR55 as Receptors for Fatty Acid Ethanolamides, Oleoylethanolamide and Palmitoylethanolamide | https://doi.org/10.3390/ijms22031034 https://pubmed.ncbi.nlm.nih.gov/33494185
+  2012 New Targets in Pain, Non-Neuronal Cells, and the Role of Palmitoylethanolamide | https://doi.org/10.2174/1876386301205010012 None
+  2017 Effect of palmitoylethanolamide on inflammatory and neuropathic pain in rats | https://doi.org/10.4097/kjae.2017.70.5.561 https://pubmed.ncbi.nlm.nih.gov/29046777
+  2025 Evaluation of the Clinical Efficacy of a Novel Palmitoylethanolamide–Equisetum arvense Supplement for the Management of Chronic Pa | https://doi.org/10.3390/medsci13030169 https://pubmed.ncbi.nlm.nih.gov/40981167
+  2016 The therapeutic potential of plant flavonoids on rheumatoid arthritis | https://doi.org/10.1080/10408398.2016.1246413 https://pubmed.ncbi.nlm.nih.gov/27874281
+  2001 Molecular targets for cannabidiol and its synthetic analogues: effect on vanilloid VR1 receptors and on the cellular uptake and en | https://doi.org/10.1038/sj.bjp.0704327 https://pubmed.ncbi.nlm.nih.gov/11606325
+  2017 Modulation of LPS-induced ROS production and NF-?B nuclear translocation by N-stearoylethanolamine in macrophages | https://doi.org/10.15407/ubj89.05.062 None
+  2015 Cannabinoid-based drugs targeting CB1 and TRPV1, the sympathetic nervous system, and arthritis | https://doi.org/10.1186/s13075-015-0743-x https://pubmed.ncbi.nlm.nih.gov/26343051
+  2023 Protective effects of polydatin against bone and joint disorders: thein vitroandin vivoevidence so far | https://doi.org/10.1017/s0954422423000082 https://pubmed.ncbi.nlm.nih.gov/37088535
+  2016 Role of PPARα and PPARγ in Mediating the Analgesic Properties of Ibuprofen in vivo and the Effects of Dual PPARα/γ Activation in I | https://doi.org/10.3923/ijp.2016.812.820 None
+  2012 Lack of effect of chronic pre‐treatment with the FAAH inhibitor URB597 on inflammatory pain behaviour: evidence for plastic change | https://doi.org/10.1111/j.1476-5381.2012.02028.x https://pubmed.ncbi.nlm.nih.gov/22595021
+  2019 Pain Relieving Effect of-NSAIDs-CAIs Hybrid Molecules: Systemic and Intra-Articular Treatments against Rheumatoid Arthritis | https://doi.org/10.3390/ijms20081923 https://pubmed.ncbi.nlm.nih.gov/31003542
+  2016 Ursolic acid prevents augmented peripheral inflammation and inflammatory hyperalgesia in high-fat diet-induced obese rats by resto | https://doi.org/10.3892/mmr.2016.5172 https://pubmed.ncbi.nlm.nih.gov/27108888
+  2025 Early prediction of bone destruction in rheumatoid arthritis through machine learning analysis of plasma metabolites | https://doi.org/10.1186/s13075-025-03576-x https://pubmed.ncbi.nlm.nih.gov/40399914
+  2017 Bottlenecks in the development of topical analgesics: molecule, formulation, dose-finding, and phase III design | https://doi.org/10.2147/jpr.s131434 https://pubmed.ncbi.nlm.nih.gov/28360532
+  2023 A Comprehensive Review of Natural Flavonoids with Anti-SARS-CoV-2 Activity | https://doi.org/10.3390/molecules28062735 https://pubmed.ncbi.nlm.nih.gov/36985705
+  2004 The cannabinomimetic arachidonyl‐2‐chloroethylamide (ACEA) acts on capsaicin‐sensitive TRPV1 receptors but not cannabinoid recepto | https://doi.org/10.1038/sj.bjp.0705902 https://pubmed.ncbi.nlm.nih.gov/15277316
+  2026 Polydatin in rheumatological diseases: Multitarget mechanisms and therapeutic potential | https://doi.org/10.1016/j.fbio.2026.108453 None
+  2024 Macleaya Extract versus Pregabalin Therapeutic Effectiveness for Neuropathic Pain in Dogs | https://doi.org/10.1155/2024/9939754 https://pubmed.ncbi.nlm.nih.gov/39109216
+  2025 Evaluation of the anti-osteoarthritic effects and mechanisms of Cissus quadrangularis extract containing quercetin and isorhamneti | https://doi.org/10.29219/fnr.v69.12173 https://pubmed.ncbi.nlm.nih.gov/40264489
+  2003 Toward Distributed, Pluggable Tools and Data: Re-Engineering a Data Analysis Architecture | None None
+  2009 Localization of the Endocannabinoid-Degrading Enzyme Fatty Acid Amide Hydrolase in Rat Dorsal Root Ganglion Cells and Its Regulati | https://doi.org/10.1523/jneurosci.4071-08.2009 https://pubmed.ncbi.nlm.nih.gov/19321773
+  2022 CB2 receptor activation inhibits the phagocytic function of microglia through activating ERK/AKT-Nurr1 signal pathways | https://doi.org/10.1038/s41401-021-00853-8 https://pubmed.ncbi.nlm.nih.gov/35132190
+  2017 Polyunsaturated fatty acids: any role in rheumatoid arthritis? | https://doi.org/10.1186/s12944-017-0586-3 https://pubmed.ncbi.nlm.nih.gov/29017507
+  2023 Luteolin: A promising natural agent in management of pain in chronic conditions | https://doi.org/10.3389/fpain.2023.1114428 https://pubmed.ncbi.nlm.nih.gov/36937566
+  2021 Role of natural products in alleviation of rheumatoid arthritis—A review | https://doi.org/10.1111/jfbc.13673 https://pubmed.ncbi.nlm.nih.gov/33624882
+  2024 Saturated Fats: Time to Assess Their Beneficial Role in a Healthful Diet | https://doi.org/10.20944/preprints202407.0208.v1 None
+  2022 Validation Status and Recent Advances for the Quantification of 3-Nitrotyrosine as a Biomarker of Oxidative/Nitrosative Stress in  | None None
+  2025 Exploring the Potential of Dietary Supplements to Alleviate Pain Due to Long COVID | https://doi.org/10.3390/nu17071287 https://pubmed.ncbi.nlm.nih.gov/40219044
+  2021 A KCa3.1 Channel Opener, ASP0819, Modulates Nociceptive Signal Processing from Peripheral Nerves in Fibromyalgia-Like Pain in Rats | https://doi.org/10.2147/jpr.s274563 https://pubmed.ncbi.nlm.nih.gov/33469353
+  2017 The Endogenous Cannabinoid System: A Budding Source of Targets for Treating Inflammatory and Neuropathic Pain | https://doi.org/10.1038/npp.2017.204 https://pubmed.ncbi.nlm.nih.gov/28857069
+  2020 Polyphenols and their applications: An approach in food chemistry and innovation potential | https://doi.org/10.1016/j.foodchem.2020.127535 https://pubmed.ncbi.nlm.nih.gov/32798817
+  2014 Peripheral changes in endometriosis-associated pain | https://doi.org/10.1093/humupd/dmu021 https://pubmed.ncbi.nlm.nih.gov/24859987
+  2024 OTOİMMÜN HASTALIKLARDA LUTEOLİN BİLEŞİĞİNİN ROLÜ | https://doi.org/10.33483/jfpau.1459098 None
+  2023 Recent advances in the treatment of pain in endometriosis: A bibliometric analysis of experimental models | https://doi.org/10.14202/vetworld.2023.2329-2339 https://pubmed.ncbi.nlm.nih.gov/38152263
+  2025 Acetaminophen inhibits diacylglycerol lipase synthesis of 2-arachidonoyl glycerol: implications for nociception | https://doi.org/10.1101/2025.03.05.640851 None
+  2017 Neuroplasticity of Supraspinal Structures Associated with Pathological Pain | https://doi.org/10.1002/ar.23587 https://pubmed.ncbi.nlm.nih.gov/28263454
+  2018 The Endocannabinoid Reuptake Inhibitor WOBE437 Is Orally Bioavailable and Exerts Indirect Polypharmacological Effects via Differen | https://doi.org/10.3389/fnmol.2018.00180 https://pubmed.ncbi.nlm.nih.gov/29910713
+  2023 Phytochemicals in the treatment of inflammation-associated diseases: the journey from preclinical trials to clinical practice | https://doi.org/10.3389/fphar.2023.1177050 https://pubmed.ncbi.nlm.nih.gov/37229273
+  2023 Effects of Cannabidiol in Inflammation: A Review of Pre-clinical and Clinical Findings | https://doi.org/10.14712/23362936.2023.17 https://pubmed.ncbi.nlm.nih.gov/37736946
+  2025 Acetaminophen inhibits diacylglycerol lipase synthesis of 2-arachidonoyl glycerol: Implications for nociception | https://doi.org/10.1016/j.xcrm.2025.102139 https://pubmed.ncbi.nlm.nih.gov/40381619
+  2022 Design and function of targeted endocannabinoid nanoparticles | https://doi.org/10.1038/s41598-022-21715-1 https://pubmed.ncbi.nlm.nih.gov/36241847
+  2022 Behavioral, Anti-Inflammatory, and Neuroprotective Effects of a Novel FPR2 Agonist in Two Mouse Models of Autism | https://doi.org/10.3390/ph15020161 https://pubmed.ncbi.nlm.nih.gov/35215274
+  2020 Adjuvant Cannabinoid Receptor Type 2 Agonist Modulates the Polarization of Microglia Towards a Non-Inflammatory Phenotype in Exper | https://doi.org/10.3389/fcimb.2020.588195 https://pubmed.ncbi.nlm.nih.gov/33251159
+  2021 Cannabinoids as Key Regulators of Inflammasome Signaling: A Current Perspective | https://doi.org/10.3389/fimmu.2020.613613 https://pubmed.ncbi.nlm.nih.gov/33584697
+  2020 How to study anxiety and depression in rodent models of chronic pain? | https://doi.org/10.1111/ejn.14686 https://pubmed.ncbi.nlm.nih.gov/31985104
+  2016 Transcriptomics: A Step behind the Comprehension of the Polygenic Influence on Oxidative Stress, Immune Deregulation, and Mitochon | https://doi.org/10.1155/2016/9290857 https://pubmed.ncbi.nlm.nih.gov/27419142
+  2021 Cannabinoid-based therapy as a future for joint degeneration. Focus on the role of CB2 receptor in the arthritis progression and p | https://doi.org/10.1007/s43440-021-00270-y https://pubmed.ncbi.nlm.nih.gov/34050525
+  2026 Epigenetic Modulation by Luteolin, Quercetin and Apigenin in Systemic Lupus Erythematosus and Rheumatoid Arthritis: Mechanisms and | https://doi.org/10.3390/ijms27167365 https://pubmed.ncbi.nlm.nih.gov/42653369
+  2020 Alterations in Anandamide Synthesis and Degradation during Osteoarthritis Progression in an Animal Model | https://doi.org/10.3390/ijms21197381 https://pubmed.ncbi.nlm.nih.gov/33036283
+  2018 Targeting Cytokines for Morphine Tolerance: A Narrative Review | https://doi.org/10.2174/1570159x15666171128144441 https://pubmed.ncbi.nlm.nih.gov/29189168
+  2024 Insights into frankincense and myrrh research: A comprehensive analytical study of patterns and perspectives | https://doi.org/10.1016/j.heliyon.2024.e38102 https://pubmed.ncbi.nlm.nih.gov/39416835
+  2011 Changes in endocannabinoid signaling contribute to the anti-hyperalgesic effect of URB597 in a murine model of persistent inflamma | None None
+  2025 iNOS Mediates High-Fat Diet-Associated Aggravation of Complete Freund’s Adjuvant-Induced Inflammatory Pain | https://doi.org/10.3390/ijms26115422 https://pubmed.ncbi.nlm.nih.gov/40508229
+  2021 Natural products: potential treatments for cisplatin-induced nephrotoxicity | https://doi.org/10.1038/s41401-021-00620-9 https://pubmed.ncbi.nlm.nih.gov/33750909
+  2002 Health and social care students and interprofessional learning, opinion, attitudes and self assessment of relevant skills | None None
+  2020 Keep an eye on adenosine: Its role in retinal inflammation | https://doi.org/10.1016/j.pharmthera.2020.107513 https://pubmed.ncbi.nlm.nih.gov/32109489
+  2026 Nrf2 as a redox checkpoint in autoimmune joint inflammation: microenvironmental redox control across the arthritis spectrum | https://doi.org/10.3389/fimmu.2026.1775908 https://pubmed.ncbi.nlm.nih.gov/41890758
+  2024 PPARs in Clinical Experimental Medicine after 35 Years of Worldwide Scientific Investigations and Medical Experiments | https://doi.org/10.3390/biom14070786 https://pubmed.ncbi.nlm.nih.gov/39062500
+  2026 The role of cannabinoid receptors in the development and progression of diabetic neuropathy | https://doi.org/10.17869/enu.2823206 None
+  2022 The Therapeutic Potential of the Endocannabinoid System in Age-Related Diseases | https://doi.org/10.3390/biomedicines10102492 https://pubmed.ncbi.nlm.nih.gov/36289755
+  2022 Nutraceuticals: A source of benefaction for neuropathic pain and fibromyalgia | https://doi.org/10.1016/j.jff.2022.105260 None
+  2025 Recent Advances in Solid Lipid Nanoparticle Preparation: Methods, Ingredients, and Routes of Administration | https://doi.org/10.22270/jddt.v15i6.7160 None
+===== fulltext.search:palmitoylethanolamide "adjuvant arthritis" 22
+  2020 Joint Synovial Fluid Metabolomics Method to Decipher the Metabolic Mechanisms of Adjuvant Arthritis and Geniposide Intervention | https://doi.org/10.1021/acs.jproteome.0c00300 https://pubmed.ncbi.nlm.nih.gov/32786678
+  2017 A novel composite formulation of palmitoylethanolamide and quercetin decreases inflammation and relieves pain in inflammatory and  | https://doi.org/10.1186/s12917-017-1151-z https://pubmed.ncbi.nlm.nih.gov/28768536
+  2013 Evolution in pharmacologic thinking around the natural analgesic palmitoylethanolamide: from nonspecific resistance to PPAR-α agon | https://doi.org/10.2147/jpr.s48653 https://pubmed.ncbi.nlm.nih.gov/23964161
+  2013 Evolution in pharmacologic thinking around the natural analgesic palmitoylethanolamide: from nonspecific resistance to PPAR-α agon | None None
+  2016 The therapeutic potential of plant flavonoids on rheumatoid arthritis | https://doi.org/10.1080/10408398.2016.1246413 https://pubmed.ncbi.nlm.nih.gov/27874281
+  2017 The endocannabinoid system in pain and inflammation: Its relevance to rheumatic disease | https://doi.org/10.5152/eurjrheum.2017.17025 https://pubmed.ncbi.nlm.nih.gov/29164003
+  2015 Cannabinoid-based drugs targeting CB1 and TRPV1, the sympathetic nervous system, and arthritis | https://doi.org/10.1186/s13075-015-0743-x https://pubmed.ncbi.nlm.nih.gov/26343051
+  2020 Cannabinoid control of neurogenic inflammation | https://doi.org/10.1111/bph.15208 https://pubmed.ncbi.nlm.nih.gov/33289534
+  2022 Toxic Effects of Endocrine Disruptor Exposure on Collagen-Induced Arthritis | https://doi.org/10.3390/biom12040564 https://pubmed.ncbi.nlm.nih.gov/35454153
+  2009 Cannabinoids, Endocannabinoids, and Related Analogs in Inflammation | https://doi.org/10.1208/s12248-009-9084-5 https://pubmed.ncbi.nlm.nih.gov/19199042
+  2020 Validation of the Key Active Ingredients and Anti-Inflammatory and Analgesic Effects of Shenjin Huoxue Mixture Against Osteoarthri | https://doi.org/10.2147/dddt.s243951 https://pubmed.ncbi.nlm.nih.gov/32214800
+  2009 Endogenous Anandamide and Cannabinoid Receptor-2 Contribute to Electroacupuncture Analgesia in Rats | https://doi.org/10.1016/j.jpain.2008.12.012 https://pubmed.ncbi.nlm.nih.gov/19409856
+  2021 Rno-miR-199a-3p targets Nedd4 to promote sensitization of ST36 acupoints via mast cell activation in a rat model of knee osteoarth | https://doi.org/10.21203/rs.3.rs-929701/v1 None
+  2022 Validation Status and Recent Advances for the Quantification of 3-Nitrotyrosine as a Biomarker of Oxidative/Nitrosative Stress in  | None None
+  2022 Cyclooxygenase-2 activates EGFR–ERK1/2 pathway via PGE2-mediated ADAM-17 signaling in testosterone-induced benign prostatic hyperp | https://doi.org/10.1007/s10787-022-01123-7 https://pubmed.ncbi.nlm.nih.gov/36586043
+  2021 Role of natural products in alleviation of rheumatoid arthritis—A review | https://doi.org/10.1111/jfbc.13673 https://pubmed.ncbi.nlm.nih.gov/33624882
+  2007 Arthritis and pain. Future targets to control osteoarthritis pain | https://doi.org/10.1186/ar2178 https://pubmed.ncbi.nlm.nih.gov/17561993
+  2014 Immunopharmacology | https://doi.org/10.1111/bcpt.12259_9 None
+  2025 Therapeutic Applications and Mechanisms of Superoxide Dismutase (SOD) in Different Pathogenesis | https://doi.org/10.3390/biom15081130 https://pubmed.ncbi.nlm.nih.gov/40867576
+  2018 Targeting Cytokines for Morphine Tolerance: A Narrative Review | https://doi.org/10.2174/1570159x15666171128144441 https://pubmed.ncbi.nlm.nih.gov/29189168
+  2025 Recent Advances in Solid Lipid Nanoparticle Preparation: Methods, Ingredients, and Routes of Administration | https://doi.org/10.22270/jddt.v15i6.7160 None
+  2024 PPARs in Clinical Experimental Medicine after 35 Years of Worldwide Scientific Investigations and Medical Experiments | https://doi.org/10.3390/biom14070786 https://pubmed.ncbi.nlm.nih.gov/39062500
+===== fulltext.search:palmitoylethanolamide baricitinib 32
+  2021 Cytokine Storm Syndrome in SARS-CoV-2 Infections: A Functional Role of Mast Cells | https://doi.org/10.3390/cells10071761 https://pubmed.ncbi.nlm.nih.gov/34359931
+  2026 Pushing the Boundaries of Topical Therapy in Patients with Atopic Dermatitis: A Review of Baseline Disease Severity and Burden in  | https://doi.org/10.1007/s13555-026-01858-z https://pubmed.ncbi.nlm.nih.gov/42446802
+  2023 The translational revolution in atopic dermatitis: the paradigm shift from pathogenesis to treatment | https://doi.org/10.1038/s41423-023-00992-4 https://pubmed.ncbi.nlm.nih.gov/36928371
+  2023 Luteolin inhibits spike protein of severe acute respiratory syndrome coronavirus‐2 ( SARS‐CoV ‐2) binding to angiotensin‐convertin | https://doi.org/10.1002/ptr.7826 https://pubmed.ncbi.nlm.nih.gov/37166054
+  2019 Pain Relieving Effect of-NSAIDs-CAIs Hybrid Molecules: Systemic and Intra-Articular Treatments against Rheumatoid Arthritis | https://doi.org/10.3390/ijms20081923 https://pubmed.ncbi.nlm.nih.gov/31003542
+  2025 Exploring the Potential of Dietary Supplements to Alleviate Pain Due to Long COVID | https://doi.org/10.3390/nu17071287 https://pubmed.ncbi.nlm.nih.gov/40219044
+  2022 Ibrutinib Prevents Acute Lung Injury via Multi-Targeting BTK, FLT3 and EGFR in Mice | https://doi.org/10.3390/ijms232113478 https://pubmed.ncbi.nlm.nih.gov/36362264
+  2024 Cannabidiol Alleviates Imiquimod-Induced Psoriasis by Inhibiting JAK2–STAT3 in a Mouse Model | https://doi.org/10.3390/biomedicines12092084 https://pubmed.ncbi.nlm.nih.gov/39335596
+  2025 Therapeutic potential of cannabinoids for treating atopic dermatitis | https://doi.org/10.1186/s42238-025-00317-4 https://pubmed.ncbi.nlm.nih.gov/40818974
+  2022 Combination Therapies against COVID-19 | https://doi.org/10.31083/j.fbl2709257 https://pubmed.ncbi.nlm.nih.gov/36224005
+  2023 COVID-19 annual update: a narrative review | https://doi.org/10.1186/s40246-023-00515-2 https://pubmed.ncbi.nlm.nih.gov/37488607
+  2024 Cannabidiol modulation of immune cell function: in vitro insights and therapeutic implications for atopic dermatitis | https://doi.org/10.5114/ada.2024.142182 https://pubmed.ncbi.nlm.nih.gov/39290893
+  2023 Long COVID: Complications, Underlying Mechanisms, and Treatment Strategies | https://doi.org/10.26502/ami.93650103 https://pubmed.ncbi.nlm.nih.gov/37388279
+  2026 Early-stage research and new pharmacological targets in Alzhei-mer's dementia | https://doi.org/10.12680/balneo.2026.1024 None
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v6 None
+  2024 A case for seeking sex-specific treatments in Alzheimer’s disease | https://doi.org/10.3389/fnagi.2024.1346621 https://pubmed.ncbi.nlm.nih.gov/38414633
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v5 None
+  2026 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v4 None
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2023 Alzheimer's disease drug development pipeline: 2023 | https://doi.org/10.1002/trc2.12385 https://pubmed.ncbi.nlm.nih.gov/37251912
+  2024 Alzheimer's disease drug development pipeline: 2024 | https://doi.org/10.1002/trc2.12465 https://pubmed.ncbi.nlm.nih.gov/38659717
+  2023 Phytochemicals for mitigating the COVID-19 crisis: evidence from pre-clinical and clinical studies | https://doi.org/10.37349/eds.2023.00024 None
+  2024 Insights for Future Pharmacology: Exploring Phytochemicals as Potential Inhibitors Targeting SARS-CoV-2 Papain-like Protease | https://doi.org/10.3390/futurepharmacol4030029 None
+  2021 Analysis of the Numeric Rating Scale (NRS) Used in Clinical Studies Based on Randomized Controlled Studies | https://doi.org/10.22246/jikm.2021.42.4.510 None
+  2025 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v1 None
+  2023 A Literature Review of Pruritus in Elderly | https://doi.org/10.46799/ajesh.v2i10.142 None
+  2023 The Potential of Anti-coronavirus Plant Secondary Metabolites in COVID-19 Drug Discovery as an Alternative to Repurposed Drugs: A  | https://doi.org/10.1055/a-2209-6357 https://pubmed.ncbi.nlm.nih.gov/37956978
+  2024  | https://doi.org/10.1055/s-014-59094 None
+  2025 Liver diseases: epidemiology, causes, trends and predictions | https://doi.org/10.1038/s41392-024-02072-z https://pubmed.ncbi.nlm.nih.gov/39904973
+  2025 Long COVID Treatment No Silver Bullets, Only a Few Bronze BBs | https://doi.org/10.20944/preprints202509.0387.v2 None
+  2021 THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF) | https://doi.org/10.36118/pharmadvances.03.2021.01 None
+  2021 ABSTRACTS OF THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF)-The scientific value and appropriate use of drugs | https://doi.org/10.36118/pharmadvances.03.2021.02 None
+===== fulltext.search:palmitoylethanolamide tofacitinib 18
+  2016 The therapeutic potential of plant flavonoids on rheumatoid arthritis | https://doi.org/10.1080/10408398.2016.1246413 https://pubmed.ncbi.nlm.nih.gov/27874281
+  2018 Polydatin effectively attenuates disease activity in lupus-prone mouse models by blocking ROS-mediated NET formation | https://doi.org/10.1186/s13075-018-1749-y https://pubmed.ncbi.nlm.nih.gov/30419963
+  2025 Research Progress of Traditional Chinese Medicine Compound Regulating Intestinal Flora in the Treatment of Rheumatoid Arthritis | https://doi.org/10.23977/medcm.2025.070314 None
+  2021 Cytokine Storm Syndrome in SARS-CoV-2 Infections: A Functional Role of Mast Cells | https://doi.org/10.3390/cells10071761 https://pubmed.ncbi.nlm.nih.gov/34359931
+  2023 COVID-19 annual update: a narrative review | https://doi.org/10.1186/s40246-023-00515-2 https://pubmed.ncbi.nlm.nih.gov/37488607
+  2026 Early-stage research and new pharmacological targets in Alzhei-mer's dementia | https://doi.org/10.12680/balneo.2026.1024 None
+  2023 A Comprehensive Comparison of Tissue Processing Methods for High-Quality MALDI Imaging of Lipids in Reconstructed Human Epidermis | https://doi.org/10.1021/jasms.3c00185 https://pubmed.ncbi.nlm.nih.gov/37843012
+  2025 Therapeutic potential of cannabinoids for treating atopic dermatitis | https://doi.org/10.1186/s42238-025-00317-4 https://pubmed.ncbi.nlm.nih.gov/40818974
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2023 Long COVID: Complications, Underlying Mechanisms, and Treatment Strategies | https://doi.org/10.26502/ami.93650103 https://pubmed.ncbi.nlm.nih.gov/37388279
+  2025 HIV and the gut: implications for HIV persistence, immune dysfunction and cure strategies | https://doi.org/10.3389/fimmu.2025.1650852 https://pubmed.ncbi.nlm.nih.gov/41050701
+  2023 The translational revolution in atopic dermatitis: the paradigm shift from pathogenesis to treatment | https://doi.org/10.1038/s41423-023-00992-4 https://pubmed.ncbi.nlm.nih.gov/36928371
+  2021 Interplay between immunity and amyotrophic lateral sclerosis: Clinical impact | https://doi.org/10.1016/j.neubiorev.2021.06.027 https://pubmed.ncbi.nlm.nih.gov/34153344
+  2020 Roles of G protein-coupled receptors in inflammatory bowel disease | https://doi.org/10.3748/wjg.v26.i12.1242 https://pubmed.ncbi.nlm.nih.gov/32256014
+  2021 Gene Expression Data Mining Reveals the Involvement of GPR55 and Its Endogenous Ligands in Immune Response, Cancer, and Differenti | https://doi.org/10.3390/ijms222413328 https://pubmed.ncbi.nlm.nih.gov/34948125
+  2023 A Literature Review of Pruritus in Elderly | https://doi.org/10.46799/ajesh.v2i10.142 None
+  2023 The 5th International Congress on Controversies in Fibromyalgia | https://doi.org/10.55563/clinexprheumatol/vk3cq3 None
+  2017 The effect of Denosumab, the inhibitor for receptor activator of nuclear factor kappa-B ligand (RANKL), on dinitrobenzensulfonic a | None None
+===== fulltext.search:palmitoylethanolamide tacrolimus arthritis 24
+  2025 Palmitoylethanolamide ( PEA ) Induces an Increase in Spleen Regulatory T Cells, Reduces CD8 + Cells and TNF ‐α Levels in Target Or | https://doi.org/10.1111/imm.70010 https://pubmed.ncbi.nlm.nih.gov/40563231
+  2013 The cannabinoid TRPA1 agonist cannabichromene inhibits nitric oxide production in macrophages and ameliorates murine colitis | https://doi.org/10.1111/bph.12120 https://pubmed.ncbi.nlm.nih.gov/23373571
+  2020 A new role for anandamide: defective link between the systemic and skin endocannabinoid systems in hypertrophic human wound healin | https://doi.org/10.1038/s41598-020-68058-3 https://pubmed.ncbi.nlm.nih.gov/32636441
+  2022 An Overview of Nanostructured Lipid Carriers and its Application in Drug Delivery through Different Routes | https://doi.org/10.34172/apb.2023.056 https://pubmed.ncbi.nlm.nih.gov/37646052
+  2022 Cannabinoid Compounds as a Pharmacotherapeutic Option for the Treatment of Non-Cancer Skin Diseases | https://doi.org/10.3390/cells11244102 https://pubmed.ncbi.nlm.nih.gov/36552866
+  2020 Novel candidate drugs in anti-tumor necrosis factor refractory Crohn’s diseases: in silico study for drug repositioning | https://doi.org/10.1038/s41598-020-67801-0 https://pubmed.ncbi.nlm.nih.gov/32612148
+  2025 Hyaluronic Acid-Based Hybrid Nanoparticles as Promising Carriers for the Intranasal Administration of Dimethyl Fumarate | https://doi.org/10.2147/ijn.s481917 https://pubmed.ncbi.nlm.nih.gov/39802381
+  2021 Lipid Nanoparticles for the Posterior Eye Segment | https://doi.org/10.3390/pharmaceutics14010090 https://pubmed.ncbi.nlm.nih.gov/35056986
+  2005 Subject index | https://doi.org/10.1016/s0190-9622(05)00303-8 None
+  2021 Therapeutic Effects of Tonsil-derived Mesenchymal Stem Cells in an Atopic Dermatitis Mouse Model | https://doi.org/10.21873/invivo.12325 https://pubmed.ncbi.nlm.nih.gov/33622877
+  2021 Natural products: potential treatments for cisplatin-induced nephrotoxicity | https://doi.org/10.1038/s41401-021-00620-9 https://pubmed.ncbi.nlm.nih.gov/33750909
+  2022 Encapsulation of cannabidiol in oil-in-water nanoemulsions and nanoemulsion-filled hydrogels: A structure and biological assessmen | https://doi.org/10.1016/j.jcis.2022.12.036 https://pubmed.ncbi.nlm.nih.gov/36535166
+  2026 Point-of-care Diagnostic Framework for Fibromyalgia Using Integrated Vibrational Spectroscopy and Metabolomics | https://doi.org/10.21203/rs.3.rs-9873664/v1 https://pubmed.ncbi.nlm.nih.gov/42326506
+  2026 A Review of Nanostructured Lipid Carriers (NLCs) and Their Applications in Pharmaceuticals and Cosmetics | https://doi.org/10.25073/2588-1132/vnumps.5062 None
+  2022 Synthesis and Potential Applications of Lipid Nanoparticles in Medicine | https://doi.org/10.3390/ma15020682 https://pubmed.ncbi.nlm.nih.gov/35057398
+  2025 Therapeutic Applications and Mechanisms of Superoxide Dismutase (SOD) in Different Pathogenesis | https://doi.org/10.3390/biom15081130 https://pubmed.ncbi.nlm.nih.gov/40867576
+  2024 Cannabinoids in Integumentary Wound Care: A Systematic Review of Emerging Preclinical and Clinical Evidence | https://doi.org/10.3390/pharmaceutics16081081 https://pubmed.ncbi.nlm.nih.gov/39204426
+  2023 Neurophysiology of corneal neuropathic pain and emerging pharmacotherapeutics | https://doi.org/10.1002/jnr.25285 https://pubmed.ncbi.nlm.nih.gov/38284865
+  2023 The Skin and Natural Cannabinoids–Topical and Transdermal Applications | https://doi.org/10.3390/ph16071049 https://pubmed.ncbi.nlm.nih.gov/37513960
+  2025 Recent Advances in Solid Lipid Nanoparticle Preparation: Methods, Ingredients, and Routes of Administration | https://doi.org/10.22270/jddt.v15i6.7160 None
+  2021 THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF) | https://doi.org/10.36118/pharmadvances.03.2021.01 None
+  2021 ABSTRACTS OF THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF)-The scientific value and appropriate use of drugs | https://doi.org/10.36118/pharmadvances.03.2021.02 None
+  2021 Interplay between immunity and amyotrophic lateral sclerosis: Clinical impact | https://doi.org/10.1016/j.neubiorev.2021.06.027 https://pubmed.ncbi.nlm.nih.gov/34153344
+  2025 Oleic acid is released from sensory neurons upon painful stimulation and reduces thermal hypersensitivity via GPR40 | https://doi.org/10.21248/gups.89982 None
+===== fulltext.search:palmitoylethanolamide malondialdehyde arthritis 140
+  2013 Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | https://doi.org/10.1186/ar4382 https://pubmed.ncbi.nlm.nih.gov/24246048
+  2016 Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain | https://doi.org/10.1096/fasebj.30.1_supplement.927.8 None
+  2016 The pharmacology of palmitoylethanolamide and first data on the therapeutic efficacy of some of its new formulations | https://doi.org/10.1111/bph.13580 https://pubmed.ncbi.nlm.nih.gov/27539936
+  2002 Therapeutic effect of the endogenous fatty acid amide, palmitoylethanolamide, in rat acute inflammation: inhibition of nitric oxid | https://doi.org/10.1038/sj.bjp.0704900 https://pubmed.ncbi.nlm.nih.gov/12359622
+  2023 Therapeutic Use of Palmitoylethanolamide as an Anti-Inflammatory and Immunomodulator | https://doi.org/10.3390/futurepharmacol3040058 None
+  2026 Palmitoylethanolamide in Human and Animal Obesity | https://doi.org/10.3390/molecules31142524 https://pubmed.ncbi.nlm.nih.gov/42513202
+  2023 Therapeutic Use of Palmitoylethanolamide as an Anti-inflammatory and Immunomodulator | https://doi.org/10.20944/preprints202310.0675.v1 None
+  2021 Role of natural products in alleviation of rheumatoid arthritis—A review | https://doi.org/10.1111/jfbc.13673 https://pubmed.ncbi.nlm.nih.gov/33624882
+  2025 Palmitoylethanolamide ( PEA ) Induces an Increase in Spleen Regulatory T Cells, Reduces CD8 + Cells and TNF ‐α Levels in Target Or | https://doi.org/10.1111/imm.70010 https://pubmed.ncbi.nlm.nih.gov/40563231
+  2022 Validation Status and Recent Advances for the Quantification of 3-Nitrotyrosine as a Biomarker of Oxidative/Nitrosative Stress in  | None None
+  2026 Nrf2 as a redox checkpoint in autoimmune joint inflammation: microenvironmental redox control across the arthritis spectrum | https://doi.org/10.3389/fimmu.2026.1775908 https://pubmed.ncbi.nlm.nih.gov/41890758
+  2026 Epigenetic Modulation by Luteolin, Quercetin and Apigenin in Systemic Lupus Erythematosus and Rheumatoid Arthritis: Mechanisms and | https://doi.org/10.3390/ijms27167365 https://pubmed.ncbi.nlm.nih.gov/42653369
+  2018 Modulation of the Oxidative Stress and Lipid Peroxidation by Endocannabinoids and Their Lipid Analogues | https://doi.org/10.3390/antiox7070093 https://pubmed.ncbi.nlm.nih.gov/30021985
+  2019 Nephroprotective effect of silymarin against diclofenac induced renal damage and oxidative stress in male rats | https://doi.org/10.15171/jhp.2019.23 None
+  2020 Cannabidiol Effects on Phospholipid Metabolism in Keratinocytes from Patients with Psoriasis Vulgaris | https://doi.org/10.3390/biom10030367 https://pubmed.ncbi.nlm.nih.gov/32121131
+  2025 Antioxidant Treatments for Fibromyalgia | https://doi.org/10.3390/oxygen5030009 None
+  2022 Modulation of NRF-2 Pathway Contributes to the Therapeutic Effects of Boswellia serrata Gum Resin Extract in a Model of Experiment | https://doi.org/10.3390/antiox11112129 https://pubmed.ncbi.nlm.nih.gov/36358503
+  2024 General properties, biosynthesis, pharmacological properties, biological activities and daily uses of luteolin | https://doi.org/10.56782/pps.286 None
+  2024 3-O-Ethyl Ascorbic Acid and Cannabigerol in Modulating the Phospholipid Metabolism of Keratinocytes | https://doi.org/10.3390/antiox13111285 https://pubmed.ncbi.nlm.nih.gov/39594427
+  2026 Protective Effects of Polydatin in Methotrexate-Induced Liver Toxicity in Rats; Multi-Pathway Analysis | https://doi.org/10.46810/tdfd.1771398 None
+  2026 New Adjuvant Therapies for Obesity-Related Disorders Associated with Meta-Neuroinflammation | https://doi.org/10.3390/ph19050786 https://pubmed.ncbi.nlm.nih.gov/42198460
+  2023 Combination treatment with FAAH inhibitors/URB597 and ferroptosis inducers significantly decreases the growth and metastasis of re | https://doi.org/10.1038/s41419-023-05779-z https://pubmed.ncbi.nlm.nih.gov/37024452
+  2022 Diversified Effects of COVID-19 as a Consequence of the Differential Metabolism of Phospholipids and Lipid Peroxidation Evaluated  | https://doi.org/10.3390/ijms231911810 https://pubmed.ncbi.nlm.nih.gov/36233111
+  2025 Natural Polyamine Spermidine Inhibits the In Vitro Oxidation of LDL | https://doi.org/10.3390/molecules30040955 https://pubmed.ncbi.nlm.nih.gov/40005266
+  2018 Oleoylethanolamide Supplementation Reduces Inflammation and Oxidative Stress in Obese People: A Clinical Trial | https://doi.org/10.15171/apb.2018.056 https://pubmed.ncbi.nlm.nih.gov/30276145
+  2018 The exogenous administration of CB2 specific agonist, GW405833, inhibits inflammation by reducing cytokine production and oxidativ | https://doi.org/10.3892/etm.2018.6753 https://pubmed.ncbi.nlm.nih.gov/30542446
+  2024 Harnessing Luteolin's therapeutic potential in human disorders: Medicinal significance, biological, clinical properties and analyt | https://doi.org/10.1016/j.prmcm.2024.100401 None
+  2020 Adelmidrol: A New Promising Antioxidant and Anti-Inflammatory Therapeutic Tool in Pulmonary Fibrosis | https://doi.org/10.3390/antiox9070601 https://pubmed.ncbi.nlm.nih.gov/32660140
+  2022 Aerosol-Administered Adelmidrol Attenuates Lung Inflammation in a Murine Model of Acute Lung Injury | https://doi.org/10.3390/biom12091308 https://pubmed.ncbi.nlm.nih.gov/36139146
+  2022 Polydatin Attenuates Cisplatin‐Induced Acute Kidney Injury by Inhibiting Ferroptosis | https://doi.org/10.1155/2022/9947191 https://pubmed.ncbi.nlm.nih.gov/35075382
+  2026 Polydatin in rheumatological diseases: Multitarget mechanisms and therapeutic potential | https://doi.org/10.1016/j.fbio.2026.108453 None
+  2021 Oxidative Stress and Lipid Mediators Modulate Immune Cell Functions in Autoimmune Diseases | https://doi.org/10.3390/ijms22020723 https://pubmed.ncbi.nlm.nih.gov/33450863
+  2023 Protective effects of polydatin against bone and joint disorders: thein vitroandin vivoevidence so far | https://doi.org/10.1017/s0954422423000082 https://pubmed.ncbi.nlm.nih.gov/37088535
+  2023 Antioxidant Activity of a Sicilian Almond Skin Extract Using In Vitro and In Vivo Models | https://doi.org/10.3390/ijms241512115 https://pubmed.ncbi.nlm.nih.gov/37569490
+  2024 Luteolin and its antidepressant properties: From mechanism of action to potential therapeutic application | https://doi.org/10.1016/j.jpha.2024.101097 https://pubmed.ncbi.nlm.nih.gov/40276566
+  2020 The Role of Cashew (Anacardium occidentale L.) Nuts on an Experimental Model of Painful Degenerative Joint Disease | https://doi.org/10.3390/antiox9060511 https://pubmed.ncbi.nlm.nih.gov/32532064
+  2023 Phytocannabinoids in the Pharmacotherapy of Psoriasis | https://doi.org/10.3390/molecules28031192 https://pubmed.ncbi.nlm.nih.gov/36770858
+  2021 The Methyl Ester of 2-Cyano-3,12-Dioxooleana-1,9-Dien-28-Oic Acid Reduces Endometrial Lesions Development by Modulating the NFkB a | https://doi.org/10.3390/ijms22083991 https://pubmed.ncbi.nlm.nih.gov/33924360
+  2020 Diacerein: Recent insight into pharmacological activities and molecular pathways | https://doi.org/10.1016/j.biopha.2020.110594 https://pubmed.ncbi.nlm.nih.gov/32858499
+  2019 Plant-Derived Alkaloids: The Promising Disease-Modifying Agents for Inflammatory Bowel Disease | https://doi.org/10.3389/fphar.2019.00351 https://pubmed.ncbi.nlm.nih.gov/31031622
+  2021 Atrazine Inhalation Causes Neuroinflammation, Apoptosis and Accelerating Brain Aging | https://doi.org/10.3390/ijms22157938 https://pubmed.ncbi.nlm.nih.gov/34360708
+  2023 Serratiopeptidase Attenuates Lipopolysaccharide-Induced Vascular Inflammation by Inhibiting the Expression of Monocyte Chemoattrac | https://doi.org/10.3390/cimb45030142 https://pubmed.ncbi.nlm.nih.gov/36975512
+  2021 Exposure to Atrazine Induces Lung Inflammation through Nrf2-HO1 andBeclin 1/LC3 Pathways | https://doi.org/10.33594/000000393 https://pubmed.ncbi.nlm.nih.gov/35481779
+  2022 Molecular and Biochemical Mechanism of Cannabidiol in the Management of the Inflammatory and Oxidative Processes Associated with E | https://doi.org/10.3390/ijms23105427 https://pubmed.ncbi.nlm.nih.gov/35628240
+  2022 P143 EDOXABAN EFFECT IN A BREAST CANCER PATIENT WITH LIVER ARTERIAL INFUSION CHEMOTHERAPY (LAIC) AND BOTH JUGULAR VEIN AND HEPATIC | https://doi.org/10.1093/eurheartj/suac012.138 None
+  2022 Combination treatment with FAAH inhibitors/URB597 and ferroptosis inducers significantly decreases the growth and metastasis of re | https://doi.org/10.21203/rs.3.rs-2261344/v1 None
+  2024 Cyclo(Pro-Tyr) elicits conserved cellular damage in fungi by targeting the [H+]ATPase Pma1 in plasma membrane domains | https://doi.org/10.1038/s42003-024-06947-3 https://pubmed.ncbi.nlm.nih.gov/39362977
+  2022 Açai Berry Mitigates Parkinson’s Disease Progression Showing Dopaminergic Neuroprotection via Nrf2-HO1 Pathways | https://doi.org/10.1007/s12035-022-02982-5 https://pubmed.ncbi.nlm.nih.gov/35970975
+  2024 L-cysteine contributes to destructive activities of odontogenic cysts/tumor | https://doi.org/10.1007/s12672-024-00959-5 https://pubmed.ncbi.nlm.nih.gov/38589585
+  2023 Cyclo(Pro-Tyr) elicits conserved cellular damage in fungi by targeting the [H+]ATPase Pma1 in plasma membrane domains | https://doi.org/10.1101/2023.12.29.573620 None
+  2023 Immunopharmacological Activities of Luteolin in Chronic Diseases | https://doi.org/10.3390/ijms24032136 https://pubmed.ncbi.nlm.nih.gov/36768462
+  2020 Biochemical Evaluation of the Antioxidant Effects of Hydroxytyrosol on Pancreatitis-Associated Gut Injury | https://doi.org/10.3390/antiox9090781 https://pubmed.ncbi.nlm.nih.gov/32842687
+  2021 Key Mechanisms and Potential Implications of Hericium erinaceus in NLRP3 Inflammasome Activation by Reactive Oxygen Species during | https://doi.org/10.3390/antiox10111664 https://pubmed.ncbi.nlm.nih.gov/34829535
+  2016 Anti-inflammatory and Antioxidant Effects of Flavonoid-Rich Fraction of Bergamot Juice (BJe) in a Mouse Model of Intestinal Ischem | https://doi.org/10.3389/fphar.2016.00203 https://pubmed.ncbi.nlm.nih.gov/27471464
+  2021 Hidrox® and Chronic Cystitis: Biochemical Evaluation of Inflammation, Oxidative Stress, and Pain | https://doi.org/10.3390/antiox10071046 https://pubmed.ncbi.nlm.nih.gov/34209690
+  2018 Acute administration of beta-caryophyllene prevents endocannabinoid system activation during transient common carotid artery occlu | https://doi.org/10.1186/s12944-018-0661-4 https://pubmed.ncbi.nlm.nih.gov/29402275
+  2024 Phospholipids, Sphingolipids, and Cholesterol-Derived Lipid Mediators and Their Role in Neurological Disorders | https://doi.org/10.3390/ijms251910672 https://pubmed.ncbi.nlm.nih.gov/39409002
+  2020 Peroxisome Proliferator-Activated Receptors: Experimental Targeting for the Treatment of Inflammatory Bowel Diseases | https://doi.org/10.3389/fphar.2020.00730 https://pubmed.ncbi.nlm.nih.gov/32536865
+  2023 Analysis of the Influence of IL-6 and the Activation of the Jak/Stat3 Pathway in Fibromyalgia | https://doi.org/10.3390/biomedicines11030792 https://pubmed.ncbi.nlm.nih.gov/36979771
+  2021 Hidrox® and Endometriosis: Biochemical Evaluation of Oxidative Stress and Pain | https://doi.org/10.3390/antiox10050720 https://pubmed.ncbi.nlm.nih.gov/34064310
+  2021 Anti-inflammatory Effect of Red Macroalgae Bulung Sangu (Gracilaria sp.) Extract in UVB-Irradiated Mice | https://doi.org/10.3923/pjbs.2021.80.89 https://pubmed.ncbi.nlm.nih.gov/33683034
+  2023 Phytochemicals in the treatment of inflammation-associated diseases: the journey from preclinical trials to clinical practice | https://doi.org/10.3389/fphar.2023.1177050 https://pubmed.ncbi.nlm.nih.gov/37229273
+  2022 Açaí (Euterpe Oleraceae Mart.) Seeds Regulate NF-κB and Nrf2/ARE Pathways Protecting Lung against Acute and Chronic Inflammation. | https://doi.org/10.33594/000000529 https://pubmed.ncbi.nlm.nih.gov/35551733
+  2025 The Role and Safety of Plant-Derived Nutraceuticals as Adjuvant Treatments for Pain Management: A Narrative Review | https://doi.org/10.3390/nutraceuticals5040038 None
+  2025 The Role and Safety of Plant Derived Nutraceuticals as Adjuvant Treatment for Pain Management: A Narrative Review | https://doi.org/10.20944/preprints202509.1442.v1 None
+  2024 Regulating lipid metabolism in osteoarthritis: a complex area with important future therapeutic potential | https://doi.org/10.1080/07853890.2024.2420863 https://pubmed.ncbi.nlm.nih.gov/39466361
+  2018 Cannabis sativa L. and Nonpsychoactive Cannabinoids: Their Chemistry and Role against Oxidative Stress, Inflammation, and Cancer | https://doi.org/10.1155/2018/1691428 https://pubmed.ncbi.nlm.nih.gov/30627539
+  2025 Polydatin protects against DSS-induced ulcerative colitis via Nrf2/Slc7a11/Gpx4-dependent inhibition of ferroptosis signalling act | https://doi.org/10.3389/fphar.2024.1513020 https://pubmed.ncbi.nlm.nih.gov/39877390
+  2017 Short overview on metabolomic approach and redox changes in psychiatric disorders | https://doi.org/10.1016/j.redox.2017.09.002 https://pubmed.ncbi.nlm.nih.gov/28942195
+  2024 Polyphenols Targeting NF-κB Pathway in Neurological Disorders: What We Know So Far? | https://doi.org/10.7150/ijbs.90982 https://pubmed.ncbi.nlm.nih.gov/38385077
+  2023 Modulation of TLR4/NFκB Pathways in Autoimmune Myocarditis | https://doi.org/10.3390/antiox12081507 https://pubmed.ncbi.nlm.nih.gov/37627502
+  2020 Lipid Peroxidation and Antioxidant Supplementation in Neurodegenerative Diseases: A Review of Human Studies | https://doi.org/10.3390/antiox9111128 https://pubmed.ncbi.nlm.nih.gov/33202952
+  2022 The Multiple Sclerosis Modulatory Potential of Natural Multi-Targeting Antioxidants | https://doi.org/10.3390/molecules27238402 https://pubmed.ncbi.nlm.nih.gov/36500494
+  2025 Therapeutic Applications and Mechanisms of Superoxide Dismutase (SOD) in Different Pathogenesis | https://doi.org/10.3390/biom15081130 https://pubmed.ncbi.nlm.nih.gov/40867576
+  2019 Luteolin protects PC-12 cells from H2O2-induced injury by up-regulation of microRNA-21 | https://doi.org/10.1016/j.biopha.2019.108698 https://pubmed.ncbi.nlm.nih.gov/30802826
+  2022 Redox Imbalance and Its Metabolic Consequences in Tick-Borne Diseases | https://doi.org/10.3389/fcimb.2022.870398 https://pubmed.ncbi.nlm.nih.gov/35937690
+  2025 The Effects of Cannabinoids on Ischemic Stroke-Associated Neuroinflammation: A Systematic Review | https://doi.org/10.1007/s11481-025-10171-z https://pubmed.ncbi.nlm.nih.gov/39899062
+  2021 Cannabinoids and Inflammations of the Gut-Lung-Skin Barrier | https://doi.org/10.3390/jpm11060494 https://pubmed.ncbi.nlm.nih.gov/34072930
+  2016 Transcriptomics: A Step behind the Comprehension of the Polygenic Influence on Oxidative Stress, Immune Deregulation, and Mitochon | https://doi.org/10.1155/2016/9290857 https://pubmed.ncbi.nlm.nih.gov/27419142
+  2024 OTOİMMÜN HASTALIKLARDA LUTEOLİN BİLEŞİĞİNİN ROLÜ | https://doi.org/10.33483/jfpau.1459098 None
+  2019 β-Caryophyllene: A Sesquiterpene with Countless Biological Properties | https://doi.org/10.3390/app9245420 None
+  2022 Açai Berry Attenuates Cyclophosphamide-Induced Damage in Genitourinary Axis-Modulating Nrf-2/HO-1 Pathways | https://doi.org/10.3390/antiox11122355 https://pubmed.ncbi.nlm.nih.gov/36552563
+  2020 Properties of a New Food Supplement Containing Actinia equina Extract | https://doi.org/10.3390/antiox9100945 https://pubmed.ncbi.nlm.nih.gov/33019631
+  2021 Natural products: potential treatments for cisplatin-induced nephrotoxicity | https://doi.org/10.1038/s41401-021-00620-9 https://pubmed.ncbi.nlm.nih.gov/33750909
+  2022 Dietary supplements for treatment of endometriosis: A review. | https://doi.org/10.23750/abm.v93i1.11237 https://pubmed.ncbi.nlm.nih.gov/35315418
+  2020 Salvia sclarea L. Essential Oil Extract and Its Antioxidative Phytochemical Sclareol Inhibit Oxytocin-Induced Uterine Hypercontrac | https://doi.org/10.3390/antiox9100991 https://pubmed.ncbi.nlm.nih.gov/33066489
+  2023 Mechanism of Action of Natural Compounds in Peripheral Multiorgan Dysfunction and Hippocampal Neuroinflammation Induced by Sepsis | https://doi.org/10.3390/antiox12030635 https://pubmed.ncbi.nlm.nih.gov/36978883
+  2024 Non-Hormonal Therapy for Endometriosis Based on Angiogenesis, Oxidative Stress and Inflammation. | https://doi.org/10.22074/ijfs.2024.2012554.1547 https://pubmed.ncbi.nlm.nih.gov/39564820
+  2022 Toll-like receptor 4 in the interface between neuroimmune response and behavioral alterations caused by stress | https://doi.org/10.37349/ent.2022.00028 None
+  2023 Phytochemicals for mitigating the COVID-19 crisis: evidence from pre-clinical and clinical studies | https://doi.org/10.37349/eds.2023.00024 None
+  2025 Nutraceutical Intervention Preserves Red Blood Cell Function and Neuroendocrine Balance in Fibromyalgia‐Induced Systemic Stress | https://doi.org/10.1002/efd2.70097 None
+  2020 Mechanisms of repetitive transcranial magnetic stimulation for anti-depression: Evidence from preclinical studies | https://doi.org/10.5498/wjp.v10.i10.223 https://pubmed.ncbi.nlm.nih.gov/33134113
+  2014 Immunopharmacology | https://doi.org/10.1111/bcpt.12259_9 None
+  2023 Alpha-lipoic acid, apocynin or probiotics influence glutathione status and selected inflammatory parameters in C57/BL6 mice when c | https://doi.org/10.1007/s43440-023-00527-8 https://pubmed.ncbi.nlm.nih.gov/37730940
+  2024 Possible Role of Cannabis in the Management of Neuroinflammation in Patients with Post-COVID Condition | https://doi.org/10.3390/ijms25073805 https://pubmed.ncbi.nlm.nih.gov/38612615
+  2022 Anti-oxidant profile of Divya-Peedantak-Vati abates paclitaxel-induced hyperalgesia and allodynia in CD-1 mice model of neuropathi | https://doi.org/10.1016/j.phyplu.2022.100229 None
+  2026 Pain in polycystic ovary syndrome: a comprehensive bedside to bench perspective on an underrecognized symptom | https://doi.org/10.3389/fphar.2025.1670766 https://pubmed.ncbi.nlm.nih.gov/41608018
+  2024 Re-evaluation of the cardioprotective effects of cannabinoids against ischemia-reperfusion injury according to the IMproving Precl | https://doi.org/10.3389/fphar.2024.1382995 https://pubmed.ncbi.nlm.nih.gov/38873412
+  2025 Lepisanthes alata Attenuates Carrageenan-Induced Inflammation and Pain in Rats: A Phytochemical-Based Approach | https://doi.org/10.3390/ph18081142 https://pubmed.ncbi.nlm.nih.gov/40872533
+  2021 Changes in Hepatic Phospholipid Metabolism in Rats under UV Irradiation and Topically Treated with Cannabidiol | https://doi.org/10.3390/antiox10081157 https://pubmed.ncbi.nlm.nih.gov/34439405
+  2022 How to Restore Oxidative Balance That Was Disrupted by SARS-CoV-2 Infection | https://doi.org/10.3390/ijms23126377 https://pubmed.ncbi.nlm.nih.gov/35742820
+  2022 Role of gut microbiota in neuropathy and neuropathic pain states: A systematic preclinical review | https://doi.org/10.1016/j.nbd.2022.105773 https://pubmed.ncbi.nlm.nih.gov/35623598
+  2021 An Update of Anthraquinone Derivatives Emodin, Diacerein, and Catenarin in Diabetes | https://doi.org/10.1155/2021/3313419 https://pubmed.ncbi.nlm.nih.gov/34589130
+  2025 Post-COVID Condition and Neuroinflammation: Possible Management with Antioxidants | https://doi.org/10.3390/antiox14070840 https://pubmed.ncbi.nlm.nih.gov/40722944
+  2026 UTILIZZO DEL SACCHAROMYCES BOULARDII NELLA PREVENZIONE DEL DANNO INTESTINALE DA FARMACI ANTI-INFIAMMATORI NON STEROIDEI | None None
+  2016 Lipids and Oxidative Stress Associated with Ethanol‐Induced Neurological Damage | https://doi.org/10.1155/2016/1543809 https://pubmed.ncbi.nlm.nih.gov/26949445
+  2025 Luteolin as a multi-targeted polyphenol in pulmonary fibrosis: network pharmacology, mechanistic insights, and formulation advance | https://doi.org/10.1186/s43088-025-00684-0 None
+  2024 CB2 Cannabinoid Receptor as a Potential Target in Myocardial Infarction: Exploration of Molecular Pathogenesis and Therapeutic Str | https://doi.org/10.3390/ijms25031683 https://pubmed.ncbi.nlm.nih.gov/38338960
+  2020 Polyphenols and their applications: An approach in food chemistry and innovation potential | https://doi.org/10.1016/j.foodchem.2020.127535 https://pubmed.ncbi.nlm.nih.gov/32798817
+  2025 The Effect of Oleoylethanolamide Supplementation on Pyroptotic Cell Death in Obese Patients with Non-Alcoholic Fatty Liver Disease | https://doi.org/10.34172/ps.024.40860 None
+  2022 Antidepressant Potential of Quercetin and its Glycoside Derivatives: A Comprehensive Review and Update | https://doi.org/10.3389/fphar.2022.865376 https://pubmed.ncbi.nlm.nih.gov/35462940
+  2020 Herbal Decoction Divya-Peedantak-Kwath Alleviates Allodynia and Hyperalgesia in Mice Model of Chemotherapy-Induced Peripheral Neur | https://doi.org/10.3389/fphar.2020.566490 https://pubmed.ncbi.nlm.nih.gov/33324205
+  2024 From Plant to Chemistry: Sources of Antinociceptive Non-Opioid Active Principles for Medicinal Chemistry and Drug Design | https://doi.org/10.3390/molecules29040815 https://pubmed.ncbi.nlm.nih.gov/38398566
+  2021 The Potential Role of Naproxen in Promoting Rivastigmine Effect Against Aluminum Chloride-Induced Alzheimer-Like Model in Rats | https://doi.org/10.21203/rs.3.rs-831722/v1 None
+  2022 RNA-Seq Reveals Protective Mechanisms of Mongolian Medicine Molor-Dabos-4 on Acute Indomethacin-Induced Gastric Ulcers in Rats | https://doi.org/10.3390/genes13101740 https://pubmed.ncbi.nlm.nih.gov/36292625
+  2024 The Antinociceptive Role of Nrf2 in Neuropathic Pain: From Mechanisms to Clinical Perspectives | https://doi.org/10.3390/pharmaceutics16081068 https://pubmed.ncbi.nlm.nih.gov/39204413
+  2023 Naringin and naringenin counteract taxol-induced liver injury in Wistar rats via suppression of oxidative stress, apoptosis and in | https://doi.org/10.1007/s11356-023-28454-4 https://pubmed.ncbi.nlm.nih.gov/37466839
+  2023 Skin applications of cannabidiol: sources, effects, delivery systems, marketed formulations and safety | https://doi.org/10.1007/s11101-023-09860-5 None
+  2018 Stress-induced exacerbation of LPS/GalN liver injury | https://doi.org/10.13025/16910 None
+  2024 COVID-19-Associated Sepsis: Potential Role of Phytochemicals as Functional Foods and Nutraceuticals | https://doi.org/10.3390/ijms25158481 https://pubmed.ncbi.nlm.nih.gov/39126050
+  2022 Targeting Nrf2‐Mediated Oxidative Stress Response in Traumatic Brain Injury: Therapeutic Perspectives of Phytochemicals | https://doi.org/10.1155/2022/1015791 https://pubmed.ncbi.nlm.nih.gov/35419162
+  2026 Cannabidiol and other non-psychotropic cannabinoids from Cannabis sativa as therapeutics for microglial-mediated neuroinflammation | https://doi.org/10.1186/s42238-026-00445-5 https://pubmed.ncbi.nlm.nih.gov/42121212
+  2021 Role of Phytoconstituents as PPAR Agonists: Implications for Neurodegenerative Disorders | https://doi.org/10.3390/biomedicines9121914 https://pubmed.ncbi.nlm.nih.gov/34944727
+  2023 Paradigms and Success Stories of Natural Products in Drug Discovery Against Neurodegenerative Disorders (NDDs) | https://doi.org/10.2174/1570159x21666230105110834 https://pubmed.ncbi.nlm.nih.gov/36606589
+  2024 Effect of the Mediterranean Diet (MeDi) on the Progression of Retinal Disease: A Narrative Review | https://doi.org/10.3390/nu16183169 https://pubmed.ncbi.nlm.nih.gov/39339769
+  2024 Natural products in atherosclerosis therapy by targeting PPARs: a review focusing on lipid metabolism and inflammation | https://doi.org/10.3389/fcvm.2024.1372055 https://pubmed.ncbi.nlm.nih.gov/38699583
+  2025 Cannabidiol in Neurology: Current Insights and Translational Perspectives | https://doi.org/10.20944/preprints202512.1733.v1 None
+  2026 Pain and Inflammatory Biomarkers: Phytoactive Therapeutics and Drug Delivery Advances | https://doi.org/10.1177/17448069261466889 https://pubmed.ncbi.nlm.nih.gov/42454600
+  2024 Investigating the Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: A Systematic Review Focused on Inflammation, | https://doi.org/10.3390/antiox13040393 https://pubmed.ncbi.nlm.nih.gov/38671841
+  2021 A focused review on CB2 receptor-selective pharmacological properties and therapeutic potential of β-caryophyllene, a dietary cann | https://doi.org/10.1016/j.biopha.2021.111639 https://pubmed.ncbi.nlm.nih.gov/34091179
+  2002 Health and social care students and interprofessional learning, opinion, attitudes and self assessment of relevant skills | None None
+  2022 Neurobiological Mechanisms Modulating Emotionality, Cognition and Reward-Related Behaviour in High-Fat Diet-Fed Rodents | https://doi.org/10.3390/ijms23147952 https://pubmed.ncbi.nlm.nih.gov/35887310
+  2026 The role of cannabinoid receptors in the development and progression of diabetic neuropathy | https://doi.org/10.17869/enu.2823206 None
+  2021 THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF) | https://doi.org/10.36118/pharmadvances.03.2021.01 None
+  2021 ABSTRACTS OF THE 40TH CONGRESS OF THE ITALIAN PHARMACOLOGICAL SOCIETY (SIF)-The scientific value and appropriate use of drugs | https://doi.org/10.36118/pharmadvances.03.2021.02 None
+  2024 The Neuroprotective and Cognitive-Enhancing Effects of Bacopa monnieri: A Systematic Review | https://doi.org/10.20944/preprints202402.0207.v1 None
+  2015 Microalgae Biotechnology | https://doi.org/10.1007/978-3-319-23808-1 None
+  2025 Endometriosis: An Immunologist’s Perspective | https://doi.org/10.3390/ijms26115193 https://pubmed.ncbi.nlm.nih.gov/40508002
+  2025 Nutraceuticals, Social Interaction, and Psychophysiological Influence on Pet Health and Well-Being: Focus on Dogs and Cats | https://doi.org/10.3390/vetsci12100964 https://pubmed.ncbi.nlm.nih.gov/41150104
+  2024 Precision nutrition to reset virus-induced human metabolic reprogramming and dysregulation (HMRD) in long-COVID | https://doi.org/10.1038/s41538-024-00261-2 https://pubmed.ncbi.nlm.nih.gov/38555403
+===== fulltext.search:palmitoylethanolamide "Freund" malondialdehyde 14
+  2013 Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | https://doi.org/10.1186/ar4382 https://pubmed.ncbi.nlm.nih.gov/24246048
+  2016 Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain | https://doi.org/10.1096/fasebj.30.1_supplement.927.8 None
+  2018 Modulation of the Oxidative Stress and Lipid Peroxidation by Endocannabinoids and Their Lipid Analogues | https://doi.org/10.3390/antiox7070093 https://pubmed.ncbi.nlm.nih.gov/30021985
+  2019 Oleoylethanolamide, Neuroinflammation, and Alcohol Abuse | https://doi.org/10.3389/fnmol.2018.00490 https://pubmed.ncbi.nlm.nih.gov/30687006
+  2020 N-acetyl-L-cysteine reduces Leishmania amazonensis-induced inflammation in BALB/c mice | https://doi.org/10.1186/s12917-020-2234-9 https://pubmed.ncbi.nlm.nih.gov/31931804
+  2021 Cannabinoids and Inflammations of the Gut-Lung-Skin Barrier | https://doi.org/10.3390/jpm11060494 https://pubmed.ncbi.nlm.nih.gov/34072930
+  2020 New Insights Into Peptide Cannabinoids: Structure, Biosynthesis and Signaling | https://doi.org/10.3389/fphar.2020.596572 https://pubmed.ncbi.nlm.nih.gov/33362550
+  2010 Regulatory Role of Cannabinoid Receptor 1 in Stress-Induced Excitotoxicity and Neuroinflammation | https://doi.org/10.1038/npp.2010.214 https://pubmed.ncbi.nlm.nih.gov/21150911
+  2020 Metformin: A Prospective Alternative for the Treatment of Chronic Pain | https://doi.org/10.3389/fphar.2020.558474 https://pubmed.ncbi.nlm.nih.gov/33178015
+  2018 Stress-induced exacerbation of LPS/GalN liver injury | https://doi.org/10.13025/16910 None
+  2024 The Use of Nutraceutical and Pharmacological Strategies in Murine Models of Autism Spectrum Disorder | https://doi.org/10.3390/cells13242036 https://pubmed.ncbi.nlm.nih.gov/39768128
+  2026 Cannabidiol and other non-psychotropic cannabinoids from Cannabis sativa as therapeutics for microglial-mediated neuroinflammation | https://doi.org/10.1186/s42238-026-00445-5 https://pubmed.ncbi.nlm.nih.gov/42121212
+  2025 Cannabidiol in Neurology: Current Insights and Translational Perspectives | https://doi.org/10.20944/preprints202512.1733.v1 None
+  2026 The role of cannabinoid receptors in the development and progression of diabetic neuropathy | https://doi.org/10.17869/enu.2823206 None
+===== title_and_abstract.search:palmitoylethanolamide (arthritis OR Freund) 21
+  2013 Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | https://doi.org/10.1186/ar4382 https://pubmed.ncbi.nlm.nih.gov/24246048
+  2016 Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice | https://doi.org/10.1186/s13075-016-0999-9 None
+  2016 Adelmidrol, a Palmitoylethanolamide Analogue, as a New Pharmacological Treatment for the Management of Inflammatory Pain | https://doi.org/10.1096/fasebj.30.1_supplement.927.8 None
+  2016 Adelmidrol, a palmitoylethanolamide analogue, as a new pharmacological treatment for the management of acute and chronic inflammat | https://doi.org/10.1016/j.bcp.2016.09.001 https://pubmed.ncbi.nlm.nih.gov/27599446
+  2021 Efficacy of a fixed combination of palmitoylethanolamide and acetyl-l-carnitine (PEA+ALC FC) in the treatment of neuropathies seco | https://doi.org/10.23736/s0026-4806.21.07486-3 https://pubmed.ncbi.nlm.nih.gov/34056884
+  2020 Oral Supplementation with Ultramicronized Palmitoylethanolamide for Joint Disease and Lameness Management in Four Jumping Horses:  | https://doi.org/10.3390/ani10091469 https://pubmed.ncbi.nlm.nih.gov/32825646
+  2025 A novel targeted formulation for osteoarthritis: exploring synergistic benefits of Cissus quadrangularis, Boswellia serrata, propo | https://doi.org/10.56782/pps.479 None
+  2013 Professor Rita Levi-Montalcini on Nerve Growth Factor, Mast Cells and Palmitoylethanolamide, an Endogenous Anti-Inflammatory and A | https://doi.org/10.4172/2167-0846.1000114 None
+  2016 An Important Role for N-Acylethanolamine Acid Amidase in the Complete Freund’s Adjuvant Rat Model of Arthritis | https://doi.org/10.1124/jpet.115.230516 https://pubmed.ncbi.nlm.nih.gov/26769918
+  2020 Joint Synovial Fluid Metabolomics Method to Decipher the Metabolic Mechanisms of Adjuvant Arthritis and Geniposide Intervention | https://doi.org/10.1021/acs.jproteome.0c00300 https://pubmed.ncbi.nlm.nih.gov/32786678
+  2025 Damage to the peripheral nervous system in rheumatoid arthritis: a review of current data, diagnostic criteria, and therapeutic st | https://doi.org/10.46563/2686-8997-2025-6-1-44-54 None
+  2008 Cannabinomimetic Control of Mast Cell Mediator Release: New Perspective in Chronic Inflammation | https://doi.org/10.1111/j.1365-2826.2008.01674.x https://pubmed.ncbi.nlm.nih.gov/18426495
+  2016 Superradially Expanding Flux Tubes Of Young Star'S Coronae | https://doi.org/10.5281/zenodo.160714 None
+  2022 Targeting Neuroinflammation in Osteoarthritis with Intra-Articular Adelmidrol | https://doi.org/10.3390/biom12101453 https://pubmed.ncbi.nlm.nih.gov/36291664
+  2025 Exploring the Emerging Link Between Obesity-Induced Meta-Neuroinflammation and Osteoarthritis Pain Mechanisms | https://doi.org/10.20944/preprints202508.0003.v1 None
+  2009 EFFECT OF ENDOCANNABINOID SYSTEM AND CANNABIMIMETIC COMPOUNDS IN THE CONTROL OF MAST CELLS: POSSIBLE IMPLICATION IN ACUTE AND CHRO | https://doi.org/10.6092/unina/fedoa/4129 None
+  2024 Harnessing Luteolin's therapeutic potential in human disorders: Medicinal significance, biological, clinical properties and analyt | https://doi.org/10.1016/j.prmcm.2024.100401 None
+  2011 ALIAmides: EXPERIMENTAL STUDIES ON THE CONTROL OF ANGIOGENESIS | None None
+  2025 Napticon-2025 – Interventional Studies | https://doi.org/10.4103/njpt.njpt_71_25 None
+  2020 My new normal: A patient's perspective on polymyalgia rheumatica | https://doi.org/10.1002/imed.1010 None
+  2020 Cannabinoids in chronic non-cancer pain medicine: moving from the bench to the bedside | https://doi.org/10.1016/j.bjae.2020.05.002 https://pubmed.ncbi.nlm.nih.gov/33456965

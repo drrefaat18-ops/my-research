@@ -1,0 +1,5483 @@
+{
+ "palmitoylethanolamide prednisolone": {
+  "n": 11393,
+  "rec": [
+   {
+    "DOI": "10.1507/endocrine1927.57.3_235",
+    "title": [
+     "Studies on Prednisolone Metabolism in Children"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1981
+      ]
+     ]
+    },
+    "container-title": [
+     "Folia Endocrinologica Japonica"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1017/cbo9781139194464.120",
+    "title": [
+     "Palmitoylethanolamide (PEA)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Essential Pain Pharmacology"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.2165/00128413-199107740-00049",
+    "title": [
+     "Prednisolone phosphate produces greater prednisolone concentrations in the CSF than prednisolone phthalate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1991,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Inpharma Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s001",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.18578/bnfc.656697437",
+    "title": [
+     "prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68530_02_01",
+    "title": [
+     "Prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68530_03_01",
+    "title": [
+     "Prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68530_20101_01",
+    "title": [
+     "Prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s002",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.18578/bnf.656697437",
+    "title": [
+     "prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1007/bf03281535",
+    "title": [
+     "Prednisolone see Cyclosporin/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1989,
+       9
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/bf03281263",
+    "title": [
+     "Prednisolone see Azathioprine/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1989,
+       9
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/bf03283224",
+    "title": [
+     "Prednisolone See Cyclosporin/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1989,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/bf03295710",
+    "title": [
+     "Prednisolone see Azathioprine/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1988,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/bf03282178",
+    "title": [
+     "Prednisolone see Prednisone/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1989,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68610_02_01",
+    "title": [
+     "Prednisolone Acetate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.1186/isrctn72647928",
+    "title": [
+     "Palmitoylethanolamide intake and systemic endothelial function in ocular hypertensive patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       12,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.org/&gt;"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.1186/s12974-014-0136-0",
+    "title": [
+     "Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       8,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68850_03_01",
+    "title": [
+     "Prednisolone Tebutate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68850_02_01",
+    "title": [
+     "Prednisolone Tebutate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68570_03_03",
+    "title": [
+     "Prednisolone, Comprimés"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68540_02_01",
+    "title": [
+     "Prednisolone Cream"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68710_03_01",
+    "title": [
+     "Prednisolone Hemisuccinate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.2165/00128415-199103390-00073",
+    "title": [
+     "Prednisolone see Methotrexate/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1991,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17760/d20420655",
+    "title": [
+     "Modulation of 2-arachidinoylglycerol and palmitoylethanolamide levels through\n                    inhibition of endocannabinoid enzymes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90230-9",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68570_03_01",
+    "title": [
+     "Prednisolone Tablets"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.58837/chula.the.2020.73",
+    "title": [
+     "Property estimation of palmitoylethanolamide and sucrose palmitate for process design from methyl palmitate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/b978-0-323-70957-6.00446-5",
+    "title": [
+     "Prednisolone, Prednisolone Acetate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021
+      ]
+     ]
+    },
+    "container-title": [
+     "Papich Handbook of Veterinary Drugs"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1016/b978-0-323-24485-5.00478-2",
+    "title": [
+     "Prednisolone, Prednisolone Acetate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "container-title": [
+     "Saunders Handbook of Veterinary Drugs"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.2165/00128415-199103690-00054",
+    "title": [
+     "Prednisolone see Vincristine/prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1991,
+       9
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.64611/uhqz7783",
+    "title": [
+     "Palmitoylethanolamide (PEA): A New Drug For Intractable Pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "type": "report"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68730_03_01",
+    "title": [
+     "Prednisolone Sodium Phosphate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.18578/bnf.963064680",
+    "title": [
+     "cinchocaine with prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.18578/bnfc.963064680",
+    "title": [
+     "cinchocaine with prednisolone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68550_01_03",
+    "title": [
+     "Prednisolone, Solution Orale"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68550_01_01",
+    "title": [
+     "Prednisolone Oral Solution"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m68730_04_01",
+    "title": [
+     "Prednisolone Sodium Phosphate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.7490/f1000research.1110665.1",
+    "title": [
+     "Multimodal stepped care approach acupuncture and palmitoylethanolamide for post stroke central pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10,
+       1
+      ]
+     ]
+    },
+    "type": "posted-content"
+   }
+  ]
+ },
+ "palmitoylethanolamide glucocorticoid arthritis": {
+  "n": 242210,
+  "rec": [
+   {
+    "DOI": "10.1186/ar4684",
+    "title": [
+     "Rheumatoid arthritis - a neuroendocrine immune disorder: glucocorticoid resistance, relative glucocorticoid deficiency, low-dose glucocorticoid therapy, and insulin resistance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       11,
+       13
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33540/2353",
+    "title": [
+     "Clinical aspects of glucocorticoid and selective glucocorticoid receptor modulator therapy in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1002/art.1780370803",
+    "title": [
+     "Effects of glucocorticoids in rheumatoid arthritis. Diminished glucocorticoid receptors do not result in glucocorticoid resistance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1994,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar3726",
+    "title": [
+     "Why and how to optimize glucocorticoid treatment in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       3,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.57104/af.1161993.pc.gr.188298",
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       1
+      ]
+     ]
+    },
+    "type": "grant"
+   },
+   {
+    "DOI": "10.1186/ar4180",
+    "title": [
+     "Cortical remodeling during menopause, rheumatoid arthritis, glucocorticoid and bisphosphonate therapy"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       3,
+       21
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/1529-0131(200107)44:7<1496::aid-art271>3.0.co;2-5",
+    "title": [
+     "Recommendations for the prevention and treatment of glucocorticoid-induced osteoporosis: 2001 update"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2001
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar4382",
+    "title": [
+     "Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       11,
+       18
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780350704",
+    "title": [
+     "Glucocorticoid receptors in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1992,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780400829",
+    "title": [
+     "Importance of guidelines on glucocorticoid‐induced osteoporosis: Comment on the American college of rheumatology recommendations for the prevention and treatment of glucocorticoid‐induced osteoporosis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s13075-016-0999-9",
+    "title": [
+     "Erratum to: Palmitoylethanolamide and luteolin ameliorate development of arthritis caused by injection of collagen type II in mice"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       5,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar3118",
+    "title": [
+     "Polymorphisms in the glucocorticoid receptor gene that modulate glucocorticoid sensitivity are associated with rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2010,
+       8,
+       21
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780400832",
+    "title": [
+     "Lack of efficacy of calcitonin in preventing glucocorticoid‐induced bone loss: Comment on the american college of rheumatology recommendations for the prevention and treatment of glucocorticoid‐induced osteoporosis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780400833",
+    "title": [
+     "Which treatments are effective in preventing and treating glucocorticoid‐induced bone loss: Comment on the american college of rheumatology recommendations for the prevention and treatment of glucocorticoid‐induced osteoporosis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.bone.2009.07.037",
+    "title": [
+     "Update on glucocorticoid therapy in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "Bone"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.10619",
+    "title": [
+     "Missed opportunities in physician management of glucocorticoid‐induced osteoporosis?"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2002,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.semarthrit.2022.152124",
+    "title": [
+     "Corrigendum to The Glucocorticoid Toxicity Index: Measuring Change in Glucocorticoid Toxicity Over Time [Seminars in Arthritis and Rheumatism Volume 55, 152010]"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Seminars in Arthritis and Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780400830",
+    "title": [
+     "Management of glucocorticoid‐induced osteoporosis—first, do no harm: Comment on the american college of rheumatology recommendations for the prevention and treatment of glucocorticoid‐induced"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar4029",
+    "title": [
+     "In vitro glucocorticoid sensitivity is associated with clinical glucocorticoid therapy outcome in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       8,
+       24
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar4687",
+    "title": [
+     "Circadian rhythms in rheumatology - a glucocorticoid perspective"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       11,
+       13
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.semarthrit.2024.152496",
+    "title": [
+     "Corrigendum to “The Glucocorticoid Toxicity Index: Measuring Change in Glucocorticoid Toxicity Over Time” [Seminars in Arthritis and Rheumatism 55 (2022):152010]"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "Seminars in Arthritis and Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1385/1-59259-239-2:65",
+    "title": [
+     "Glucocorticoid Therapy in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "Modern Therapeutics in Rheumatic Diseases"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1186/ar2889",
+    "title": [
+     "Separating therapeutic efficacy from glucocorticoid side-effects in rodent arthritis using novel, liposomal delivery of dexamethasone phosphate: long-term suppression of arthritis facilitates interval treatment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       12,
+       15
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1093/rheumatology/38.2.100",
+    "title": [
+     "Anniversary: 50 years of glucocorticoid treatment in rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1999,
+       2,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Rheumatology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3410/f.13382999.14750245",
+    "title": [
+     "Faculty Opinions recommendation of Glucocorticoid therapy of antigen-induced arthritis depends on the dimerized glucocorticoid receptor in T cells."
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2011,
+       11,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "Faculty Opinions – Post-Publication Peer Review of the Biomedical Literature"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.1016/j.semarthrit.2022.152010",
+    "title": [
+     "The glucocorticoid toxicity index: Measuring change in glucocorticoid toxicity over time"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Seminars in Arthritis and Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4172/2167-7921.1000266",
+    "title": [
+     "Intravenous Glucocorticoid Pulse Therapy in Active, NSAID Refractory Axial An"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Arthritis"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780250512",
+    "title": [
+     "Estrogen and glucocorticoid receptors in adult canine articular cartilage"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1982,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/acr.22312",
+    "title": [
+     "Receipt of Glucocorticoid Monotherapy Among Medicare Beneficiaries With Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       9,
+       25
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Care &amp; Research"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acs.jmedchem.4c00598.s002",
+    "title": [
+     "Anti-TNF Thioester Glucocorticoid AntibodyDrug Conjugate Fully Inhibits Inflammation with Minimal Effect on Systemic Corticosterone Levels in a Mouse Arthritis Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acs.jmedchem.4c00598.s003",
+    "title": [
+     "Anti-TNF Thioester Glucocorticoid AntibodyDrug Conjugate Fully Inhibits Inflammation with Minimal Effect on Systemic Corticosterone Levels in a Mouse Arthritis Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acs.jmedchem.4c00598.s001",
+    "title": [
+     "Anti-TNF Thioester Glucocorticoid AntibodyDrug Conjugate Fully Inhibits Inflammation with Minimal Effect on Systemic Corticosterone Levels in a Mouse Arthritis Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1002/art.1780370209",
+    "title": [
+     "Impaired Glucocorticoid Induction of Mononuclear Leukocyte Lipocortin‐1 in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1994,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar3453",
+    "title": [
+     "The association between systemic glucocorticoid therapy and the risk of infection in patients with rheumatoid arthritis: systematic review and meta-analyses"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2011,
+       8,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s13075-016-1119-6",
+    "title": [
+     "Glucocorticoid-induced leucine zipper (GILZ) is involved in glucocorticoid-induced and mineralocorticoid-induced leptin production by osteoarthritis synovial fibroblasts"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       10,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.22546",
+    "title": [
+     "Glucocorticoid‐related cardiovascular and cerebrovascular events in rheumatic diseases: Myth or reality?"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2007,
+       2,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Care &amp; Research"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.semarthrit.2013.08.006",
+    "title": [
+     "The risks and benefits of glucocorticoid treatment for tendinopathy: A systematic review of the effects of local glucocorticoid on tendon"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Seminars in Arthritis and Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/978-1-59259-239-5_5",
+    "title": [
+     "Glucocorticoid Therapy in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2002
+      ]
+     ]
+    },
+    "container-title": [
+     "Modern Therapeutics in Rheumatic Diseases"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1080/21548331.1983.11702634",
+    "title": [
+     "Glucocorticoid Use in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1983,
+       9
+      ]
+     ]
+    },
+    "container-title": [
+     "Hospital Practice"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1093/rheumatology/kev088.072",
+    "title": [
+     "072. The Association Between Oral Glucocorticoid Therapy and Mortality in Patients with Rheumatoid Arthritis: A Retrospective Cohort Study"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       4,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Rheumatology"
+    ],
+    "type": "journal-article"
+   }
+  ]
+ },
+ "palmitoylethanolamide adjuvant-induced arthritis": {
+  "n": 1914502,
+  "rec": [
+   {
+    "DOI": "10.1007/springerreference_120305",
+    "title": [
+     "Arthritis Model, Adjuvant-Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "SpringerReference"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1007/springerreference_37583",
+    "title": [
+     "Arthritis, adjuvant induced"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "SpringerReference"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1007/springerreference_37364",
+    "title": [
+     "Adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "SpringerReference"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1007/3-540-29662-x_85",
+    "title": [
+     "Adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "Rheumatology and Immunology Therapy"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1007/3-540-29662-x_304",
+    "title": [
+     "Arthritis, adjuvant induced"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "Rheumatology and Immunology Therapy"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1007/978-3-540-29805-2_282",
+    "title": [
+     "Arthritis Model, Adjuvant-Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "Encyclopedia of Pain"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1007/978-3-642-28753-4_100059",
+    "title": [
+     "Adjuvant-induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013
+      ]
+     ]
+    },
+    "container-title": [
+     "Encyclopedia of Pain"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1002/art.1780360120",
+    "title": [
+     "Suppression of adjuvant‐induced arthritis in da rats by incomplete freund's adjuvant"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1993,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/978-3-642-28753-4_282",
+    "title": [
+     "Arthritis Model, Adjuvant-Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013
+      ]
+     ]
+    },
+    "container-title": [
+     "Encyclopedia of Pain"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1002/art.1780270711",
+    "title": [
+     "Collagen‐induced and adjuvant‐induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1984,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/jfbc.12276",
+    "title": [
+     "<i>Apium Graveolens</i>Extract Attenuates Adjuvant Induced Arthritis by Reducing Oxidative Stress"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       4,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Food Biochemistry"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar220",
+    "title": [
+     "In adjuvant-induced arthritis the disease-triggering adjuvant squalene accumulates in draining lymph nodes but not affected joints"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2001,
+       1,
+       26
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780190616",
+    "title": [
+     "Histochemical investigation of adjuvant‐induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1976,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar2430",
+    "title": [
+     "Paradoxical effects of tumour necrosis factor-α in adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780200515",
+    "title": [
+     "Mechanisms Underlying the Suppression of Adjuvant‐Induced Arthritis by 6‐Mercaptopurine"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1977,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acs.jafc.0c01473.s001",
+    "title": [
+     "Ginsenoside Rg3 Alleviates Complete Freunds Adjuvant-Induced Rheumatoid Arthritis in Mice by Regulating CD4+CD25+Foxp3+Treg Cells"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.3791/21740",
+    "title": [
+     "A Technique to Generate an Adjuvant-Induced Arthritis Mouse Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Visualized Experiments"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3791/21709",
+    "title": [
+     "A Technique to Generate an Adjuvant-Induced Arthritis Mouse Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Visualized Experiments"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3791/30673",
+    "title": [
+     "A Technique to Generate an Adjuvant-Induced Arthritis Mouse Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Visualized Experiments"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21873/invivo.11134",
+    "title": [
+     "Pharmacokinetics of Morphine in Rats with Adjuvant-induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       4,
+       17
+      ]
+     ]
+    },
+    "container-title": [
+     "In Vivo"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780350219",
+    "title": [
+     "Bone Marrow Changes in Adjuvant‐Induced and Collagen‐Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1992,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/0090-6980(72)90034-2",
+    "title": [
+     "Resistance of rats to carrageenan and to adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Prostaglandins"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/s0165-2478(97)87863-7",
+    "title": [
+     "Thrombospondin-1 in rat adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Immunology Letters"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.11077",
+    "title": [
+     "Immune regulation in adjuvant‐induced arthritis: Possible implications for innovative therapeutic strategies in arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2003,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780050604",
+    "title": [
+     "Studies on adjuvant‐induced polyarthritis in rats. I. Adjuvant composition, route of injection, and removal of depot site"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1962,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/0197-1859(86)90024-5",
+    "title": [
+     "Experimental models of immunologically mediated arthritis: Adjuvant and collagen-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1986,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Clinical Immunology Newsletter"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/ph17040431",
+    "title": [
+     "Silibinin’s Effects against Methotrexate-Induced Hepatotoxicity in Adjuvant-Induced Arthritis Rat Model"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Pharmaceuticals"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1128/iai.31.1.517-517.1981",
+    "title": [
+     "Muramyl Depeptide-Induced Adjuvant Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1981,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Infection and Immunity"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/s0165-2478(97)88365-4",
+    "title": [
+     "Peptide induced nasal tolerance for a mycobacterial hsp60 T cell epitope in rats suppresses both adjuvant arthritis and non-microbially induced experimental arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Immunology Letters"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780391010",
+    "title": [
+     "Nitric oxide production during adjuvant‐induced and collagen‐induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1996,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/bf02025945",
+    "title": [
+     "The local anti-inflammatory activity of rimexolone (Org 6216) in fibrin-induced monoarticular arthritis and adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1980,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Agents and Actions"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.11274",
+    "title": [
+     "The energy cost of adjuvant‐induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2003,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/ar193",
+    "title": [
+     "Temporal expression of cytokines and chemokines in rat adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2001,
+       1,
+       26
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis Research &amp; Therapy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1002/art.1780200423",
+    "title": [
+     "Virazole and adjuvant‐induced disease in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1977,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780340208",
+    "title": [
+     "Down‐regulation of adoptive adjuvant‐induced arthritis by suppressor factor(s)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1991,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/s0165-2478(97)86987-8",
+    "title": [
+     "Identification of rat susceptibility loci for adjuvant-oil-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Immunology Letters"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/1529-0131(200004)43:4<827::aid-anr13>3.0.co;2-k",
+    "title": [
+     "Regulation of macrophage migration inhibitory factor by endogenous glucocorticoids in rat adjuvant-induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2000,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.30391",
+    "title": [
+     "Endothelial dysfunction in rat adjuvant‐induced arthritis: Up‐regulation of the vascular arginase pathway"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2011,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.2/reviews/2",
+    "title": [
+     "Peer Review #2 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.2)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   }
+  ]
+ },
+ "palmitoylethanolamide baricitinib": {
+  "n": 2760,
+  "rec": [
+   {
+    "DOI": "10.18578/bnfc.865101849",
+    "title": [
+     "baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.18578/bnf.865101849",
+    "title": [
+     "baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1017/cbo9781139194464.120",
+    "title": [
+     "Palmitoylethanolamide (PEA)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Essential Pain Pharmacology"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.32388/xhy4pc",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       2,
+       2
+      ]
+     ]
+    },
+    "container-title": [
+     "Definitions"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s001",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1007/s00108-023-01547-5",
+    "title": [
+     "Baricitinib bei systemischem Lupus erythematodes",
+     "Baricitinib for systemic lupus erythematosus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Die Innere Medizin"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acsomega.3c00100.s001",
+    "title": [
+     "Identification Synthesis, and Characterization of Novel Baricitinib Impurities"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s002",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1007/s40278-020-85683-z",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s12974-014-0136-0",
+    "title": [
+     "Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       8,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn72647928",
+    "title": [
+     "Palmitoylethanolamide intake and systemic endothelial function in ocular hypertensive patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       12,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.org/&gt;"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.36290/int.2018.061",
+    "title": [
+     "Baricitinib in treating rheumatoid arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       12,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Interní medicína pro praxi"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn87163290",
+    "title": [
+     "A clinical trial of Baricitinib in Juvenile Dermatomyositis (BAR-JDM): comparing baricitinib and steroids to methotrexate and steroids over 52 weeks"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       6,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.com/"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.17760/d20420655",
+    "title": [
+     "Modulation of 2-arachidinoylglycerol and palmitoylethanolamide levels through\n                    inhibition of endocannabinoid enzymes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90230-9",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58837/chula.the.2020.73",
+    "title": [
+     "Property estimation of palmitoylethanolamide and sucrose palmitate for process design from methyl palmitate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.64611/uhqz7783",
+    "title": [
+     "Palmitoylethanolamide (PEA): A New Drug For Intractable Pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "type": "report"
+   },
+   {
+    "DOI": "10.7490/f1000research.1110665.1",
+    "title": [
+     "Multimodal stepped care approach acupuncture and palmitoylethanolamide for post stroke central pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10,
+       1
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1021/acs.cgd.2c00067.s001",
+    "title": [
+     "Similarity and Diversity: Cocrystallization of Baricitinib with Four C4-Dicarboxylic Acids"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.37667/pk.2018.1049",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       7,
+       27
+      ]
+     ]
+    },
+    "container-title": [
+     "pharma-kritik"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.26226/m.62fa009f78a2410019320a8e",
+    "title": [
+     "ESDR399 - Real-world effectiveness and safety of baricitinib in Japanese patients with atopic dermatitis: possible suppressive effect of serum IL-22 levels by baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       8,
+       17
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1007/s11428-024-01154-4",
+    "title": [
+     "Baricitinib zum Erhalt der Betazellfunktion bei Typ-1-Diabetes",
+     "Baricitinib for preservation of beta-cell function in type 1 diabetes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       25
+      ]
+     ]
+    },
+    "container-title": [
+     "Die Diabetologie"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/psb.0010060",
+    "title": [
+     "Baricitinib reduces mortality in the RECOVERY trial"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       3,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "News Digital Object Group"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.4135/9781529731705",
+    "title": [
+     "Clinical Applications of Palmitoylethanolamide in Pain Management: Protocol for a Scoping Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "type": "reference-book"
+   },
+   {
+    "DOI": "10.4103/ijp.ijp_964_24",
+    "title": [
+     "Pharmacokinetics of micronized and water dispersible palmitoylethanolamide in comparison with standard palmitoylethanolamide following single oral administration in male Sprague-Dawley rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Indian Journal of Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21926/obm.neurobiol.2004076",
+    "title": [
+     "Palmitoylethanolamide for Neurological Disorders"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       12,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "OBM Neurobiology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s12974-016-0595-6",
+    "title": [
+     "Erratum to: Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       5,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.neuropharm.2007.05.015",
+    "title": [
+     "Microglia produce and hydrolyze palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Neuropharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1097/j.pain.0000000000000399",
+    "title": [
+     "Branded name for ultramicronized palmitoylethanolamide and flawed science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Pain"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22541/au.172802344.43670590/v1",
+    "title": [
+     "Palmitoylethanolamide (PEA) as a Therapeutic Agent for Neurological Pain: Mechanisms and Clinical Application"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       4
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1007/s40278-024-61537-6",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       29
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1136/annrheumdis-2022-eular.3989",
+    "title": [
+     "POS0699 SIMILAR EFFICACY AND DRUG SURVIVAL RATES OF BARICITINIB MONOTHERAPY AND BARICITINIB/METHOTREXATE COMBINATION THERAPY IN REAL-LIFE TREATMENT OF RHEUMATOID ARTHRITIS - RESULTS FROM A PROSPECTIVE COHORT OF BARICITINIB-TREATED PATIENTS"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Annals of the Rheumatic Diseases"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acsnano.3c12692.s001",
+    "title": [
+     "Coassembly Nanomedicine Mediated by Intermolecular Interactions Between Methotrexate and Baricitinib for Improved Rheumatoid Arthritis Treatment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1007/s40278-019-68389-4",
+    "title": [
+     "Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-024-56722-5",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-024-62168-8",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55776/p35262",
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       4,
+       25
+      ]
+     ]
+    },
+    "type": "grant"
+   },
+   {
+    "DOI": "10.1007/s40278-024-53131-z",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-024-62169-8",
+    "title": [
+     "Baricitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   }
+  ]
+ },
+ "palmitoylethanolamide tofacitinib": {
+  "n": 5106,
+  "rec": [
+   {
+    "DOI": "10.18578/bnf.946998536",
+    "title": [
+     "tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.18578/bnfc.946998536",
+    "title": [
+     "tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acs.molpharmaceut.4c00496.s001",
+    "title": [
+     "Transdermal Delivery of Tofacitinib Citrate via Mannose-Decorated Transferosomes Loaded with Tofacitinib Citrate in Arthritic Joints"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1017/cbo9781139194464.120",
+    "title": [
+     "Palmitoylethanolamide (PEA)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Essential Pain Pharmacology"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s001",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s002",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.32388/v9d5ts",
+    "title": [
+     "Tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       2,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Definitions"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1186/s12974-014-0136-0",
+    "title": [
+     "Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       8,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn72647928",
+    "title": [
+     "Palmitoylethanolamide intake and systemic endothelial function in ocular hypertensive patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       12,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.org/&gt;"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.17760/d20420655",
+    "title": [
+     "Modulation of 2-arachidinoylglycerol and palmitoylethanolamide levels through\n                    inhibition of endocannabinoid enzymes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90230-9",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58837/chula.the.2020.73",
+    "title": [
+     "Property estimation of palmitoylethanolamide and sucrose palmitate for process design from methyl palmitate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.64611/uhqz7783",
+    "title": [
+     "Palmitoylethanolamide (PEA): A New Drug For Intractable Pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "type": "report"
+   },
+   {
+    "DOI": "10.2165/00128415-201214120-00117",
+    "title": [
+     "Methotrexate/prednisolone/tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-020-78418-5",
+    "title": [
+     "Tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7490/f1000research.1110665.1",
+    "title": [
+     "Multimodal stepped care approach acupuncture and palmitoylethanolamide for post stroke central pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10,
+       1
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1007/s40278-026-94718-z",
+    "title": [
+     "Adalimumab/Tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       16
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00105-021-04793-6",
+    "title": [
+     "Granulomatöse rosazeaartiges Exanthem unter Tofacitinib",
+     "Granulomatous rosacea-like dermatitis under therapy with tofacitinib"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       3,
+       24
+      ]
+     ]
+    },
+    "container-title": [
+     "Der Hautarzt"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4103/ijp.ijp_964_24",
+    "title": [
+     "Pharmacokinetics of micronized and water dispersible palmitoylethanolamide in comparison with standard palmitoylethanolamide following single oral administration in male Sprague-Dawley rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Indian Journal of Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4135/9781529731705",
+    "title": [
+     "Clinical Applications of Palmitoylethanolamide in Pain Management: Protocol for a Scoping Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "type": "reference-book"
+   },
+   {
+    "DOI": "10.36290/der.2019.007",
+    "title": [
+     "Tofacitinib in treating psoriatic arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       3,
+       21
+      ]
+     ]
+    },
+    "container-title": [
+     "Dermatologie pro praxi"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21926/obm.neurobiol.2004076",
+    "title": [
+     "Palmitoylethanolamide for Neurological Disorders"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       12,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "OBM Neurobiology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s12974-016-0595-6",
+    "title": [
+     "Erratum to: Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       5,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.neuropharm.2007.05.015",
+    "title": [
+     "Microglia produce and hydrolyze palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Neuropharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1097/j.pain.0000000000000399",
+    "title": [
+     "Branded name for ultramicronized palmitoylethanolamide and flawed science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Pain"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22541/au.172802344.43670590/v1",
+    "title": [
+     "Palmitoylethanolamide (PEA) as a Therapeutic Agent for Neurological Pain: Mechanisms and Clinical Application"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       4
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1201/b17996-130",
+    "title": [
+     "TOFACITINIB"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       1,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Litt's Drug Eruption and Reaction Manual"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.31525/ct1-nct04267380",
+    "title": [
+     "A Study To Compare The Effectiveness Of Tofacitinib 11 Mg Once A Day To Tofacitinib 5 Mg Twice A Day"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       2,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Case Medical Research"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-019-68389-4",
+    "title": [
+     "Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acs.chemrestox.9b00141.s001",
+    "title": [
+     "Tofacitinib Is a Mechanism-Based Inactivator of Cytochrome P450 3A4"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1186/isrctn52370199",
+    "title": [
+     "The anti-migraine activity of supplement formulation PEATONIDE® combining palmitoylethanolamide and melatonin"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.com/"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.1093/ecco-jcc/jjz203.120",
+    "title": [
+     "DOP81 Time to loss of efficacy among patients in remission following induction treatment with tofacitinib 10 mg BID who reduced tofacitinib dose or discontinued tofacitinib in OCTAVE sustain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Crohn's and Colitis"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.54393/pjhs.v4i12.1215",
+    "title": [
+     "Efficacy of Tofacitinib in the Treatment of Axial Spondyloarthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       12,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Pakistan Journal of Health Sciences"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.13188/2573-3834.1000003",
+    "title": [
+     "Palmitoylethanolamide: Research Synergy between Academia and Industry, Based on Insights and Work of Nobel Laureate Rita Levi-Montalcini"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Clinical Trials &amp; Patenting"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4172/2167-7700.1000121",
+    "title": [
+     "Palmitoylethanolamide: A Useful Adjunct in Chemotherapy Providing Analgesia and Neuroprotection"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013
+      ]
+     ]
+    },
+    "container-title": [
+     "Chemotherapy: Open Access"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/s0016-5085(20)33656-8",
+    "title": [
+     "Tu1869 TIME TO LOSS OF EFFICACY AMONG PATIENTS IN REMISSION FOLLOWING INDUCTION TREATMENT WITH TOFACITINIB 10 MG BID WHO REDUCED TOFACITINIB DOSE OR DISCONTINUED TOFACITINIB IN OCTAVE SUSTAIN"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       5
+      ]
+     ]
+    },
+    "container-title": [
+     "Gastroenterology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.9734/jpri/2021/v33i51b33541",
+    "title": [
+     "RP-HPLC Method Development and Validation for Cleaning Residue Determination of Tofacitinib Citrate in Tofacitinib Tablets"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       11,
+       26
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Pharmaceutical Research International"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.53555/jptcp.v31i7.7429",
+    "title": [
+     "EVALUATING DAS 28 SCORE IN RHEUMATOID ARTHRITIS PATIENTS TREATED WITH TOFACITINIB ALONE VERSUS METHOTREXATE AND TOFACITINIB COMBINATION THERAPY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Population Therapeutics and Clinical Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7717/peerj.6846/supp-1",
+    "title": [
+     "Supplemental Information 1: Box-plot of two extremely significantly up-regulated metabolites (e.g., chavicol, palmitoylethanolamide) (\n                      <i>p</i>\n                      -value &lt; 0.01)."
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   }
+  ]
+ },
+ "palmitoylethanolamide tacrolimus": {
+  "n": 19003,
+  "rec": [
+   {
+    "DOI": "10.1017/cbo9781139194464.120",
+    "title": [
+     "Palmitoylethanolamide (PEA)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Essential Pain Pharmacology"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s001",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s002",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1186/s12974-014-0136-0",
+    "title": [
+     "Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       8,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn72647928",
+    "title": [
+     "Palmitoylethanolamide intake and systemic endothelial function in ocular hypertensive patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       12,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.org/&gt;"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.17760/d20420655",
+    "title": [
+     "Modulation of 2-arachidinoylglycerol and palmitoylethanolamide levels through\n                    inhibition of endocannabinoid enzymes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90230-9",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58837/chula.the.2020.73",
+    "title": [
+     "Property estimation of palmitoylethanolamide and sucrose palmitate for process design from methyl palmitate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.64611/uhqz7783",
+    "title": [
+     "Palmitoylethanolamide (PEA): A New Drug For Intractable Pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "type": "report"
+   },
+   {
+    "DOI": "10.1136/gutjnl-2024-basl.116",
+    "title": [
+     "P111 Tacrolimus reintroduction after tacrolimus-associated neurotoxicity in liver transplant patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10
+      ]
+     ]
+    },
+    "container-title": [
+     "P111 Tacrolimus reintroduction after tacrolimus-associated neurotoxicity in liver transplant patients"
+    ],
+    "type": "proceedings-article"
+   },
+   {
+    "DOI": "10.7490/f1000research.1110665.1",
+    "title": [
+     "Multimodal stepped care approach acupuncture and palmitoylethanolamide for post stroke central pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10,
+       1
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.4103/ijp.ijp_964_24",
+    "title": [
+     "Pharmacokinetics of micronized and water dispersible palmitoylethanolamide in comparison with standard palmitoylethanolamide following single oral administration in male Sprague-Dawley rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Indian Journal of Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80280_04_01",
+    "title": [
+     "Tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80280_05_02",
+    "title": [
+     "Tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80280_05_01",
+    "title": [
+     "Tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.18578/bnfc.351442497",
+    "title": [
+     "tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.4135/9781529731705",
+    "title": [
+     "Clinical Applications of Palmitoylethanolamide in Pain Management: Protocol for a Scoping Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "type": "reference-book"
+   },
+   {
+    "DOI": "10.21926/obm.neurobiol.2004076",
+    "title": [
+     "Palmitoylethanolamide for Neurological Disorders"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       12,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "OBM Neurobiology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18578/bnf.351442497",
+    "title": [
+     "tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1007/s40278-023-31769-3",
+    "title": [
+     "Mycophenolate/prednisone/tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       1,
+       14
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.neuropharm.2007.05.015",
+    "title": [
+     "Microglia produce and hydrolyze palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Neuropharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s12974-016-0595-6",
+    "title": [
+     "Erratum to: Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       5,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21019/9781582122960.ta",
+    "title": [
+     "Tacrolimus Tacrolimus Monohydrate – Thioridazine Thioridazine Hydrochloride"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Trissel’s Stability of Compounded Formulations, 6e"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1097/j.pain.0000000000000399",
+    "title": [
+     "Branded name for ultramicronized palmitoylethanolamide and flawed science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Pain"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_05_02",
+    "title": [
+     "Tacrolimus, Cápsulas"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_03_01",
+    "title": [
+     "Tacrolimus Capsules"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_02_02",
+    "title": [
+     "Tacrolimus, Cápsulas"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.1007/s40278-023-41324-y",
+    "title": [
+     "Antivirals/tacrolimus interaction"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       17
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/springerreference_39818",
+    "title": [
+     "Tacrolimus"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "container-title": [
+     "SpringerReference"
+    ],
+    "type": "reference-entry"
+   },
+   {
+    "DOI": "10.1007/s40278-019-68389-4",
+    "title": [
+     "Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_03_02",
+    "title": [
+     "Tacrolimus, Cápsulas"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_05_01",
+    "title": [
+     "Tacrolimus Capsules"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.22541/au.172802344.43670590/v1",
+    "title": [
+     "Palmitoylethanolamide (PEA) as a Therapeutic Agent for Neurological Pain: Mechanisms and Clinical Application"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       4
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_06_01",
+    "title": [
+     "Tacrolimus Capsules"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_02_01",
+    "title": [
+     "Tacrolimus Capsules"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80283_04_01",
+    "title": [
+     "Tacrolimus Capsules"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.31003/uspnf_m80290_010101_01",
+    "title": [
+     "Tacrolimus Ointment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.1186/isrctn52370199",
+    "title": [
+     "The anti-migraine activity of supplement formulation PEATONIDE® combining palmitoylethanolamide and melatonin"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.com/"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.21275/sr211005095325",
+    "title": [
+     "Tacrolimus - Strategies for Enhancing Tacrolimus Production at the Classical and Transcriptional Level"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       10,
+       27
+      ]
+     ]
+    },
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "type": "journal-article"
+   }
+  ]
+ },
+ "palmitoylethanolamide Freund adjuvant arthritis rats oxidative stress": {
+  "n": 1854193,
+  "rec": [
+   {
+    "DOI": "10.1007/s43440-019-00022-z",
+    "title": [
+     "Astaxanthin attenuates oxidative stress and inflammatory responses in complete Freund-adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       12,
+       19
+      ]
+     ]
+    },
+    "container-title": [
+     "Pharmacological Reports"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36721/pjps/32/2/01.03.2019/4881/593-600",
+    "title": [
+     "Protective effects of vitamin D and losartan in complete Freund\\'s adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       3,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Pakistan Journal of Pharmaceutical Sciences"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47750/pnr.2022.13.s02.43",
+    "title": [
+     "Comparision Of Oxidative Stress Markers Due To Inoculation Of Ethanolic Fenugreek Seed Extract (Fse) And Nitric Oxide (No) Modulators On Adjuvant Induced Rheumatoid Arthritis In Rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       1,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Pharmaceutical Negative Results"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10787-009-8044-0",
+    "title": [
+     "Methanolic extract of Ruta graveolens L. inhibits inflammation and oxidative stress in adjuvant induced model of arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       2,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.2/reviews/2",
+    "title": [
+     "Peer Review #2 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.2)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.2139/ssrn.4008138",
+    "title": [
+     "&lt;i&gt;Morus Mesozygia&lt;/i&gt; Leaf Extract Ameliorates Behavioral Deficits, Oxidative Stress and Inflammation in Complete Freund's Adjuvant-Induced Arthritis in Rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.1/reviews/2",
+    "title": [
+     "Peer Review #2 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.1)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.3389/fphar.2025.1599745",
+    "title": [
+     "Xinfeng Capsule inhibits oxidative stress via regulating the PPARγ/ Hmgcs2 signaling pathway in lung tissue of adjuvant arthritis rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Frontiers in Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.1/reviews/1",
+    "title": [
+     "Peer Review #1 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.1)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.2/reviews/1",
+    "title": [
+     "Peer Review #1 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.2)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.2/reviews/3",
+    "title": [
+     "Peer Review #3 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.2)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.7287/peerj.15532v0.1/reviews/3",
+    "title": [
+     "Peer Review #3 of \"Protective effect of fustin against adjuvant-induced arthritis through the restoration of proinflammatory response and oxidative stress (v0.1)\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       26
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.1111/jfbc.12276",
+    "title": [
+     "<i>Apium Graveolens</i>Extract Attenuates Adjuvant Induced Arthritis by Reducing Oxidative Stress"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       4,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Food Biochemistry"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fphar.2026.1746942",
+    "title": [
+     "Correction: Xinfeng Capsule inhibits oxidative stress via regulating the PPARγ /Hmgcs2 signaling pathway in lung tissue of adjuvant arthritis rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "Frontiers in Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.lfs.2018.09.046",
+    "title": [
+     "Paroxetine and rivastigmine mitigates adjuvant-induced rheumatoid arthritis in rats: Impact on oxidative stress, apoptosis and RANKL/OPG signals"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Life Sciences"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/0304-3959(94)90201-1",
+    "title": [
+     "Prevaccination with diluted freund adjuvant prevents the development of chronic pain and transient release of cerebrospinal fluid substance P in adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1994,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Pain"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/s0378-8741(04)00030-3",
+    "title": [
+     "Evaluation of acute and chronic treatments with Harpagophytum procumbens on Freund?s adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Ethnopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/diseases12100230",
+    "title": [
+     "Artemisia pallens W. Attenuates Inflammation and Oxidative Stress in Freund’s Complete Adjuvant-Induced Rheumatoid Arthritis in Wistar Rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9,
+       29
+      ]
+     ]
+    },
+    "container-title": [
+     "Diseases"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.jep.2022.115202",
+    "title": [
+     "Morus mesozygia leaf extract ameliorates behavioral deficits, oxidative stress and inflammation in Complete Freund’s adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Ethnopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1096/fasebj.26.1_supplement.1124.2",
+    "title": [
+     "Anti‐inflammatory activities of Cassia alata extract in Complete Freund 's Adjuvant arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "The FASEB Journal"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/cells8121493",
+    "title": [
+     "Exercise Exacerbates the Transcriptional Profile of Hypoxia, Oxidative Stress and Inflammation in Rats with Adjuvant-Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       11,
+       22
+      ]
+     ]
+    },
+    "container-title": [
+     "Cells"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10787-019-00596-3",
+    "title": [
+     "Moringa rivae leaf extracts attenuate Complete Freund’s adjuvant-induced arthritis in Wistar rats via modulation of inflammatory and oxidative stress biomarkers"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       4,
+       29
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1201/9781420028256-15",
+    "title": [
+     "Oxidative Stress in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2005,
+       5,
+       24
+      ]
+     ]
+    },
+    "container-title": [
+     "Oxidative Stress, Inflammation, and Health"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.5567/pharmacologia.2016.32.43",
+    "title": [
+     "Effect of Trichilia monadelpha (Thonn.) J. J. De Wilde (Meliaceae) Extracts on Haematology, Cytokines and Oxidative Stress Biomarkers in Rats Adjuvant-Induced Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       1,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Pharmacologia"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.13189/app.2026.140308",
+    "title": [
+     "Ethyl Acetate Fraction of Sesbania grandiflora Roots Ameliorates Adjuvant-induced Arthritis by Suppressing Inflammation and Oxidative Stress in Wistar Rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Advances in Pharmacology and Pharmacy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.intimp.2019.105840",
+    "title": [
+     "Therapeutic effects of gentiopicroside on adjuvant-induced arthritis by inhibiting inflammation and oxidative stress in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "International Immunopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10787-019-00636-y",
+    "title": [
+     "Correction to: Moringa oleifera leaf extracts attenuate Complete Freund’s adjuvant-induced arthritis in Wistar rats via modulation of inflammatory and oxidative stress biomarkers"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       4
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.22632",
+    "title": [
+     "Fluvastatin reverses endothelial dysfunction and increased vascular oxidative stress in rat adjuvant‐induced arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2007,
+       5,
+       25
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1055/s-0041-1736895",
+    "title": [
+     "Acmella uliginosa (Sw) Cass. leaves extracts mitigate Complete-Freund Adjuvant (CFA) induced arthritis in rats via angiogenesis suppression"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Planta Medica",
+     "GA – 69th Annual Meeting 2021, Virtual conference"
+    ],
+    "type": "proceedings-article"
+   },
+   {
+    "DOI": "10.4149/bll_2016_052",
+    "title": [
+     "Freund´s complete adjuvant effect on BALB/c mice: an insight into inflammation and oxidative stress after immunity challenge"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "container-title": [
+     "Bratislava Medical Journal"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10787-026-02389-x",
+    "title": [
+     "Obeticholic acid attenuates complete freund’s adjuvant-induced arthritis in rats through FXR-mediated modulation of TGF-β/TAK1/MKK3/p38 MAPK signaling, inflammation, and oxidative stress"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       9,
+       18
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1201/9781420028256.ch11",
+    "title": [
+     "Oxidative Stress in Rheumatoid Arthritis"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2005,
+       5,
+       24
+      ]
+     ]
+    },
+    "container-title": [
+     "Oxidative Stress and Disease",
+     "Oxidative Stress, Inflammation, and Health"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1007/s10787-025-01943-3",
+    "title": [
+     "Evaluation of the oxidative stress reduction and anti-inflammatory efficacy of fractions of the methanolic extract of the leaf part of Ziziphus nummularia using complete Freund’s adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       11
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4103/0971-6580.172279",
+    "title": [
+     "Anti-arthritic activity of Dashanga Ghana (an ayurvedic compound formulation) against Freund′s adjuvant induced arthritis in Charles Foster albino rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicology International"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5650/jos.ess21413",
+    "title": [
+     "Specneuzhenide Ameliorate Complete Freund Adjuvant Induced Arthritis in Rats: Involvement of NF-κB and HO-1/Nrf-2 Pathway"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Oleo Science"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4103/0973-8258.140168",
+    "title": [
+     "Systemic administration of fractions from Nyctanthes arbor-tristis attenuates chronic inflammatory response in Freund′s-complete-adjuvant-induced arthritis in rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014
+      ]
+     ]
+    },
+    "container-title": [
+     "International Journal of Green Pharmacy"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10495-017-1420-0",
+    "title": [
+     "Protodioscin ameliorates oxidative stress, inflammation and histology outcome in Complete Freund’s adjuvant induced arthritis rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       9,
+       15
+      ]
+     ]
+    },
+    "container-title": [
+     "Apoptosis"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/jbt.70694",
+    "title": [
+     "The Molecular Mechanism of Silymarin in Relieving Myocardial Fibrosis and Reducing Oxidative Stress Levels in Adjuvant‐Induced Rheumatoid Arthritis Rats by Inhibiting IRAK4"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Biochemical and Molecular Toxicology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s41110-020-00130-4",
+    "title": [
+     "Cymbopogon citratus mitigates neurobehavioral impairments via inhibition of oxidative stress and inflammatory changes in mice submitted to complete Freund adjuvant"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       1,
+       15
+      ]
+     ]
+    },
+    "container-title": [
+     "Nutrire"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/art.1780360120",
+    "title": [
+     "Suppression of adjuvant‐induced arthritis in da rats by incomplete freund's adjuvant"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1993,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Arthritis &amp; Rheumatism"
+    ],
+    "type": "journal-article"
+   }
+  ]
+ },
+ "palmitoylethanolamide dexamethasone": {
+  "n": 36892,
+  "rec": [
+   {
+    "DOI": "10.1017/cbo9781139194464.120",
+    "title": [
+     "Palmitoylethanolamide (PEA)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "Essential Pain Pharmacology"
+    ],
+    "type": "book-chapter"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s001",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acsptsci.3c00188.s001",
+    "title": [
+     "Exploring the Protective Effect against 7,12-Dimethylbenz[a]anthracene-Induced Breast Tumors of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1021/acscatal.0c02903.s002",
+    "title": [
+     "NAcylethanolamine Acid Amidase (NAAA): Mechanism of Palmitoylethanolamide Hydrolysis Revealed by Mechanistic Simulations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.1186/s12974-014-0136-0",
+    "title": [
+     "Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       8,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn72647928",
+    "title": [
+     "Palmitoylethanolamide intake and systemic endothelial function in ocular hypertensive patients"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       12,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.org/&gt;"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.17760/d20420655",
+    "title": [
+     "Modulation of 2-arachidinoylglycerol and palmitoylethanolamide levels through\n                    inhibition of endocannabinoid enzymes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90230-9",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58837/chula.the.2020.73",
+    "title": [
+     "Property estimation of palmitoylethanolamide and sucrose palmitate for process design from methyl palmitate"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "dissertation"
+   },
+   {
+    "DOI": "10.64611/uhqz7783",
+    "title": [
+     "Palmitoylethanolamide (PEA): A New Drug For Intractable Pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "type": "report"
+   },
+   {
+    "DOI": "10.7490/f1000research.1110665.1",
+    "title": [
+     "Multimodal stepped care approach acupuncture and palmitoylethanolamide for post stroke central pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10,
+       1
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.4103/ijp.ijp_964_24",
+    "title": [
+     "Pharmacokinetics of micronized and water dispersible palmitoylethanolamide in comparison with standard palmitoylethanolamide following single oral administration in male Sprague-Dawley rats"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7
+      ]
+     ]
+    },
+    "container-title": [
+     "Indian Journal of Pharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4135/9781529731705",
+    "title": [
+     "Clinical Applications of Palmitoylethanolamide in Pain Management: Protocol for a Scoping Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "type": "reference-book"
+   },
+   {
+    "DOI": "10.21926/obm.neurobiol.2004076",
+    "title": [
+     "Palmitoylethanolamide for Neurological Disorders"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       12,
+       30
+      ]
+     ]
+    },
+    "container-title": [
+     "OBM Neurobiology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.neuropharm.2007.05.015",
+    "title": [
+     "Microglia produce and hydrolyze palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       1
+      ]
+     ]
+    },
+    "container-title": [
+     "Neuropharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/s12974-016-0595-6",
+    "title": [
+     "Erratum to: Micronized/ultramicronized palmitoylethanolamide displays superior oral efficacy compared to nonmicronized palmitoylethanolamide in a rat model of inflammatory pain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       5,
+       31
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Neuroinflammation"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22541/au.172802344.43670590/v1",
+    "title": [
+     "Palmitoylethanolamide (PEA) as a Therapeutic Agent for Neurological Pain: Mechanisms and Clinical Application"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       4
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1097/j.pain.0000000000000399",
+    "title": [
+     "Branded name for ultramicronized palmitoylethanolamide and flawed science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       3
+      ]
+     ]
+    },
+    "container-title": [
+     "Pain"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s40278-019-68389-4",
+    "title": [
+     "Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       28
+      ]
+     ]
+    },
+    "container-title": [
+     "Reactions Weekly"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1186/isrctn52370199",
+    "title": [
+     "The anti-migraine activity of supplement formulation PEATONIDE® combining palmitoylethanolamide and melatonin"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8,
+       6
+      ]
+     ]
+    },
+    "container-title": [
+     "http://isrctn.com/"
+    ],
+    "type": "dataset"
+   },
+   {
+    "DOI": "10.13188/2573-3834.1000003",
+    "title": [
+     "Palmitoylethanolamide: Research Synergy between Academia and Industry, Based on Insights and Work of Nobel Laureate Rita Levi-Montalcini"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "container-title": [
+     "Journal of Clinical Trials &amp; Patenting"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4172/2167-7700.1000121",
+    "title": [
+     "Palmitoylethanolamide: A Useful Adjunct in Chemotherapy Providing Analgesia and Neuroprotection"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013
+      ]
+     ]
+    },
+    "container-title": [
+     "Chemotherapy: Open Access"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7717/peerj.6846/supp-1",
+    "title": [
+     "Supplemental Information 1: Box-plot of two extremely significantly up-regulated metabolites (e.g., chavicol, palmitoylethanolamide) (\n                      <i>p</i>\n                      -value &lt; 0.01)."
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.3390/ijms21217942",
+    "title": [
+     "The Basal Pharmacology of Palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       10,
+       26
+      ]
+     ]
+    },
+    "container-title": [
+     "International Journal of Molecular Sciences"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/biom12091186",
+    "title": [
+     "Palmitoylethanolamide and Related ALIAmides for Small Animal Health: State of the Art"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       8,
+       26
+      ]
+     ]
+    },
+    "container-title": [
+     "Biomolecules"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31525/ct1-nct04088084",
+    "title": [
+     "Effects of Palmitoylethanolamide on Inner Retinal Function in Glaucoma Patients by Pattern Electroretinogram"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       12
+      ]
+     ]
+    },
+    "container-title": [
+     "Case Medical Research"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.20944/preprints202310.0675.v1",
+    "title": [
+     "Therapeutic Use of Palmitoylethanolamide as an Anti-inflammatory and Immunomodulator"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       10,
+       11
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.4172/neuropsychiatry.1000549",
+    "title": [
+     "Role of N-Acylethanolamines in the Neuroinflammation: Ultramicronized Palmitoylethanolamide in the Relief of Chronic Pain and Neurodegenerative DiseasesRole of N-Acylethanolamines in the Neuroinflammation: Ultramicronized Palmitoylethanolamide in the Relief of Chronic Pain and Neurodegenerative Diseases"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019
+      ]
+     ]
+    },
+    "container-title": [
+     "Neuropsychiatry"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/ejn.15409/v2/decision1",
+    "title": [
+     "Decision letter for \"In vivo brain levels of acetylcholine and 5‐hydroxytryptamine after oleoylethanolamide or palmitoylethanolamide administrations are mediated by PPARα engagement\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       7,
+       25
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.31003/uspnf_m23280_04_01",
+    "title": [
+     "Dexamethasone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "standard"
+   },
+   {
+    "DOI": "10.1016/0041-0101(72)90174-2",
+    "title": [
+     "Non-specific resistance induced by palmitoylethanolamide"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1972,
+       8
+      ]
+     ]
+    },
+    "container-title": [
+     "Toxicon"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/ejn.15409/v1/review2",
+    "title": [
+     "Review for \"In vivo brain levels of acetylcholine and 5‐hydroxytryptamine after oleoylethanolamide or palmitoylethanolamide administrations are mediated by PPARα engagement\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       6,
+       8
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.18578/bnf.866237360",
+    "title": [
+     "dexamethasone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.3390/molecules31142524",
+    "title": [
+     "Palmitoylethanolamide in Human and Animal Obesity"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Molecules"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1021/acs.biomac.3c00276.s001",
+    "title": [
+     "In Vitro and In Vivo Safety of Hyaluronic Acid-Decorated Microparticles for Intravitreal Injection of Palmitoylethanolamide, Citicoline, or Glial-Cell-Derived Neurotrophic Factor"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   },
+   {
+    "DOI": "10.3390/biomedicines14010177",
+    "title": [
+     "Palmitoylethanolamide for Nickel Allergy: Plausible, Untested, and Worth Considering"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       14
+      ]
+     ]
+    },
+    "container-title": [
+     "Biomedicines"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21203/rs.3.rs-587830/v1",
+    "title": [
+     "Distribution of an Analgesic Palmitoylethanolamide and Other N-Acylethanolamines in Human Placental Membranes"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       6,
+       11
+      ]
+     ]
+    },
+    "type": "posted-content"
+   },
+   {
+    "DOI": "10.1111/ejn.15409/v2/review2",
+    "title": [
+     "Review for \"In vivo brain levels of acetylcholine and 5‐hydroxytryptamine after oleoylethanolamide or palmitoylethanolamide administrations are mediated by PPARα engagement\""
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       7,
+       25
+      ]
+     ]
+    },
+    "type": "peer-review"
+   },
+   {
+    "DOI": "10.1007/s10787-014-0202-3",
+    "title": [
+     "Palmitoylethanolamide: problems regarding micronization, ultra-micronization and additives"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       3,
+       20
+      ]
+     ]
+    },
+    "container-title": [
+     "Inflammopharmacology"
+    ],
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18578/bnfc.866237360",
+    "title": [
+     "dexamethasone"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "type": "component"
+   }
+  ]
+ }
+}
