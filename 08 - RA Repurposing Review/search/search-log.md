@@ -1,0 +1,1 @@
+| 2026-10-06 | Europe PMC | statins | 384 | `(TITLE_ABS:"statin" OR TITLE_ABS:"statins" OR TITLE_ABS:"atorvastatin" OR TITLE_ABS:"simvastatin" OR TITLE_ABS:"rosuvastatin") AND (TITLE_ABS:"rheumatoid arthritis" OR TITLE_ABS:"collagen-induced arthritis" OR TITLE_ABS:"adjuvant-induced arthritis" OR TITLE_ABS:"inflammatory arthritis") AND NOT PUB_TYPE:"Review"` |
