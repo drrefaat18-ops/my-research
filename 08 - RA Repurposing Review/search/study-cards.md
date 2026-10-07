@@ -132,3 +132,23 @@ Every number below appears verbatim in `papers/<Key>.md` (grep-checked) and in t
   - Aortic pulse wave velocity: no change (P=0.33)
   - Endothelial function (reactive hyperemia index): no change (P=0.46)
   - These effects were not mediated by the improvement in insulin resistance or inflammation
+
+## Human equivalent doses (HED) — Claude, 2026-10-07
+
+Method: FDA body-surface-area conversion, HED (mg/kg) = animal dose × animal Km / 37 (mouse Km 3, rat Km 6); daily human dose for 60 kg. Cite as Nair & Jacob 2016 (J Basic Clin Pharm, open access) — download at START-HERE item 5.
+⚠️ Estimates for the review text only. Mark "approximately"; route differences (i.p./i.v. vs oral) must be stated.
+
+| Study | Species, route | Animal dose | HED (60 kg) | Usual clinical dose | Verdict |
+|---|---|---|---|---|---|
+| Son2014 metformin | mouse, oral, 3×/week | 5 mg/mouse (weight not stated; 20–25 g → 200–250 mg/kg) | ~970–1,220 mg per dose | 500–2,550 mg/day | within range (estimate) |
+| Fan2020 metformin | rat, i.p., every 3 days | 100 mg/kg | ~970 mg per dose | 500–2,550 mg/day | within range; i.p. |
+| Walker2017 statins | mouse, i.v., 3 doses | 0.2 mg/kg | ~1 mg | atorvastatin 10–80 mg/day | far below clinical |
+| Vandebriel2012 atorvastatin | mouse, oral | ≈10 mg/kg (stated by authors) | ~49 mg/day | 10–80 mg/day | within range |
+| Vandebriel2012 pravastatin | mouse, oral | 0.8 mg/day ≈ 40 mg/kg (estimate, same ratio) | ~195 mg/day | 10–80 mg/day | ~2.4× max (estimate) |
+| Castillero2012 fenofibrate | rat, oral | 300 mg/kg/day | ~2,900 mg/day | 145–200 mg/day | ~15× max |
+| Koufany2008 pioglitazone | rat, oral | 30 mg/kg/day (only effective dose) | ~290 mg/day | 15–45 mg/day | ~6.5× max |
+| Roy2017 pioglitazone | rat, oral | 1.35 mg/kg/day | ~13 mg/day | 15–45 mg/day | below clinical (may explain null effect alone) |
+| Roy2017 MTX | rat, oral | 0.225 mg/kg/day | ~2.2 mg/day (~15 mg/week) | 7.5–25 mg/week | within range |
+| Wang2013 losartan | rat, oral | 10–15 mg/kg/day | ~97–146 mg/day | 25–100 mg/day | at/just above max |
+| AbdelElGaphar2018 losartan | rat, oral | 20 mg/kg/day | ~195 mg/day | 25–100 mg/day | ~2× max |
+| ElDemerdash2025 dapagliflozin | rat, oral | 1 / 5 / 10 mg/kg/day | ~10 / ~49 / ~97 mg/day | 10 mg/day | 1 mg/kg ≈ clinical; best dose ~10× |
