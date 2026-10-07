@@ -69,7 +69,7 @@ Europe PMC, 2026-10-06, 79 hits (title/abstract, reviews excluded)
 | ⬜ | 2019 | Vazirpanah N | mTOR inhibition by metformin impacts monosodium urate crystal-induced inflammation and cell death in gout: a p | 46 | EKB | https://doi.org/10.1136/annrheumdis-2018-214656 |
 | ✅ | 2020 | Chen Y | Metformin, an AMPK Activator, Inhibits Activation of FLSs but Promotes HAPLN1 Secretion. | 35 | OA | https://doi.org/10.1016/j.omtm.2020.05.008 |
 | ⬜ | 2022 | Chen Y | HAPLN1 Affects Cell Viability and Promotes the Pro-Inflammatory Phenotype of Fibroblast-Like Synoviocytes. | 27 | OA | https://doi.org/10.3389/fimmu.2022.888612 |
-| ✅ | 2020 | Chen Y | Adenosine monophosphate-activated protein kinase activator inhibits activation of fibroblast-like synoviocytes | 0 | EKB | https://doi.org/10.21203/rs.2.23894/v1 |
+| ❌ preprint — cite Chen2020 published only | 2020 | Chen Y | Adenosine monophosphate-activated protein kinase activator inhibits activation of fibroblast-like synoviocytes | 0 | EKB | https://doi.org/10.21203/rs.2.23894/v1 |
 
 ## other (34 found)
 

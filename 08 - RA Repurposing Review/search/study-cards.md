@@ -152,3 +152,52 @@ Method: FDA body-surface-area conversion, HED (mg/kg) = animal dose × animal Km
 | Wang2013 losartan | rat, oral | 10–15 mg/kg/day | ~97–146 mg/day | 25–100 mg/day | at/just above max |
 | AbdelElGaphar2018 losartan | rat, oral | 20 mg/kg/day | ~195 mg/day | 25–100 mg/day | ~2× max |
 | ElDemerdash2025 dapagliflozin | rat, oral | 1 / 5 / 10 mg/kg/day | ~10 / ~49 / ~97 mg/day | 10 mg/day | 1 mg/kg ≈ clinical; best dose ~10× |
+
+## Source audit — Claude, 2026-10-07
+Crossref check of all 55 DOIs in `papers/`: **0 retractions**. One correction (Zhang2023, notice 10.1186/s40001-023-01573-x, 2023-12-16) — read it before citing any number.
+
+| Key | Problem | Action |
+|---|---|---|
+| Malemud2013 | J Clin Cell Immunol = OMICS (FTC ruling 2019, $50M, predatory) | ❌ drop; use Ding2023 / Kondo2021 / Gao2024 for pathophysiology |
+| Sarabi2016 | Electronic Physician: not MEDLINE, PMC inactive since 2018 | ❌ do not cite (not in drafts yet) |
+| Kumar 2023 (IJHCR) + Kumar 2024 (J Cardiovasc Dis Res) | metformin RCTs inside Alshammari 2026 meta-analysis; low-quality venues | ❌ do not cite directly; cite the meta-analysis with this caveat |
+| Chen 2020 preprint (10.21203/rs.2.23894/v1) | Research Square preprint, marked ✅ in `metformin.md` | cite only the published Chen2020 (Mol Ther Methods Clin Dev) |
+| Fan2020 | Ann Transl Med delisted from Web of Science 2023 (article from 2020) | ⚠️ keep only alongside Son2014; never as sole support |
+| Cardoso2018 | Open Rheumatol J (Bentham Open), low tier, in vitro only | ⚠️ keep as supporting, not key evidence |
+| Shahin2011, AbdelElGaphar2018, Roy2017, Mostafa2020 | low-tier but legitimate (Scopus-indexed) | ✅ OK; AbdelElGaphar2018 needs its DOI/URL for the reference list |
+| Zhou2012, Son2014 | Hindawi journals (PPAR Res, Mediators Inflamm) | ✅ OK (still indexed); avoid adding more Hindawi mechanistic papers |
+
+## Similar published work — full texts in `papers/` (read 2026-10-07)
+
+### Alshammari2026 — BMC Rheumatol (SR/MA, PROSPERO CRD420251271612)
+- **Scope:** metformin as adjunct to csDMARDs only; 4 RCTs, n = 350 (Gharib2021, Abdallah2021, Kumar 2023, Kumar 2024); Egypt + India only; ≤ 6 months
+- **Results (Table 3, random effects):**
+  - CRP at 3 months: MD −5.99 mg/L (−7.46 to −4.52), 4 RCTs, moderate certainty
+  - CRP at 6 months: MD −6.96 (−7.79 to −6.13), 3 RCTs
+  - DAS28 at 3 months: MD −0.80 (−0.87 to −0.73), 3 RCTs, high certainty
+  - HAQ-DI at 3 months: MD −0.12 (−0.19 to −0.05)
+- **Authors' gaps:** no radiographic scores, no CV endpoints, short trials, only 1 double-blind trial
+- ⚠️ Abstract says CRP MD −5.55 but Table 3 and text say −5.99 → cite −5.99. Both Kumar trials = high risk of bias (RoB 2), no registration. They cite Liang as "2025" (it is 2023) and Gharib as n = 60 (we use our own cards). Cite only the pooled numbers; take trial details from the primary papers.
+
+### Nallathambi2024 — Mediterr J Rheumatol (narrative review)
+- **Scope:** metformin + SGLT2i across all rheumatic diseases (RA, SLE, AS, Sjögren, psoriasis, SSc, gout); search Nov 2023
+- **What it gives us:** confirms no RA clinical data for SGLT2i at that date (SGLT2 evidence = SLE/gout only) → supports our SGLT2 gap sentence together with Yen2026
+- **Leads (metformin preclinical, for Table 1 if needed):** Kang 2013 Int Immunopharmacol (EKB) · Kim 2018 Exp Mol Med (OA) · Yang 2017 Int J Clin Exp Med (weak venue, skip) · Makar 2020 Benha Med J (Egyptian, weak, skip)
+- ⚠️ Low-tier journal; cite once, in the gap paragraph only.
+
+### Buonanno2026 — J Pers Med (scoping review, PRISMA-ScR, not registered)
+- **Scope:** GLP-1 RAs in RA only (disease activity, RA risk, CV comorbidity)
+- **What it gives us:**
+  - mechanism leads (all in vitro RA-FLS, 2019): Zheng — dulaglutide, Int Immunopharmacol (EKB) · Tao — exenatide, IUBMB Life (EKB) · Du — lixisenatide, Int Immunopharmacol (EKB) → replaces Israel2026 as mechanism source
+  - human lead: WangQ2025 (downloaded, card below)
+  - "biphasic" reading of Israel2026 (higher RA risk ≤ 6 months, attenuated later) — useful for Challenges
+- ⚠️ Most RA data in it are conference abstracts (Stipho, Dente, Loizidis, Beltagy, Gavazova) → do NOT cite abstracts.
+
+### WangQ2025 — Clin Rheumatol (OA, PMC12568834)
+- **Design:** retrospective cohort, TriNetX; RA + T2DM; new GLP-1 RA vs DPP-4i users; propensity matched; 5-year follow-up
+- **n:** 41,153 (25,425 GLP-1 vs 15,728 DPP-4i); 8,697 per group after matching; median age 65, 70% women
+- **Result:** all thromboembolic events HR 0.76 (0.70–0.83), p < 0.0001; lower MI, stroke, DVT and all-cause mortality
+- ⚠️ Outcome is CV/thrombosis, not RA activity → use in GLP-1 section as cardiometabolic benefit and in 4.5 synthesis; word as "associated with".
+
+### Our gap (intro, item 16)
+None of these covers antidiabetics + lipid-lowering + ARBs together, gives HED for animal doses, covers safety with MTX/steroids, or compares drugs by shared pathway.
