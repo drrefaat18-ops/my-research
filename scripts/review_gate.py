@@ -1,6 +1,6 @@
 """One command for every deterministic check on review drafts:
 style_check (register, AI phrases, hidden-Unicode watermarks, profile) + cite_check + secondary_check
-+ overlap_check,
++ overlap_check (papers/ + overlap-only/),
 and with --full also structure_check over all drafts.
 
 Usage (from the review folder):
@@ -25,6 +25,9 @@ def gate(path):
     out += [f"[secondary] [{t}] {w} → {h}" for t, w, h in secondary_check.check(md, papers_dir)]
     sources = {os.path.basename(p)[:-3]: open(p, encoding="utf-8").read()
                for p in glob.glob(os.path.join(papers_dir, "*.md"))}
+    # other reviews on the same topic: overlap only, never cited (START-HERE step 6.1)
+    sources.update({"overlap-only/" + os.path.basename(p)[:-3]: open(p, encoding="utf-8").read()
+                    for p in glob.glob(os.path.join(d, "..", "overlap-only", "*.md"))})
     pct, rep = overlap_check.check(md, sources)
     out += [f"[overlap {pct:.1f}%] {n} matches ← {src}: {s[:90]}" for n, src, s in rep]
     return out
