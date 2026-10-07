@@ -21,7 +21,8 @@ updated: 2026-10-07
 | Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 11/35 = 31% |
 | Figures | 4 original + graphical abstract | 0 final |
 | Tables | 3 | 0 final |
-| Overlap / AI detectors | 0% / ≤ 20% each | Day1–3 pass |
+| Overlap / AI detectors | 0% / ≤ 20% each | Day1–3 pass (overlap vs `papers/` only) |
+| Overlap corpus | `papers/` + `overlap-only/` (prior OA reviews, comparison only, not cited) | step 6.1 pending; every section, incl. unwritten ones, gated at the end of its own step; full manuscript at step 27 |
 
 ## Source rules
 - Every specific study cited to its own paper, saved in `papers/` (open access or EKB download).
