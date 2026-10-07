@@ -31,3 +31,16 @@ Europe PMC, 2026-10-06, 9 hits (title/abstract, reviews excluded)
 | ⬜ | 2026 | Khan H. | Comment on: Risk of urinary tract infections associated with SGLT2 inhibitor use in patients with rheumatoid a | 1 | EKB | https://doi.org/10.1093/rheumatology/keaf665 |
 | ⬜ | 2026 | Dobashi N | Comment on: risk of urinary tract infections associated with SGLT2 inhibitor use in patients with rheumatoid a | 0 | EKB | https://doi.org/10.1093/rheumatology/keaf666 |
 | ⬜ | 2025 | García-Hernández MH | Consensus Virtual Screening and &lt;i&gt;Ex Vivo&lt;/i&gt; Evaluation of Novel JAK2/STAT1,3 Inhibitors. | 0 | OA | https://doi.org/10.1021/acsomega.5c06639 |
+
+## Triage — Claude, 2026-10-07 (START-HERE item 5)
+
+| Key | Decision | Why |
+|---|---|---|
+| Kachhadia2026 | ✅ downloaded (OA) → SGLT2 patient study | RA + T2DM vs DPP-4i, 277 matched pairs; MACE not significant; card in study-cards |
+| Dobashi2026 (original of the two comments) | ⬜ EKB → SGLT2 safety in RA | 10.1093/rheumatology/keaf580 — RA-specific UTI target-trial emulation |
+| Tsushima2026 (not in this list) | ✅ downloaded (OA) → safety, Challenges | IMID + T2DM (RA 65–68%); UTI not higher, genital infection higher |
+| Kalantari2024 | ⬜ EKB → Challenges (safety with MTX) | empagliflozin protected rat liver from MTX |
+| MoustafaAhmed2019 | ⬜ EKB, optional | RA/DM co-morbidity rats, vascular reactivity |
+| Agarwal2025 | ❌ skip | in-silico only |
+| Khan2026 · Dobashi2026 reply | ❌ skip | comment letters; cite the original instead |
+| Becerra2021 · García-Hernández2025 | ❌ skip | not about SGLT2i in RA |

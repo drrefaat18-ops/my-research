@@ -11,7 +11,7 @@
 
 #### Background
 
-==Rosiglitazone and pioglitazone are high-affinity peroxisome proliferator-activated receptor (PPAR)-γ agonists with potent anti-diabetic properties and potential anti-inflammatory effects.== ^koufany2008-4
+Rosiglitazone and pioglitazone are high-affinity peroxisome proliferator-activated receptor (PPAR)-γ agonists with potent anti-diabetic properties and potential anti-inflammatory effects. ^koufany2008-4
 
 We compared the ability of a range of oral doses of these thiazolidinediones, including those sufficient to restore insulin sensitization, to inhibit the pathogenesis of adjuvant-induced arthritis (AIA).
 

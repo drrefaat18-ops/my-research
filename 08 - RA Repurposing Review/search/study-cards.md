@@ -201,3 +201,92 @@ Crossref check of all 55 DOIs in `papers/`: **0 retractions**. One correction (Z
 
 ### Our gap (intro, item 16)
 None of these covers antidiabetics + lipid-lowering + ARBs together, gives HED for animal doses, covers safety with MTX/steroids, or compares drugs by shared pathway.
+
+## Item 5 additions — Claude, 2026-10-07
+
+### Mechanism sources (replace non-laboratory citations)
+
+| Draft sentence | Old source (design) | New source | Status |
+|---|---|---|---|
+| Day1 statins ¶1: isoprenylation of Ras/Rho | Chodick2010 (cohort), ElBarbary2010 (trial) | Greenwood2006, Nat Rev Immunol, 10.1038/nri1839 — mechanism review ("protein prenylation") | ⬜ free on PMC (PMC3842637) |
+| Day1 statins ¶1: IFN-γ-induced MHC-II ↓ | Chodick2010 (cohort) | Kwak2000, Nat Med, 10.1038/82219 — laboratory study; abstract confirms IFN-γ-induced MHC-II repression | ⬜ EKB |
+| Day1 4.2 intro: CV risk in RA | Kitas2019 (trial) | Hansildaar2021 — "independent risk factor"; "up to a two-times higher risk" | ✅ in papers/ |
+| Day3 GLP-1 ¶1: cytokines and NF-κB in joint cells | Israel2026 (case-control) | Zheng2019 (dulaglutide, RA-FLS); backups Tao2019, Du2019 | ⬜ EKB |
+| Day3 GLP-1 ¶1: GLP-1R on T/B cells, monocytes, macrophages; M2 shift | Israel2026 (case-control) | Bendotti2022, Pharmacol Res, 10.1016/j.phrs.2022.106320 — review | ⬜ EKB |
+| Day3 GLP-1 ¶1, first sentence: insulin, glucagon, gastric emptying | Israel2026 | Drucker2018, Cell Metab, 10.1016/j.cmet.2018.03.001 — review | ⬜ EKB (optional) |
+| HED method | — | NairJacob2016 | ✅ in papers/ (OA) |
+
+⚠️ FLS papers show effects on synovial fibroblasts, not on T/B cells or macrophages. Keep the two claims apart, each with its own source.
+
+### Malik2026 — Eur Heart J Cardiovasc Pharmacother (OA, PMC13588637)
+- **Design:** target-trial emulation, TriNetX US; obese adults with T2DM + RA, primary prevention; semaglutide vs non-GLP-1RA second-line drugs; PS matching 1:1
+- **n:** 1017 vs 1017 after matching; women 81.3% vs 81.0%; follow-up up to 2 years
+- **Results:**
+  - MACCE: 12.7% vs. 16.5%; HR, 0.75; 95% CI, 0.60–0.94; P = 0.01
+  - Heart failure: HR, 0.69, 95% CI, 0.53–0.91
+  - DMARD escalation: HR, 0.75; 95% CI, 0.60–0.90; P = 0.003
+  - No difference in all-cause mortality, MI or stroke
+- ⚠️ Benefit driven by heart failure. DMARD escalation is an EHR proxy, not a disease-activity measure (authors say so). Word as "associated with".
+
+### Kachhadia2026 — J Clin Med Res (OA, PMC13278687)
+- **Design:** retrospective cohort, TriNetX US; RA + T2DM; SGLT2i vs DPP-4i; PS matching 1:1
+- **n:** 823 SGLT2i, 284 DPP-4i → 277 matched pairs
+- **Results:**
+  - MACE: 43.0% vs. 48.7%; odds ratio 0.792, 95% CI: 0.567– 1.107; P = 0.172 (not significant)
+  - Cox HR 1.284 (95% CI: 0.998–1.652) — authors call it non-interpretable (proportional hazards violated)
+- ⚠️ Small, unequal follow-up (median 3.1 vs. 6.4 years), low-tier journal. Use only to say RA data on SGLT2i are sparse and inconclusive.
+
+### Tsushima2026 — J Diabetes Investig (OA, PMC13398639)
+- **Design:** target-trial emulation, Japanese claims; IMID + T2DM; SGLT2i vs metformin new users; IPTW
+- **n:** 1,845 SGLT2i vs 1,499 metformin; RA = 65.0% vs. 68.2%
+- **Results:**
+  - UTI: HR 1.14, 95% CI 0.84–1.55
+  - Genital infection: HR 2.31, 95% CI 1.16–4.63
+  - No effect modification by immunosuppressants or glucocorticoid dose
+- ⚠️ Mixed IMIDs, not RA only. The RA-only study is Dobashi2026 (Rheumatology, EKB) → prefer it; this one is backup for Challenges (safety with steroids).
+
+### Second-hand citation fixes — Claude, 2026-10-07 (START-HERE item 5.1)
+Each original was taken from the reference list of the paper that made the second-hand claim, and checked against its Europe PMC record.
+
+| Draft sentence | Second-hand source | Original | Access |
+|---|---|---|---|
+| Day1 metformin: AMPK activation | Son2014 intro (ref 4) | Zhou2001, J Clin Invest, 10.1172/JCI13505 | free, PMC209533 |
+| Day1 metformin: mTOR → Th17 | Son2014 intro (ref 7) | Nagai2013, Ann N Y Acad Sci, 10.1111/nyas.12059 — review | EKB |
+| Day1 statins: HMG-CoA reductase / mevalonate | Ren2023 discussion | Greenwood2006 (already listed) | free, PMC3842637 |
+| Day1 statins: earlier CIA studies protective | Vandebriel2012 discussion (refs 13–16) | Leung2003, J Immunol, 10.4049/jimmunol.170.3.1524 · Palmer2004, Arthritis Rheum, 10.1002/art.20673 | free (publisher) · EKB |
+| Day1 fenofibrate: PPAR-α agonist | Zhou2012 intro (ref 14) | Varga2011, Biochim Biophys Acta, 10.1016/j.bbadis.2011.02.014 — review | ✅ in papers/ (OA) |
+| Day2 pioglitazone: PPAR-γ represses inflammatory genes | Shahin2011 intro (refs 7–10) | Varga2011 | ✅ in papers/ |
+| Day2 pioglitazone: insulin resistance ⇄ inflammation | Ormseth2013 abstract | Romeo2012, Arterioscler Thromb Vasc Biol, 10.1161/ATVBAHA.111.241869 — review | free, PMC4784686 |
+| Day2 ARBs: ACE up in RA blood and synovium | Wang2013 intro (refs 3–4) | Goto1990, Ann Rheum Dis (blood monocytes) · Walsh2000, Ann Rheum Dis (synovium) | free, PMC1004015 · PMC1753069 |
+
+⚠️ Varga2011 does not mention reactive oxygen species → drop "ROS" from Day2 line 21 rather than add a reference.
+⚠️ Varga2011 calls fenofibrate "hypolipidemic", not "triglyceride-lowering" → word Day1 line 54 as "lipid-lowering" or keep Zhou2012 only for its own results.
+⚠️ Leung2003 / Palmer2004: confirm dose and route after download (the draft says "often high intraperitoneal doses").
+⚠️ Unused second-hand highlights removed from papers/: Chodick2010 (LFA-1), Koufany2008 (PPAR-γ affinity).
+
+### Abstract-only papers (full text not reachable) — 2026-10-07
+⚠️ Saved from the Europe PMC abstract. Cite only what the abstract states.
+
+**Dobashi2026 — Rheumatology (target-trial emulation, Japanese claims; RA + T2DM)**
+- n: 9772 new antidiabetic users (13% SGLT2i initiators, 42% on glucocorticoids); mean 34-month follow-up
+- UTI, ITT: "no significant difference between SGLT2i and other antidiabetic drug"
+- UTI, as-treated: "adjusted incidence rate ratio 1.64, 95% CI 1.26-2.13"
+- SGLT2i × glucocorticoid dose interaction: not significant
+- ⚠️ The two analyses disagree → in Challenges, report both: no excess risk by ITT, but higher risk while on the drug. Agrees with Tsushima2026 (no UTI excess, more genital infection).
+
+**Kalantari2024 — Biomed Pharmacother (rats, MTX hepatotoxicity)**
+- MTX 20 mg/kg i.p.; empagliflozin 10 or 30 mg/kg/day i.p.
+- Empagliflozin improved liver histology, AST/ALT and antioxidant enzymes; the higher dose worked better
+- 💊 HED: empagliflozin 10 / 30 mg/kg rat → ~97 / ~290 mg/day for 60 kg vs clinical 10–25 mg/day → ~4–12× max, and i.p. → say so.
+- ⚠️ Animal, single MTX toxic dose (not a weekly RA regimen). Supporting only.
+
+**Nematalla2026 — J Pharmacol Exp Ther (rats, CFA arthritis; Egyptian group)**
+- Liraglutide 75 μg/kg/day i.p. (prevention from day 1, or treatment from day 15 to day 56), alone or + MTX 1 mg/kg/wk i.p.
+- Improved joint pathology; suppressed NF-κB/NLRP3/IL-1β and TNF-α/p38 MAPK; corrected the hexokinase 2–succinate–HIF-1α axis; "more pronounced effects when administered in combination with methotrexate"
+- 💊 HED: 75 μg/kg rat → ~12 μg/kg → ~0.73 mg/day for 60 kg vs clinical 0.6–1.8 mg/day (diabetes) → **within the clinical range** (i.p. vs s.c.)
+- Use: Table 1 + GLP-1 animal sentence; recent (2026); MTX-combination point useful for 4.5 and Challenges.
+
+**Loizidis2026 — Clin Rheumatol (TriNetX cohort; RA + obesity, no diabetes)**
+- Semaglutide or tirzepatide vs never-users; 3483 per cohort after matching (68 covariates)
+- HF or respiratory failure, days 91–365: 0.7% vs 1.8%; "HR: 0.48; 95% confidence interval (CI): 0.30-0.78; p = 0.002"
+- ⚠️ Includes tirzepatide (GLP-1/GIP), small event counts; authors call it hypothesis-generating. Pairs with Malik2026 (HF driven benefit in RA + T2DM) → "two US database studies, with and without diabetes".

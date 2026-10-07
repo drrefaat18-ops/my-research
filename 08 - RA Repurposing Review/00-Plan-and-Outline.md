@@ -17,7 +17,7 @@ updated: 2026-10-07
 | Item | Target | Status 2026-10-07 |
 |---|---|---|
 | Words (body, no refs/tables) | 6,500–7,000 | ~3,430 (drug sections only) |
-| Unique references | ≥ 80 | 35 cited · 56 in `papers/` |
+| Unique references | ≥ 80 | 35 cited · 65 in `papers/` · 14 identified, awaiting download (START-HERE 5.2) |
 | Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 11/35 = 31% |
 | Figures | 4 original + graphical abstract | 0 final |
 | Tables | 3 | 0 final |
@@ -28,6 +28,7 @@ updated: 2026-10-07
 - Mechanism claims cited to mechanistic (lab) papers or mechanism reviews — never to cohort, case–control or outcome-trial papers.
 - Every animal dose is followed by its human equivalent dose (HED table in [[study-cards]]; method ref Nair & Jacob 2016).
 - Cohort/case–control results worded "associated with", never "reduced".
+- No second-hand citations: a highlight from a primary paper's Introduction/Background/Discussion that describes other groups' work is not a source → cite the original. Enforced by `scripts/secondary_check.py` (part of `review_gate.py`, added 2026-10-07; 12 flags open, all with an identified original (START-HERE 5.1), fixed in items 6–10).
 
 ## Outline, word budget, reference budget
 "Have" = already cited in drafts or saved in `papers/` and assigned. "New" = still to find/screen.
@@ -39,43 +40,40 @@ updated: 2026-10-07
 | 2 | Methods (databases, dates, terms, criteria, counts) | 0 | 300 | — | ~1 | ~1 |
 | 3 | Pathophysiology + druggable pathways (Fig 1) | 0 | 700 | 2 (Ding2023, Kondo2021) — Malemud2013 dropped (OMICS, predatory) | ~7 | ~9 |
 | 4.1 | Antidiabetics intro | 54 | 60 | 1 | — | 1 |
-| 4.1.1 | Metformin | 548 | 650 | 7 + Abdallah2021, Naffaa2020, Qin2023 (+ Alshammari2026 re-cited) | HED ref | ~11 |
-| 4.1.2 | Pioglitazone | 478 | 550 | 5 + Hsieh2021, Ormseth2014 | — | 7 |
-| 4.1.3 | GLP-1 RAs | 453 | 550 | 3 + WangQ2025, Buonanno2026 (re-cite) | ~2 (Zheng2019 mechanism, EKB + 1 recent human) | ~6 |
-| 4.1.4 | SGLT2 inhibitors | 340 | 450 | 2 | ~3 recent | ~5 |
+| 4.1.1 | Metformin | 548 | 650 | 7 + Abdallah2021, Naffaa2020, Qin2023, NairJacob2016 (+ Alshammari2026 re-cited) | 2 identified: Zhou2001, Nagai2013 (replace Son2014 intro) | ~13 |
+| 4.1.2 | Pioglitazone | 478 | 550 | 5 + Hsieh2021, Ormseth2014 | Varga2011 in hand (PPAR, shared with 4.2.2) + 1 identified: Romeo2012 (replaces Ormseth2013 abstract) | 9 |
+| 4.1.3 | GLP-1 RAs | 453 | 550 | 3 + WangQ2025, Malik2026, Buonanno2026 (re-cite) | 3 identified: Zheng2019, Bendotti2022, Drucker2018 (EKB) | ~8 |
+| 4.1.4 | SGLT2 inhibitors | 340 | 450 | 2 + Kachhadia2026 | 1 identified: Dobashi2026 (EKB) | ~4 |
 | 4.1.5 | DPP-4 inhibitors (moved from 4.4) | (in 4.4) | 150 | 1 (Kathe2018) | ~1 | ~2 |
 | 4.2 | Lipid-lowering intro | 44 | 50 | Hansildaar2021 (replaces Kitas2019 here) | — | 1 |
-| 4.2.1 | Statins | 426 | 650 | 7 + McCarey2004, Tang2011, Hu2024 | ~1 mechanism | ~11 |
+| 4.2.1 | Statins | 426 | 650 | 7 + McCarey2004, Tang2011, Hu2024 | 2 identified: Kwak2000 (EKB), Greenwood2006 (free) + Leung2003, Palmer2004 (replace Vandebriel2012 discussion); Greenwood2006 also replaces Ren2023 for HMG-CoA | ~14 |
 | 4.2.2 | Fenofibrate | 109 | 250 | 2 + Goto2010, Shirinsky2013 | — | 4 |
-| 4.3 | ARBs | 456 | 500 | 4 | ~1 | ~5 |
+| 4.3 | ARBs | 456 | 500 | 4 | 2 identified: Goto1990, Walsh2000 (replace Wang2013 intro) + ~1 human study to find | ~7 |
 | 4.4 | Emerging candidates (1 sentence + Table 2) | 286 | 80 | 4 (in Table 2) | — | 4 |
 | 4.5 | Comparative synthesis (NEW) | 0 | 250 | re-cites | ~1 | ~1 |
-| 5 | Challenges: safety/interactions with MTX & steroids (NEW), trial design, dose gap, review limits | 0 | 600 | — | ~8 | ~8 |
+| 5 | Challenges: safety/interactions with MTX & steroids (NEW), trial design, dose gap, review limits | 0 | 600 | Tsushima2026 | 1 identified: Kalantari2024 (EKB) + ~6 to find | ~8 |
 | 6 | Conclusion | 0 | 150 | — | — | 0 |
-| | **Total** | **~3,430** | **~6,890** | **~55** | **~31** | **~86** |
+| | **Total** | **~3,430** | **~6,890** | **~60** | **14 identified + ~22 to find** | **~96** |
 
 ### Recency budget
-- Recent (≥ 2021) now: 11. Planned additions already in hand: Abdallah2021, Hu2024, Hsieh2021, Qin2023, Hansildaar2021, GBD2023, Nagy2021, Gao2024, Ding2023, Kondo2021, Alshammari2026, Nallathambi2024, Buonanno2026, WangQ2025 → **25** (2026-10-07 audit + similar-work read).
-- 40% of ~86 = 35 → **at least 10 of the ~31 new refs must be 2021 or later** (priority: GLP-1/SGLT2 human studies, Egyptian burden/cost data, safety data).
+- Recent (≥ 2021) now: 11. Planned additions already in hand: Abdallah2021, Hu2024, Hsieh2021, Qin2023, Hansildaar2021, GBD2023, Nagy2021, Gao2024, Ding2023, Kondo2021, Alshammari2026, Nallathambi2024, Buonanno2026, WangQ2025, Malik2026, Kachhadia2026, Tsushima2026 → **28**.
+- Identified, awaiting download: 3 recent (Bendotti2022, Dobashi2026, Kalantari2024) → **31**. The other 11 are older mechanism papers (original sources replacing second-hand citations).
+- 40% of ~96 = 39 → **at least 8 of the ~22 refs still to find must be 2021 or later** (priority: Egyptian burden/cost data, safety data, pathophysiology reviews). If recency falls short at item 22, prefer recent mechanism reviews over the older originals where one source covers both.
 - Checkpoints: START-HERE item 11 (after drug sections) and item 22 (before Word file).
 
-### New references to find (~31)
+### References still to find (~22) — items 5 and 5.1 done 2026-10-07
 | Section | n | What | Recent (≥ 2021) needed | When screened |
 |---|---|---|---|---|
-| 1 Introduction | 5 | Egypt RA burden, biologic cost, MTX toxicity (prior reviews: 3 already found, see [[study-cards]]) | ~4 | item 11 |
-| 5 Challenges | 8 | safety/interactions with MTX & steroids, drug-specific risks in RA, trial-design refs | ≥ 4 | item 11 |
+| 1 Introduction | 5 | Egypt RA burden, biologic cost, MTX toxicity (prior reviews: 3 already found, see [[study-cards]]) | ~3 | item 11 |
+| 5 Challenges | 6 | safety/interactions with MTX & steroids, drug-specific risks in RA, trial-design refs (Tsushima2026 + Kalantari2024 already found) | ≥ 3 | item 11 |
 | 3 Pathophysiology | 7 | inflammatory signalling pathways targeted by the drugs (+1 replaces Malemud2013) | 2–3 | item 11 |
-| 4.1.3 GLP-1 RAs | 2 | Zheng2019 dulaglutide-FLS (EKB; alt. Tao2019 / Du2019) replaces Israel2026 for mechanism + 1 recent human study (WangQ2025 already found) | 1 | item 5 |
-| 4.1.4 SGLT2 inhibitors | 3 | human studies | 3 | item 5 |
-| 4.1.1 Metformin | 1 | Nair & Jacob 2016 (HED method) | 0 | item 5 |
-| 4.2.1 Statins | 1 | lab mechanism ref for Ras/Rho + MHC-II (replaces Chodick2010; verify Kwak 2000) | 0 | item 5 |
 | 4.3 ARBs | 1 | human study if found | — | item 11 |
 | 4.1.5 DPP-4 inhibitors | 1 | human study | — | item 11 |
 | 2 Methods | 1 | search-method reference | 0 | item 12 |
 | 4.5 Synthesis | 1 | review of the shared pathway | — | item 17 |
-| **Total** | **31** | | **≥ 10** | |
+| **Total** | **22** | | **≥ 8** | |
 
-Intro + Challenges = 16 of 34 and carry most of the recency → item 11 screening is the critical step.
+Intro + Challenges + Pathophysiology = 18 of 22 and carry most of the recency → item 11 screening is still the critical step.
 
 ## Similar work & source audit (2026-10-07)
 Details and numbers: [[study-cards]] (last two sections).
@@ -88,7 +86,11 @@ Details and numbers: [[study-cards]] (last two sections).
 | Nallathambi2024 (Mediterr J Rheumatol) | narrative review, metformin + SGLT2i | 1 Intro gap · 4.1.4 | "no RA clinical data for SGLT2i" |
 | Buonanno2026 (J Pers Med) | scoping review, GLP-1 RA | 1 Intro gap · 4.1.3 · 5 | mechanism leads + biphasic RA-risk point |
 | WangQ2025 (Clin Rheumatol) | cohort, GLP-1 RA vs DPP-4i in RA | 4.1.3 · 4.5 | thromboembolic HR 0.76 |
-| Zheng2019 (Int Immunopharmacol) — **to download, EKB** | in vitro RA-FLS, dulaglutide | 4.1.3 | mechanism (replaces Israel2026) |
+| Zheng2019 (Int Immunopharmacol) — **to download, EKB** | in vitro RA-FLS, dulaglutide | 4.1.3 | mechanism in joint cells (replaces Israel2026) |
+| Malik2026 (Eur Heart J Cardiovasc Pharmacother, OA) | target-trial emulation, semaglutide in RA + T2DM | 4.1.3 · 4.5 | MACCE HR 0.75, driven by heart failure |
+| Kachhadia2026 (J Clin Med Res, OA) | cohort, SGLT2i vs DPP-4i in RA + T2DM | 4.1.4 | MACE not significant → "sparse, inconclusive" |
+| Tsushima2026 (J Diabetes Investig, OA) | target-trial emulation, SGLT2i in IMID + T2DM | 5 | UTI not higher; genital infection HR 2.31 |
+| NairJacob2016 (J Basic Clin Pharm, OA) | dose-conversion guide | 4.1–4.3 · Table 1 | HED method |
 
 | Excluded / caution | Reason | Rule |
 |---|---|---|
@@ -107,5 +109,6 @@ Details and numbers: [[study-cards]] (last two sections).
 - Fig 1 pathogenesis + druggable pathways · Fig 2 drug → shared-pathway convergence · Fig 3 evidence map · Fig 4 search/selection flow. Details: [[02-Figures-Map]].
 
 ## Workflow per section
-Brief (Claude) → Copilot ([[Copilot-Prompt]]) → `drafts/DayN.md` → "خلصت" → `review_gate.py` → sentence-level fixes → HumanizeAI (in context) + Grammarly chunk ≤ 20%.
+Sources: candidate list (`find_sources.py`) → user downloads to `papers/pdf/` → `pdf2md.py <Key> <DOI>` (or JATS / abstract-only stub) → Claude highlights the paper's OWN result, never intro/discussion summaries of other work (`highlight.py` warns).
+Brief (Claude) → Copilot ([[Copilot-Prompt]]) → `drafts/DayN.md` → "خلصت" → `review_gate.py` (incl. `secondary_check.py`) → sentence-level fixes → HumanizeAI (in context) + Grammarly chunk ≤ 20%.
 Style rules are enforced by `scripts/review_gate.py`; judgement items by [[review_rubric]] at item 23.

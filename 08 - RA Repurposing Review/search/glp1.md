@@ -39,3 +39,19 @@ Europe PMC, 2026-10-06, 12 hits (title/abstract, reviews excluded)
 | ⬜ | 2026 | Malik F | Semaglutide for primary prevention of major adverse cardiac and cerebrovascular events in patients with type 2 | 1 | OA | https://doi.org/10.1093/ehjcvp/pvag044 |
 | ⬜ | 2025 | Jung J | Semaglutide as a potential therapeutic adjunct for reducing flare-ups in Sjögren's syndrome: A case report. | 0 | OA | https://doi.org/10.1177/2050313x251372813 |
 | ⬜ | 2020 | Quandt Z | SAT-667 Partial Beta-Cell Destruction: An Atypical Case of Immune Checkpoint Inhibitor Diabetes Mellitus | 0 | OA | https://europepmc.org/abstract/MED/None |
+
+## Triage — Claude, 2026-10-07 (START-HERE item 5)
+
+| Key | Decision | Why |
+|---|---|---|
+| Malik2026 | ✅ downloaded (OA) → GLP-1 patient study | RA + T2DM, target-trial emulation, n = 1,017 per group; MACCE HR 0.75; card in study-cards |
+| Zheng2019 | ⬜ EKB → **mechanism source** (replaces Israel2026) | dulaglutide on human RA-FLS: IL-1β, IL-6, MCP-1, HMGB-1 down |
+| Tao2019 | ⬜ EKB → backup mechanism | exenatide on human RA-FLS; shows GLP-1R on FLS |
+| Du2019 (not in this list) | ⬜ EKB → backup mechanism | lixisenatide on RA-FLS: TNF-α, IL-6, IL-8 down; JNK/NF-κB blocked |
+| Bendotti2022 (not in this list) | ⬜ EKB → mechanism review | GLP-1R on immune cells + M2 shift; needed because FLS papers do not cover T/B cells or macrophages |
+| Nematalla2026 | ⬜ EKB, optional | CFA rat, liraglutide ± MTX; recent animal study for Table 1 |
+| Loizidis2026 | ⬜ EKB, optional | RA + obesity without diabetes, TriNetX; only if a second patient study is wanted |
+| Daugherty2018 | ❌ skip | bioRxiv preprint |
+| Williams2022 | ❌ skip | not about RA |
+| Pinheiro2024 | ❌ skip | single case report (vasculitis) |
+| Jung2025 · Quandt2020 | ❌ skip | case report / conference abstract, not RA |

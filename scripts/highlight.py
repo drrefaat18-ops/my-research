@@ -7,6 +7,9 @@ import json
 import os
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import secondary_check  # noqa: E402
+
 
 def apply(text, phrase):
     if f"=={phrase}" in text:
@@ -34,4 +37,7 @@ if __name__ == "__main__":
             if not ok:
                 print(f"MISS {tag}: {p[:80]}")
         open(path, "w", encoding="utf-8").write(text)
+        for sec, h in secondary_check.secondary(text):
+            if any(h in p for p in items):
+                print(f"WARN {tag}: second-hand ({sec}) → cite the original: {h[:70]}")
         print(f"{tag}: {done}/{len(items)}")

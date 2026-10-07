@@ -1,5 +1,6 @@
 """One command for every deterministic check on review drafts:
-style_check (register, AI phrases, hidden-Unicode watermarks, profile) + cite_check + overlap_check,
+style_check (register, AI phrases, hidden-Unicode watermarks, profile) + cite_check + secondary_check
++ overlap_check,
 and with --full also structure_check over all drafts.
 
 Usage (from the review folder):
@@ -10,7 +11,7 @@ Exit 1 if anything is flagged. Called automatically by review_hook.py.
 import glob, os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import cite_check, overlap_check, structure_check, style_check  # noqa: E402
+import cite_check, overlap_check, secondary_check, structure_check, style_check  # noqa: E402
 
 
 def gate(path):
@@ -21,6 +22,7 @@ def gate(path):
     out = [f"[style] [{s}] {w} → {x}" for s, w, x in style_check.check(md)]
     drafts = [open(p, encoding="utf-8").read() for p in sorted(glob.glob(os.path.join(d, "*.md")))]
     out += [f"[cite] [{s}] {w} → {x}" for s, w, x in cite_check.check(md, cite_check.papers_in(papers_dir), drafts)]
+    out += [f"[secondary] [{t}] {w} → {h}" for t, w, h in secondary_check.check(md, papers_dir)]
     sources = {os.path.basename(p)[:-3]: open(p, encoding="utf-8").read()
                for p in glob.glob(os.path.join(papers_dir, "*.md"))}
     pct, rep = overlap_check.check(md, sources)
