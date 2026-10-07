@@ -21,7 +21,9 @@ This systematic review and meta-analysis were conducted in accordance with Prefe
 
 #### Results
 
-A total of four RCTs with 350 participants were included in this review. The use of metformin was associated with significant decreases in several indicators after three months, including a reduction in the CRP level (MD = -5.55, 95% CI = -7.46 to -4.52, p-value = 0.00), DAS-28 (MD = -0.8, %CI = -0.87 to 0.73, p-value < 0.001), and HAQ-DI (MD =-0.12, %CI = -0.19 to -0.05, p-value < 0.001). Additionally, a significant reduction in CRP after six months (MD = -6.96, %95 CI = -7.79 to -6.13, p-value < 0.001) compared to the placebo group.
+==A total of four RCTs with 350 participants were included in this review.== ^alshammari2026-1
+
+The use of metformin was associated with significant decreases in several indicators after three months, including a reduction in the CRP level (MD = -5.55, 95% CI = -7.46 to -4.52, p-value = 0.00), DAS-28 (MD = -0.8, %CI = -0.87 to 0.73, p-value < 0.001), and HAQ-DI (MD =-0.12, %CI = -0.19 to -0.05, p-value < 0.001). Additionally, a significant reduction in CRP after six months (MD = -6.96, %95 CI = -7.79 to -6.13, p-value < 0.001) compared to the placebo group.
 
 
 #### Conclusion
@@ -104,7 +106,9 @@ Fig. 1PRISMA flowchart of the randomized clinical trials
 
 ### Studies characteristics
 
-The included four RCTs collectively enrolled 350 participants with active RA conducted in two countries, Egypt and India, with two RCTs in each country. Patient populations varied in size, with sample sizes ranging from 60 to 120 participants per study. The intervention arms consistently involved the administration of metformin as an adjunct to stable conventional synthetic disease-modifying antirheumatic drug (csDMARD) regimens, either methotrexate monotherapy or combination therapy. Metformin dosing varied across trials, ranging from 500 to 1500 mg daily, administered once daily or in divided doses. Treatment durations and follow-up periods spanned 12 weeks to 6 months. Participants were adults aged 18 years and older, and primary outcomes were assessed using standardized measures of disease activity (DAS-28-CRP), systemic inflammation (CRP), and patient-reported quality of life (HAQ-DI) (Table 1).
+==The included four RCTs collectively enrolled 350 participants with active RA conducted in two countries, Egypt and India, with two RCTs in each country.== ^alshammari2026-2
+
+Patient populations varied in size, with sample sizes ranging from 60 to 120 participants per study. The intervention arms consistently involved the administration of metformin as an adjunct to stable conventional synthetic disease-modifying antirheumatic drug (csDMARD) regimens, either methotrexate monotherapy or combination therapy. Metformin dosing varied across trials, ranging from 500 to 1500 mg daily, administered once daily or in divided doses. Treatment durations and follow-up periods spanned 12 weeks to 6 months. Participants were adults aged 18 years and older, and primary outcomes were assessed using standardized measures of disease activity (DAS-28-CRP), systemic inflammation (CRP), and patient-reported quality of life (HAQ-DI) (Table 1).
 
 
 ### Participants characteristics
@@ -116,7 +120,15 @@ Table 2Characteristics of the included patients in the randomized clinical trial
 
 ### Quality and evidence assessment
 
-The methodological quality of the included RCTs was assessed using the RoB 2 tool. Two RCTs Gharib et al. 2021 [24] and Abdalla et al. 2021 [23] were judged to have an overall low risk of bias, while the other two RCTs Kumar et al. 2023 [25] and Kumar et al. 2024 [22] were judged to have an overall high risk of bias. The high risk of bias was primarily due to concerns related to deviations from intended interventions, as both studies were single-blinded, and no clinical trial registration numbers were reported. Additionally, Kumar et al. 2023 raised concerns regarding missing outcome data, as the study did not report how the withdrawal of three participants was handled in the analysis [25]. Additionally, in Kumar et al. 2023 [25], the methods of random sequence generation and allocation concealment were not described, resulting in concerns regarding the randomization process (Fig. 2). The GRADE assessment indicated that the quality of each outcome ranged from moderate to high, as shown in the Summary of Findings table (Table 3). For two outcomes, the certainty of evidence was downgraded due to the high risk of bias associated with the trials by Kumar et al. 2023 [25] and Kumar et al. 2024 [22]. For the remaining outcomes, the presence of high risk of bias did not affect the overall certainty of evidence as only one included trial was at high risk.
+The methodological quality of the included RCTs was assessed using the RoB 2 tool.
+
+==Two RCTs Gharib et al. 2021 [24] and Abdalla et al. 2021 [23] were judged to have an overall low risk of bias, while the other two RCTs Kumar et al. 2023 [25] and Kumar et al. 2024 [22] were judged to have an overall high risk of bias.== ^alshammari2026-3
+
+
+
+==The high risk of bias was primarily due to concerns related to deviations from intended interventions, as both studies were single-blinded, and no clinical trial registration numbers were reported.== ^alshammari2026-6
+
+Additionally, Kumar et al. 2023 raised concerns regarding missing outcome data, as the study did not report how the withdrawal of three participants was handled in the analysis [25]. Additionally, in Kumar et al. 2023 [25], the methods of random sequence generation and allocation concealment were not described, resulting in concerns regarding the randomization process (Fig. 2). The GRADE assessment indicated that the quality of each outcome ranged from moderate to high, as shown in the Summary of Findings table (Table 3). For two outcomes, the certainty of evidence was downgraded due to the high risk of bias associated with the trials by Kumar et al. 2023 [25] and Kumar et al. 2024 [22]. For the remaining outcomes, the presence of high risk of bias did not affect the overall certainty of evidence as only one included trial was at high risk.
 
 Fig. 2Risk of bias 2 tool for RCTs
 
@@ -128,7 +140,11 @@ Table 3Summary of findings from the randomized clinical trials (n = 4)OutcomeStu
 
 #### C-reactive protein (CRP) levels after three months
 
-The CRP outcome was reported in all included studies [22–25]. The meta-analysis demonstrated a significant reduction in CRP levels after three months, with an overall mean difference of − 5.99 (95% CI: -7.46 to -4.52) and a p-value < 0.001, as shown in Fig. 3. However, substantial heterogeneity was observed (I² = 53.22%), which was explored using a leave-one-out sensitivity analysis.
+The CRP outcome was reported in all included studies [22–25].
+
+==The meta-analysis demonstrated a significant reduction in CRP levels after three months, with an overall mean difference of − 5.99 (95% CI: -7.46 to -4.52) and a p-value < 0.001, as shown in Fig. 3.== ^alshammari2026-4
+
+However, substantial heterogeneity was observed (I² = 53.22%), which was explored using a leave-one-out sensitivity analysis.
 
 Fig. 3The change in CRP levels after three months
 
@@ -142,7 +158,11 @@ Fig. 4The CRP levels after six months
 
 #### The change in DAS-28 after three months
 
-Three studies reported the change in DAS-28 after three months [22–24]. The meta-analysis showed a significant reduction with a mean difference of -0.8 (95% CI: -0.87 to -0.73) and p-value < 0.001. The heterogeneity across the studies was zero (I² = 0%) (Fig. 5).
+Three studies reported the change in DAS-28 after three months [22–24].
+
+==The meta-analysis showed a significant reduction with a mean difference of -0.8 (95% CI: -0.87 to -0.73) and p-value < 0.001.== ^alshammari2026-5
+
+The heterogeneity across the studies was zero (I² = 0%) (Fig. 5).
 
 Fig. 5The change in DAS-28 after three months
 

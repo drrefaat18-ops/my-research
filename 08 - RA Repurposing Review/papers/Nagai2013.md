@@ -7,7 +7,9 @@
 
 ## Abstract
 
-Interleukin (IL)-17-producing helper T (Th17) cells serve as a Th subset involved in epithelial cell- and neutrophil-mediated immune responses against extracellular microbes and in the development of various autoimmune diseases. The differentiation of Th17 cells is controlled by a number of intracellular signaling cascades and a complex network of transcription factors. ==Recently, it has been shown that PI3K, Akt, and mammalian target of rapamycin (mTOR) complexes, such as mTORC1 and mTORC2, also positively regulate Th17 differentiation both in vivo and in vitro via multiple mechanisms; here, we review the current knowledge regarding the mechanisms through which these molecules enhance Th17 differentiation.==
+Interleukin (IL)-17-producing helper T (Th17) cells serve as a Th subset involved in epithelial cell- and neutrophil-mediated immune responses against extracellular microbes and in the development of various autoimmune diseases. The differentiation of Th17 cells is controlled by a number of intracellular signaling cascades and a complex network of transcription factors.
+
+==Recently, it has been shown that PI3K, Akt, and mammalian target of rapamycin (mTOR) complexes, such as mTORC1 and mTORC2, also positively regulate Th17 differentiation both in vivo and in vitro via multiple mechanisms; here, we review the current knowledge regarding the mechanisms through which these molecules enhance Th17 differentiation.== ^nagai2013-1
 
 ## Full text (PDF extraction)
 

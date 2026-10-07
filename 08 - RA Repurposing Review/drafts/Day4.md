@@ -14,11 +14,11 @@ status: todo
 > 5. خلصت؟ غيّر `status: todo` فوق لـ `status: done` وقول لـ Claude "خلصت يوم 4".
 
 ## 3. Pathophysiology of RA and Druggable Pathways
-> 📖 الإملاء: [[3-Pathophysiology]] · 🎯 ~600 كلمة
+> 📖 الإملاء: [[3-Pathophysiology]] · 🎯 ≥600 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 
 ## 2. Methods
-> 📖 الإملاء: [[2-Methods]] · 🎯 ~200 كلمة
+> 📖 الإملاء: [[2-Methods]] · 🎯 ≥200 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 

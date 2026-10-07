@@ -13,9 +13,21 @@
 
 Objective: To evaluate the efficacy and safety of metformin use in rheumatoid arthritis (RA) patients receiving conventional synthetic disease modifying anti-rheumatic drugs (csDMARDs).
 
-Methods: A prospective, randomized, controlled, single blinded, study was carried on ==66 RA patients with moderate and high disease activity state==, receiving csDMARDs. Patients were simply randomized to receive either ==metformin 850 mg twice daily== (Metformin group, n = 33), or placebo twice daily (Control group, n = 33) in addition to their stable anti-rheumatic regimen and followed up for 6 months. Serum C-reactive protein (CRP), disease activity of 28 joints based on CRP (DAS-28-CRP), and quality of life (QOL) were evaluated at baseline and then every 3 months. Moreover, serum adiponectin was assessed at baseline and after 6 months. ^gharib2021-1
+Methods: A prospective, randomized, controlled, single blinded, study was carried on
 
-Results: Sixty patients completed the study. Drop out was due to intolerance to metformin side effects (n = 3) and non-compliance (n = 3). ==Metformin significantly decreased CRP levels and DAS-28-CRP after 6 months compared to the control group== (p-value <0.001). A significant improvement in QOL of metformin group was observed as early as after 3 months (p-value = 0.006) with a continued improvement observed at 6 months (p-value <0.001) compared to the control group. Despite the significantly higher serum adiponectin in the metformin group at baseline, it was significantly reduced after 6 months in the metformin group with median percent change of −63.49% compared to the significant increase in the control group with median percent change of 92.40%. ^gharib2021-2
+==66 RA patients with moderate and high disease activity state== ^gharib2021-1
+
+, receiving csDMARDs. Patients were simply randomized to receive either
+
+==metformin 850 mg twice daily== ^gharib2021-5
+
+(Metformin group, n = 33), or placebo twice daily (Control group, n = 33) in addition to their stable anti-rheumatic regimen and followed up for 6 months. Serum C-reactive protein (CRP), disease activity of 28 joints based on CRP (DAS-28-CRP), and quality of life (QOL) were evaluated at baseline and then every 3 months. Moreover, serum adiponectin was assessed at baseline and after 6 months.
+
+Results: Sixty patients completed the study. Drop out was due to intolerance to metformin side effects (n = 3) and non-compliance (n = 3).
+
+==Metformin significantly decreased CRP levels and DAS-28-CRP after 6 months compared to the control group== ^gharib2021-2
+
+(p-value <0.001). A significant improvement in QOL of metformin group was observed as early as after 3 months (p-value = 0.006) with a continued improvement observed at 6 months (p-value <0.001) compared to the control group. Despite the significantly higher serum adiponectin in the metformin group at baseline, it was significantly reduced after 6 months in the metformin group with median percent change of −63.49% compared to the significant increase in the control group with median percent change of 92.40%.
 
 Conclusion: Metformin significantly improved inflammation, disease severity, and QOL in RA patients with high safety profile.
 
@@ -42,7 +54,11 @@ This study was designed to evaluate the potential benefits of metformin use as a
 
 ### Study Design and Setting
 
-This was a prospective, randomized, single blinded controlled study carried on ==66 Egyptian RA patients==. The study was conducted at Rheumatology and Immunology Unit of Internal Medicine Department, Al-Zahraa University Hospital, Cairo, Egypt. ^gharib2021-3
+This was a prospective, randomized, single blinded controlled study carried on
+
+==66 Egyptian RA patients== ^gharib2021-3
+
+. The study was conducted at Rheumatology and Immunology Unit of Internal Medicine Department, Al-Zahraa University Hospital, Cairo, Egypt.
 
 
 ### Ethics Consideration
@@ -87,7 +103,11 @@ Sample size calculation was done by Statulator online calculator available at (h
 
 ### Baseline Evaluation
 
-From October 2018 to March 2020, 97 patients with RA were assessed for eligibility. Only 66 patients fulfilled the inclusion criteria and were included in the study while only 60 patients completed the study. Three patients were withdrawn from the control group due to non-compliance to the study protocol while ==three patients left the study in the metformin group because of intolerance to gastrointestinal tract (GIT) adverse effects==. The study flow chart is represented in Figure 1. ^gharib2021-4
+From October 2018 to March 2020, 97 patients with RA were assessed for eligibility. Only 66 patients fulfilled the inclusion criteria and were included in the study while only 60 patients completed the study. Three patients were withdrawn from the control group due to non-compliance to the study protocol while
+
+==three patients left the study in the metformin group because of intolerance to gastrointestinal tract (GIT) adverse effects== ^gharib2021-4
+
+. The study flow chart is represented in Figure 1.
 
 > **FIGURE 1** The study flow chart. *DMARDs: disease modifying anti-rheumatic drugs.
 

@@ -19,12 +19,20 @@ The traditional treatment of rheumatoid arthritis (RA) has some side effects. We
 
 #### Methods
 
-The present prospective cohort study recruited ==124 RA patients (metformin group)== who were treated with metformin and conventional therapy (methotrexate, hydroxychloroquine sulfate and sulfasalazine) and 98 RA patients (conventional therapy group) who were only treated with conventional therapy. All subjects were admitted from December 2018 to December 2021 and continuous medication for 90 days. The serum high mobility group box 1 (HMGB1), tumor necrosis factor α (TNF-α), interleukin (IL)-6, IL-1β and C-reactive protein (CRP) levels were measured by enzyme-linked immunosorbent assay (ELISA). Flow cytometric were used to analyze the expression of CD4+ and CD8+. Demographic and clinical statistics including age, body mass index (BMI), sex, course of disease, erythrocyte sedimentation rate (ESR), rheumatoid factor (RF), visual analogue score (VAS)and disease activity score (DAS)-28 were collected. ^zhang2023-1
+The present prospective cohort study recruited
+
+==124 RA patients (metformin group)== ^zhang2023-1
+
+who were treated with metformin and conventional therapy (methotrexate, hydroxychloroquine sulfate and sulfasalazine) and 98 RA patients (conventional therapy group) who were only treated with conventional therapy. All subjects were admitted from December 2018 to December 2021 and continuous medication for 90 days. The serum high mobility group box 1 (HMGB1), tumor necrosis factor α (TNF-α), interleukin (IL)-6, IL-1β and C-reactive protein (CRP) levels were measured by enzyme-linked immunosorbent assay (ELISA). Flow cytometric were used to analyze the expression of CD4+ and CD8+. Demographic and clinical statistics including age, body mass index (BMI), sex, course of disease, erythrocyte sedimentation rate (ESR), rheumatoid factor (RF), visual analogue score (VAS)and disease activity score (DAS)-28 were collected.
 
 
 #### Results
 
-The serum levels of HMGB1, CRP, IL-6, CD4+ expression and CD4+/CD8+ ratio were significantly increased in patients with DAS-28 score ≥ 2.6. ==The serum HMGB1 and cytokines levels of metformin group declined more quickly during the study time==. Pearson’s analysis supported that a positive correlation existed between the HMGB1 and IL-6, TNF-α, CRP, CD4+, CD4+/CD8+ ratio, and VAS scores. HMGB1 could be a potential diagnostic biomarker for RA patients in active phase. Serum HMGB1 (95% CI 1.133–1.397, P < 0.001) was a factor associated with active RA. ^zhang2023-2
+The serum levels of HMGB1, CRP, IL-6, CD4+ expression and CD4+/CD8+ ratio were significantly increased in patients with DAS-28 score ≥ 2.6.
+
+==The serum HMGB1 and cytokines levels of metformin group declined more quickly during the study time== ^zhang2023-2
+
+. Pearson’s analysis supported that a positive correlation existed between the HMGB1 and IL-6, TNF-α, CRP, CD4+, CD4+/CD8+ ratio, and VAS scores. HMGB1 could be a potential diagnostic biomarker for RA patients in active phase. Serum HMGB1 (95% CI 1.133–1.397, P < 0.001) was a factor associated with active RA.
 
 
 #### Conclusion

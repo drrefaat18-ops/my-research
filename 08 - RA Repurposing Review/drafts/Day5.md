@@ -14,16 +14,16 @@ status: todo
 > 5. خلصت؟ غيّر `status: todo` فوق لـ `status: done` وقول لـ Claude "خلصت يوم 5".
 
 ## 1. Introduction
-> 📖 الإملاء: [[1-Introduction]] · 🎯 ~500 كلمة
+> 📖 الإملاء: [[1-Introduction]] · 🎯 ≥500 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 
 ## 5. Challenges and Future Perspectives
-> 📖 الإملاء: [[5-Challenges]] · 🎯 ~400 كلمة
+> 📖 الإملاء: [[5-Challenges]] · 🎯 ≥400 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 
 ## 6. Conclusions
-> 📖 الإملاء: [[6-Conclusion]] · 🎯 ~150 كلمة
+> 📖 الإملاء: [[6-Conclusion]] · 🎯 ≥150 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 

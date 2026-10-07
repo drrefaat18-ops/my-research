@@ -14,7 +14,7 @@ status: todo
 > 5. خلصت؟ غيّر `status: todo` فوق لـ `status: done` وقول لـ Claude "خلصت يوم 3".
 
 ## 4.1.3. GLP-1 Receptor Agonists
-> 📖 الإملاء: [[4.1c-GLP1-RA]] · 🎯 ~300 كلمة
+> 📖 الإملاء: [[4.1c-GLP1-RA]] · 🎯 ≥300 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 Liraglutide, semaglutide and dulaglutide are receptor agonists of glucagon-like peptide-1 (GLP-1RAs), which raise insulin release when glucose is high, lower glucagon, slow gastric emptying and increase satiety [Israel2026]. Two lines of evidence link these drugs to RA. In a cross-sectional study of 151 patients with RA but without diabetes and 210 sex-matched controls, the patients had an impaired incretin-insulin axis, with higher GLP-1, glucose-dependent insulinotropic polypeptide (GIP) and insulin levels and more insulin resistance [TejeraSegura2017]. GLP-1 receptors are also found on immune cells (T and B cells, monocytes and macrophages) [Israel2026]. There, the drugs have been reported to lower TNF-α, IL-6 and IL-1β, block nuclear factor kappa B (NF-κB) and favor M2 (anti-inflammatory) macrophages [Israel2026].
@@ -26,7 +26,7 @@ Not all data indicate a benefit. A case-control study compared 4,535 RA patients
 To date, the evidence is limited, observational and mixed, and we found no randomized trials in RA. GLP-1RAs may help some patients with RA and obesity, but they cannot be recommended yet, and future trials should check whether the first months of treatment briefly worsen inflammation.
 
 ## 4.1.4. SGLT2 Inhibitors
-> 📖 الإملاء: [[4.1d-SGLT2i]] · 🎯 ~250 كلمة
+> 📖 الإملاء: [[4.1d-SGLT2i]] · 🎯 ≥250 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 Sodium–glucose cotransporter 2 (SGLT2) inhibitors, such as dapagliflozin, are oral drugs for type 2 diabetes that block glucose reabsorption in the kidney [ElDemerdash2025]. The only animal study in arthritis that we found reported clear anti-inflammatory effects. In an Egyptian study (Ain Shams University) of AIA rats induced with complete Freund's adjuvant, three oral daily doses of dapagliflozin (1, 5 and 10 mg/kg) were tested for 3 weeks; the highest dose worked best [ElDemerdash2025]. Compared with untreated arthritic rats, dapagliflozin alone lowered serum NF-κB p65 by 66% and TNF-α by 71% [ElDemerdash2025]. It raised the p-AMPK/t-AMPK ratio in the joint by 374%, whereas MTX alone did not change it, which suggests involvement of the AMPK pathway described for metformin (Section 4.1.1) [ElDemerdash2025]. It also raised joint gene expression of the autophagy markers autophagy-related gene 7 (ATG-7), Beclin-1 and unc-51-like kinase 1 (ULK-1) [ElDemerdash2025]. On X-ray, neither drug alone reduced bone erosion or joint-space narrowing; only the two drugs together did [ElDemerdash2025].
@@ -36,7 +36,7 @@ Human data are limited to RA onset in people with diabetes: a study used TriNetX
 Unlike GLP-1RAs (Section 4.1.3), SGLT2 inhibitors were not linked to a higher RA risk than other glucose-lowering drugs [Yen2026]. Still, we found only one animal study and one observational study and no trial in patients who already have RA [ElDemerdash2025][Yen2026]; their use in RA therefore remains experimental.
 
 ## 4.4. Emerging Candidates
-> 📖 الإملاء: [[4.4-Emerging]] · 🎯 ~200 كلمة
+> 📖 الإملاء: [[4.4-Emerging]] · 🎯 ≥200 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 
 Several other drugs have been proposed for RA, but their evidence is weak, indirect or mixed (Table 2). In rats with CIA, the non-selective β-blocker propranolol reduced inflammation in the heart and made arrhythmias less likely [Lin2020]. However, its effect on the joints was small: paw swelling and clinical scores stayed close to those of untreated CIA rats and improved only mildly late in the disease [Lin2020]. In pooled data from five trials of tocilizumab and/or csDMARDs (5,502 RA patients), the 594 (10.8%) who used β-blockers, mostly β1-selective ones, reached remission on the Simplified Disease Activity Index (SDAI) less often (adjusted HR 0.70, 95% CI 0.57–0.87) [Abuhelwa2021].

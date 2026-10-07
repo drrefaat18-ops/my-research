@@ -155,6 +155,7 @@ Method: FDA body-surface-area conversion, HED (mg/kg) = animal dose × animal Km
 
 ## Source audit — Claude, 2026-10-07
 Crossref check of all 55 DOIs in `papers/`: **0 retractions**. One correction (Zhang2023, notice 10.1186/s40001-023-01573-x, 2023-12-16) — read it before citing any number.
+  - ✅ Read 2026-10-07: the correction changes **only the ethics statement** (approval HPHP-2018-0095 → Hunan Provincial People's Hospital [2023]-59). No numbers changed. Caution: a 2023 approval for a prospective cohort may draw a reviewer question; cite as is.
 
 | Key | Problem | Action |
 |---|---|---|
@@ -251,6 +252,7 @@ Each original was taken from the reference list of the paper that made the secon
 | Draft sentence | Second-hand source | Original | Access |
 |---|---|---|---|
 | Day1 metformin: AMPK activation | Son2014 intro (ref 4) | Zhou2001, J Clin Invest, 10.1172/JCI13505 | free, PMC209533 |
+| Day1 metformin: AMPK inhibits mTOR | Son2014 intro ("Metformin-activated AMPK suppresses mTOR") | Gwinn2008, Mol Cell, 10.1016/j.molcel.2008.03.003 — lab study: AMPK phosphorylates raptor, required for mTORC1 inhibition | ✅ in papers/ (free, PMC2674027) |
 | Day1 metformin: mTOR → Th17 | Son2014 intro (ref 7) | Nagai2013, Ann N Y Acad Sci, 10.1111/nyas.12059 — review | EKB |
 | Day1 statins: HMG-CoA reductase / mevalonate | Ren2023 discussion | Greenwood2006 (already listed) | free, PMC3842637 |
 | Day1 statins: earlier CIA studies protective | Vandebriel2012 discussion (refs 13–16) | Leung2003, J Immunol, 10.4049/jimmunol.170.3.1524 · Palmer2004, Arthritis Rheum, 10.1002/art.20673 | free (publisher) · EKB |

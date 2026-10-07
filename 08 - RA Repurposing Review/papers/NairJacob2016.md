@@ -47,7 +47,11 @@ As the Km factor for each species is constant, the Km ratio is used to simplify 
 
 HED (mg / kg) = Animal does (mg / kg) × Km ratio Eq. (3)
 
-The Km ratio values provided in Table 1 is easily obtained by dividing human Km factor by animal Km factor or vice versa. For instance, the Km ratio values for rat is 6.2 and 0.162, obtained by dividing 37 (human Km factor) by 6 (animal Km factor) and vice versa, respectively. Thus, usually to obtain the HED values (mg/kg), one can either divide or multiply the animal dose (mg/kg) by the Km ratio provided in Table 1. For example, for a particular drug, the NOAEL in rats is 50 mg/kg. Using Equation 3, HED is calculated either by multiplying or dividing the animal dose with the Km ratio values given in Table 1. Accordingly, divide the rat dose (50 mg/kg) by 6.2 or multiply by 0.162, the HED is –8.1 mg/kg.
+The Km ratio values provided in Table 1 is easily obtained by dividing human Km factor by animal Km factor or vice versa. For instance, the Km ratio values for rat is 6.2 and 0.162, obtained by dividing 37 (human Km factor) by 6 (animal Km factor) and vice versa, respectively.
+
+==Thus, usually to obtain the HED values (mg/kg), one can either divide or multiply the animal dose (mg/kg) by the Km ratio provided in Table 1.== ^nairjacob2016-1
+
+For example, for a particular drug, the NOAEL in rats is 50 mg/kg. Using Equation 3, HED is calculated either by multiplying or dividing the animal dose with the Km ratio values given in Table 1. Accordingly, divide the rat dose (50 mg/kg) by 6.2 or multiply by 0.162, the HED is –8.1 mg/kg.
 
 However, it must be borne in mind that the km factor varies across animal species and increases proportional to W2/3 within a species as body weight increases. For example, the km value in rats varies from 5.2 (100 g rat), 6 (150 g rat), and 7 (250 g rat). Therefore, calculation of HED for a drug of NOAEL in rats is 50 mg/kg with an average weight of 250 g is as below:
 

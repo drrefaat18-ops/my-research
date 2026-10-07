@@ -9,7 +9,7 @@ Usage (from the review folder):
 """
 import re, sys
 
-TOTAL = (6000, 7500)       # journal-neutral target (START-HERE: 6-7k words)
+MIN_WORDS = 6500           # floor only, no cap (user 2026-10-07); journal word limit applied after journal choice
 ABSTRACT_MAX = 250
 SECTIONS = {               # number -> (name regex, share of body words lo-hi %) ; ponytail: rough bands
     "1": (r"introduction", (6, 15)), "2": (r"methods?", (2, 8)), "3": (r"patho", (8, 20)),
@@ -57,8 +57,8 @@ def check(texts):
     secs, issues = sections(texts), []
     body = {h: ps for h, ps in secs.items() if re.match(r"\d", h)}
     total = words([p for ps in body.values() for p in ps])
-    if not TOTAL[0] <= total <= TOTAL[1]:
-        issues.append(("length", f"body = {total} words (target {TOTAL[0]}–{TOTAL[1]})"))
+    if total < MIN_WORDS:
+        issues.append(("length", f"body = {total} words (minimum {MIN_WORDS})"))
     for num, (rx, (lo, hi)) in SECTIONS.items():
         parts = {h: ps for h, ps in body.items() if h.split(".")[0] == num}
         n = words([p for ps in parts.values() for p in ps])

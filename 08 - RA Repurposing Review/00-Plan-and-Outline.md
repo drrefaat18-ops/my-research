@@ -16,8 +16,8 @@ updated: 2026-10-07
 ## Fixed targets
 | Item | Target | Status 2026-10-07 |
 |---|---|---|
-| Words (body, no refs/tables) | 6,500–7,000 | ~3,430 (drug sections only) |
-| Unique references | ≥ 80 | 35 cited · 65 in `papers/` · 14 identified, awaiting download (START-HERE 5.2) |
+| Words (body, no refs/tables) | ≥ 6,500 (minimum only; no cap until journal chosen) | ~3,430 (drug sections only) |
+| Unique references | ≥ 80 | 35 cited · 84 in `papers/` · ~77 planned for use (items 5–5.2 done) |
 | Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 11/35 = 31% |
 | Figures | 4 original + graphical abstract | 0 final |
 | Tables | 3 | 0 final |
@@ -40,7 +40,7 @@ updated: 2026-10-07
 | 2 | Methods (databases, dates, terms, criteria, counts) | 0 | 300 | — | ~1 | ~1 |
 | 3 | Pathophysiology + druggable pathways (Fig 1) | 0 | 700 | 2 (Ding2023, Kondo2021) — Malemud2013 dropped (OMICS, predatory) | ~7 | ~9 |
 | 4.1 | Antidiabetics intro | 54 | 60 | 1 | — | 1 |
-| 4.1.1 | Metformin | 548 | 650 | 7 + Abdallah2021, Naffaa2020, Qin2023, NairJacob2016 (+ Alshammari2026 re-cited) | 2 identified: Zhou2001, Nagai2013 (replace Son2014 intro) | ~13 |
+| 4.1.1 | Metformin | 548 | 650 | 7 + Abdallah2021, Naffaa2020, Qin2023, NairJacob2016 (+ Alshammari2026 re-cited) | 3 in hand: Zhou2001, Gwinn2008, Nagai2013 (replace Son2014 intro) | ~14 |
 | 4.1.2 | Pioglitazone | 478 | 550 | 5 + Hsieh2021, Ormseth2014 | Varga2011 in hand (PPAR, shared with 4.2.2) + 1 identified: Romeo2012 (replaces Ormseth2013 abstract) | 9 |
 | 4.1.3 | GLP-1 RAs | 453 | 550 | 3 + WangQ2025, Malik2026, Buonanno2026 (re-cite) | 3 identified: Zheng2019, Bendotti2022, Drucker2018 (EKB) | ~8 |
 | 4.1.4 | SGLT2 inhibitors | 340 | 450 | 2 + Kachhadia2026 | 1 identified: Dobashi2026 (EKB) | ~4 |
@@ -53,12 +53,12 @@ updated: 2026-10-07
 | 4.5 | Comparative synthesis (NEW) | 0 | 250 | re-cites | ~1 | ~1 |
 | 5 | Challenges: safety/interactions with MTX & steroids (NEW), trial design, dose gap, review limits | 0 | 600 | Tsushima2026 | 1 identified: Kalantari2024 (EKB) + ~6 to find | ~8 |
 | 6 | Conclusion | 0 | 150 | — | — | 0 |
-| | **Total** | **~3,430** | **~6,890** | **~60** | **14 identified + ~22 to find** | **~96** |
+| | **Total** | **~3,430** | **~6,890** | **~77** (+ Gwinn2008) | **~22 to find** | **~99** |
 
 ### Recency budget
 - Recent (≥ 2021) now: 11. Planned additions already in hand: Abdallah2021, Hu2024, Hsieh2021, Qin2023, Hansildaar2021, GBD2023, Nagy2021, Gao2024, Ding2023, Kondo2021, Alshammari2026, Nallathambi2024, Buonanno2026, WangQ2025, Malik2026, Kachhadia2026, Tsushima2026 → **28**.
-- Identified, awaiting download: 3 recent (Bendotti2022, Dobashi2026, Kalantari2024) → **31**. The other 11 are older mechanism papers (original sources replacing second-hand citations).
-- 40% of ~96 = 39 → **at least 8 of the ~22 refs still to find must be 2021 or later** (priority: Egyptian burden/cost data, safety data, pathophysiology reviews). If recency falls short at item 22, prefer recent mechanism reviews over the older originals where one source covers both.
+- Downloaded at item 5.2: 3 recent (Bendotti2022, Dobashi2026, Kalantari2024) + Nematalla2026, Loizidis2026 → **33**. The other 12 (incl. Gwinn2008) are older mechanism papers replacing second-hand citations.
+- 40% of ~99 = 40 → **at least 7 of the ~22 refs still to find must be 2021 or later** (priority: Egyptian burden/cost data, safety data, pathophysiology reviews). If recency falls short at item 22, prefer recent mechanism reviews over the older originals where one source covers both.
 - Checkpoints: START-HERE item 11 (after drug sections) and item 22 (before Word file).
 
 ### References still to find (~22) — items 5 and 5.1 done 2026-10-07
@@ -71,7 +71,7 @@ updated: 2026-10-07
 | 4.1.5 DPP-4 inhibitors | 1 | human study | — | item 11 |
 | 2 Methods | 1 | search-method reference | 0 | item 12 |
 | 4.5 Synthesis | 1 | review of the shared pathway | — | item 17 |
-| **Total** | **22** | | **≥ 8** | |
+| **Total** | **22** | | **≥ 7** | |
 
 Intro + Challenges + Pathophysiology = 18 of 22 and carry most of the recency → item 11 screening is still the critical step.
 

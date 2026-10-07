@@ -14,7 +14,7 @@ status: todo
 > 5. خلصت؟ غيّر `status: todo` فوق لـ `status: done` وقول لـ Claude "خلصت يوم 2".
 
 ## 4.1.2. Pioglitazone
-> 📖 الإملاء: [[4.1b-PPAR-agonists]] · 🎯 ~450 كلمة
+> 📖 الإملاء: [[4.1b-PPAR-agonists]] · 🎯 ≥450 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 > 
 
@@ -31,7 +31,7 @@ A larger crossover trial with the same design and dose enrolled 143 non-diabetic
 
 
 ## 4.3. Angiotensin II Receptor Blockers
-> 📖 الإملاء: [[4.3-ARBs-Losartan]] · 🎯 ~300 كلمة
+> 📖 الإملاء: [[4.3-ARBs-Losartan]] · 🎯 ≥300 كلمة (حد أدنى)
 > ✏️ اكتب تحت السطر ده:
 > 
 

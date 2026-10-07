@@ -9,9 +9,21 @@
 
 **Background:** Metformin (MET) may exert anti-rheumatic effects and reduce cartilage degradation through its immunomodulatory and anti-inflammatory actions.
 
-**Methods:** This was a double-blind placebo-controlled study, 120 adult patients with active rheumatoid arthritis (RA) were randomized to receive MET (1000 mg) or placebo daily with methotrexate (MTX, 7.5 mg/week) for 12 weeks. American College of Rheumatology (ACR)20, ACR50, and ACR70 response rates, Disease Activity Score in 28 joints (DAS-28), and drug safety were the efficacy endpoints. Serum levels of TNF-α, IL-1β, IL-6, IL-10, IL-17A, NF-κB, TGG-β1, MDA together with gene expression of AMPK and IGF-IR were assessed before and after the therapy.
+**Methods:**
 
-**Results:** A total of 80.8% of the patients in the MET group, compared with 54.7% in placebo group, met the criteria of ACR20 response after 12 weeks (P = 0.001). Statistically significant enhancements in the DAS28-3 (CRP) were observed after 4 and 8 weeks for the MET group compared with placebo and were sustained after 12 weeks. MET group showed statistically significant increase in percentage of patients achieving DAS remission after 12 weeks (P = 0.015). Significant improvements in ACR50, ACR70, Health Assessment Questionnaire Disability Index (HAQ-DI), and DAS28-3 (CRP) were also reported. MET was well-tolerated, and no serious adverse effects were reported in both groups. Furthermore, the MET group was superior in improving the measured parameters compared to the placebo.
+==This was a double-blind placebo-controlled study, 120 adult patients with active rheumatoid arthritis (RA) were randomized to receive MET (1000 mg) or placebo daily with methotrexate (MTX, 7.5 mg/week) for 12 weeks.== ^abdallah2021-1
+
+American College of Rheumatology (ACR)20, ACR50, and ACR70 response rates, Disease Activity Score in 28 joints (DAS-28), and drug safety were the efficacy endpoints. Serum levels of TNF-α, IL-1β, IL-6, IL-10, IL-17A, NF-κB, TGG-β1, MDA together with gene expression of AMPK and IGF-IR were assessed before and after the therapy.
+
+**Results:**
+
+==A total of 80.8% of the patients in the MET group, compared with 54.7% in placebo group, met the criteria of ACR20 response after 12 weeks (P = 0.001).== ^abdallah2021-2
+
+Statistically significant enhancements in the DAS28-3 (CRP) were observed after 4 and 8 weeks for the MET group compared with placebo and were sustained after 12 weeks. MET group showed statistically significant increase in percentage of patients achieving DAS remission after 12 weeks (P = 0.015). Significant improvements in ACR50, ACR70, Health Assessment Questionnaire Disability Index (HAQ-DI), and DAS28-3 (CRP) were also reported.
+
+==MET was well-tolerated, and no serious adverse effects were reported in both groups.== ^abdallah2021-3
+
+Furthermore, the MET group was superior in improving the measured parameters compared to the placebo.
 
 **Conclusions:** MET improved the anti-rheumatic effect of MTX; suggesting it to be a beneficial adjuvant in patients with RA. Trial registration ID: NCT04068246.
 

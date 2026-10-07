@@ -9,9 +9,19 @@
 
 **Objective:** The aim of this retrospective cohort study was to examine whether adherence to metformin treatment may be associated with lower onset of rheumatoid arthritis (RA).
 
-**Method:** Using the computerized databases of a 2.3-million state-mandated health services organization in Israel, we identified incident RA cases among a cohort of 113 749 adult patients who initiated metformin therapy between 1998 and 2014. Adherence was assessed by calculating the mean proportion of follow-up days covered (PDC) with metformin.
+**Method:** Using the computerized databases of a 2.3-million state-mandated health services organization in Israel,
 
-**Results:** During the 18 year study period, there were 558 incident RA cases (61 per 100 000 person-years). Adherence to metformin treatment was associated with a lower risk of developing RA, with the lowest risk recorded among patients with a PDC of 40–59% [adjusted hazard ratio (HR) 0.62, 95% confidence interval (CI) 0.45–0.84] compared with non-adherent patients (PDC < 20%). A mean daily metformin dose of 2550 mg or more was also associated with a lower risk of developing RA (adjusted HR 0.62, 95% CI 0.46–0.84) compared to a daily dose of 850 mg or less. In stratified analyses by gender, the negative association between adherence and the risk of RA was limited to women alone.
+==we identified incident RA cases among a cohort of 113 749 adult patients who initiated metformin therapy between 1998 and 2014.== ^naffaa2020-3
+
+Adherence was assessed by calculating the mean proportion of follow-up days covered (PDC) with metformin.
+
+**Results:** During the 18 year study period, there were 558 incident RA cases (61 per 100 000 person-years).
+
+==Adherence to metformin treatment was associated with a lower risk of developing RA, with the lowest risk recorded among patients with a PDC of 40–59% [adjusted hazard ratio (HR) 0.62, 95% confidence interval (CI) 0.45–0.84] compared with non-adherent patients (PDC < 20%).== ^naffaa2020-1
+
+A mean daily metformin dose of 2550 mg or more was also associated with a lower risk of developing RA (adjusted HR 0.62, 95% CI 0.46–0.84) compared to a daily dose of 850 mg or less.
+
+==In stratified analyses by gender, the negative association between adherence and the risk of RA was limited to women alone.== ^naffaa2020-2
 
 **Conclusions:** Adherence to metformin treatment is associated with a reduced risk of developing RA in women. Further studies are needed to assess the effect of metformin on RA development in other patient populations.
 
@@ -39,7 +49,11 @@ Incident cases of RA were defined according to the first diagnostic codes associ
 
 ### Assessing adherence with metformin
 
-Adherence was measured by assessing the proportion of follow-up days covered (PDC) with dispensed metformin (19, 20), by dividing the supply days of dispensed metformin by the total follow-up time (including the day when metformin was last dispensed). Since metformin daily dose may vary between patients (range 500–2550 mg), we also assessed the mean daily dose of metformin during the period of metformin treatment.
+Adherence was measured by assessing the proportion of follow-up days covered (PDC) with dispensed metformin (19, 20), by dividing the supply days of dispensed metformin by the total follow-up time (including the day when metformin was last dispensed).
+
+==Since metformin daily dose may vary between patients (range 500–2550 mg), we also assessed the mean daily dose of metformin during the period of metformin treatment.== ^naffaa2020-4
+
+
 
 ### Other study variables
 
