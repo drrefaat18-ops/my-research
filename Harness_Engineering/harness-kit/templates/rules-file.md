@@ -7,6 +7,11 @@
 > **RULE 1 — AGENTS:** {{AGENT_RULE}}
 > <!-- TEMPLATE: the user's Phase-1 choice verbatim, plus who picks the agent and that the agent is named before use. Add the mechanical gate line, e.g. "Gate: .claude/settings.json permissions.ask = Agent". -->
 
+## Session start (every new session, before any work)
+- `harness/session_start.py` injects a brief (agents, current step, gated files + gate on changed ones, smallest sources, git changes).
+- First reply opens with: `{{OPENING_LINE}}`, then 2–3 lines summarizing the brief. Only then start the task.
+- No brief in context? Run `python harness/session_start.py --plain` first.
+
 ## Rules
 - Do what the current step asks; nothing more. Check the step's non-goals before editing.
 - Never edit `sources/raw/`. Regenerate `sources/md/` with `python harness/ingest.py`.

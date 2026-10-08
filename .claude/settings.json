@@ -152,6 +152,18 @@
           }
         ]
       }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/scripts/session_start.py\"",
+            "timeout": 60,
+            "statusMessage": "Session brief: agents, review, papers, drafts"
+          }
+        ]
+      }
     ]
   }
 }

@@ -29,3 +29,5 @@ checks, memory. When an AI keeps failing, fix the harness, not the adjectives in
     *Why:* model memory is plausible, not reliable; a link lets anyone check the claim in seconds.
 12. **Originals are read-only.** `sources/raw/` is never edited; conversions are regenerated from it.
     *Why:* a corrupted source silently corrupts every claim built on it.
+13. **Orient before acting.** Every session starts with a script-made brief (agent pick, current step, gate state, suspect sources) and the AI states its agent pick in one line before working.
+    *Why:* a fresh session knows nothing; without a brief it guesses the task and skips the state the last session left.

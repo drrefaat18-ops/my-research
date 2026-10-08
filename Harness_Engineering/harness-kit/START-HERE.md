@@ -48,6 +48,7 @@ Present, in chat, compactly:
    - per-format libraries: `pymupdf` (PDF, exact pages), `python-docx`, `openpyxl` — lighter, more precise anchors.
    Stdlib formats (txt, md, html, csv, xml, json) need no install.
 5. **Wiring:** how gates attach to their tool (`templates/hooks/<tool>`). If the tool has no hooks, say plainly that the gate becomes a mandatory command and is weaker.
+   Include the **session-start brief** (PRINCIPLES 13): which agent files go in the shortlist, the opening line, and the session-start event it hooks to (or a mandatory first command if the tool has none).
 6. **Retry cap:** default 3 failures or identical findings twice → stop and escalate. Ask if they want a different number.
 
 Stop. Build only after an explicit yes. A yes to an earlier phase is not a yes to this one.
@@ -60,6 +61,7 @@ Use the templates; replace every `{{PLACEHOLDER}}`; delete template guidance com
 - `memory/`: index + one fact per file. Seed it with Phase 1 decisions.
 - `harness/gate.py` from `gate_template.py`: one `check_*` function per failure mode.
 - `harness/ingest.py` from `ingest_template.py`: converters for their formats only.
+- `harness/session_start.py` from `session_start_template.py`, wired to the tool's session-start event.
 - `harness/hook.py` from `hook_template.py`, wired per `templates/hooks/<tool>`. Verify the tool's
   current hook format against its docs or `--help` before wiring; hook APIs change.
 - Ask before each install, naming the package.
@@ -67,10 +69,11 @@ Use the templates; replace every `{{PLACEHOLDER}}`; delete template guidance com
 ## Phase 5 — Prove
 
 Show real output for each, not a claim:
-1. `python harness/gate.py --selftest`, `python harness/ingest.py --selftest`, `python harness/hook.py --selftest`.
+1. `python harness/gate.py --selftest`, `python harness/ingest.py --selftest`, `python harness/hook.py --selftest`, `python harness/session_start.py --selftest`.
 2. Every gate check on one passing and one failing example.
 3. Ingest one real source from the user; open a generated anchor link and confirm it lands on the right text.
 4. Trigger the hook with a failing edit: confirm it blocks, and that the retry cap escalates.
+5. Run `python harness/session_start.py --plain` and show the brief; tell the user the hook fires from the next session, whose first reply must open with the agent-pick line.
 
 Then hand over a one-screen guide: daily loop, which command does what, how to add a check, how to add a source.
 If anything failed, say so with the output; do not hand over a harness with an unproven gate.

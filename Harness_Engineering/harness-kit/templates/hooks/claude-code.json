@@ -1,9 +1,14 @@
 {
-  "//": "TEMPLATE: delete this key, then merge into .claude/settings.json (project). Exit 2 from a PostToolUse hook feeds stderr back to Claude. Keep 'ask' only if the user chose per-agent approval (RULE 1); remove Workflow if the tool has none.",
+  "//": "TEMPLATE: delete this key, then merge into .claude/settings.json (project). Exit 2 from a PostToolUse hook feeds stderr back to Claude. SessionStart stdout JSON (additionalContext) is injected into Claude's context at session start. Keep 'ask' only if the user chose per-agent approval (RULE 1); remove Workflow if the tool has none.",
   "permissions": {
     "ask": ["Agent", "Workflow"]
   },
   "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [{ "type": "command", "command": "python \"$CLAUDE_PROJECT_DIR/harness/session_start.py\"", "timeout": 60, "statusMessage": "Session brief" }]
+      }
+    ],
     "PostToolUse": [
       {
         "matcher": "Write|Edit|MultiEdit",

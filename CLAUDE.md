@@ -38,6 +38,12 @@
 - `scripts/` — gates and tools: `review_gate.py`, `overlap_check.py`, `secondary_check.py`, `check_links.py`, `style_check.py`
 - `.claude/agents/*.md` — agent role files (use inline per RULE 1)
 
+## Session Start (every new session, before any work)
+
+- `scripts/session_start.py` (SessionStart hook) injects a brief: research agent shortlist, next START-HERE step, drafts (words + gate on changed ones), papers (count + smallest = stubs), git-changed files.
+- First reply opens with one line: `Picked inline role: .claude/agents/<file>.md (<why>)`, then a short summary of that brief (next step, gate findings, stub papers). Only then start the task.
+- No brief in context (hook failed)? Run `python scripts/session_start.py` yourself first.
+
 ## Gates
 
 - Draft edits: `review_hook.py` runs `review_gate.py`; after 3 failures (or same findings twice) it stops and escalates to the user — do not keep editing.
