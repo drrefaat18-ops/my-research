@@ -69,7 +69,9 @@ CONTRAST = re.compile(r"^(However|In contrast|Unlike|While|Whereas|Conversely|On
 PARTICIPLE = re.compile(r",\s+(suggesting|indicating|providing|leading|resulting|highlighting|"
                         r"making|thereby|triggering|producing|demonstrating|reflecting)\b", re.I)
 CHAIN = re.compile(r",\s+(and this|so)\s", re.I)   # v1's own fixes; spoken when repeated
-ABSOLUTE = re.compile(r"\b(the only|never|always|no (study|trial|data|evidence)|first to)\b", re.I)
+# a superlative about the literature ("the largest trial") reads as a claim about ALL trials → hedge with "we found"
+ABSOLUTE = re.compile(r"\b(the only|never|always|no (study|trial|data|evidence)|first to"
+                      r"|the (largest|biggest|longest|first|earliest) (\w+ ){0,2}(trials?|stud(y|ies)|cohorts?|meta-analys[ie]s|RCTs?))\b", re.I)
 HEDGED = re.compile(r"\b(to our knowledge|we found|we are aware)\b", re.I)
 ENDING = re.compile(r"\b(are|is) (needed|required)\b|\bneed (more|well|further)\b|\bfurther (studies|research)\b", re.I)
 TAG = re.compile(r"\s*\[[A-Za-z]+\d{4}[a-z]?\]")
@@ -207,6 +209,9 @@ def demo():
         assert k in kinds, (k, kinds)
     assert check("## Y\nAnimal data are mixed. In rats, drug A attenuated swelling in a dose-dependent manner.\n") == []
     assert check("## Z\nTo our knowledge, this is the only study.\n") == []
+    assert "absolute" in " ".join(i[1] for i in check("## S\nThe drug failed in the largest trial, TRACE RA.\n"))
+    assert check("## S\nThe drug failed in the largest trial we found, TRACE RA.\n") == []
+    assert check("## S\nMice were dosed after the first immunization.\n") == []
     choppy = "## C\n" + " ".join(["The drug lowered the score in rats."] * 25) + "\n"
     kinds = " ".join(i[1] for i in check(choppy))
     assert "% sentences <12 words" in kinds and "mean sentence length" in kinds, kinds

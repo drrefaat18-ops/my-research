@@ -13,13 +13,17 @@ A previous study revealed that PPARγ agonists have anti-inflammatory effects in
 
 ### Methods
 
-Based on the Taiwan National Health Insurance Research Database, we conducted a nationwide case–control study. The selected cases were patients with T2DM who were diagnosed with RA between 2000 and 2013. The controls were retrieved at a ratio of 1:4 by propensity score matching.
+==Based on the Taiwan National Health Insurance Research Database, we conducted a nationwide case–control study.== ^hsieh2021-1
+
+The selected cases were patients with T2DM who were diagnosed with RA between 2000 and 2013. The controls were retrieved at a ratio of 1:4 by propensity score matching.
 
 Logistic regression was conducted to evaluate whether TZD use lowers the risk of RA in patients with T2DM. The dose–response effect was examined according to the total TZD dose, within 2 years before the index date (the first diagnosis date of RA), and TZD doses were divided into four groups by cumulative Defined Daily Dose (cDDD): <30, 31–90, 91–365, and >365 cDDDs.
 
 ### Results
 
-A total of 3,605 cases and 14,420 controls were included in this study. After adjusting for age, sex, baseline comorbidities, the results demonstrated that TZD use did not significantly reduce the risk of RA in patients with T2DM (adjusted OR = 0.91, 95% CI 0.81–1.02).
+==A total of 3,605 cases and 14,420 controls were included in this study.== ^hsieh2021-2
+
+After adjusting for age, sex, baseline comorbidities, the results demonstrated that TZD use did not significantly reduce the risk of RA in patients with T2DM (adjusted OR = 0.91, 95% CI 0.81–1.02).
 
 In the subgroup analysis by total TZD exposure dose within 2 years, 91–365 cDDDs of TZD had a lower risk of RA development, aOR = 0.87 (95% CI 0.71–1.06) and >365 cDDDs of TZD, aOR = 0.85 (95% CI 0.73–1.01). In the trend test, P was <0.05.
 
@@ -93,9 +97,13 @@ In this study, 3,605 cases were enrolled between January 1, 2000 and December 31
 
 The proportion of antidiabetic drug use, including biguanides and sulfonylureas, was lower in the case subjects than in the controls. The severity of T2DM was higher (aDSCI score ≥ 3) in the case group (12.65%) than in the control group (8.02%).
 
-Figure 2 shows the OR of developing RA between TZD users and non-users using the multivariate analysis. The risk of developing RA in patients with T2DM using TZDs was lower than that in patients not using TZDs, with adjusted OR = 0.91 (95% CI 0.81–1.02); however, the difference was not significant.
+Figure 2 shows the OR of developing RA between TZD users and non-users using the multivariate analysis.
 
-In the subgroup analysis by total TZD dose within 2 years, 91–365 cDDDs of TZDs had a lower risk of developing RA, with the aOR = 0.87 (95% CI 0.71–1.06) and for >365 cDDDs of TZDs, the aOR = 0.85 (95% CI 0.73–1.01). Overall, the higher the TZD exposure dose, the lower the risk of RA development. Further trend analysis also supported this observation (P for trend <0.05) (Table 2).
+==The risk of developing RA in patients with T2DM using TZDs was lower than that in patients not using TZDs, with adjusted OR = 0.91 (95% CI 0.81–1.02); however, the difference was not significant.== ^hsieh2021-3
+
+In the subgroup analysis by total TZD dose within 2 years, 91–365 cDDDs of TZDs had a lower risk of developing RA, with the aOR = 0.87 (95% CI 0.71–1.06) and for >365 cDDDs of TZDs, the aOR = 0.85 (95% CI 0.73–1.01).
+
+==Overall, the higher the TZD exposure dose, the lower the risk of RA development. Further trend analysis also supported this observation (P for trend <0.05) (Table 2).== ^hsieh2021-4
 
 Considering the DM severity as an important confounding factor, we conducted the other sensitivity test, in which the selected baseline comorbidities were substituted with the aDCSI score, to examine model stability in this case–control study. And TZDs exerted protective effects against RA development in patients with T2DM of different severity (Table 3).
 

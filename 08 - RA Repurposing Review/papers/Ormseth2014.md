@@ -16,12 +16,18 @@ To examine the hypothesis that improving insulin sensitivity would improve vascu
 
 #### Methods
 
-We performed a 20-week, single center, randomized, double-blind, placebo-controlled, crossover study. Patients with RA (n=34) and moderate disease activity on stable disease modifying anti-rheumatic drug therapy were randomized to drug sequence, receiving either pioglitazone 45mg daily or matching placebo for 8 weeks, followed by a 4-week washout period and the alternative treatment for 8 weeks. We measured change in vascular stiffness (augmentation index and aortic pulse wave velocity), endothelial function (reactive hyperemia index), and blood pressure. High sensitivity C-reactive protein (CRP), and the homeostatic model assessment of insulin resistance (HOMA) were also measured. The treatment effect of pioglitazone on outcomes was analyzed using linear mixed effect models.
+We performed a 20-week, single center, randomized, double-blind, placebo-controlled, crossover study.
+
+==Patients with RA (n=34) and moderate disease activity on stable disease modifying anti-rheumatic drug therapy were randomized to drug sequence, receiving either pioglitazone 45mg daily or matching placebo for 8 weeks, followed by a 4-week washout period and the alternative treatment for 8 weeks.== ^ormseth2014-1
+
+We measured change in vascular stiffness (augmentation index and aortic pulse wave velocity), endothelial function (reactive hyperemia index), and blood pressure. High sensitivity C-reactive protein (CRP), and the homeostatic model assessment of insulin resistance (HOMA) were also measured. The treatment effect of pioglitazone on outcomes was analyzed using linear mixed effect models.
 
 
 #### Results
 
-Pioglitazone reduced augmentation index by −4.7% units (95% CI, −7.9, −1.5% units) P=0.004 and diastolic blood pressure by −3.0 mmHg (−5.7, −0.2 mmHg) P=0.03, but did not change aortic pulse wave velocity (P=0.33), or reactive hyperemia index (P=0.46) significantly. The improvements in augmentation index and diastolic blood pressure were not mediated by pioglitazone's effect on insulin resistance or inflammation.
+==Pioglitazone reduced augmentation index by −4.7% units (95% CI, −7.9, −1.5% units) P=0.004 and diastolic blood pressure by −3.0 mmHg (−5.7, −0.2 mmHg) P=0.03, but did not change aortic pulse wave velocity (P=0.33), or reactive hyperemia index (P=0.46) significantly.== ^ormseth2014-2
+
+==The improvements in augmentation index and diastolic blood pressure were not mediated by pioglitazone's effect on insulin resistance or inflammation.== ^ormseth2014-3
 
 
 #### Conclusion

@@ -7,7 +7,11 @@
 
 ## Abstract
 
-Peroxisome proliferator-activated receptors α (PPARα) agonists, or fibrates, are used in the treatment for dyslipidemia. Experimental data suggest that fibrates have anti-inflammatory properties, and PPARα is essential for the differentiation of endothelial progenitor cells (EPC) which diminished pool in rheumatoid arthritis (RA) contributes to accelerated atherosclerosis. The data on fibrates' effects in patients with RA are limited. The aim of this study was to investigate changes in disease activity, inflammatory markers, lipid profile, and circulating EPC in active RA patients treated with fenofibrate. Twenty-seven patients with active RA taking traditional disease-modifying antirheumatic drugs (DMARDs) were prescribed fenofibrate (145 mg/day) for 3 months. All patients received background traditional DMARDs in stable doses. The outcomes measured were clinical disease activity variables, circulating cytokines, adipokines, lipids, and EPC. Twenty-five patients completed the study. At the end of treatment, there was a significant reduction in DAS28, all individual DAS28 components except tender joint count, the duration of morning stiffness, and in the patient's assessment of disease activity. Fifteen (60 %) patients achieved good/moderate EULAR response, while 10 (40 %) patients satisfied ACR20 response criteria. Treatment with fenofibrate resulted in significant decrease in CRP and IL-6 concentrations and improvement in lipid profile. There was no change in the concentrations of circulating EPC. In conclusion, fenofibrate treatment is associated with reduced inflammation and improved lipid profile in RA patients. Large randomized controlled studies are needed to confirm these results and to define the role of fibrates in the treatment for RA.
+Peroxisome proliferator-activated receptors α (PPARα) agonists, or fibrates, are used in the treatment for dyslipidemia. Experimental data suggest that fibrates have anti-inflammatory properties, and PPARα is essential for the differentiation of endothelial progenitor cells (EPC) which diminished pool in rheumatoid arthritis (RA) contributes to accelerated atherosclerosis. The data on fibrates' effects in patients with RA are limited. The aim of this study was to investigate changes in disease activity, inflammatory markers, lipid profile, and circulating EPC in active RA patients treated with fenofibrate.
+
+==Twenty-seven patients with active RA taking traditional disease-modifying antirheumatic drugs (DMARDs) were prescribed fenofibrate (145 mg/day) for 3 months.== ^shirinsky2013-1
+
+All patients received background traditional DMARDs in stable doses. The outcomes measured were clinical disease activity variables, circulating cytokines, adipokines, lipids, and EPC. Twenty-five patients completed the study. At the end of treatment, there was a significant reduction in DAS28, all individual DAS28 components except tender joint count, the duration of morning stiffness, and in the patient's assessment of disease activity. Fifteen (60 %) patients achieved good/moderate EULAR response, while 10 (40 %) patients satisfied ACR20 response criteria. Treatment with fenofibrate resulted in significant decrease in CRP and IL-6 concentrations and improvement in lipid profile. There was no change in the concentrations of circulating EPC. In conclusion, fenofibrate treatment is associated with reduced inflammation and improved lipid profile in RA patients. Large randomized controlled studies are needed to confirm these results and to define the role of fibrates in the treatment for RA.
 
 **Keywords:** Arthritis · Rheumatoid · PPAR alpha · Fenofibrate
 
@@ -27,11 +31,17 @@ Statistical analysis was made using Friedman test for repeated measures (all cli
 
 Twenty-seven patients (24 women, three men) were included in the study. All patients had active disease (median DAS28 6.29, 95 % CI 6.15–6.65). Median age of patients was 59.7 years (95 % CI 55.51–62.99) with median disease duration of 9.6 years (95 % CI 8.27–18.48). Twenty-five patients were taking methotrexate at a median dose 15 mg/week (95 % CI 11.1–14.12). One patient was taking sulfasalazine, and two patients received azathioprine either in combination with methotrexate or as a monotherapy. Twelve patients received additional prednisolone (median dose 5 mg, 95 % CI 4.15–9.69).
 
-Two patients terminated the study prematurely after 3 weeks of treatment due to severe back pain which was considered to be possibly related to fenofibrate. These patients' data were not included in the analysis of fenofibrate effects.
+==Two patients terminated the study prematurely after 3 weeks of treatment due to severe back pain which was considered to be possibly related to fenofibrate.== ^shirinsky2013-2
 
-At the end of treatment, there was a significant reduction in DAS28 score from a median 6.28 (95 % CI 6.03–6.59) to 4.83 (95 % CI 4.3–5.37). Significant improvements were observed in all individual DAS28 variables except number of tender joints (Fig. 1a). Among other clinical parameters tested, statistically significant declines were found in the patients' assessment of disease activity and the duration of morning stiffness (Fig. 1b). At week 12 of the treatment, 15 (60 %) patients achieved good/moderate EULAR response. Ten (40 %), four (16 %), and one (4 %) patients developed ACR20, ACR50, and ACR70 responses, respectively.
+These patients' data were not included in the analysis of fenofibrate effects.
 
-Treatment with fenofibrate was associated with a significant decrease in serum CRP and IL-6 concentrations by 35.71 and 41 %, respectively (Table 1). The concentrations of other cytokines and adipokines did not change (data not shown).
+==At the end of treatment, there was a significant reduction in DAS28 score from a median 6.28 (95 % CI 6.03–6.59) to 4.83 (95 % CI 4.3–5.37).== ^shirinsky2013-3
+
+Significant improvements were observed in all individual DAS28 variables except number of tender joints (Fig. 1a). Among other clinical parameters tested, statistically significant declines were found in the patients' assessment of disease activity and the duration of morning stiffness (Fig. 1b). At week 12 of the treatment, 15 (60 %) patients achieved good/moderate EULAR response. Ten (40 %), four (16 %), and one (4 %) patients developed ACR20, ACR50, and ACR70 responses, respectively.
+
+==Treatment with fenofibrate was associated with a significant decrease in serum CRP and IL-6 concentrations by 35.71 and 41 %, respectively (Table 1).== ^shirinsky2013-4
+
+The concentrations of other cytokines and adipokines did not change (data not shown).
 
 Fenofibrate treatment also resulted in decreased TC, triglycerides levels, and elevated HDL-C concentrations (Table 1).
 
