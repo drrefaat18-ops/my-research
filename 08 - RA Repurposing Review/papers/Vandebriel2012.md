@@ -16,12 +16,22 @@ Statins (hydroxymethylglutaryl coenzyme A reductase inhibitors) are effective in
 
 #### Methods
 
-The mouse collagen type II (CII)-induced arthritis (CIA) model was used, with immunization, challenge, and euthanasia at days 0, 21, and 42, respectively. Statins were given orally before (day -28 until day 21) or after (day 21 until day 42) CIA induction. ==Atorvastatin (0.2 mg/day) or pravastatin (0.8 mg/day) was administered.== Arthritis was recorded three times a week. Serum anti-CII autoantibodies and cytokines in supernatants from Concanavalin-A-stimulated lymph node cells and CII-stimulated spleen cells were measured. ^vandebriel2012-1
+The mouse collagen type II (CII)-induced arthritis (CIA) model was used, with immunization, challenge, and euthanasia at days 0, 21, and 42, respectively. Statins were given orally before (day -28 until day 21) or after (day 21 until day 42) CIA induction.
+
+==Atorvastatin (0.2 mg/day) or pravastatin (0.8 mg/day) was administered.== ^vandebriel2012-1
+
+Arthritis was recorded three times a week. Serum anti-CII autoantibodies and cytokines in supernatants from Concanavalin-A-stimulated lymph node cells and CII-stimulated spleen cells were measured.
 
 
 #### Results
 
-==Statin administration accelerated arthritis onset and resulted in 100% arthritic animals, whereas only seven out of 12 nonstatin control animals developed arthritis.== Atorvastatin administration after CIA induction resulted in earlier onset than atorvastatin administration before induction, or than pravastatin administration before or after induction. The arthritic score of animals given pravastatin before CIA induction was similar to that of the nonstatin controls, whereas the other groups that received statins showed higher arthritic scores. ==Atorvastatin administration, especially before CIA induction, increased anti-CII autoantibody production.== IL-2 and IL-17 production by lymph node and spleen cells was higher in CIA animals than in PBS controls, but was not affected by statin administration. While IFNγ production was not affected by CIA induction, atorvastatin administration before CIA induction increased the production of this cytokine. ^vandebriel2012-2
+==Statin administration accelerated arthritis onset and resulted in 100% arthritic animals, whereas only seven out of 12 nonstatin control animals developed arthritis.== ^vandebriel2012-2
+
+Atorvastatin administration after CIA induction resulted in earlier onset than atorvastatin administration before induction, or than pravastatin administration before or after induction. The arthritic score of animals given pravastatin before CIA induction was similar to that of the nonstatin controls, whereas the other groups that received statins showed higher arthritic scores.
+
+==Atorvastatin administration, especially before CIA induction, increased anti-CII autoantibody production.== ^vandebriel2012-5
+
+IL-2 and IL-17 production by lymph node and spleen cells was higher in CIA animals than in PBS controls, but was not affected by statin administration. While IFNγ production was not affected by CIA induction, atorvastatin administration before CIA induction increased the production of this cytokine.
 
 
 #### Conclusion
@@ -52,7 +62,15 @@ The animal experiments were approved prior to their commencement by an independe
 
 ### Statin administration
 
-Atorvastatin (calcium salt) was a kind gift from Pfizer (Groton, CT, USA). Pravastatin (sodium salt) was obtained from Teva (Debrecen, Hungary). Atorvastatin (1 mg/ml) and pravastatin (4 mg/ml) were administered daily by oral gavage (0.2 ml). The atorvastatin dose approximates 10 mg/kg body weight [17]. The lipid-lowering and lipoprotein-lowering efficacy of pravastatin is four times lower than that of atorvastatin [18], and pravastatin was thus given at a four times higher concentration than atorvastatin. Atorvastatin and pravastatin were given either before challenge (day -28 until day 20) or after challenge (day 22 until day 42; see Figure 1). PBS (0.2 ml) was given as a control on days when statins were not administered. One control group received only PBS, and a second control group (negative control) received only PBS and arthritis was not induced. These groups received 0.2 ml PBS by oral gavage daily throughout the experiment. There were 12 mice per group.
+Atorvastatin (calcium salt) was a kind gift from Pfizer (Groton, CT, USA). Pravastatin (sodium salt) was obtained from Teva (Debrecen, Hungary). Atorvastatin (1 mg/ml) and pravastatin (4 mg/ml) were administered daily by oral gavage (0.2 ml).
+
+==The atorvastatin dose approximates 10 mg/kg body weight [17].== ^vandebriel2012-6
+
+The lipid-lowering and lipoprotein-lowering efficacy of pravastatin is four times lower than that of atorvastatin [18], and
+
+==pravastatin was thus given at a four times higher concentration than atorvastatin.== ^vandebriel2012-7
+
+Atorvastatin and pravastatin were given either before challenge (day -28 until day 20) or after challenge (day 22 until day 42; see Figure 1). PBS (0.2 ml) was given as a control on days when statins were not administered. One control group received only PBS, and a second control group (negative control) received only PBS and arthritis was not induced. These groups received 0.2 ml PBS by oral gavage daily throughout the experiment. There were 12 mice per group.
 
 > **Figure 1** Scheme of collagen-induced arthritis induction and statin administration. Mice were immunized at day 0 (IMM) and challenged at day 21 (CHA), after which arthritis was scored three times a week until day 42. Atorvastatin (A) or pravastatin (P) were given daily, either before (day -28 until day 20) or after (day 22 until day 42) collagen-induced arthritis (CIA) induction. Mice were euthanized at day 42.
 
@@ -133,7 +151,11 @@ Atorvastatin administration after CIA induction increased IFNγ production by CI
 
 Here we have shown that statin administration results in 100% arthritic animals, whereas only seven out of 12 nonstatin control animals developed arthritis. Moreover, statin administration accelerated arthritis onset. This accelerated onset was seen when statin administration was started either before or after CIA induction. Accelerated onset resulting from statin administration before CIA induction is in line with our hypothesis of statin-induced immune deviation resulting in autoimmunity [9,10]. In addition, we observed that atorvastatin administration after CIA induction resulted in earlier arthritis induction than administration with the same statin before CIA induction. Overall, atorvastatin had a somewhat stronger effect on accelerating onset than pravastatin. Atorvastatin administration before or after CIA induction, or pravastatin administration after CIA induction, resulted in a similar mean arthritic score compared with the nonstatin control, while pravastatin administration before CIA induction resulted in a lower mean arthritic score. In this latter pravastatin group the acceleration of arthritis onset was 5 days, while that in the other cases was 7 or 9 days. This lower mean arthritic score may suggest a beneficial effect of pravastatin. This dosing regime, however, also results in accelerated arthritis onset and an increased number of arthritic animals.
 
-==Other studies using the mouse CIA model have shown beneficial effects of statin administration on joint inflammation== [13-16]. To establish whether statin type, dose, route of administration, or timing of administration relative to CIA induction influenced the clinical outcome, the results of the above-mentioned studies as well as our data are compared in Table 1. Suppression of arthritis development was seen after oral administration of 10 mg/kg atorvastatin (the same exposure route and dose as we used in our study) during (almost) the whole period from immunization to euthanasia [13]. This finding contrasts our results that show accelerated onset when 10 mg/kg atorvastatin was given orally either before or after CII challenge. This issue needs to be resolved in future studies. Suppression of arthritis development was also found after intraperitoneal administration of 100 mg/kg pravastatin [14] or 40 mg/kg simvastatin [15,16]. Using other statins, lower doses, or other exposure routes failed to show an effect on arthritis. ==An accelerated onset of arthritis was only found in our study.== ^vandebriel2012-4
+==Other studies using the mouse CIA model have shown beneficial effects of statin administration on joint inflammation== ^vandebriel2012-4
+
+[13-16]. To establish whether statin type, dose, route of administration, or timing of administration relative to CIA induction influenced the clinical outcome, the results of the above-mentioned studies as well as our data are compared in Table 1. Suppression of arthritis development was seen after oral administration of 10 mg/kg atorvastatin (the same exposure route and dose as we used in our study) during (almost) the whole period from immunization to euthanasia [13]. This finding contrasts our results that show accelerated onset when 10 mg/kg atorvastatin was given orally either before or after CII challenge. This issue needs to be resolved in future studies. Suppression of arthritis development was also found after intraperitoneal administration of 100 mg/kg pravastatin [14] or 40 mg/kg simvastatin [15,16]. Using other statins, lower doses, or other exposure routes failed to show an effect on arthritis.
+
+==An accelerated onset of arthritis was only found in our study.== ^vandebriel2012-8
 
 > **Table 1** Comparison of statin effects on murine collagen-induced arthritis
 
