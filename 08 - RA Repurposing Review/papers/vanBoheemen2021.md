@@ -16,17 +16,27 @@ Persons at high risk of rheumatoid arthritis (RA) might benefit from a low-risk 
 
 #### Methods
 
-==Arthralgia patients with anticitrullinated protein antibody (ACPA) >3 xULN or ACPA and rheumatoid factor, without (a history of) arthritis, were randomised to receive atorvastatin 40 mg daily or placebo for 3 years.== The calculated sample size was 220 participants. The primary endpoint was clinical arthritis. Cox regression analysis was used to determine the effect of atorvastatin on arthritis development. ^vanboheemen2021-1
+==Arthralgia patients with anticitrullinated protein antibody (ACPA) >3 xULN or ACPA and rheumatoid factor, without (a history of) arthritis, were randomised to receive atorvastatin 40 mg daily or placebo for 3 years.== ^vanboheemen2021-1
+
+The calculated sample size was 220 participants. The primary endpoint was clinical arthritis. Cox regression analysis was used to determine the effect of atorvastatin on arthritis development.
 
 
 #### Results
 
-==Due to a low inclusion rate, mainly because of an unwillingness to participate, the trial was prematurely stopped.== ==Data of the 62 randomised individuals were analysed.== Median follow-up was 14 (inner quartiles 6–35) months. ==Fifteen individuals (24%) developed arthritis: 9/31 (29%) in the atorvastatin group; 6/31 (19%) in the placebo group: HR 1.40, 95% CI 0.50 to 3.95.== ^vanboheemen2021-2
+==Due to a low inclusion rate, mainly because of an unwillingness to participate, the trial was prematurely stopped.== ^vanboheemen2021-2
+
+==Data of the 62 randomised individuals were analysed.== ^vanboheemen2021-4
+
+Median follow-up was 14 (inner quartiles 6–35) months.
+
+==Fifteen individuals (24%) developed arthritis: 9/31 (29%) in the atorvastatin group; 6/31 (19%) in the placebo group: HR 1.40, 95% CI 0.50 to 3.95.== ^vanboheemen2021-5
 
 
 #### Conclusions
 
-==In this small set of randomised high-risk individuals, we did not demonstrate a protective effect of atorvastatin on arthritis development.== The main reason for the low inclusion was unwillingness to participate; this may also impede other RA prevention trials. Further research to investigate and solve barriers for prevention trial participation is needed. ^vanboheemen2021-3
+==In this small set of randomised high-risk individuals, we did not demonstrate a protective effect of atorvastatin on arthritis development.== ^vanboheemen2021-3
+
+The main reason for the low inclusion was unwillingness to participate; this may also impede other RA prevention trials. Further research to investigate and solve barriers for prevention trial participation is needed.
 
 
 ## Introduction

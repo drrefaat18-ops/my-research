@@ -104,7 +104,9 @@ At baseline, the randomized groups were well balanced for all demographic, anthr
 
 #### Compliance and nonstudy statin use
 
-In the atorvastatin group, reported compliance fell from 89% at the 3‐month visit to 39% by 60 months of follow‐up, while nonstudy statin use increased from 0.5% to 5.6%. In the placebo group, compliance fell from 89% to 25% and nonstudy statin use increased from 0.7% to 7.8% (Supplementary Table 3, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.40892/abstract). Time‐weighted average compliance was 66% in the atorvastatin arm and 65% in the placebo arm. Time‐weighted nonstudy statin use was 1.6% in the atorvastatin arm and 3.3% in the placebo arm.
+==In the atorvastatin group, reported compliance fell from 89% at the 3‐month visit to 39% by 60 months of follow‐up, while nonstudy statin use increased from 0.5% to 5.6%.== ^kitas2019-9
+
+In the placebo group, compliance fell from 89% to 25% and nonstudy statin use increased from 0.7% to 7.8% (Supplementary Table 3, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.40892/abstract). Time‐weighted average compliance was 66% in the atorvastatin arm and 65% in the placebo arm. Time‐weighted nonstudy statin use was 1.6% in the atorvastatin arm and 3.3% in the placebo arm.
 
 
 #### Primary end point

@@ -111,5 +111,5 @@ Details and numbers: [[study-cards]] (last two sections).
 
 ## Workflow per section
 Sources: candidate list (`find_sources.py`) → user downloads to `papers/pdf/` → `pdf2md.py <Key> <DOI>` (or JATS / abstract-only stub) → Claude highlights the paper's OWN result, never intro/discussion summaries of other work (`highlight.py` warns).
-Brief (Claude) → Copilot ([[Copilot-Prompt]]) → `drafts/DayN.md` → "خلصت" → `review_gate.py` (incl. `secondary_check.py`) → sentence-level fixes → HumanizeAI (in context) + Grammarly chunk ≤ 20%.
+Brief (Claude) → Copilot ([[Copilot-Prompt]]) → `drafts/DayN.md` → "خلصت" → `review_gate.py` (incl. `secondary_check.py`) → sentence-level fixes → Grammarly chunk ≤ 20% (HumanizeAI dropped 2026-10-08: same text 0% → 99%).
 Style rules are enforced by `scripts/review_gate.py`; judgement items by [[review_rubric]] at item 23.
