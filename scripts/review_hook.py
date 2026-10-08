@@ -41,6 +41,31 @@ def changed_drafts():
     return [os.path.join(root, p) for p in paths if re.search(r"drafts/Day[1-9].*\.md$", p)]
 
 
+MAX_FAILS = 3  # initial edit + 2 fix attempts; then escalate to the user instead of looping
+
+
+def fail_count(session, path, findings):
+    """Consecutive gate failures for this draft in this session; reset on pass.
+    Identical findings twice in a row = no progress, jump straight past the cap."""
+    import tempfile
+    sid = re.sub(r"\W", "", session)
+    state = os.path.join(tempfile.gettempdir(), f"review_hook_{sid}.json")
+    try:
+        data = json.load(open(state, encoding="utf-8"))
+    except (OSError, ValueError):
+        data = {}
+    key = os.path.normcase(os.path.abspath(path))
+    prev = data.get(key, {"n": 0, "out": None})
+    if findings is None:
+        data.pop(key, None)
+        n = 0
+    else:
+        n = MAX_FAILS + 1 if findings == prev["out"] else prev["n"] + 1
+        data[key] = {"n": n, "out": findings}
+    json.dump(data, open(state, "w", encoding="utf-8"))
+    return n
+
+
 def is_draft(path):
     p = path.replace("\\", "/")
     return "RA Repurposing Review/drafts/" in p and re.search(r"/Day[1-9][^/]*\.md$", p)
@@ -56,6 +81,12 @@ def main():
         if not is_draft(path):
             return 0
         code, out = run_gate([path])
+        fails = fail_count(ev.get("session_id", ""), path, out if code else None)
+        if code and fails > MAX_FAILS:
+            sys.stderr.write(f"review_gate STOP: this draft failed {fails} times in a row (or the same "
+                             "findings came back). Do NOT edit it again. Show the user these findings "
+                             "verbatim, propose the fix in one line each, and wait for their decision:\n" + out)
+            return 2
         if code:
             sys.stderr.write("review_gate found issues in the draft you just edited. Fix them "
                              "sentence by sentence (never regenerate a paragraph) before saying done:\n" + out)
