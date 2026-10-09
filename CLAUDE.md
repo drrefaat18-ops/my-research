@@ -8,13 +8,14 @@
 > - **Port Said Facility Reality:** No automated ELISA reader, no qPCR, no liquid nitrogen, no continuous -80°C chain. Assays are outsourced to Cairo/Tanta.
 > - **Mandatory Zero Spend Filter:** Eliminate all non-essential and luxury molecular tests (no RT-qPCR, no Western blot, no multiplex). Prioritize FFPE blocks, frozen serum, zero-cost CBC derived indices (NLR/SII), and local Egyptian Biodiagnostic kits.
 
-> [!IMPORTANT] RULE 1: AGENTS — INLINE FIRST, SPAWN ONLY WITH USER APPROVAL (overrides every swarm/agent section below)
+> [!IMPORTANT] RULE 1: AGENTS — ANNOUNCE COUNT + NAMES BEFORE EVERY SPAWN (overrides every swarm/agent section below)
 > - Claude picks the agent that fits the task (user need not name it) — for both inline and spawn. Say in one line which agent file was picked.
-> - Default: use agent definitions **inline** — read `.claude/agents/<name>.md` and apply that role in the main thread. No spawn.
-> - Spawning a subagent or Workflow needs the user's explicit "موافق" first. Before asking, state: agent name (exact file/type), its job, and why inline is not enough.
-> - Never spawn on your own initiative, even if a section below says "spawn", "swarm" or "ALWAYS".
-> - Keep it reasonable: one agent per approved request unless the user approves more.
-> - Mechanical gate: `.claude/settings.json` → `permissions.ask` = `Agent`, `Workflow`.
+> - Inline use (read `.claude/agents/<name>.md`, apply the role in the main thread) is fine whenever it is enough.
+> - Spawning subagents or a Workflow is allowed (user changed this 2026-10-09: no "موافق" needed). **Before each spawn, tell the user in one message: how many agents, and for each its exact name (file/type) and job.** Never spawn silently, and never spawn more than announced; a new or extra agent = a new announcement.
+> - Keep it reasonable: spawn only when inline is not enough (parallel work, large reading load).
+> - **Review work = `research-synthesist.md` always (inline)**: every draft review, brief, source check or fix in `08 - RA Repurposing Review/` and the thesis uses it as the base role. Add a second inline role when the task needs it: `academic-statistician.md` (numbers, P/CI, MR, meta-analysis, study design), `healthcare-clinical-evidence-agent.md` (evidence level, "associated with" vs causal wording), `testing-reality-checker.md` (final pass before anything goes to the supervisor). Validated 2026-10-09: Day1 review with it → Grammarly 4% metformin / 0% statins.
+> - Mechanical gate: `.claude/settings.json` → `permissions.ask` = `Agent`, `Workflow` — still shows a confirm prompt at spawn time, after the announcement above.
+> - Several inline roles in one task are fine (e.g. research-synthesist + statistician); name all of them in the one-line note.
 
 ## Rules
 

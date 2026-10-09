@@ -1,4 +1,6 @@
-# El-Barbary 2011 — Atorvastatin in RA (J Rheumatol 38:229)
+# Effect of Atorvastatin on Inflammation and Modification of Vascular Risk Factors in Rheumatoid Arthritis
+**Authors:** El-Barbary Amal M., Hussein Manal S., Rageh Elsayed M., Hamouda Hala E., Wagih Ayman A., Ismail Raghda G.  
+**Journal:** The Journal of Rheumatology (2011)  
 **DOI:** 10.3899/jrheum.100582
 
 229 El-Barbary, et al: Atorvastatin and RA 

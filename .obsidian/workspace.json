@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day1.md",
+                "file": "08 - RA Repurposing Review/4.1b-PPAR-agonists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day1"
+              "title": "4.1b-PPAR-agonists"
             }
           }
         ]
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day1.md",
+                "file": "08 - RA Repurposing Review/START-HERE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -175,14 +175,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08 - RA Repurposing Review/START-HERE.md"
+                "file": "08 - RA Repurposing Review/4.1b-PPAR-agonists.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,42 +201,42 @@
   },
   "active": "2f0453a84f6fad4f",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/drafts/sedQqcpqJ",
-    "08 - RA Repurposing Review/4.2a-Statins.md",
-    "08 - RA Repurposing Review/papers/Kitas2019.md",
-    "08 - RA Repurposing Review/papers/McCarey2004.md",
-    "08 - RA Repurposing Review/papers/Walker2017.md",
-    "08 - RA Repurposing Review/papers/NairJacob2016.md",
-    "08 - RA Repurposing Review/papers/Kwak2000.md",
-    "08 - RA Repurposing Review/papers/Greenwood2006.md",
-    "08 - RA Repurposing Review/papers/Hansildaar2021.md",
-    "08 - RA Repurposing Review/drafts/Day1.md",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11260.b9dd8e310322",
+    "08 - RA Repurposing Review/papers/Romeo2012.md",
+    "08 - RA Repurposing Review/4.1b-PPAR-agonists.md",
+    "08 - RA Repurposing Review/papers/Varga2011.md",
     "08 - RA Repurposing Review/START-HERE.md",
-    "08 - RA Repurposing Review/drafts/zz_tmp_sent.md",
-    "08 - RA Repurposing Review/sedYV0Gro",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11260.b07715bdf74f",
-    "08 - RA Repurposing Review/drafts/_tmp_test.md",
-    "scripts/review_gate.py.tmp.11260.f64eb8f900d4",
-    "scripts/review_gate.py.tmp.11260.25988178d931",
-    "08 - RA Repurposing Review/overlap-only/Liu2026.md",
-    "08 - RA Repurposing Review/overlap-only/xml/Liu2026.xml",
-    "08 - RA Repurposing Review/overlap-only/Pan2024.md",
-    "08 - RA Repurposing Review/overlap-only/xml/Pan2024.xml",
-    "08 - RA Repurposing Review/overlap-only/Bilgin2026.md",
-    "08 - RA Repurposing Review/overlap-only/xml/Bilgin2026.xml",
-    "08 - RA Repurposing Review/overlap-only/Karacabeyli2026.md",
-    "08 - RA Repurposing Review/overlap-only/xml/Karacabeyli2026.xml",
-    "08 - RA Repurposing Review/overlap-only/Luo2025.md",
-    "08 - RA Repurposing Review/overlap-only/xml/Luo2025.xml",
-    "08 - RA Repurposing Review/overlap-only/Deng2025.md",
-    "08 - RA Repurposing Review/overlap-only/Soulaidopoulos2018.md",
-    "08 - RA Repurposing Review/overlap-only/Kim2022.md",
-    "08 - RA Repurposing Review/overlap-only/Ursini2018.md",
-    "08 - RA Repurposing Review/drafts/Day2.md",
+    "08 - RA Repurposing Review/PROMPT-Day2.md",
+    "_AGENTS.md",
+    "_CLAUDE.md",
+    "02 - Molecular Axis & Mechanisms/02-MOC-Molecular-Mechanisms.md",
+    "01 - Rationale & Study Design/Animal-Models-Comprehensive-Compendium.md",
+    "01 - Rationale & Study Design/AA-vs-CIA-Model-Selection.md",
+    "01 - Rationale & Study Design/01-MOC-Rationale-and-Study-Design.md",
+    "08 - RA Repurposing Review/to-Dr-Ahmed-Morad/Day1-Metformin-Statins-Fenofibrate.pdf",
+    "scripts/make_section_pdf.py.tmp.11064.bd5f15bf979b",
+    "08 - RA Repurposing Review/drafts/zz_tmp_check.md",
+    "08 - RA Repurposing Review/START-HERE.md.tmp.11064.9f6ab6eab3bf",
+    "CLAUDE.md.tmp.11064.c29bc420f91e",
+    "08 - RA Repurposing Review/START-HERE.md.tmp.11064.07023d912068",
+    "CLAUDE.md.tmp.11064.2516ab773bd9",
+    "08 - RA Repurposing Review/to-Dr-Ahmed-Morad/Section-4.2.1-Statins.pdf",
+    "08 - RA Repurposing Review/to-Dr-Ahmed-Morad/Section-4.1.1-Metformin.pdf",
+    "08 - RA Repurposing Review/to-Dr-Ahmed-Morad",
+    "scripts/make_section_pdf.py",
+    "08 - RA Repurposing Review/papers/Chung2008.md",
+    "08 - RA Repurposing Review/drafts/Day1.md",
+    "08 - RA Repurposing Review/4.2a-Statins.md",
+    "08 - RA Repurposing Review/papers/Shirinsky2013.md",
+    "08 - RA Repurposing Review/papers/Goto2010.md",
+    "08 - RA Repurposing Review/papers/Castillero2012.md",
+    "08 - RA Repurposing Review/papers/NairJacob2016.md",
+    "08 - RA Repurposing Review/papers/Shahin2011.md",
     "08 - RA Repurposing Review/4.1a-Metformin.md",
-    "08 - RA Repurposing Review/papers/Naffaa2020.md",
-    "08 - RA Repurposing Review/papers/Alshammari2026.md",
+    "08 - RA Repurposing Review/papers/Koufany2008.md",
+    "08 - RA Repurposing Review/drafts/_t8.md",
+    "08 - RA Repurposing Review/_TEMP-paste-Days1-3-OLD-6Oct.md",
+    "08 - RA Repurposing Review/_TEMP-paste-Days1-3.md",
+    "08 - RA Repurposing Review/_old42.md",
     "08 - RA Repurposing Review/papers/figs/Peterson2021/13075_2021_2617_Fig1_HTML.jpg",
     "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
     "test_fig.png",
