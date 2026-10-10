@@ -35,7 +35,7 @@ Rheumatoid arthritis (RA) is an autoimmune systemic inflammatory disease. Recent
 
 Pioglitazone is a member of oral antidiabetic agents, the thiazolidinediones (TZDs). TZDs have been proven to improve insulin resistance, reduce circulating hyper-insulinemia and master the regulation of adipogenesis and glucose metabolism.5,6 They act as ligands for the peroxisome proliferator-activated receptor gamma (PPAR-γ), a member of the nuclear hormone receptor superfamily of transcription factors. PPAR-γ is expressed in a broad array of human tissues,5
 
-==Recently, PPAR-γ has been suggested to be an important immunomodulator; it suppresses the production of inflammatory cytokines7,8 matrix metalloproteinases,9 reactive oxygen species10 and inhibits pro-inflammatory gene expression.== ^shahin2011-1
+Recently, PPAR-γ has been suggested to be an important immunomodulator; it suppresses the production of inflammatory cytokines7,8 matrix metalloproteinases,9 reactive oxygen species10 and inhibits pro-inflammatory gene expression.
 
 11 Furthermore, PPAR-γ ligands have been shown to induce apoptosis in T lymphocytes,12,13 and macrophages.14
 

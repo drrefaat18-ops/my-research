@@ -30,7 +30,9 @@ Patients were evaluated for clinical and laboratory variables including measures
 
 ==Losartan was able to reduce levels of IFN-γ (p = 0.0181), IL-6 (p = 0.0056), IL-17F (0.0046) and IL-22 (p = 0.0234) in RA patients.== ^cardoso2018-2
 
-In addition, patients in remission and mild score (DAS28<3.2 and CDAI<10) had a better response to treatment. On the other hand, patients in moderate and severe activity had poor response to Losartan in cytokine inhibition.
+In addition, patients in remission and mild score (DAS28<3.2 and CDAI<10) had a better response to treatment. On the other hand,
+
+==patients in moderate and severe activity had poor response to Losartan in cytokine inhibition.== ^cardoso2018-4
 
 
 #### Conclusion:

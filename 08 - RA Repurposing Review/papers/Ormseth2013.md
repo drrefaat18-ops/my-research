@@ -13,7 +13,7 @@
 
 Rheumatoid arthritis (RA), a chronic inflammatory disease, is associated with insulin resistance.
 
-==Experimental evidence indicates that the relationship between insulin resistance and inflammation is bidirectional: Inflammation promotes insulin resistance, and insulin resistance promotes inflammation.== ^ormseth2013-1
+Experimental evidence indicates that the relationship between insulin resistance and inflammation is bidirectional: Inflammation promotes insulin resistance, and insulin resistance promotes inflammation.
 
 Therefore, we examined the hypothesis that pioglitazone, a thiazolidinedione peroxisome proliferator-activated receptor γ agonist, would decrease inflammation and disease activity and improve insulin resistance in patients with RA.
 
