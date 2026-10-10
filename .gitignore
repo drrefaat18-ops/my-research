@@ -21,3 +21,6 @@ tmp/codex_run_ppar/
 08 - RA Repurposing Review/papers/pdf/
 08 - RA Repurposing Review/papers/figs/
 08 - RA Repurposing Review/papers/text/
+
+# Session-start bookmark (per machine)
+.claude/state/
