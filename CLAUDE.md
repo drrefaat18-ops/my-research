@@ -34,9 +34,9 @@
 - `08 - RA Repurposing Review/START-HERE.md` — review plan, steps 1–31; next unchecked step = today's work
 - `08 - RA Repurposing Review/drafts/Day*.md` — draft text (gated by `scripts/review_hook.py` → `review_gate.py`)
 - `08 - RA Repurposing Review/papers/` + `overlap-only/` — own-paper sources + overlap corpus
-- `08 - RA Repurposing Review/Copilot-Prompt.md`, `review_rubric.md` — Copilot instructions, internal review rubric
+- `08 - RA Repurposing Review/Copilot-Prompt.md`, `review_rubric.md` — style rules (read by the writer agent; Copilot itself retired 2026-10-10), internal review rubric
 - `01`–`07` folders — thesis (rationale, mechanisms, matrix, protocols, comparators, defense, QC)
-- `scripts/` — gates and tools: `review_gate.py`, `overlap_check.py`, `secondary_check.py`, `check_links.py`, `style_check.py`, `ledger.py` (tag→draft map, repeated claims, once-cited tags)
+- `scripts/` — gates and tools: `review_gate.py`, `overlap_check.py`, `secondary_check.py`, `check_links.py`, `style_check.py`, `ledger.py` (tag→draft map, repeated claims, once-cited tags), `verify_quotes.py` (evidence cards vs papers, verbatim)
 - `.claude/agents/*.md` — agent role files (use inline per RULE 1)
 
 ## Session Start (every new session, before any work)
@@ -49,6 +49,18 @@
 
 - Draft edits: `review_hook.py` runs `review_gate.py`; after 3 failures (or same findings twice) it stops and escalates to the user — do not keep editing.
 - User says "خلصت": gate runs on all changed drafts → numbered error list.
+
+## Writing pipeline (agents; replaces Copilot since 2026-10-10)
+
+Opus session = orchestrator (`research-synthesist.md` inline). Announce count + names before each spawn (RULE 1). Subagents return text only; only the orchestrator edits files.
+1. Plan: next START-HERE step + Arabic brief → claims per sentence; split papers 4–6 per evidence agent.
+2. Evidence: Haiku × N in parallel (`research-synthesist.md`) → cards: design, n, dose, verbatim quote + line + section, evidence level, author limits; `NOT FOUND` / `UNREADABLE`, never "none". Also emit `Tag | line | quote` lines.
+3. Verify: `python scripts/verify_quotes.py cards.txt "08 - RA Repurposing Review/papers"` → drop FAIL cards.
+4. Write: one Sonnet, effort high (`academic-review-writer.md`) → sentences + card lines; `CANNOT WRITE` instead of guessing.
+5. Insert (orchestrator) → `review_gate.py`; 6. Checks: Haiku (`testing-test-results-analyzer.md`) runs gate, secondary, links, ledger, number match.
+7. Fix: same Sonnet via SendMessage, max 3 rounds, then escalate. Small mechanical rewording may be done inline.
+8. Accuracy: orchestrator as statistician + clinical-evidence + reality-checker → numbered findings for the user.
+9. User reviews sentence | quote | link table; notes go under the START-HERE step. Kit for other projects: `Harness_Engineering/agent-pipeline-kit/`.
 
 ## Run rules (from Anthropic "Building effective agent automations", 2026-10-08)
 
