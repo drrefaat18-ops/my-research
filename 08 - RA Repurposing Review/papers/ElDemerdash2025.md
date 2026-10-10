@@ -56,7 +56,9 @@ The experimental methods involving animals were carried out following the US Nat
 
 ### Experimental animals
 
-Male Spargue-Dawly rats, weighting (180–200 g), were obtained from Nile Co. for Pharmaceutical and Chemical Industries, Cairo, Egypt. Animals were kept accommodating under standard environmental conditions of the research facility (temperature of 25 °C, relative humidity 60%, 12 h. light/dark cycle) with free access to food and water for 1 week before assignment to the experimental protocol. There was a concerted attempt to reduce the number of animals used and alleviate their pain.
+==Male Spargue-Dawly rats, weighting (180–200 g)== ^eldemerdash2025-7
+
+, were obtained from Nile Co. for Pharmaceutical and Chemical Industries, Cairo, Egypt. Animals were kept accommodating under standard environmental conditions of the research facility (temperature of 25 °C, relative humidity 60%, 12 h. light/dark cycle) with free access to food and water for 1 week before assignment to the experimental protocol. There was a concerted attempt to reduce the number of animals used and alleviate their pain.
 
 
 ### Experimental design

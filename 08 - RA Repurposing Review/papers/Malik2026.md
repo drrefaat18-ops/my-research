@@ -19,7 +19,17 @@ Rheumatoid arthritis (RA)-related physical limitations often hinder sustained ph
 
 #### Methods and results
 
-We emulated a target trial using data from the TriNetX US database, including obese adults [aged ≥18 years; body mass index (BMI) ≥30 kg/m2] with T2DM and comorbid RA and no prior history of stroke, heart failure (HF), acute coronary syndrome, or coronary revascularization. Using a new-user design, we compared patients initiating semaglutide with those initiating non-GLP-1 receptor agonist (GLP-1RA) second-line glucose-lowering therapies. Patients with contraindications to GLP-1RAs were excluded. Propensity-score matching (PS) (1:1) was used to balance baseline covariates. The primary outcome was incident MACCE, defined as a composite of all-cause mortality, myocardial infarction (MI), HF, or stroke. Secondary outcomes included individual MACCE components, HF hospitalization, and disease-modifying anti-rheumatic drug (DMARD) escalation, with Bonferroni correction applied for multiple comparisons. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated using Cox proportional hazards models over a follow-up of up to 2 years. Between 1 January 2014 and 1 January 2025, we identified 1200 and 2972 patients who initiated semaglutide and non-GLP-1RA therapies, respectively, within 3 months of meeting eligibility. After PS matching, 1017 semaglutide users were compared with 1017 non-GLP-1RA users (mean age 59.5 vs. 59.3 years; women 81.3% vs. 81.0%; mean BMI 38.2 vs. 38.0 kg/m2; HbA1c, 6.8% vs. 7.0%). Semaglutide initiation was associated with a significantly lower risk of incident MACCE compared with non-GLP-1RA therapies (12.7% vs. 16.5%; HR, 0.75; 95% CI, 0.60–0.94; P = 0.01). This benefit was driven primarily by a lower risk of incident HF (8.9% vs. 12.5%; HR, 0.69, 95% CI, 0.53–0.91; P = 0·007). Semaglutide use was also associated with significantly lower DMARD escalation (16.6% vs. 21.6%; HR, 0.75; 95% CI, 0.60–0.90; P = 0.003). No significant differences were observed in all-cause mortality, MI, or stroke.
+We emulated a target trial using data from the TriNetX US database, including obese adults [aged ≥18 years; body mass index (BMI) ≥30 kg/m2] with T2DM and comorbid RA and no prior history of stroke, heart failure (HF), acute coronary syndrome, or coronary revascularization. Using a new-user design, we compared patients initiating semaglutide with those initiating non-GLP-1 receptor agonist (GLP-1RA) second-line glucose-lowering therapies. Patients with contraindications to GLP-1RAs were excluded. Propensity-score matching (PS) (1:1) was used to balance baseline covariates. The primary outcome was incident MACCE, defined as a composite of all-cause mortality, myocardial infarction (MI), HF, or stroke. Secondary outcomes included individual MACCE components, HF hospitalization, and disease-modifying anti-rheumatic drug (DMARD) escalation, with Bonferroni correction applied for multiple comparisons. Hazard ratios (HRs) and 95% confidence intervals (CIs) were estimated using Cox proportional hazards models over a follow-up of up to 2 years. Between 1 January 2014 and 1 January 2025, we identified 1200 and 2972 patients who initiated semaglutide and non-GLP-1RA therapies, respectively, within 3 months of meeting eligibility.
+
+==After PS matching, 1017 semaglutide users were compared with 1017 non-GLP-1RA users== ^malik2026-1
+
+(mean age 59.5 vs. 59.3 years; women 81.3% vs. 81.0%; mean BMI 38.2 vs. 38.0 kg/m2; HbA1c, 6.8% vs. 7.0%). Semaglutide initiation was associated with a significantly lower risk of incident MACCE compared with non-GLP-1RA therapies (12.7% vs. 16.5%; HR, 0.75; 95% CI, 0.60–0.94; P = 0.01).
+
+==This benefit was driven primarily by a lower risk of incident HF== ^malik2026-6
+
+(8.9% vs. 12.5%; HR, 0.69, 95% CI, 0.53–0.91; P = 0·007). Semaglutide use was also associated with significantly lower DMARD escalation (16.6% vs. 21.6%; HR, 0.75; 95% CI, 0.60–0.90; P = 0.003).
+
+==No significant differences were observed in all-cause mortality, MI, or stroke.== ^malik2026-2
 
 
 #### Conclusion
@@ -55,7 +65,11 @@ Eligible participants are obese adult patients (≥18 years) with T2DM and RA (T
 
 ### Treatment strategies and assignment (target trial)
 
-After meeting eligibility criteria, participants in the target trial are randomly assigned at baseline (Time 0) in a 1:1 ratio to one of two glucose-lowering treatment strategies: (i) intervention group: semaglutide; (ii) comparator group: non-GLP-1RA therapy, including DPP4 inhibitors, SGLT2 inhibitors, sulfonylurea, and TZD. We restricted the intervention to semaglutide to minimize within-class treatment heterogeneity and because semaglutide had the greatest contemporary uptake during the study period,13 likely owing to its greater glycemic and weight-loss efficacy. Tirzepatide was not included because its more recent introduction resulted in limited uptake and insufficient longitudinal follow-up during the study period. Eligible participants and their clinicians were aware of their assignments, consistent with an open-label design typical for pragmatic trials emulated with observational data. In accordance with an ITT effect as the causal contrast, treatment strategies were assigned at baseline, irrespective of subsequent medication adherence, cross-over, or add-on therapies.
+After meeting eligibility criteria, participants in the target trial are randomly assigned at baseline (Time 0) in a 1:1 ratio to one of two glucose-lowering treatment strategies: (i) intervention group: semaglutide; (ii)
+
+==comparator group: non-GLP-1RA therapy, including DPP4 inhibitors, SGLT2 inhibitors, sulfonylurea, and TZD== ^malik2026-3
+
+. We restricted the intervention to semaglutide to minimize within-class treatment heterogeneity and because semaglutide had the greatest contemporary uptake during the study period,13 likely owing to its greater glycemic and weight-loss efficacy. Tirzepatide was not included because its more recent introduction resulted in limited uptake and insufficient longitudinal follow-up during the study period. Eligible participants and their clinicians were aware of their assignments, consistent with an open-label design typical for pragmatic trials emulated with observational data. In accordance with an ITT effect as the causal contrast, treatment strategies were assigned at baseline, irrespective of subsequent medication adherence, cross-over, or add-on therapies.
 
 
 ### Study endpoints and follow-up (target trial)
@@ -107,14 +121,20 @@ Between 1 January 2014 and 1 January 2025, we identified 2 908 668 obese adults 
 
 ### Primary endpoint
 
-Over the study follow-up period (median days: intervention, 730; control, 730), in the matched cohort, the composite of MACCE occurred in 129 (12.7%) patients in the intervention vs. 168 (16.5%) in the control group (HR, 0.75; 95% CI, 0.60–0.94; P = 0.01; E-value: 2.00) (Figure 2).
+Over the study follow-up period (median days: intervention, 730; control, 730), in the matched cohort,
+
+==the composite of MACCE occurred in 129 (12.7%) patients in the intervention vs. 168 (16.5%) in the control group (HR, 0.75; 95% CI, 0.60–0.94; P = 0.01; E-value: 2.00)== ^malik2026-4
+
+(Figure 2).
 
 > **Figure 2** Kaplan–Meier survival curves for comparative risk of major adverse cardiovascular events between GLP-1 receptor agonist use and no use in obese patients with diabetes and rheumatoid arthritis.
 
 
 ### Secondary endpoints
 
-Semaglutide use was associated with significant lower risk of incident HF [8.9% vs. 12.5%; HR, 0.69; 95% CI, 0.53–0.91; P = 0.007 (<0.01 after Bonferroni correction); E-value: 2.26] and DMARDs escalation [16.6% vs. 21.6%; HR, 0.75; 95% CI, 0.60–0.90; P = 0.003 (<0.01 after Bonferroni correction); E-value: 2.00]. There was no significant difference in HF hospitalization [1.9% vs. 3.5%; HR, 0.59; 95% CI, 0.35–0.98; P = 0.04 (>0.01 after Bonferroni correction)], all-cause mortality (1.1% vs. 1.5; HR, 0.78; 95% CI, 0.37–1.66; P = 0.18), MI (1.2% vs. 1.6%; HR, 0.83; 95% CI, 0.40–1.73; P = 0.62), and any stroke (2.5% vs. 3.6%; HR, 0.85; 95% CI, 0.55 to 1.31; P = 0.47) (Table 2).
+==Semaglutide use was associated with significant lower risk of incident HF [8.9% vs. 12.5%; HR, 0.69; 95% CI, 0.53–0.91== ^malik2026-5
+
+; P = 0.007 (<0.01 after Bonferroni correction); E-value: 2.26] and DMARDs escalation [16.6% vs. 21.6%; HR, 0.75; 95% CI, 0.60–0.90; P = 0.003 (<0.01 after Bonferroni correction); E-value: 2.00]. There was no significant difference in HF hospitalization [1.9% vs. 3.5%; HR, 0.59; 95% CI, 0.35–0.98; P = 0.04 (>0.01 after Bonferroni correction)], all-cause mortality (1.1% vs. 1.5; HR, 0.78; 95% CI, 0.37–1.66; P = 0.18), MI (1.2% vs. 1.6%; HR, 0.83; 95% CI, 0.40–1.73; P = 0.62), and any stroke (2.5% vs. 3.6%; HR, 0.85; 95% CI, 0.55 to 1.31; P = 0.47) (Table 2).
 
 > **Table 2** Cox proportional hazard analysis for Semaglutide use and study endpoints in the matched cohort
 

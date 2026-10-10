@@ -24,7 +24,9 @@ We performed a retrospective cohort study using TriNetX database to evaluate adu
 
 #### Results
 
-We analyzed 41,153 patients, including 25,425 GLP-1 analog and 15,728 DPP4i users, and compared 8,697 matched patients in each group. The median age at medication start was 65 years old, with 70% females. GLP-1 analog users had a 24% lower risk of all thrombotic events (hazard ratio [HR], 0.76 [95% CI: 0.70, 0.83]; p < 0.0001), as well as reduced risks of individual events and an overall lower mortality.
+==We analyzed 41,153 patients, including 25,425 GLP-1 analog and 15,728 DPP4i users, and compared 8,697 matched patients in each group.== ^wangq2025-1
+
+The median age at medication start was 65 years old, with 70% females. GLP-1 analog users had a 24% lower risk of all thrombotic events (hazard ratio [HR], 0.76 [95% CI: 0.70, 0.83]; p < 0.0001), as well as reduced risks of individual events and an overall lower mortality.
 
 
 #### Conclusion
@@ -81,7 +83,11 @@ We analyzed 41,153 patients diagnosed with RA and T2DM, including 25,425 patient
 
 ### Primary outcome
 
-Over the follow up of 5 years, 958 patients in the GLP-1 analog cohort developed thrombotic events including stroke, MI, DVT or PE, while 1,165 patients in DPP4i cohort developed thrombotic events. Kaplan–Meier survival analysis demonstrated a higher thrombosis free probability over time in GLP-1 analog group (Fig. 1). Cox proportional hazards analysis revealed that GLP-1 analogs were associated with a 24% lower risk of all thrombotic events (Hazard ratio (HR), 0.76 [95% CI: 0.70–0.83]; p < 0.0001) compared to DPP4i (Table 2).
+Over the follow up of 5 years, 958 patients in the GLP-1 analog cohort developed thrombotic events including stroke, MI, DVT or PE, while 1,165 patients in DPP4i cohort developed thrombotic events. Kaplan–Meier survival analysis demonstrated a higher thrombosis free probability over time in GLP-1 analog group (Fig. 1). Cox proportional hazards analysis revealed that
+
+==GLP-1 analogs were associated with a 24% lower risk of all thrombotic events (Hazard ratio (HR), 0.76 [95% CI: 0.70–0.83]; p < 0.0001)== ^wangq2025-2
+
+compared to DPP4i (Table 2).
 
 > **Fig. 1** Kaplan–Meier survival curve of thrombosis-free probability over 5 years
 
@@ -101,7 +107,11 @@ The cardiovascular protective and anti-thrombotic effects of GLP-1 analogs can b
 
 While a recent meta-analysis by Liu et al. [16] reported that long-term use of GLP-1 analogs was associated with increased risk of DVT in general population with T2DM or other metabolic syndromes, contrasting with our findings, our study focused on a distinct population with RA who carry chronic systemic inflammation, and have unique pathophysiological mechanisms including endothelial dysfunction and upregulated inflammatory cytokines which are known to increase thrombotic risk. In this context, the anti-inflammatory effects of GLP-1 analogs may confer protective benefits in RA populations and reduce thrombotic risk.
 
-This study has several limitations. First, as a retrospective analysis using the TriNetX database, patient identification relied on ICD-10 codes rather than classification criteria, introducing risks of misdiagnosis and overdiagnosis. Second, despite propensity score matching, unmeasured confounders, such as duration and dosage of glucocorticoid use, the length of tobacco use, family history, and medication compliance may remain. Third, even after matching, the BMI in the GLP-1 analog group was significantly higher than in the DPP4i group, likely because patients with higher BMI are more inclined to use GLP-1 analogs. Nonetheless, the GLP-1 analog cohort exhibited a lower risk of thrombotic events despite starting with a higher BMI. Fourth, some factors could not be quantified using the TriNetX database, such as atherosclerotic cardiovascular disease (ASCVD) score. Fifth, due to the limitations of the database, we were unable to include RA-specific information such as disease duration, disease activity including the Disease Activity Score in 28 joints (DAS28) and the Clinical Disease Activity Index (CDAI), and seropositivity defined by RF and anti-cyclic citrullinated peptide antibodies (anti-CCP). Whether serologic status influences the reduced thrombotic risk associated with GLP-1 analog use warrants further investigation. Sixth, DMARD exposure was identified but RA duration was unavailable. Seventh, although TriNetX collects laboratory data such as CRP and erythrocyte sedimentation rate (ESR), we were unable to access individual patient charts to verify the etiologies of abnormal results and variability precluded their use in matching. Eighth, we did not compare the changes in HbA1c between the two groups because these levels were measured multiple and differing times throughout the study period, preventing standardized comparisons between groups.
+This study has several limitations. First, as a retrospective analysis using the TriNetX database, patient identification relied on ICD-10 codes rather than classification criteria, introducing risks of misdiagnosis and overdiagnosis. Second, despite propensity score matching, unmeasured confounders, such as duration and dosage of glucocorticoid use, the length of tobacco use, family history, and medication compliance may remain.
+
+==Third, even after matching, the BMI in the GLP-1 analog group was significantly higher than in the DPP4i group== ^wangq2025-3
+
+, likely because patients with higher BMI are more inclined to use GLP-1 analogs. Nonetheless, the GLP-1 analog cohort exhibited a lower risk of thrombotic events despite starting with a higher BMI. Fourth, some factors could not be quantified using the TriNetX database, such as atherosclerotic cardiovascular disease (ASCVD) score. Fifth, due to the limitations of the database, we were unable to include RA-specific information such as disease duration, disease activity including the Disease Activity Score in 28 joints (DAS28) and the Clinical Disease Activity Index (CDAI), and seropositivity defined by RF and anti-cyclic citrullinated peptide antibodies (anti-CCP). Whether serologic status influences the reduced thrombotic risk associated with GLP-1 analog use warrants further investigation. Sixth, DMARD exposure was identified but RA duration was unavailable. Seventh, although TriNetX collects laboratory data such as CRP and erythrocyte sedimentation rate (ESR), we were unable to access individual patient charts to verify the etiologies of abnormal results and variability precluded their use in matching. Eighth, we did not compare the changes in HbA1c between the two groups because these levels were measured multiple and differing times throughout the study period, preventing standardized comparisons between groups.
 
 
 ## Conclusion

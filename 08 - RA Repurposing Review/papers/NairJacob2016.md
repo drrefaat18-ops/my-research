@@ -39,9 +39,15 @@ HED (mg / kg = 18 × (0.15 / 60)(0.33) = 2.5 mg / kg
 
 Thus, for a 60 kg human, the dose is 150 mg. This HED value is further divided by a factor value of 10; thus, the initial dose in entry into man studies is 15 mg.
 
-Dose is equally related to body weight although it is not the lone factor which influences the scaling for dose calculation. The correction factor (Km) is estimated by dividing the average body weight (kg) of species to its body surface area (m2). For example, the average human body weight is 60 kg, and the body surface area is 1.62 m2. Therefore, the Km factor for human is calculated by dividing 60 by 1.62, which is 37 [Table 1]. The Km factor values of various animal species [Table 1] is used to estimate the HED as:
+Dose is equally related to body weight although it is not the lone factor which influences the scaling for dose calculation. The correction factor (Km) is estimated by dividing the average body weight (kg) of species to its body surface area (m2). For example, the average human body weight is 60 kg, and the body surface area is 1.62 m2.
 
-HED (mg / kg) = Animal does (mg / kg) × (Animal Km / Human Km) Eq. (2)
+==Therefore, the Km factor for human is calculated by dividing 60 by 1.62, which is 37 [Table 1].== ^nairjacob2016-2
+
+The Km factor values of various animal species [Table 1] is used to estimate the HED as:
+
+==HED (mg / kg) = Animal does (mg / kg) × (Animal Km / Human Km)== ^nairjacob2016-3
+
+Eq. (2)
 
 As the Km factor for each species is constant, the Km ratio is used to simplify calculations. Hence, Equation 2 is modified as:
 
@@ -57,7 +63,9 @@ However, it must be borne in mind that the km factor varies across animal specie
 
 HED(mg/kg)=50(mg/kg)×=9.5 mg/kg in humans
 
-Using the standard km factor value of 6 for rats with average weight of 150 g [Table 1], the dose varies accordingly as seen below:
+==Using the standard km factor value of 6 for rats with average weight of 150 g== ^nairjacob2016-4
+
+[Table 1], the dose varies accordingly as seen below:
 
 HED(mg/kg)=50(mg/kg)×=8.1 mg/kg in humans
 

@@ -47,7 +47,7 @@ Whether obesity, a modifiable environmental factor, predisposes to RA developmen
 
 Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are primarily indicated for type 2 diabetes, but also for weight reduction in patients with obesity.10,11 The use of these agents has markedly increased in recent years, a trend attributed, at least in part, to their efficacy in promoting weight loss. 12 Mechanistically, GLP-1RAs mimic the physiological actions of the endogenous hormone GLP-1 released from the gastrointestinal tract postprandially. 10
 
-==GLP-1RA’s effects include increased glucose-dependent insulin secretion, suppression of glucagon secretion, delayed gastric emptying, and greater satiety== ^israel2026-1
+GLP-1RA’s effects include increased glucose-dependent insulin secretion, suppression of glucagon secretion, delayed gastric emptying, and greater satiety
 
 , contributing to reduced energy intake and, consequently, weight reduction (Figure 1).10,13 Evidence from clinical trials supports this, demonstrating that GLP-1RA therapy can induce clinically significant weight loss, typically within the range of 5%—10% from baseline body weight.10,14
 
@@ -132,11 +132,11 @@ This large retrospective study, performed in a national healthcare provider, dem
 
 While GLP-1RAs were primarily developed as anti-diabetic drugs and later were used and indicated for weight loss in patients with obesity, they were also found to have potential immunomodulatory effect (Figure 4). A recent study demonstrated that lixisenatide, selective GLP-1RA, has anti-inflammatory and cytoprotective effects in interleukin (IL)-1β-stimulated RA fibroblast-like synoviocytes. 17
 
-==Lixisenatide treatment significantly reduced the production of key proinflammatory cytokines including tumor necrosis factor alpha (TNF-α), IL-6, and IL-8, suppressed the expression of matrix metalloproteinases== ^israel2026-3
+Lixisenatide treatment significantly reduced the production of key proinflammatory cytokines including tumor necrosis factor alpha (TNF-α), IL-6, and IL-8, suppressed the expression of matrix metalloproteinases
 
 , and ameliorated mitochondrial dysfunction and oxidative stress while inhibiting activation of central inflammatory signaling pathways such as JNK, AP-1, and nuclear factor kappa B (NFκB), thereby supporting the hypothesis that GLP-1RAs may exert disease-modifying effects through direct immunomodulation of synovial cells. Beyond their effects on fibroblast-like synoviocytes,
 
-==GLP-1RAs also exhibit broad immunomodulatory activity through direct interaction with immune cells expressing the GLP-1 receptor, including monocytes, macrophages, T and B lymphocytes== ^israel2026-6
+GLP-1RAs also exhibit broad immunomodulatory activity through direct interaction with immune cells expressing the GLP-1 receptor, including monocytes, macrophages, T and B lymphocytes
 
 . These agents attenuate innate immune responses by suppressing the production of pro-inflammatory cytokines such as TNF-α, IL-1β, and IL-6, inhibiting NF-κB signaling, and promoting the polarization of macrophages toward an anti-inflammatory M2 phenotype 22 (Figure 4). GLP-1RAs also act on the adaptive immune system by inhibiting T cell proliferation and the secretion of effector cytokines (e.g., IFN-γ) while promoting enhanced regulatory T cell function. In addition, GLP-1RAs downregulate adhesion molecules on endothelial cells, including vascular cell adhesion protein 1 (VCAM-1) and intercellular adhesion molecule 1 (ICAM-1), thereby reducing leukocyte recruitment and subsequent inflammation. 22 Notably, a recent Mendelian randomization study demonstrated a significant association between GLP-1 receptor expression and reduced risk of RA, providing further evidence that the immunomodulatory effects of GLP-1RAs extend further beyond their metabolic benefits. 18
 
@@ -152,7 +152,11 @@ in previous studies.3,4,7 Both DM and BMI were found to have statistically signi
 
 Our findings are timely given the rapid global rise in GLP-1RA prescriptions, both for diabetes and obesity management. An increased incidence of RA or related autoimmune diseases, even if limited to early treatment phases, could have meaningful public health implications.15,16,30,31
 
-This study has limitations inherent to its observational retrospective design. Causality cannot be inferred, and residual confounding may persist despite rigorous matching and adjustment. As all eligible patients who met the predefined inclusion criteria were included, no sample size calculations were performed. Paucity of serological data did not allow sufficient power for subgroup analysis, and we were not able to adjust for glucocorticoid or immunomodulatory medication use. Nonetheless, the large sample size and consistent findings across multiple GLP-1RAs support the robustness of the observed associations.
+This study has limitations inherent to its observational retrospective design.
+
+Causality cannot be inferred, and residual confounding may persist despite rigorous matching and adjustment.
+
+As all eligible patients who met the predefined inclusion criteria were included, no sample size calculations were performed. Paucity of serological data did not allow sufficient power for subgroup analysis, and we were not able to adjust for glucocorticoid or immunomodulatory medication use. Nonetheless, the large sample size and consistent findings across multiple GLP-1RAs support the robustness of the observed associations.
 
 
 ## Conclusion

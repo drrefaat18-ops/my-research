@@ -19,7 +19,11 @@ Patients with rheumatoid arthritis (RA) and type 2 diabetes mellitus (T2DM) face
 
 #### Methods
 
-This retrospective cohort study utilized the TriNetX US Collaborative Network database, encompassing 67 healthcare organizations. We identified adult patients with documented RA and T2DM prescribed either SGLT2 inhibitors (n = 823) or DPP-4 inhibitors without SGLT2 inhibitor exposure (n = 284) between 2006 and 2026. Propensity score matching (1:1) balanced baseline demographics and comorbidities, yielding 277 matched pairs. The primary outcome was a composite MACE endpoint comprising myocardial infarction, cerebral infarction, heart failure, cardiovascular death, and cardiac arrest. Kaplan-Meier survival analysis and Cox proportional hazards regression were employed to assess time-to-event outcomes.
+This retrospective cohort study utilized the TriNetX US Collaborative Network database, encompassing 67 healthcare organizations. We identified adult patients with documented RA and T2DM prescribed either SGLT2 inhibitors (n = 823) or DPP-4 inhibitors without SGLT2 inhibitor exposure (n = 284) between 2006 and 2026.
+
+==Propensity score matching (1:1) balanced baseline demographics and comorbidities, yielding 277 matched pairs== ^kachhadia2026-1
+
+. The primary outcome was a composite MACE endpoint comprising myocardial infarction, cerebral infarction, heart failure, cardiovascular death, and cardiac arrest. Kaplan-Meier survival analysis and Cox proportional hazards regression were employed to assess time-to-event outcomes.
 
 
 #### Results
@@ -239,9 +243,19 @@ Table 5 presents the primary risk analysis results for the composite MACE endpoi
 
 Primary findings: Among the 277 propensity-matched pairs, 119 patients (43.0%) in the SGLT2 inhibitor cohort experienced at least one MACE component during follow-up, compared to 135 patients (48.7%) in the DPP-4 inhibitor cohort.
 
-The absolute RD was −5.8 percentage points (95% CI: −14.1% to +2.5%), favoring SGLT2 inhibitors but not reaching statistical significance (z = −1.364, P = 0.172). The RR of 0.881 (95% CI: 0.735–1.057) suggests an approximately 12% relative risk reduction with SGLT2 inhibitors, though the CI crosses the null value of 1.0. Similarly, the OR of 0.792 (95% CI: 0.567–1.107) indicates lower odds of MACE with SGLT2 inhibitor use, again without statistical significance.
+==The absolute RD was −5.8 percentage points (95% CI: −14.1% to +2.5%), favoring SGLT2 inhibitors but not reaching statistical significance (z = −1.364, P = 0.172).== ^kachhadia2026-2
 
-Interpretation: While point estimates consistently favor SGLT2 inhibitors, the lack of statistical significance precludes definitive conclusions. The 95% CIs are compatible with risk reductions as large as 14.1 percentage points or risk increases as large as 2.5 percentage points. The study was likely underpowered to detect a clinically meaningful difference, with post-hoc power estimates of approximately 40–50% to detect the observed effect size. This substantial risk of type II error, combined with differential follow-up duration affecting cumulative risk estimation, means that the absence of statistical significance should not be interpreted as evidence of no effect. All findings should be considered hypothesis-generating.
+The RR of 0.881 (95% CI: 0.735–1.057) suggests an approximately 12% relative risk reduction with SGLT2 inhibitors, though the CI crosses the null value of 1.0. Similarly,
+
+==the OR of 0.792 (95% CI: 0.567–1.107) indicates lower odds of MACE with SGLT2 inhibitor use== ^kachhadia2026-3
+
+, again without statistical significance.
+
+Interpretation: While point estimates consistently favor SGLT2 inhibitors, the lack of statistical significance precludes definitive conclusions. The 95% CIs are compatible with risk reductions as large as 14.1 percentage points or risk increases as large as 2.5 percentage points. The study was likely underpowered to detect a clinically meaningful difference,
+
+==with post-hoc power estimates of approximately 40–50% to detect the observed effect size== ^kachhadia2026-4
+
+. This substantial risk of type II error, combined with differential follow-up duration affecting cumulative risk estimation, means that the absence of statistical significance should not be interpreted as evidence of no effect. All findings should be considered hypothesis-generating.
 
 
 #### Kaplan-Meier survival analysis

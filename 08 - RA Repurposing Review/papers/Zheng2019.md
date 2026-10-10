@@ -7,7 +7,15 @@
 
 ## Abstract
 
-Rheumatoid arthritis is a common autoimmune disease primarily characterized by chronic inflammation, the formation of an invasive pannus, and destruction of the joints. In the present study, we employed real-time PCR and western blot analysis to investigate the role of dulaglutide in human fibroblast-like synoviocytes (FLS). The results of our study show that dulaglutide exerted a powerful protective effect by rescuing mitochondrial membrane potential, inhibiting the production of NOX-4, and abrogating TNF-α-induced downregulation of the antioxidant GSH. ==Our findings demonstrate that dulaglutide significantly ameliorated the expression of proinflammatory cytokines and chemokines including IL-1β, IL-6, MCP-1, and HMGB-1.== Matrix metalloproteinases mediate cartilage destruction, thereby aiding in pannus formation. Our findings indicate that dulaglutide treatment significantly downregulated the expression of MMP-3 and MMP-13, two crucial degradative enzymes. Importantly, the results of our study demonstrate that the beneficial effects of dulaglutide are mediated through the JNK/NF-κB signaling pathway, which has been suggested as a potential treatment target against RA. Taken together, the results of this study show that dulaglutide may exert significant protective effects against the progression of RA induced by TNF-α.
+Rheumatoid arthritis is a common autoimmune disease primarily characterized by chronic inflammation, the formation of an invasive pannus, and destruction of the joints. In the present study, we employed real-time PCR and western blot analysis to investigate the role of dulaglutide in human fibroblast-like synoviocytes (FLS). The results of our study show that dulaglutide exerted a powerful protective effect by rescuing mitochondrial membrane potential, inhibiting the production of NOX-4, and abrogating TNF-α-induced downregulation of the antioxidant GSH.
+
+==Our findings demonstrate that dulaglutide significantly ameliorated the expression of proinflammatory cytokines and chemokines including IL-1β, IL-6, MCP-1, and HMGB-1.== ^zheng2019-1
+
+Matrix metalloproteinases mediate cartilage destruction, thereby aiding in pannus formation.
+
+==Our findings indicate that dulaglutide treatment significantly downregulated the expression of MMP-3 and MMP-13, two crucial degradative enzymes.== ^zheng2019-2
+
+Importantly, the results of our study demonstrate that the beneficial effects of dulaglutide are mediated through the JNK/NF-κB signaling pathway, which has been suggested as a potential treatment target against RA. Taken together, the results of this study show that dulaglutide may exert significant protective effects against the progression of RA induced by TNF-α.
 
 ## Full text (PDF extraction)
 
@@ -43,11 +51,19 @@ International Immunopharmacology 74 (2019) 105649
 
 1567-5769/ © 2019 Published by Elsevier B.V.
 
-vitro experiments. Our ﬁndings demonstrate that dulaglutide treatment may be a safe and beneﬁcial therapy against chronic inﬂammation, invasive pannus formation, and oxidative stress in RA. ==Importantly, we demonstrate that the eﬀects of dulaglutide are mediated through the C-Jun N-terminal kinase (JNK)/NF-κB signaling pathway.==
+vitro experiments. Our ﬁndings demonstrate that dulaglutide treatment may be a safe and beneﬁcial therapy against chronic inﬂammation, invasive pannus formation, and oxidative stress in RA.
+
+==Importantly, we demonstrate that the eﬀects of dulaglutide are mediated through the C-Jun N-terminal kinase (JNK)/NF-κB signaling pathway.== ^zheng2019-3
 
 ## 2. Materials and methods
 
-Experimental protocols with human subjects were designed in accordance with the World Medical Association Declaration of Helsinki Ethical Principles for Medical Research Involving Human Subjects. Human subject experiments were approved by the ethics committee of our institute. Written informed consent was signed with all participants. FLS were isolated from knee joint synovial tissues from 15 donors. Samples were collected and minced into small pieces. Samples were digested with 0.05% trypsin for 10 min at 37 °C. Cells were collected and seeded at a density of 1.5 × 106 cells per well in 35 mm diameter cell culture dishes. FLS were incubated with 10 ng/mL TNF-α in the presence or absence of dulaglutide (50, 100 nM) for 24 h.
+Experimental protocols with human subjects were designed in accordance with the World Medical Association Declaration of Helsinki Ethical Principles for Medical Research Involving Human Subjects. Human subject experiments were approved by the ethics committee of our institute. Written informed consent was signed with all participants.
+
+==FLS were isolated from knee joint synovial tissues from 15 donors.== ^zheng2019-4
+
+Samples were collected and minced into small pieces. Samples were digested with 0.05% trypsin for 10 min at 37 °C. Cells were collected and seeded at a density of 1.5 × 106 cells per well in 35 mm diameter cell culture dishes.
+
+==FLS were incubated with 10 ng/mL TNF-α in the presence or absence of dulaglutide (50, 100 nM) for 24 h.== ^zheng2019-5
 
 2.2. Real-time polymerase chain reaction (PCR) analysis
 
@@ -105,7 +121,11 @@ Fig. 1. Dulaglutide ameliorated TNF-α-induced mitochondrial dysfunction in huma
 
 W. Zheng, et al. International Immunopharmacology 74 (2019) 105649
 
-measured the expression of IL-1β, IL-6, and MCP-1 at both the mRNA and protein levels via real-time PCR and ELISA analyses, respectively. Upon exposure to 10 ng/mL TNF-α alone, the mRNA expression of IL-1β, IL-6, and MCP-1 increased approximately 3-fold, 4-fold, and 3.5fold, respectively. However, when also exposed to dulaglutide, and most notably the higher dose of 100 nM, expression of IL-1β and MCP-1 could be maintained near basal levels, while IL-6 increased only roughly 2-fold. At the protein level, when exposed to 10 ng/mL TNF-α alone, the expressions of IL-1β, IL-6, and MCP-1 increased by roughly 3fold, while dulaglutide decreased the expression of these cytokines to near baseline, with the higher dose of 100 nM dulaglutide being more eﬀective. Next, we tested the ability of dulaglutide to suppress TNF-αinduced secretion of HMGB-1 in FLS. We found that upon exposure to 10 ng/mL TNF-α alone, the expression of HMGB-1 increased roughly 2.5-fold. However, treatment with dulaglutide reduced the expression
+measured the expression of IL-1β, IL-6, and MCP-1 at both the mRNA and protein levels via real-time PCR and ELISA analyses, respectively. Upon exposure to 10 ng/mL TNF-α alone, the mRNA expression of IL-1β, IL-6, and MCP-1 increased approximately 3-fold, 4-fold, and 3.5fold, respectively. However, when also exposed to dulaglutide, and most notably the higher dose of 100 nM, expression of IL-1β and MCP-1 could be maintained near basal levels, while IL-6 increased only roughly 2-fold. At the protein level, when exposed to 10 ng/mL TNF-α alone, the expressions of IL-1β, IL-6, and MCP-1 increased by roughly 3fold,
+
+==while dulaglutide decreased the expression of these cytokines to near baseline, with the higher dose of 100 nM dulaglutide being more eﬀective.== ^zheng2019-8
+
+Next, we tested the ability of dulaglutide to suppress TNF-αinduced secretion of HMGB-1 in FLS. We found that upon exposure to 10 ng/mL TNF-α alone, the expression of HMGB-1 increased roughly 2.5-fold. However, treatment with dulaglutide reduced the expression
 
 of HMGB-1 to near basal levels in a dose-dependent manner. Finally, we tested the eﬀect of dulaglutide on the expression of MMP-3 and MMP-13. Previous studies have linked these cytokines to the development of arthritis in mouse models [13]. To test this, we incubated FLS with 10 ng/mL TNF-α for 24 h in the presence or absence of dulaglutide (50, 100 nM) and proceeded to test the mRNA and protein expression levels of MMP-3 and MMP-13 via real-time PCR and ELISA, respectively. We found that at the mRNA level, the expressions of MMP-3 and MMP-13 increased roughly 4-fold upon exposure to 10 ng/mL TNF-α alone. However, the addition of dulaglutide reduced the increase in expression of these enzymes to only roughly 2-fold. At the protein level, the expressions of MMP-3 and MMP-13 increased roughly 3-fold upon exposure to TNF-α alone, but the addition of 50 nM and 100 nM dulaglutide reduced the protein expression of these enzymes to only roughly 2-fold baseline in a dose-dependent manner.
 
@@ -117,11 +137,17 @@ W. Zheng, et al. International Immunopharmacology 74 (2019) 105649
 
 We then went on to investigate the eﬀect of dulaglutide on the activation of the proinﬂammatory c-Jun N-terminal kinase (JNK) signaling pathway, which is a popular treatment target in RA. Similarly, another GLP-1 agonist, exendin-4, was shown to regulate the activation of the JNK pathway in past studies. Exendin-4 prevented vascular smooth muscle cell proliferation and migration induced by angiotensin II via inhibition of the ERK1/2 and JNK signaling pathways [14]. In the current study, we incubated FLS with 10 ng/mL TNF-α for 2 h in the presence or absence of dulaglutide (50, 100 nM) and proceeded to measure the phosphorylated and total levels of JNK via western blot analysis. β-Actin was used as a control in this experiment. Our ﬁndings indicate that exposure to TNF-α signiﬁcantly increased the level of phosphorylated JNK, while the level of total JNK remained constant. However, with the addition of dulaglutide, the level of phosphorylated JNK was maintained at basal levels due to the prevention of TNF-α-
 
-induced phosphorylation. This indicates that agonism of GLP-1R by dulaglutide can inhibit the activation of the JNK pathway. Interestingly, GLP-1 has also been shown to reduce macrophage inﬁltration and in- ﬂammation in a mouse model [15].
+induced phosphorylation.
+
+==This indicates that agonism of GLP-1R by dulaglutide can inhibit the activation of the JNK pathway.== ^zheng2019-6
+
+Interestingly, GLP-1 has also been shown to reduce macrophage inﬁltration and in- ﬂammation in a mouse model [15].
 
 3.6. Dulaglutide prevents TNF-α-induced phosphorylation and degradation of IκBα and activation of NF-κB in human FLS
 
-Finally, we examined the eﬀects of dulaglutide on the phosphorylation of IκBα and subsequent activation of NF-κB in FLS. NF-κB is well-recognized as playing a signiﬁcant role in the pathogenesis of RA and other inﬂammatory diseases and is considered a valuable treatment target [16]. In the present study, we incubated FLS with 10 ng/mL TNF- α in the presence or absence of dulaglutide (50, 100 nM) for 6 h when studying Iκ-Bα and for 24 h when studying NF-κB. Using western blot analysis for the study of Iκ-Bα, we found that TNF-α alone increased the level of phosphorylated IκBα by nearly 3-fold, but the addition of dulaglutide mitigated this increase to around 1.5-fold. Using western blot analysis for the study of NF-κB, we found that when exposed to TNF-α alone, p65 levels increased by roughly 3-fold and NF-κB luciferase activity increased nearly 20-fold. However, these eﬀects were greatly reduced upon treatment with dulaglutide. Levels of nuclear p65 levels returned to near-baseline, and NF-κB luciferase activity was reduced to a signiﬁcantly lower 5-fold increase.
+Finally, we examined the eﬀects of dulaglutide on the phosphorylation of IκBα and subsequent activation of NF-κB in FLS. NF-κB is well-recognized as playing a signiﬁcant role in the pathogenesis of RA and other inﬂammatory diseases and is considered a valuable treatment target [16]. In the present study, we incubated FLS with 10 ng/mL TNF- α in the presence or absence of dulaglutide (50, 100 nM) for 6 h when studying Iκ-Bα and for 24 h when studying NF-κB. Using western blot analysis for the study of Iκ-Bα, we found that TNF-α alone increased the level of phosphorylated IκBα by nearly 3-fold, but the addition of dulaglutide mitigated this increase to around 1.5-fold. Using western blot analysis for the study of NF-κB, we found that when exposed to TNF-α alone, p65 levels increased by roughly 3-fold and NF-κB luciferase activity increased nearly 20-fold. However, these eﬀects were greatly reduced upon treatment with dulaglutide.
+
+==Levels of nuclear p65 levels returned to near-baseline, and NF-κB luciferase activity was reduced to a signiﬁcantly lower 5-fold increase.== ^zheng2019-7
 
 ## 4. Discussion
 

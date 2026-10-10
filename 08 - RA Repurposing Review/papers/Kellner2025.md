@@ -40,7 +40,11 @@ This study suggests that the use of GLP‐1RAs can improve RA disease activity a
 
 Patients with rheumatoid arthritis (RA) and obesity (RAO) face unique challenges because obesity is linked to increased disease activity and poorer treatment outcomes. 1 More than 30% of North American patients with RA are classified as having RAO. 2 These individuals, in addition to individuals with obesity without RA, are in a chronic proinflammatory state due to the overproduction of inflammatory cytokines and adipocytokines. 3 Heightened inflammation, along with worse arthritis symptoms in obesity, may exacerbate RA progression and make remission more difficult to achieve. 1 Patients with RAO also tend to have lower response rates to therapy and higher rates of cycling through RA treatments. 1 Additionally, obesity in patients with RA is associated with an increased risk of cardiovascular disease, which remains the leading cause of death in this population. 4 Higher RA disease activity is also associated with increased risk of cardiovascular events. 5 , 6 Research suggests that weight loss may help reduce RA disease activity. 7 , 8 Therefore, it is standard practice to advocate for weight loss in patients with RAO, with many being prescribed a newly popularized class of weight loss medications, glucagon‐like peptide 1 receptor agonists (GLP‐1RAs).
 
-GLP‐1RAs play key roles in the treatment of diabetes, obesity, and cardiovascular risk. 9 , 10 , 11 Although they are increasingly used in the general population, there is a paucity of data on their clinical effects in patients with RA. Specifically, their impact on RA disease activity and cardiovascular risk factors in this patient population remains poorly characterized. The objective of this study was to examine the effects of GLP‐1RAs on RA disease activity and cardiovascular risk profile in patients with RA and overweight or obesity.
+GLP‐1RAs play key roles in the treatment of diabetes, obesity, and cardiovascular risk. 9 , 10 , 11 Although they are increasingly used in the general population, there is a
+
+paucity of data on their clinical effects in patients with RA.
+
+Specifically, their impact on RA disease activity and cardiovascular risk factors in this patient population remains poorly characterized. The objective of this study was to examine the effects of GLP‐1RAs on RA disease activity and cardiovascular risk profile in patients with RA and overweight or obesity.
 
 
 ## PATIENTS AND METHODS
