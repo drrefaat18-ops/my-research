@@ -19,7 +19,11 @@ Patients with rheumatoid arthritis (RA) and type 2 diabetes mellitus (T2DM) face
 
 #### Methods
 
-This retrospective cohort study utilized the TriNetX US Collaborative Network database, encompassing 67 healthcare organizations. We identified adult patients with documented RA and T2DM prescribed either SGLT2 inhibitors (n = 823) or DPP-4 inhibitors without SGLT2 inhibitor exposure (n = 284) between 2006 and 2026.
+This retrospective cohort study utilized the TriNetX US Collaborative Network database, encompassing 67 healthcare organizations. We identified adult patients with documented RA and T2DM prescribed either SGLT2 inhibitors (n = 823) or
+
+==DPP-4 inhibitors without SGLT2 inhibitor exposure (n = 284)== ^kachhadia2026-5
+
+between 2006 and 2026.
 
 ==Propensity score matching (1:1) balanced baseline demographics and comorbidities, yielding 277 matched pairs== ^kachhadia2026-1
 
