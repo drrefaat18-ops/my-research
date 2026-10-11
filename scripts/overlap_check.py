@@ -9,6 +9,8 @@ import re
 import sys
 
 N = 7  # ponytail: 7-word shingles, same idea as iThenticate's "exact match"; not a web-wide check
+# Proper names that must be quoted verbatim (instrument/guideline titles); removed from draft before matching.
+NAMES = ["Scale for the Assessment of Narrative Review Articles"]
 
 
 def words(text):
@@ -24,6 +26,8 @@ def draft_sentences(md):
     body = re.sub(r"(?s)^---.*?---", "", md)
     lines = [l for l in body.splitlines() if l.strip() and not l.lstrip().startswith(("#", ">"))]
     text = re.sub(r"\[[A-Za-z]+\d{4}[a-z]?\]", "", " ".join(lines))  # drop ref tags
+    for name in NAMES:
+        text = re.sub(re.escape(name), "", text, flags=re.I)
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if len(words(s)) >= N]
 
 
@@ -54,6 +58,8 @@ def demo():
     pct, rep = check(draft, src)
     assert len(rep) == 1 and rep[0][1] == "A", rep
     assert 0 < pct < 100
+    src = {"B": "we developed SANRA, the Scale for the Assessment of Narrative Review Articles, as a tool"}
+    assert not check("Its search follows the Scale for the Assessment of Narrative Review Articles (SANRA) closely here.", src)[1]
 
 
 if __name__ == "__main__":
@@ -61,6 +67,7 @@ if __name__ == "__main__":
         demo()
         print("self-check ok")
         sys.exit()
+    sys.stdout.reconfigure(encoding="utf-8")  # Windows console default cp1252 crashes on '←'
     draft = open(sys.argv[1], encoding="utf-8").read()
     sources = {os.path.basename(p)[:-3]: open(p, encoding="utf-8").read()
                for p in glob.glob(os.path.join(sys.argv[2], "*.md"))}

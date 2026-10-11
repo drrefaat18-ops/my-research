@@ -75,7 +75,8 @@ def check(md, papers, all_drafts=()):
         sents = sentences(p)
         ptags = TAG.findall(p)
         tags += ptags
-        if len(sents) > 2 and not ptags:
+        own = "methods" in sec.lower()  # ponytail: Methods describe our own search; numbers come from search-log.md, not papers
+        if len(sents) > 2 and not ptags and not own:
             issues.append((sec, "paragraph with no citation", p[:70]))
         for i, s in enumerate(sents):
             st = TAG.findall(s)
@@ -83,7 +84,7 @@ def check(md, papers, all_drafts=()):
             plain = TAG.sub("", s)
             if len(st) > MAX_TAGS:
                 issues.append((sec, f"{len(st)} tags in one sentence (max {MAX_TAGS})", plain[:70]))
-            if DATA.search(plain) and not later:
+            if DATA.search(plain) and not later and not own:
                 issues.append((sec, "data/number with no citation in this or a later sentence", plain[:70]))
             if VAGUE.search(plain) and not st:
                 issues.append((sec, f"vague '{VAGUE.search(plain).group(0)}' → cite or name the studies", plain[:70]))
@@ -130,6 +131,7 @@ def demo():
     assert "'TNF'" not in kinds, kinds
     bad = check("## Y\nA. B. It fell by 40%.\n", set())
     assert any("data/number" in i[1] for i in bad) and any("no citation" in i[1] for i in bad), bad
+    assert not check("## 2. Methods\nA. B. It found 628 records.\n", set()), "Methods own-search text needs no tag"
     print("demo ok")
 
 

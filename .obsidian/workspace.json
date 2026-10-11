@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/START-HERE.md",
+                "file": "08 - RA Repurposing Review/drafts/Day4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "START-HERE"
+              "title": "Day4"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08 - RA Repurposing Review/START-HERE.md"
+                "file": "08 - RA Repurposing Review/drafts/Day4.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -201,22 +201,24 @@
   },
   "active": "09ae75de784683e5",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/Section-4-Read-Step11.pdf",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.05c639e8a475",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.147ad3eaaae4",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.f7869261fe70",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.d5e7ab1decf8",
+    "08 - RA Repurposing Review/START-HERE.md",
+    "scripts/overlap_check.py.tmp.2660.61720a5f57a0",
+    "scripts/overlap_check.py.tmp.2660.873ecc1b4c68",
+    "scripts/overlap_check.py.tmp.2660.d84bb9970fdf",
+    "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.87c535d70aa7",
+    "scripts/fig4_draft.py",
+    "08 - RA Repurposing Review/Supplementary_Table_S1.md",
+    "scripts/cite_check.py.tmp.2660.f25a54f7ef4b",
+    "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.014d12284058",
+    "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.cced738162e2",
+    "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.ca225cdcfbf6",
+    "08 - RA Repurposing Review/sedaqiTJK",
+    "08 - RA Repurposing Review/Figure_4_Draft.png",
+    "08 - RA Repurposing Review/papers/Baethge2019.md",
     "08 - RA Repurposing Review/drafts/Day3.md",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.86243e653103",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.1d747d5de562",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.6c2c01b5b9b9",
-    "08 - RA Repurposing Review/drafts/Day3.md.tmp.4572.5780ea941259",
     "08 - RA Repurposing Review/drafts/Day2.md",
     "08 - RA Repurposing Review/drafts/Day1.md",
     "08 - RA Repurposing Review/4.4-Emerging.md",
-    "08 - RA Repurposing Review/4.4-Emerging.md.tmp.4572.15ddfd89f288",
-    "08 - RA Repurposing Review/START-HERE.md",
-    "08 - RA Repurposing Review/Figure_2_Draft.pdf",
     "08 - RA Repurposing Review/Figure_2_Draft.png",
     "08 - RA Repurposing Review/papers/Han2021.md",
     "08 - RA Repurposing Review/papers/Kim2015.md",
@@ -236,8 +238,6 @@
     "08 - RA Repurposing Review/papers/Varga2011.md",
     "08 - RA Repurposing Review/PROMPT-Day2.md",
     "_AGENTS.md",
-    "_CLAUDE.md",
-    "02 - Molecular Axis & Mechanisms/02-MOC-Molecular-Mechanisms.md",
     "08 - RA Repurposing Review/papers/figs/Peterson2021/13075_2021_2617_Fig1_HTML.jpg",
     "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
     "test_fig.png",
@@ -248,7 +248,6 @@
     "08 - RA Repurposing Review/papers/figs/Ding2023/p9_Im8.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p6_Im7.jpg",
     "08 - RA Repurposing Review/papers/figs/Ding2023/p5_Im6.jpg",
-    "08 - RA Repurposing Review/papers/figs/Ding2023/p4_Im5.jpg",
     "02 - Molecular Axis & Mechanisms/Mechanistic-Pathways.canvas",
     "07 - Automated QC & Audits/Swarm-and-Vault-Architecture.canvas"
   ]

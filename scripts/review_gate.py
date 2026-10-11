@@ -52,4 +52,5 @@ def main(args):
 
 
 if __name__ == "__main__":
+    sys.stdout.reconfigure(encoding="utf-8")  # Windows console default cp1252 crashes on '✅'
     sys.exit(main(sys.argv[1:]))
