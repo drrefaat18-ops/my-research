@@ -525,6 +525,19 @@ updated: 2026-10-07
   > 📋 جدول 3 بيتبني من [[study-cards]].
   > ⚠️ Ormseth2014 مالهاش صف لوحدها، لأنها نفس تجربة Ormseth2013. وHu2024 دليل جيني، فمكانه في Figure 3، مش في جدول المرضى.
 - [ ] **22.** الأربعاء 28/10 — 🟧 **نقطة مراجعة المراجع:** لو أقل من 80، أو الحديث أقل من 40%: Claude يجهّز جمل إضافية من الفرز ← 🟧 خط الوكلاء ← 🟦 مراجعة. لو الأرقام تمام، اليوم ده احتياطي.
+  > ✅ **اتعمل بدري (12/10):** اتضافت 11 ورقة حديثة بخط الوكلاء الكامل (2 هايكو أدلة، وسونِت مراجع للكروت، وسونِت كاتب، وهايكو فاحص). كل الاقتباسات اتطابقت حرفيًا. المراجع الحديثة بقت 42% في اليوم الأول و40% في اليوم التاني.
+  > ```
+  > Day1: Pan2024, Kwon2022, Huang2024, ManriqueArija2021, Ye2022
+  > Day2: Kaminska2026, Zhao2021, KhajehPour2022, Soos2022, Kacsandi2023, Sehnert2022
+  > ```
+  > ⚠️ **تنبيهات من الأوراق:**
+  > - Pan2024 بيضم Kwon2022 وPeterson2021، فمش مستقل عنهم. وكلامه إن Peterson لقى حماية بعد سنة غلط حسب ورقة Peterson نفسها، فماتنقلش.
+  > - Huang2024: أرقامه بتقول إن خفض الكوليسترول عن طريق HMGCR مرتبط بخطر أقل، بس مناقشة المؤلفين بتقول العكس. التناقض ده مكتوب في النص. ورقة Hu2024 وHuang2024 غالبًا بيانات متداخلة.
+  > - ManriqueArija2021: رقم السمنة (OR 6.01) فترة الثقة بتاعته مش منطقية، فماتستعملش.
+  > - مفيش ولا ورقة من الست الجداد فيها بيانات سريرية عن حاصرات مستقبلات الأنجيوتنسين. Zhao2021 = أولميسارتان في خلايا 3 مرضى، وSehnert2022 = منشّط لمستقبل AT2 في الفيران.
+  > - Soos2022 وKacsandi2023 دراسات من غير مجموعة مقارنة، ومتحطين في جملة حذرة واحدة. Soos2022 عدد المرضى في الملخص (40) غير المنهجية (51)، فالعدد ماتكتبش.
+  > - Sehnert2022 اتعمل من ملف PDF الناشر (مفيش نسخة في PMC).
+  > 🔁 ملاحظات الأسلوب اللي فضلت اتنقلت لخطوة 24.
 
 ## الأسبوع 4 — التحكيم الداخلي
 
@@ -542,20 +555,34 @@ updated: 2026-10-07
   > ```
   > 🔤 **الاختصارات:** المنهجية (القسم 2) جاية قبل أقسام الأدوية في البحث، بس تعريف مثبطات نقل الصوديوم متساب في اليوم الأول. لما الأقسام تتجمّع، كل اختصار يتعرّف عند أول ظهور ليه بس.
   > 🧾 **ملاحظات الفحص الكامل (11/10، بعد خطوة 12):** كل ملاحظات الأيام 1 و2 و3 بنص الفحص، من غير ما نشيل حاجة. كل واحدة تتصلح جملة جملة، وبعد كل تعديل نعيد الفحص، وتتشطب هنا لما تتقفل.
-  > - اليوم الأول (5):
+  > 🔄 **تحديث 12/10 (بعد إضافة المصادر الحديثة في خطوة 22):** المراجع الحديثة عدّت في اليومين، فاتشطبت. القوايم تحت دي هي نص الفحص بعد الإضافة. التطابق كله جمل مفردة على أرقام أو أسماء علمية، ما عدا جملة NFATC1 في اليوم التاني.
+  > - اليوم الأول (11):
   > ```
-  > [ ] [cite] [refs] only 32% of refs from the last 5 years (min 40%) → whole file
-  > [ ] [overlap 5.0%] 2 matches ← Israel2026: This section first covers metformin and pioglitazone, followed by glucagon-like peptide-1
-  > [ ] [overlap 5.0%] 1 matches ← overlap-only/Deng2025: The numbers of T cells positive for phosphorylated signal transducers and activators of tr
-  > [ ] [overlap 5.0%] 1 matches ← Palmer2004: The double-blind Trial of Atorvastatin in Rheumatoid Arthritis (TARA) randomized 116 patie
-  > [ ] [overlap 5.0%] 1 matches ← Abdallah2021: RA synovium expressed more AMPK-α1 than osteoarthritis synovium; in RA serum, phosphorylat
+  > [x] [cite] [refs] only 32% of refs from the last 5 years (min 40%) → whole file   (12/10: 42%)
+  > [ ] [style] [profile] sentence length sd = 9.8 (benchmark 10–…) → whole file
+  > [ ] [overlap 8.5%] 4 matches ← overlap-only/Soulaidopoulos2018: In two meta-analyses, statin use lowered DAS28, with standardized mean differe
+  > [ ] [overlap 8.5%] 3 matches ← overlap-only/Pan2024: Neither cohort studies (OR 1.01, 95% CI from 0.92 to 1.10) nor case–control studies (OR
+  > [ ] [overlap 8.5%] 2 matches ← Bendotti2022: This section first covers metformin and pioglitazone, followed by glucagon-like peptide-1
+  > [ ] [overlap 8.5%] 1 matches ← overlap-only/Pan2024: A meta-analysis pooled nine studies published up to October 2023
+  > [ ] [overlap 8.5%] 1 matches ← overlap-only/Deng2025: The numbers of T cells positive for phosphorylated signal transducers and activators of
+  > [ ] [overlap 8.5%] 1 matches ← Ye2022: In untreated very early RA (disease duration under 12 weeks), mean HOMA-IR was higher in 9
+  > [ ] [overlap 8.5%] 1 matches ← Palmer2004: The double-blind Trial of Atorvastatin in Rheumatoid Arthritis (TARA) randomized 116 patie
+  > [ ] [overlap 8.5%] 1 matches ← ManriqueArija2021: In this cross-sectional study, 25 of the 89 patients (28.1%) had a HOMA-IR of at least 2.2
+  > [ ] [overlap 8.5%] 1 matches ← Lin2020: In addition, at 5 mM the drug decreased the messenger RNA of interleukin (IL)-6 and the pr
+  > [ ] [overlap 8.5%] 1 matches ← Abdallah2021: RA synovium expressed more AMPK-α1 than osteoarthritis synovium; in RA serum, phosphorylat
   > ```
-  > - اليوم التاني (4):
+  > - اليوم التاني (9):
   > ```
-  > [ ] [style] [profile] sentence length sd = 9.4 (benchmark 10–…) → whole file
-  > [ ] [cite] [refs] only 18% of refs from the last 5 years (min 40%) → whole file
+  > [x] [cite] [refs] only 18% of refs from the last 5 years (min 40%) → whole file   (12/10: 40%، على الحد بالظبط؛ Zhao2024 PMID 38108108 تزوّد الهامش لو اتجابت)
+  > [ ] [style] [4.3. Angiotensin II Receptor Blockers] 2 sentence-opening connectors in one paragraph (max 1) → Moreover, Ang II raised the expre
+  > [ ] [style] [profile] sentence length sd = 8.9 (benchmark 10–…) → whole file
+  > [ ] [cite] [acronyms] 'RANKL' defined more than once across drafts → RANKL   (يتشال التعريف من اليوم التالت، لأن اليوم التاني جاي قبله)
   > [ ] [cite] [acronyms] 'ARB' defined more than once across drafts → ARB
-  > [ ] [overlap 2.1%] 3 matches ← Cardoso2018: In one in vitro study of stimulated mononuclear cells from 16 patients with RA, losartan (
+  > [ ] [overlap 7.9%] 7 matches ← Kondo2021: Moreover, Ang II raised the expression of nuclear factor of activated T cells, cytoplasmic   (تعريفات الاختصارات)
+  > [ ] [overlap 7.9%] 4 matches ← Sluijsmans2021: Neither group differed from controls in DAS28-CRP after adjustment, with factors of 1.02 (
+  > [ ] [overlap 7.9%] 3 matches ← Cardoso2018: In one in vitro study of stimulated mononuclear cells from 16 patients with RA, losartan (
+  > [ ] [overlap 7.9%] 2 matches ← Ding2023: A further in vitro study of synovial cells from three patients with RA reported a dose-dep
+  > [ ] [overlap 7.9%] 1 matches ← Kaminska2026: The P values were nominal, without correction for multiple testing, and use of ACE inhibit
   > ```
   > - اليوم التالت (12):
   > ```
@@ -577,7 +604,7 @@ updated: 2026-10-07
   > [ ] [NairJacob2016] 60 in Day1.md, Day2.md, Day3.md
   > [ ] [NairJacob2016] 97 in Day2.md, Day3.md
   > ```
-  > - المجموع: 21 ملاحظة + رقمين متكررين. ملاحظات الهيكل الـ 8 (أقسام لسه ماتكتبتش، والملخص، والكلمات المفتاحية، وعدد الكلمات) مش هنا، لأنها بتتقفل مع خطوات 13 لـ 20.
+  > - المجموع (بعد تحديث 12/10): 32 ملاحظة مفتوحة + رقمين متكررين. ملاحظات الهيكل الـ 8 (أقسام لسه ماتكتبتش، والملخص، والكلمات المفتاحية، وعدد الكلمات) مش هنا، لأنها بتتقفل مع خطوات 13 لـ 20.
 - [ ] **25.** الأحد 1/11 — 🟦 طبّق التعليقات (2) + Grammarly الجزء التالت
 - [ ] **26.** الاثنين 2/11 — 🟦 Grammarly الجزء الرابع والخامس + إعادة فحص الأجزاء اللي اتغيرت
 - [ ] **27.** الثلاثاء 3/11 — 🟧 فحص التطابق والمراجع + فحص المراجع المسحوبة بالمعرّف الرقمي
