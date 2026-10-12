@@ -4,7 +4,7 @@
 **URL:** https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72ad22ae-efe6-4cd6-a302-98aaee423d69  
 **Label effective date:** 20260603  
 
-> Regulatory label. Only section 2 (Dosage and Administration) kept.
+> Regulatory label. Sections 2 (Dosage and Administration) and 12.1 (Mechanism of Action) kept.
 
 
 ## 2 DOSAGE AND ADMINISTRATION
@@ -33,7 +33,9 @@
 
 ## 2.2 Recommended Dosage for Glycemic Control in Adults and Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
-In adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus, the recommended starting dosage of FARXIGA is 5 mg orally once daily to improve glycemic control. For additional glycemic control, the dosage can be increased to 10 mg orally once daily.
+==In adults and pediatric patients aged 10 years and older with type 2 diabetes mellitus, the recommended starting dosage of FARXIGA is 5 mg orally once daily to improve glycemic control.== ^farxiga2026-2
+
+For additional glycemic control, the dosage can be increased to 10 mg orally once daily.
 
 For Adult and Pediatric Patients with Type 2 Diabetes Mellitus and Renal Impairment:
 
@@ -71,3 +73,11 @@ Withhold FARXIGA for at least 3 days, if possible, prior to surgery or procedure
 • If a dose is missed, instruct patients to take the dose as soon as possible.
 
 • Advise patients not to double up the next dose.
+
+## 12.1 Mechanism of Action
+
+Sodium-glucose cotransporter 2 (SGLT2), expressed in the proximal renal tubules, is responsible for the majority of the reabsorption of filtered glucose from the tubular lumen. Dapagliflozin is an inhibitor of SGLT2.
+
+==By inhibiting SGLT2, dapagliflozin reduces reabsorption of filtered glucose and thereby promotes urinary glucose excretion.== ^farxiga2026-3
+
+Dapagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule. This may influence several physiological functions including, but not restricted to, lowering both pre- and afterload of the heart and downregulation of sympathetic activity, and decreased intraglomerular pressure which is believed to be mediated by increased tubuloglomerular feedback.
