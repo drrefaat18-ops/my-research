@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7221a6dfcb8da333",
+        "id": "57886e254937a3a6",
         "type": "tabs",
         "children": [
           {
-            "id": "09ae75de784683e5",
+            "id": "1c86f5fec8f2d4b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day4.md",
+                "file": "08 - RA Repurposing Review/START-HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day4"
+              "title": "START-HERE"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day4.md"
+                "file": "08 - RA Repurposing Review/START-HERE.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -199,8 +199,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "09ae75de784683e5",
+  "active": "1c86f5fec8f2d4b6",
   "lastOpenFiles": [
+    "08 - RA Repurposing Review/Supplementary_Table_S1.md",
+    "08 - RA Repurposing Review/drafts/Day1.md",
+    "08 - RA Repurposing Review/drafts/Day0-TitlePage.md",
+    "08 - RA Repurposing Review/papers/Leung2003.md",
+    "08 - RA Repurposing Review/drafts/Day2.md",
+    "08 - RA Repurposing Review/drafts/Day4.md",
     "08 - RA Repurposing Review/drafts/Day4.md.tmp.7456.d21040a9e50d",
     "08 - RA Repurposing Review/drafts/Day4.md.tmp.7456.b854da190d18",
     "08 - RA Repurposing Review/drafts/Day4.md.tmp.7456.515e4699c4c6",
@@ -210,15 +216,11 @@
     "scripts/overlap_check.py.tmp.2660.d84bb9970fdf",
     "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.87c535d70aa7",
     "scripts/fig4_draft.py",
-    "08 - RA Repurposing Review/Supplementary_Table_S1.md",
     "scripts/cite_check.py.tmp.2660.f25a54f7ef4b",
     "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.014d12284058",
-    "08 - RA Repurposing Review/drafts/Day4.md.tmp.2660.cced738162e2",
     "08 - RA Repurposing Review/Figure_4_Draft.png",
     "08 - RA Repurposing Review/papers/Baethge2019.md",
     "08 - RA Repurposing Review/drafts/Day3.md",
-    "08 - RA Repurposing Review/drafts/Day2.md",
-    "08 - RA Repurposing Review/drafts/Day1.md",
     "08 - RA Repurposing Review/4.4-Emerging.md",
     "08 - RA Repurposing Review/Figure_2_Draft.png",
     "08 - RA Repurposing Review/papers/Han2021.md",
@@ -237,8 +239,6 @@
     "08 - RA Repurposing Review/4.1b-PPAR-agonists.md",
     "08 - RA Repurposing Review/papers/Romeo2012.md",
     "08 - RA Repurposing Review/papers/Varga2011.md",
-    "08 - RA Repurposing Review/PROMPT-Day2.md",
-    "_AGENTS.md",
     "08 - RA Repurposing Review/papers/figs/Peterson2021/13075_2021_2617_Fig1_HTML.jpg",
     "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
     "test_fig.png",
