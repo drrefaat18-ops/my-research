@@ -1,0 +1,4 @@
+{"id": "E003", "title": "draft claim sourced from a highlight in a primary paper's Introduction that reports other people's work",
+ "date": "2026-10-10", "origin": "pipeline rule 5 (primary sources); mechanism cited to the wrong paper",
+ "cmd": ["python", "scripts/secondary_check.py", "{case_dir}/drafts/Day1.md"],
+ "exit": 1, "expect": ["[Lee2019] highlight in Introduction is second-hand"]}

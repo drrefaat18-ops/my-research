@@ -1,0 +1,4 @@
+{"id": "E001", "title": "evidence card quote not in the paper (ESR 'stayed higher', paper compared ESR at baseline only)",
+ "date": "2026-10-10", "origin": "agent pipeline first run, phase 3 verify",
+ "cmd": ["python", "scripts/verify_quotes.py", "{case_dir}/cards.txt", "{case_dir}/papers"],
+ "exit": 1, "expect": ["FAIL", "Smith2020 L3"]}

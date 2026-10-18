@@ -1,0 +1,4 @@
+{"id": "E004", "title": "brief link points to a block id that does not exist in the paper",
+ "date": "2026-10-08", "origin": "prep-work SOP, check_links must return 0 before a step is done",
+ "cmd": ["python", "scripts/check_links.py", "{case_dir}", "{case_dir}/brief.md"],
+ "exit": 1, "expect": ["Ye2022#^hl-9 id not found", "broken/weak: 1"]}

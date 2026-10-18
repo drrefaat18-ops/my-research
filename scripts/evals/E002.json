@@ -1,0 +1,4 @@
+{"id": "E002", "title": "acronym used in a draft but never defined (STAT3 in Day1 metformin section)",
+ "date": "2026-10-18", "origin": "session-start gate on drafts/Day1.md",
+ "cmd": ["python", "scripts/cite_check.py", "{case_dir}/drafts/Day1.md"],
+ "exit": 1, "expect": ["'STAT3' used but never defined"], "absent": ["'AMPK' used but never defined"]}

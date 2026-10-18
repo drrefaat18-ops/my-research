@@ -1,0 +1,4 @@
+{"id": "E005", "title": "citation tag with no papers/<Tag>.md (orphan, second-hand or guessed source)",
+ "date": "2026-10-08", "origin": "own-paper sources rule: every tag must have its paper file",
+ "cmd": ["python", "scripts/cite_check.py", "{case_dir}/drafts/Day1.md"],
+ "exit": 1, "expect": ["[Ghost2024] has no papers/Ghost2024.md"], "absent": ["[Real2023] has no papers"]}

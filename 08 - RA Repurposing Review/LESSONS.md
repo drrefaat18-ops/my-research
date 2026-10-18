@@ -1,0 +1,36 @@
+# Lessons
+
+Lesson ladder (harness-kit PRINCIPLES 15). Every correction or failure is logged here before it becomes a rule.
+
+## Ladder
+- **observation** - seen once. Keep it here; change nothing.
+- **pattern** - seen twice in different tasks. Look for the root cause.
+- **candidate** - a proposed upgrade: the smallest reusable change, plus the eval case that proves it. Waits for the user.
+- **confirmed** - the user approved; enforced by a named check, and the failure is an eval case in `scripts/evals/`.
+
+Promote only what changes future behaviour. Task-specific corrections stay under the START-HERE step.
+
+## Upgrade review (after a failed run or a user correction)
+1. Do not repair the output yet. Classify the root cause: missing instruction | missing context |
+   weak procedure | missing check | bad tool contract | permission | insufficient evidence | ambiguous task.
+2. Find the lesson below: new = observation; seen before = climb one rung.
+3. At candidate: propose the change (file, exact lines) and the eval case. Change nothing yet.
+4. After the user's yes: apply it, add the case to `scripts/evals/`, run `python scripts/evals.py`, mark it confirmed.
+
+## Step-done line
+Every START-HERE step ends with one line under it: `lesson | <what changed or what to watch>` or `lesson | none`.
+
+## Lessons
+
+| Lesson | Rung | Seen (date, task) | Enforced by |
+|---|---|---|---|
+| Evidence quote not in the paper (ESR "stayed higher") | confirmed | 2026-10-10, pipeline first run | `verify_quotes.py`, eval E001 |
+| Acronym used but never defined (STAT3, STAT5) | confirmed | 2026-10-18, Day1 gate | `cite_check.py`, eval E002 |
+| Claim taken from a paper's Introduction (other people's work) | confirmed | 2026-10-10, pipeline rule 5 | `secondary_check.py`, eval E003 |
+| Brief link to a missing block id | confirmed | 2026-10-08, prep-work SOP | `check_links.py`, eval E004 |
+| Citation tag with no paper file | confirmed | 2026-10-08, own-paper sources rule | `cite_check.py`, eval E005 |
+| Parallel edits on drafts trip the gate STOP | confirmed | 2026-10, Day drafts | `review_hook.py` retry cap; one draft edit at a time |
+| Evidence gathered inline instead of Haiku agents | confirmed | 2026-10, user correction | CLAUDE.md pipeline + `.claude/workflows/evidence.js`; no script check |
+| Arabic and English mixed inside one sentence | confirmed | 2026-10, user preference | memory only; no script check |
+| Optional kit part skipped on own cost judgement instead of asking (knowledge graph) | observation | 2026-10-18, kit update | not yet: optional kit items are asked, not dropped |
+| Graph build cost 1.62M Haiku tokens for 97 files (estimate was ~1M from the kit's 93-note vault); scope glob also caught 45 full-text papers | observation | 2026-10-18, first graph build | not yet: count files and words before announcing a cost |

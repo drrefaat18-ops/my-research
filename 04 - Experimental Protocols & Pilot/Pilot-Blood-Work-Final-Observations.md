@@ -74,7 +74,7 @@ Calculated by `agency-statistician` against the Positive CFA Arthritic Control b
 ## 4. Methodological Interpretation & Protocol Translation
 
 1. **Clear Dose-Response Escalation:** The ascending PEA regimens ($50 \rightarrow 100 \rightarrow 200$ mg/kg) combined with a fixed sub-therapeutic dose of Prednisolone ($5$ mg/kg) demonstrated clear, monotonic dose-dependent anti-inflammatory efficacy across all five biomarkers.
-2. **Steroid-Sparing Synergy Verification:** The high-combination regimen ($200$ mg/kg PEA + $5$ mg/kg Prednisolone) achieved therapeutic parity with high-potency clinical DMARDs (Baricitinib and Tacrolimus), proving the central scientific hypothesis of Dr. Refaat's thesis.
+2. **Steroid-Sparing Signal (hypothesis, not verified):** The high-combination regimen ($200$ mg/kg PEA + $5$ mg/kg Prednisolone) gave values close to the Baricitinib and Tacrolimus pairs. With n=2 per pair and no statistics, this supports testing the central hypothesis in the main protocol; it does not prove it.
 3. **Transition to Confirmatory Phase:** These preliminary trends provide compelling biological rationale to advance this specific 3-tier combination into the full-scale animal trial ($n=10-12$ per group) described in [[Official-Institutional-Protocol-Final]].
 
 ---

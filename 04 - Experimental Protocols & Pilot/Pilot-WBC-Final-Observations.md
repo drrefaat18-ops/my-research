@@ -68,7 +68,7 @@ Extracted verbatim from `WBC final.pdf`:
   - **PEA 50 / Pred 5:** TLC remained markedly elevated at **$16.05 \times 10^3/\mu\text{L}$** (only $11.8\%$ reduction vs. CFA control).
   - **PEA 100 / Pred 5:** TLC plummeted to **$7.85 \times 10^3/\mu\text{L}$** ($56.9\%$ reduction).
   - **PEA 200 / Pred 5:** TLC normalized to **$7.35 \times 10^3/\mu\text{L}$** ($59.6\%$ reduction, fully within healthy physiological bounds).
-- **Core Synergistic Insight:** If low-dose prednisolone (5 mg/kg) were sufficient alone to resolve systemic leukocytosis, Pair 3 would have normalized. Its failure, juxtaposed with the progressive normalization in Pairs 4 and 5, provides **direct empirical proof of a dose-dependent steroid-sparing anti-inflammatory effect mediated by PEA**.
+- **Core Synergistic Insight:** If low-dose prednisolone (5 mg/kg) were sufficient alone to resolve systemic leukocytosis, Pair 3 would have normalized. Its failure, juxtaposed with the progressive normalization in Pairs 4 and 5, is **consistent with a dose-dependent steroid-sparing effect of PEA (hypothesis; n=2 per pair, no statistics; to be tested in the main protocol)**.
 
 ### D. Active Comparator Contrast
 - **Tacrolimus 1.8 mg/kg:** Successfully normalized TLC to $9.80 \times 10^3/\mu\text{L}$ and suppressed absolute lymphocytes to $6.00 \times 10^3/\mu\text{L}$ via calcineurin inhibition (preventing IL-2 transcription), without inducing severe neutrophil demargination.
@@ -94,7 +94,7 @@ As established in the Ruflo Swarm Audit [[Swarm-Audit-Pilot-WBC-Research-Utility
 
 1. **Systemic Induction Defense:** Directly refutes any committee skepticism regarding whether the CFA challenge produced true systemic polyarthritis or merely localized paw edema.
 2. **Corticosteroid Bioactivity Proof:** Verifies that low-dose prednisolone was pharmacologically active and properly absorbed.
-3. **Empirical Steroid-Sparing Signature:** Demonstrates that PEA escalates anti-inflammatory control on top of a fixed, sub-therapeutic steroid dose.
+3. **Steroid-Sparing Signal (hypothesis):** Suggests that PEA may add anti-inflammatory control on top of a fixed, sub-therapeutic steroid dose; n=2 per pair, so this is a signal for the main protocol, not evidence.
 4. **Dose-Selection Justification:** Provides the experimental rationale for advancing the 100 and 200 mg/kg PEA doses into the main protocol while discarding the insufficient 50 mg/kg dose.
 5. **Modern Literature Alignment:** Connects with contemporary 2026 clinical rheumatology findings on the utility of leukocyte ratios in assessing response to targeted therapies.
 

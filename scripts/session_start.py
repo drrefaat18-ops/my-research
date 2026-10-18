@@ -92,8 +92,15 @@ def main():
         out.append(f"Papers: {len(ps)} files; smallest (stub?): " +
                    ", ".join(f"{os.path.basename(p)[:-3]} {os.path.getsize(p) // 1024}KB" for p in ps[:5]))
 
+    def evals():
+        r = subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "evals.py"), "-q"], cwd=ROOT,
+                           capture_output=True, text=True, encoding="utf-8", timeout=60,
+                           env={**os.environ, "PYTHONIOENCODING": "utf-8"})
+        out.extend(l for l in r.stdout.splitlines() if l.strip())
+
     section("drafts/git", drafts)
     section("papers", papers)
+    section("evals", evals)
     out.append("Git-changed in review: " + (", ".join(changed) or "none"))
     out.append("UNREADABLE this session (do not treat as 'nothing'): " + (", ".join(unreadable) or "none"))
     print(json.dumps({"hookSpecificOutput": {"hookEventName": "SessionStart",

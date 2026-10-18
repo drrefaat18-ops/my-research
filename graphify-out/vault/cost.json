@@ -1,0 +1,13 @@
+{
+  "runs": [
+    {
+      "date": "2026-10-18T09:36:17.267639+00:00",
+      "agent_tokens_total": 1621550,
+      "agents": 5,
+      "model": "haiku",
+      "files": 97
+    }
+  ],
+  "total_input_tokens": 1621550,
+  "total_output_tokens": 0
+}
