@@ -34,6 +34,11 @@ def convert(key, doi, folder="papers"):
     for page in doc:
         for b in page.get_text("blocks"):
             p = clean(b[4])
+            # some layouts glue an ALL-CAPS heading to its first sentence: "RESULTS PPAR-γ ..."
+            glued = re.match(r"(INTRODUCTION|BACKGROUND|MATERIALS AND METHODS|METHODS|RESULTS|DISCUSSION|CONCLUSIONS?) (?=[A-Z])", p)
+            if glued:
+                paras.append("## " + glued.group(1))
+                p = p[glued.end():]
             if HEAD.match(p):  # keep section headings so secondary_check knows Intro/Discussion
                 paras.append("## " + p)
             elif len(p) > 40:  # ponytail: drops running heads/page numbers

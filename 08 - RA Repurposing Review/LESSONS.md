@@ -34,3 +34,5 @@ Every START-HERE step ends with one line under it: `lesson | <what changed or wh
 | Arabic and English mixed inside one sentence | confirmed | 2026-10, user preference | memory only; no script check |
 | Optional kit part skipped on own cost judgement instead of asking (knowledge graph) | observation | 2026-10-18, kit update | not yet: optional kit items are asked, not dropped |
 | Graph build cost 1.62M Haiku tokens for 97 files (estimate was ~1M from the kit's 93-note vault); scope glob also caught 45 full-text papers | observation | 2026-10-18, first graph build | not yet: count files and words before announcing a cost |
+| `evidence` workflow got `claims` as an array of objects; the prompt showed "[object Object]", 2 Haiku agents searched nothing (~110k tokens). Bad tool contract: `evidence.js` line 30 does not check the type | confirmed | 2026-10-18, step 14 | `evidence.js` throws unless `claims` is a string; eval E006 (user delegated the yes: "اشتغل agentic") |
+| `ledger.py` skips tags inside multi-tag brackets (`[Zhou2001; Gwinn2008]`), so Gwinn2008 shows Day1 only and "cited once" is wrong | observation | 2026-10-18, step 14 | not yet: missing check |

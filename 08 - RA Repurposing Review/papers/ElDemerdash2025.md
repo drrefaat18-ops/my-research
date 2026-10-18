@@ -19,7 +19,11 @@ according to gait score, paw diameter, arthritic index (AI), morphological and h
 
 ==Upregulation of autophagy was detected through; Beclin-1, ULK-1, and ATG-7, in dapagliflozin treated arthritic rats.== ^eldemerdash2025-5
 
-Furtherly, dapagliflozin stimulated apoptotic activity, by boosting articular levels of CASP-3, CASP-9, cartilage gene expression of p53, and Bax/Bcl2 ratio. Interestingly, dapagliflozin upregulates p-AMPK/t-AMPK articular activity. Additionally, dapagliflozin inhibited the Hedgehog signaling pathway, through the downregulation of cartilage Shh, ptch1, Smo, and Gli-1 expression. Dapagliflozin/methotrexate combination therapy exhibited greater anti-arthritic benefits compared to methotrexate alone. These data highlight dapagliflozin as an anti-rheumatic drug, either alone or with methotrexate.
+Furtherly, dapagliflozin stimulated apoptotic activity, by boosting articular levels of CASP-3, CASP-9, cartilage gene expression of p53, and Bax/Bcl2 ratio.
+
+==Interestingly, dapagliflozin upregulates p-AMPK/t-AMPK articular activity.== ^eldemerdash2025-8
+
+Additionally, dapagliflozin inhibited the Hedgehog signaling pathway, through the downregulation of cartilage Shh, ptch1, Smo, and Gli-1 expression. Dapagliflozin/methotrexate combination therapy exhibited greater anti-arthritic benefits compared to methotrexate alone. These data highlight dapagliflozin as an anti-rheumatic drug, either alone or with methotrexate.
 
 Keywords: Rheumatoid arthritis, Dapagliflozin, Autophagy, Apoptosis, AMPK, And Hedgehog-signaling pathway
 

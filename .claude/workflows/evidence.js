@@ -29,6 +29,7 @@ const CARDS = {
 
 const { claims, groups = [] } = args || {}
 if (!claims || !groups.length) throw new Error('args.claims and args.groups are required')
+if (typeof claims !== 'string') throw new Error('args.claims must be one string, one claim per line (an array reaches the agents as "[object Object]")')
 
 phase('Evidence')
 const raw = await parallel(groups.map((g) => () => agent(

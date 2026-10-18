@@ -65,7 +65,7 @@ Opus session = orchestrator (`research-synthesist.md` inline). Announce count + 
 5. Insert (orchestrator) → `review_gate.py`; 6. Checks: Haiku (`testing-test-results-analyzer.md`) runs gate, secondary, links, ledger, number match.
 7. Fix: same Sonnet via SendMessage, max 3 rounds, then escalate. Small mechanical rewording may be done inline.
 8. Accuracy: orchestrator as statistician + clinical-evidence + reality-checker → numbered findings for the user.
-9. User reviews sentence | quote | link table; notes go under the START-HERE step. Kit for other projects: `Harness_Engineering/agent-pipeline-kit/`.
+9. Review by agents, not the user (user asked 2026-10-18): one Sonnet (`testing-reality-checker.md`) checks sentences and figure arrows against the cards → numbered findings; the orchestrator confirms each against the paper and fixes the real ones. The user gets a short Arabic summary only. Only Grammarly (no tool) stays with the user, batched at steps 24–26. Notes go under the START-HERE step. Kit for other projects: `Harness_Engineering/agent-pipeline-kit/`.
 
 ## Run rules (from Anthropic "Building effective agent automations", 2026-10-08)
 

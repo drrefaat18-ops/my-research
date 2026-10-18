@@ -455,12 +455,90 @@ updated: 2026-10-07
   > ⚠️ **للخطوة 24 (المسودات ماتعدلتش):** التحليلات المجمّعة في اليوم الأول (Alshammari2026 وRen2023 وXing2015) اتستشهد بيها للنتايج. ده مقبول، بس جملة الطريقة لازم تقول كده، وده اللي اتعمل في الموجز.
   > ✍️ **الكتابة (11/10):** سونِت كتب المنهجية، والنص اتحط في اليوم الرابع (345 كلمة). مراجعتين من هايكو اتصلحت ملاحظاتهم بموافقتك: المجموع 79 (منهم 31 من مصادر تانية، ومرجع المقياس منهم)، و5 ملخص بس، وتاريخ إعادة البحث، وصياغة المقياس، وبحث الميتفورمين باسم الدوا بس، والأولوية عند الاختيار مع إن أسباب الاستبعاد ماكانتش متسجلة. اتأكدت إن كل المراجع الـ 79 بالإنجليزي. الجدول الإضافي اتعمل من السجل، وبرنامج الشكل الرابع اتحفظ. فحص المسودات مافيهوش غير التطابق المقبول في اسم المقياس، والروابط 0 مكسورة.
   > ✅ **القفل (11/10):** فحص اليوم الرابع 0 ملاحظات، والروابط 0، وكروت المرجع 16 من 16، وكروت الشكل التاني 28 من 28. اسم المقياس اتضاف في برنامج التطابق كاسم علم، وقسم المنهجية بقى مايطلبش مراجع لبحثنا احنا. وصلّحت عطل الطباعة في برنامجين على شاشة الويندوز.
-- [ ] **13.** الأحد 18/10 — 🟦 الفيزيولوجيا المرضية، الجزء الأول · عرّف هنا الاختصارات الأساسية (TNF، IL، PPAR، NF-κB …)
+- [x] **13.** (اتعملت 15/10) — الأحد 18/10 — 🟦 الفيزيولوجيا المرضية، الجزء الأول · عرّف هنا الاختصارات الأساسية (TNF، IL، PPAR، NF-κB …)
   > 🧹 Malemud2013 اتشال (ناشر مفترس). مراجع الآلية هتبقى من دول، وواحد جديد مكانه من فرز خطوة 11:
   > ```
   > Ding2023, Kondo2021, Gao2024
   > ```
-- [ ] **14.** الاثنين 19/10 — 🟦 الفيزيولوجيا المرضية، الجزء التاني · 🟧 Figure 1 (الالتهاب في المفصل والمسارات اللي الأدوية بتستهدفها) ← 🟦 راجع أسهمها يوم 20
+  > 🔍 **تقييم الموجز القديم (15/10، اتنين هايكو، واتأكدت من عيّنة بنفسي):** 9 جمل من 19 سليمة، والنتيجة "يتصلح، مش يتعاد".
+  > - 5 جمل مأخوذة من وصف المراجعة لشغل ناس تانية، ودول الجمل 3 و7 و11 و12 و18. كل واحدة منهم تتبدل بكلام المراجعة نفسها من غير رقم مرجع، ولو ماتلقاش تتشال.
+  > - جملة 5 فيها مبالغة: المراجعة قالت إن المادتين "أساسيتين"، مش "أهم مادتين". وفي جملة 15 أسامي الأدوية مش موجودة في الجملة المتعلّمة.
+  > - جملة 13 وجملة 14 بتوع Malemud اتشالوا. وبحث Kim 2020 مش بديل مناسب، لأنه بحث ميتفورمين أصلي.
+  > - Figure 1 مكانها بعد جملة 15.
+  > - أول ذكر للاختصارات يبقى هنا، لأن اليوم الأول بيستخدمهم من غير تعريف:
+  > ```
+  > TNF-α, IL-1β, IL-6, IL-17, NF-κB, JAK/STAT, MAPK, PI3K/AKT, mTOR, AMPK, PPAR, FLS, RANKL, MMP, Th17, Treg
+  > ```
+  > - للخطوة 14: جملة 18 تتشال، لأنها مكررة في اليوم الأول (السطر 37). وجملة 19 تتكتب بصيغة "مرتبط بـ" بس. ويتضاف ربط بين كل مجموعة أدوية والمسار بتاعها، وجملة إن أغلب دليل الآلية من تجارب حيوانات ومعمل. ومرشح للتحميل: Li XF 2023، بحث مفتوح عن الـ PPAR-γ في خلايا الغشاء.
+  > ✍️ **الكتابة (15/10):** الموجز الجديد في آخر ملف الفيزيولوجيا تحت "تعديلات خطوة 13" (14 جملة، الروابط 0 مكسورة، و8 جمل جديدة اتعلّمت في الأبحاث). سونِت كتب، والفقرتين اتحطوا في اليوم الرابع (حوالي 340 كلمة). الحد الأدنى للقسم 600 كلمة، وهيكمل في خطوة 14.
+  > 🔍 **الفحص:** التطابق نزل من 22.9% لـ 7.3%، واللي فاضل أسامي علمية بس (اسم الرانكل الكامل، واسم الستات، واسم بي آي ٣ كاينيز). فحص النقل غير المباشر 0، والروابط 0. وكيل الفحوصات ماتشغّلش، لأن البرامج اتشغّلت مباشرة وكانت كفاية.
+  > ✅ **القفل (15/10، بموافقتك على التقسيم):** التعريفات المكررة اتشالت من الأيام 1 و2 و3: FLS وIL وTNF-α وTh17 وSTAT وRANKL وNF-κB وMMP وMAPK. والهجاء بقى أمريكي في القسم 3، زي باقي المسودات. وكيل الكتابة طلّع الجمل، وأنا حطيتها ملف ملف، وشغّلت البوابة بعد كل ملف. الملاحظات الجديدة: 0. التطابق في القسم 3 فاضل منه أسامي بس، واتقبل زي اسم المقياس (receptor activator of nuclear factor-κB، وsignal transducer and activator of transcription، وphosphatidylinositol 3-kinase). وإنذارات RA وIL غلط من البرنامج، بسبب TRACE RA وGLP-1 RA وIL-6R. الروابط 0.
+  > 🗄️ **الوضع قبل القفل:** الاختصارات FLS وIL متعرّفة تاني في اليوم الأول (السطر 27)، والرانكل متعرّف تاني في اليوم التاني (السطر 42) واليوم التالت (السطر 48)، وده يتشال في خطوة 24. إنذار تعريف RA مرتين غلط من البرنامج، بسبب أسامي زي TRACE RA وGLP-1 RA. ومقاييس طول الجمل للتوجيه بس.
+- [x] **14.** (اتعملت 18/10) — الاثنين 19/10 — 🟦 الفيزيولوجيا المرضية، الجزء التاني · 🟧 Figure 1 (الالتهاب في المفصل والمسارات اللي الأدوية بتستهدفها) ← 🟦 راجع أسهمها يوم 20
+  > 📍 **الجزء التاني = موجز "تعديلات خطوة 14"** في [[3-Pathophysiology]] (11 جملة + جملة الخلاصة، فقرة الأيض والقلب). الفقرة دي كانت متكتبة ومتحطة في اليوم الرابع قبل كده (السطر 24، لسه مش في git)، فماتكتبتش تاني (18/10).
+  > ✅ **الأدلة (18/10):** اتنين هايكو جمعوا الأدلة، والبرنامج طابق 28 من 28 حرف بحرف. كل جملة في الفقرة ليها كارت. الكروت في الملف ده:
+  > ```
+  > .claude/state/step14/fig1_cards.txt   (43/43 OK, includes the Figure 1 cards)
+  > ```
+  > ✏️ **تصليح واحد:** كلمة "directly" في جملة الستاتين مش موجودة في Kwak2000، فاتشالت. الجملة بقت:
+  > ```
+  > When interferon-γ was used to induce class II major histocompatibility complex molecules, statins reduced this induction, and because L-mevalonate abolished this effect ...
+  > ```
+  > 🔎 **الفحص:** البوابة فيها نفس الـ 9 ملاحظات اللي كانت في أول الجلسة (تنوّع طول الجمل 9.6، وأدوات الربط 4.4%، وتعريف STAT3 في الفقرة التانية، وتكرار تعريف RA وIL، وتطابق أسامي مصطلحات بس). النقل غير المباشر 0، والروابط 0 مكسورة، والـ evals مفيهاش ولا واحد فاشل. تحليل الشبكة: 21 ملاحظة، ومفيش ولا واحدة لازم تتصلح، واليوم الرابع مابقاش من المحاور.
+  > 🖼️ **Figure 1 (مسودة):** متقسمة جزئين، (أ) الخلايا ومواد الالتهاب في المفصل، و(ب) المسارات جوه الخلية والأدوية. مرسومة من الأول، ومش منقولة من صور Ding2023، وكل كلمة فيها ليها كارت. الملفات:
+  > ```
+  > 08 - RA Repurposing Review/Figure_1_Draft.png (600 dpi) + .pdf
+  > python scripts/fig1_draft.py
+  > ```
+  > 🟦 **الأسهم اللي هتراجعها يوم 20:**
+  > ```
+  > A1  DCs → T cells                      recruit and activate            Ding2023 L130
+  > A2  T cells → B cells, macrophages, FLS, chondrocytes, osteoclasts      Ding2023 L130
+  > A3  T cells differentiate → Th17 (IL-6/IL-21/IL-23 → STAT3)           Kondo2021 L168
+  > A4  cells → TNF-α, IL-6, IL-1β, MMPs (+ IL-17, IL-21, IL-23)           Ding2023 L130, Kondo2021 L15/L19
+  > A5  mediators → synovial proliferation, cartilage and bone damage      Kondo2021 L13
+  > A6  TNF-α / IL-6R antagonists ⊣ TNF-α, IL-6 (clinical use)            Gao2024 L71
+  > A7  RANKL → osteoclast differentiation                                 Kondo2021 L129
+  > B1  JAK inhibitors ⊣ JAK/STAT (FDA-approved; baricitinib JAK1/2)       Ding2023 L640, Gao2024 L262
+  > B2  fenofibrate ⊣ JAK/STAT (STAT3 activation ↓, IL-21 ↓; may reduce Th17) [cells]  Zhou2012 L20/L120/L127
+  > B3  dulaglutide ⊣ NF-κB (linked to JNK/NF-κB, FLS) [cells]             Zheng2019 L20
+  > B4  metformin → AMPK (hepatocytes) [cells]                             Zhou2001 L14/L86
+  > B5  dapagliflozin → AMPK (p-AMPK/t-AMPK ↑, rat joints) [animal]        ElDemerdash2025 L24/L246
+  > B6  AMPK ⊣ mTORC1 (raptor phosphorylation, energy stress) [cells]      Gwinn2008 L12
+  > B7  pioglitazone → PPAR-γ (mitophagy ↑, IL-1β/IL-18 ↓) [abstract]      Fu2026 L21
+  >     + TNF-α-induced FLS: IL-1β/IL-6/IL-8 ↓, IL-10 ↑ [cells]           LiXF2023 L104
+  >     note: PPAR-γ reduced in RA FLS [cells] (separate, not on the arrow) LiXF2023 L12
+  > B8  statins ⊣ HMG-CoA reductase (IFN-γ-induced MHC-II ↓) [cells]       Kwak2000 L30/L32
+  > B9  losartan ⊣ AT1R (experimental arthritis ameliorated) [animal]     Wang2013 L11
+  > L1  NF-κB - - → mediators box (IL-1β, IL-6, TNF-α)                     Ding2023 L208
+  > L2  JAK/STAT - - → Th17 box                                            Kondo2021 L168
+  > L3  AT1R - - → RANKL (RA synovial cells; olmesartan, not PD123319) [cells]  Zhao2021 L29/L112/L121
+  > ```
+  > ⚠️ اسأل نفسك وإنت بتراجع: سهم الميتفورمين جاي من خلايا الكبد، مش من خلايا المفصل. وسهم الفينوفايبرات على JAK/STAT، بس الدليل على STAT3 في الخلايا التائية بس.
+  > ⚠️ صور Ding2023 اتشافت عشان نعرف أنهي خلايا تتحط بس. ⬜ اتأكد من رخصة Ding2023 قبل ما نكتب تحت الشكل "adapted from".
+  > ⏳ **عشان الخطوة تتقفل:** محتاج موافقتك إن الـ 9 ملاحظات اللي في البوابة تتساب (زي الخطوات اللي قبل كده)، وبعدها مراجعة الأسهم يوم 20.
+  > 🤖 **خطة المراجعة بالوكلاء (اتغيرت 18/10، بطلبك: الوكلاء بيراجعوا بدالك):**
+  > - [x] 1. 🟧 وكيل سونِت واحد (`testing-reality-checker.md`): بيراجع الـ 12 جملة والـ 19 سهم على الكروت، ويطلّع ملاحظات مترقمة. بيرجّع كلام بس، ومابيعدّلش في أي ملف.
+  >   ✅ اتعمل (18/10): النتيجة "محتاج شغل". طلّع 3 ملاحظات لازم تتصلح و5 تستاهل نبص عليها.
+  > - [x] 2. 🟧 أوبس (المنسّق، بدور الإحصائي ووكيل الدليل الإكلينيكي): بيتأكد من كل ملاحظة في البحث نفسه. اللي طلعت صح بتتصلح، تعديل واحد في المرة والبوابة شغالة، وتصليح الشكل بيبقى في البرنامج بتاعه. واللي طلعت غلط بتتشال ويتكتب السبب.
+  >   ✅ اتعمل (18/10): 7 ملاحظات اتأكدت من الأبحاث واتصلحت.
+  >   - الشكل: تجربة الرانكل كانت بالأولميسارتان على خلايا غشاء من مرضى روماتويد، مش باللوسارتان، فاتنقلت لسهم L3. واتشال "bDMARDs" من مربع A6، والسهم بقى على TNF-α وIL-6 بس. ونقص المستقبل في خلايا الغشاء اتفصل عن سهم البيوجليتازون. والفينوفايبرات بقى "may reduce Th17". وسهم A3 بقى عليه كلمة "differentiate".
+  >   - اليوم الرابع: جملة الفينوفايبرات بقت جملة لوحدها، وبقى واضح إن عدم الحاجة لـ PPAR-α راجع لتحوّل الخلايا لـ Th17. وجملة الرانكل بقى فيها "in cultured RA synovial cells".
+  >   - اتساب ومااتصلحش: S3، لأن كلمة "in vitro" موجودة فيها خلاص. وملاحظة إن مالهاش كارت في A6 طلعت غلط، لأن Kondo2021 السطر 23 متعلّم، واتضاف للكروت (45 من 45 مطابقين).
+  >   ⛔ البوابة وقفت (STOP) بعد التعديل الأخير، لأن نفس الملاحظات رجعت تاني. مستنيين قرارك قبل أي تعديل جديد في اليوم الرابع.
+  > - [x] 3. الـ 9 ملاحظات بتاعة البوابة: تتساب. نفس الأنواع اللي وافقت عليها في الخطوات من 9 لـ 13 (القرار اتاخد 18/10 بتفويض منك).
+  > - [ ] 4. Grammarly: مفيش أداة تشغّله لوحده، فاتنقل لخطوات 24 لـ 26 (الفحص على المخطوطة كلها). النص جاهز للّزق، 657 كلمة.
+  > - [x] 5. 🟧 تصليح أداة وكلاء الأدلة (الجمل لازم تتبعت نص واحد) + اختبار جديد في الـ evals.
+  >   ✅ اتعمل (18/10): الأداة بقت بتوقف برسالة واضحة لو الجمل ماتبعتتش كنص واحد. واتضاف الاختبار E006، والـ evals: 6 من 6 ناجحين.
+  > - مراجعة الأسهم يوم 20 اتلغت، لأن بند 1 بيعملها.
+  > - [x] 6. اتأكد من رخصة Ding2023 (موجودة في أول صفحة في البحث أو على موقع المجلة)، واكتبها هنا.
+  >   ✅ اتعمل (18/10): الرخصة CC BY 4.0، يعني التعديل على الصور مسموح بشرط ذكر المصدر ورابط الرخصة وإننا غيّرنا فيها. ومفيش تحت أي صورة سطر يقول إنها من مصدر تاني. بس احنا رسمنا الشكل من الأول، فمش محتاجين "adapted from". يكفي نذكر Ding2023 في النص، والكلام اللي تحت الشكل يتكتب في خطوة 21:
+  >   ```
+  >   Open Access ... Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation ...
+  >   ```
+  > ✅ بعد بند 1 و2 و5: Claude بيعلّم الخطوة خلصت، بعد ما يشغّل البوابة والروابط والـ evals تاني. وإنت بيوصلك ملخص قصير بس.
+  > ✅ **اتقفلت (18/10):** STAT3 اتعرّف في اليوم الرابع. والملاحظات الباقية اتسجلت تحت خطوة 24 بقرار منك. الروابط المكسورة 0، والنقل غير المباشر 0، والـ evals 6 من 6، وتحليل الشبكة 21 ملاحظة ومفيش ولا واحدة لازم تتصلح.
+  > lesson | evidence workflow now refuses non-string `claims` (eval E006). Reviews are done by a Sonnet reality-checker, not the user (CLAUDE.md step 9); it caught an olmesartan result drawn on the losartan arrow. Watch: ledger.py miscounts multi-tag brackets (observation in LESSONS.md).
 
 ## الأسبوع 3 — المقدمة والمقارنة والتحديات
 
@@ -554,6 +632,18 @@ updated: 2026-10-07
   > Day4 Methods: "the Scale for the Assessment of Narrative Review Articles" ← Baethge2019
   > ```
   > 🔤 **الاختصارات:** المنهجية (القسم 2) جاية قبل أقسام الأدوية في البحث، بس تعريف مثبطات نقل الصوديوم متساب في اليوم الأول. لما الأقسام تتجمّع، كل اختصار يتعرّف عند أول ظهور ليه بس.
+  > 📏 **من خطوة 14 (اليوم الرابع، 18/10):** البوابة وقفت (STOP) على اليوم الرابع، فماتتعدلش المسودة دي غير في الخطوة دي. الحاجات اللي هتتعمل هنا:
+  > - [ ] تنوّع طول الجمل في الملف 9.4 (الحد 10)، وأدوات الربط في أول الجملة 4.3% (الحد 5). التصليح جملة جملة.
+  > - [ ] الاختصارين دول متعرّفين في أكتر من يوم. القسم 3 بييجي قبل أقسام الأدوية، فالتعريف يفضل في اليوم الرابع، ويتشال من الأيام 1 و2 و3:
+  > ```
+  > rheumatoid arthritis (RA) · interleukin (IL)
+  > ```
+  > - [ ] التطابق 13.1% في اليوم الرابع، وكله على أسامي مصطلحات. يتساب زي ما هو، إلا لو الفحص الكامل في خطوة 27 قال غير كده:
+  > ```
+  > Bilgin2026 (STAT3 long name) · Deng2025 (pathway names) · Greenwood2006 (MHC class II, HMG-CoA reductase) · Zhao2021 (RANKL long name) · Buonanno2026 (GLP-1 receptor agonist)
+  > ```
+  > - [ ] Grammarly على القسم 3 (657 كلمة)، واتنقل هنا من خطوة 14.
+  > - [ ] اختياري، اتساب من مراجعة خطوة 14: في جملة 3، كلمة "RA" قبل "FLS" في الجزء اللي فيه تجارب المعمل.
   > 🧾 **ملاحظات الفحص الكامل (11/10، بعد خطوة 12):** كل ملاحظات الأيام 1 و2 و3 بنص الفحص، من غير ما نشيل حاجة. كل واحدة تتصلح جملة جملة، وبعد كل تعديل نعيد الفحص، وتتشطب هنا لما تتقفل.
   > 🔄 **تحديث 12/10 (بعد إضافة المصادر الحديثة في خطوة 22):** المراجع الحديثة عدّت في اليومين، فاتشطبت. القوايم تحت دي هي نص الفحص بعد الإضافة. التطابق كله جمل مفردة على أرقام أو أسماء علمية، ما عدا جملة NFATC1 في اليوم التاني.
   > - اليوم الأول (11):
@@ -564,19 +654,19 @@ updated: 2026-10-07
   > [ ] [overlap 8.5%] 3 matches ← overlap-only/Pan2024: Neither cohort studies (OR 1.01, 95% CI from 0.92 to 1.10) nor case–control studies (OR
   > [ ] [overlap 8.5%] 2 matches ← Bendotti2022: This section first covers metformin and pioglitazone, followed by glucagon-like peptide-1
   > [ ] [overlap 8.5%] 1 matches ← overlap-only/Pan2024: A meta-analysis pooled nine studies published up to October 2023
-  > [ ] [overlap 8.5%] 1 matches ← overlap-only/Deng2025: The numbers of T cells positive for phosphorylated signal transducers and activators of
+  > [x] [overlap 8.5%] 1 matches ← overlap-only/Deng2025: The numbers of T cells positive for phosphorylated signal transducers and activators of   (15/10: الاسم الكامل اتشال)
   > [ ] [overlap 8.5%] 1 matches ← Ye2022: In untreated very early RA (disease duration under 12 weeks), mean HOMA-IR was higher in 9
   > [ ] [overlap 8.5%] 1 matches ← Palmer2004: The double-blind Trial of Atorvastatin in Rheumatoid Arthritis (TARA) randomized 116 patie
   > [ ] [overlap 8.5%] 1 matches ← ManriqueArija2021: In this cross-sectional study, 25 of the 89 patients (28.1%) had a HOMA-IR of at least 2.2
-  > [ ] [overlap 8.5%] 1 matches ← Lin2020: In addition, at 5 mM the drug decreased the messenger RNA of interleukin (IL)-6 and the pr
-  > [ ] [overlap 8.5%] 1 matches ← Abdallah2021: RA synovium expressed more AMPK-α1 than osteoarthritis synovium; in RA serum, phosphorylat
+  > [ ] [overlap 6.6%] 1 matches ← Fan2020: In addition, at 5 mM the drug decreased the messenger RNA of IL-6 and the protein of TNF-α   (15/10: بقى على Fan2020 بعد شيل الاسم الكامل)
+  > [x] [overlap 8.5%] 1 matches ← Abdallah2021: RA synovium expressed more AMPK-α1 than osteoarthritis synovium; in RA serum, phosphorylat   (15/10: اختفى بعد شيل الاسم الكامل)
   > ```
   > - اليوم التاني (9):
   > ```
   > [x] [cite] [refs] only 18% of refs from the last 5 years (min 40%) → whole file   (12/10: 40%، على الحد بالظبط؛ Zhao2024 PMID 38108108 تزوّد الهامش لو اتجابت)
   > [ ] [style] [4.3. Angiotensin II Receptor Blockers] 2 sentence-opening connectors in one paragraph (max 1) → Moreover, Ang II raised the expre
   > [ ] [style] [profile] sentence length sd = 8.9 (benchmark 10–…) → whole file
-  > [ ] [cite] [acronyms] 'RANKL' defined more than once across drafts → RANKL   (يتشال التعريف من اليوم التالت، لأن اليوم التاني جاي قبله)
+  > [x] [cite] [acronyms] 'RANKL' defined more than once across drafts → RANKL   (15/10: اتعرّف في القسم 3، واتشال من اليوم التاني والتالت)
   > [ ] [cite] [acronyms] 'ARB' defined more than once across drafts → ARB
   > [ ] [overlap 7.9%] 7 matches ← Kondo2021: Moreover, Ang II raised the expression of nuclear factor of activated T cells, cytoplasmic   (تعريفات الاختصارات)
   > [ ] [overlap 7.9%] 4 matches ← Sluijsmans2021: Neither group differed from controls in DAS28-CRP after adjustment, with factors of 1.02 (
@@ -593,7 +683,7 @@ updated: 2026-10-07
   > [ ] [overlap 13.9%] 1 matches ← overlap-only/Kim2022: In a retrospective cohort of 8,697 matched pairs of patients with RA and type 2 diabetes,
   > [ ] [overlap 13.9%] 1 matches ← Yu2026: Major cardiovascular events, however, did not differ between the two groups (HR 0.96, 95%
   > [ ] [overlap 13.9%] 1 matches ← Yu2026: In RA with type 2 diabetes, GLP-1RAs were associated with lower all-cause mortality than D
-  > [ ] [overlap 13.9%] 1 matches ← Kondo2021: Moreover, sitagliptin lowered serum TNF-α, IL-6, anti-cyclic citrullinated peptide (anti-C
+  > [x] [overlap 13.9%] 1 matches ← Kondo2021: Moreover, sitagliptin lowered serum TNF-α, IL-6, anti-cyclic citrullinated peptide (anti-C   (15/10: اختفى، واليوم التالت بقى 12.2%)
   > [ ] [overlap 13.9%] 1 matches ← Kim2015: In the primary analysis of one population-based cohort, initiating a DPP-4 inhibitor was l
   > [ ] [overlap 13.9%] 1 matches ← Kachhadia2026: In a cohort of 277 matched pairs of adults with RA and type 2 diabetes, SGLT2 inhibitor us
   > [ ] [overlap 13.9%] 1 matches ← Chodick2010: Pulmonary embolism alone did not differ significantly (HR of 0.90, 95% CI 0.74 to 1.09), a
@@ -603,6 +693,13 @@ updated: 2026-10-07
   > ```
   > [ ] [NairJacob2016] 60 in Day1.md, Day2.md, Day3.md
   > [ ] [NairJacob2016] 97 in Day2.md, Day3.md
+  > ```
+  > - اليوم الرابع، من خطوة 13 (15/10). المقاييس دي للتوجيه بس، وبتتقاس على الملف كله بعد خطوة 14:
+  > ```
+  > [ ] [style] [profile] mean sentence length = 20.4 (benchmark 22–25) → whole file
+  > [ ] [style] [profile] sentence length sd = 9.4 (benchmark 10–…) → whole file
+  > [ ] [style] [profile] % sentences <12 words = 15.2 (benchmark 0–12) → whole file
+  > [ ] [style] [profile] % hedged = 9.1 (benchmark 12–…) → whole file
   > ```
   > - المجموع (بعد تحديث 12/10): 32 ملاحظة مفتوحة + رقمين متكررين. ملاحظات الهيكل الـ 8 (أقسام لسه ماتكتبتش، والملخص، والكلمات المفتاحية، وعدد الكلمات) مش هنا، لأنها بتتقفل مع خطوات 13 لـ 20.
 - [ ] **25.** الأحد 1/11 — 🟦 طبّق التعليقات (2) + Grammarly الجزء التالت

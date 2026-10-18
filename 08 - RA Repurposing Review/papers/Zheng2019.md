@@ -15,7 +15,11 @@ Matrix metalloproteinases mediate cartilage destruction, thereby aiding in pannu
 
 ==Our findings indicate that dulaglutide treatment significantly downregulated the expression of MMP-3 and MMP-13, two crucial degradative enzymes.== ^zheng2019-2
 
-Importantly, the results of our study demonstrate that the beneficial effects of dulaglutide are mediated through the JNK/NF-κB signaling pathway, which has been suggested as a potential treatment target against RA. Taken together, the results of this study show that dulaglutide may exert significant protective effects against the progression of RA induced by TNF-α.
+Importantly, the results of our study demonstrate that
+
+==the beneficial effects of dulaglutide are mediated through the JNK/NF-κB signaling pathway== ^zheng2019-9
+
+, which has been suggested as a potential treatment target against RA. Taken together, the results of this study show that dulaglutide may exert significant protective effects against the progression of RA induced by TNF-α.
 
 ## Full text (PDF extraction)
 

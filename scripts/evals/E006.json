@@ -1,0 +1,5 @@
+{"id": "E006", "title": "evidence workflow got claims as an array of objects; agents saw \"[object Object]\" and searched nothing",
+ "date": "2026-10-18", "origin": "step 14, first evidence run (2 Haiku agents, ~110k tokens wasted)",
+ "cmd": ["node", "scripts/check_workflow.js", ".claude/workflows/evidence.js",
+         "{\"claims\":[{\"key\":\"s1\",\"text\":\"x\"}],\"groups\":[{\"key\":\"g1\",\"papers\":[\"Kang2013\"]}]}"],
+ "exit": 1, "expect": ["args.claims must be one string"]}

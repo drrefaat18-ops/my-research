@@ -25,7 +25,7 @@ STALE = re.compile(r"\b(currently|recently(?! (diagnosed|treated|developed))|now
 ACRO = re.compile(r"(?<![\w-])([A-Z][A-Za-z]*[A-Z][A-Za-z0-9]*)(?:-[0-9A-Za-zα-ωΑ-Ω]+)*(?![\w])")
 DEF_SPAN = re.compile(r"[^.()]{0,60}\(([^()]{1,20})\)")  # long form + '(ABC)'
 ACRO_OK = {"RA", "DNA", "RNA", "mRNA", "CI", "HR", "OR", "RR", "SD", "SEM", "II", "III", "IV", "VI",
-           "USA", "UK", "US", "NF", "Th", "Treg", "TH", "IgG", "IgM"}
+           "USA", "UK", "US", "NF", "Th", "Treg", "TH", "IgG", "IgM", "CD4", "CD8"}
 
 
 def blocks(md):
