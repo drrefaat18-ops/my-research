@@ -305,3 +305,15 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Akodad2026:** FDA CDER new-indication approvals; 7.2 years = first approval → repurposing, not compared with de novo development.
 - **Barkhane2023:** stroke RR 1.30 has no CI in the text (figure only); diabetes = study-level meta-regression variable.
 - Dropped: insulin-resistance sentence (the only 2024 study had no comparator and contradicted itself); metformin/TZD incidence sentence → pointer to Section 4.1, no citation.
+
+### Bilgin2025 — Autoimmun Rev (scoping review, PRISMA-ScR; abstract only, PMID 40617296)
+- **Scope:** GLP-1 RAs across rheumatic diseases (RA, PsA, SLE, OA, gout); 52 studies and seven clinical trials
+- **What it gives us:** in RA and PsA, clinical impact partly linked to weight loss; most included studies at risk of bias
+- ⚠️ Abstract only: cite only the abstract, no numbers beyond 52 and seven. Cited once, Introduction paragraph 4.
+
+### Step 16 notes (2026-10-19)
+- Ren2023: 19 = studies in the review; DAS28 pooled from 16 (line 98); Egger P = .012 for DAS28 (line 133); I² 86.0% in text vs 88.1% in Fig 3 caption.
+- Pan2024: the only RCT stopped early, 62 patients, high risk of bias (lines 75–79).
+- Buonanno2026: not RA-only (also metabolic-population trials); weight-loss caveat is "rather than exclusively" (line 226).
+- Nallathambi2024: kept once, in Day3; removed from the Introduction.
+- Gap checked against overlap-only reviews too: each covers one class; none converts animal doses to human equivalent doses.

@@ -223,7 +223,9 @@ Despite the growing interest in the potential role of GLP-1 RAs in RA, the curre
 
 Several methodological limitations should also be considered. Observational studies are inherently susceptible to residual confounding, selection bias, and indication bias, particularly given the complex metabolic and CV comorbidity burden frequently observed in patients receiving GLP-1RAs. In addition, heterogeneity across studies in terms of patient populations, disease duration, background antirheumatic therapies, and definitions of disease activity makes direct comparison challenging.
 
-Another important limitation is that improvements in inflammatory outcomes may partly reflect indirect metabolic effects, including weight loss and improved insulin sensitivity, rather than exclusively direct immunomodulatory mechanisms. Given the available study designs, it is not possible to disentangle whether the observed anti-inflammatory effects result from reduced adipose tissue-driven inflammation or from direct immunomodulatory actions of the therapeutic agents.
+==Another important limitation is that improvements in inflammatory outcomes may partly reflect indirect metabolic effects, including weight loss and improved insulin sensitivity, rather than exclusively direct immunomodulatory mechanisms.== ^buonanno2026-2
+
+Given the available study designs, it is not possible to disentangle whether the observed anti-inflammatory effects result from reduced adipose tissue-driven inflammation or from direct immunomodulatory actions of the therapeutic agents.
 
 Furthermore, many currently available reports include relatively small sample sizes and short follow-up durations, limiting the ability to draw definitive conclusions regarding long-term efficacy and safety in RA populations.
 
@@ -234,7 +236,11 @@ Although preliminary findings appear encouraging, future research should address
 
 In addition, studies exploring combination strategies with c- or b-DMARDs are warranted to assess potential synergistic effects on both inflammation and cardiometabolic risk, as well as long-term safety. Given the high CV burden in RA, dedicated CVOTs in RA populations are also needed to determine whether the benefits observed in metabolic populations translate to this setting. Finally, the development of next-generation incretin-based therapies, including dual or multi-agonists, offers a promising avenue to enhance immunometabolism modulation and warrants further investigation in RA.
 
-In conclusion, GLP-1RAs could represent a promising adjunctive therapeutic option in RA, particularly among patients with a high cardiometabolic burden, by targeting both metabolic dysregulation and inflammatory pathways. These findings support a more personalized medicine approach, where therapeutic decisions are guided by an integrated assessment of disease activity, metabolic status, and CV risk. Accordingly, optimal care may require a coordinated multidisciplinary model involving rheumatology, endocrinology, and cardiology expertise. Nonetheless, the current evidence in RA remains predominantly observational and heterogeneous, precluding definitive conclusions regarding efficacy and causality. Well-designed RCTs are therefore urgently needed to clarify the therapeutic role and long-term impact of GLP-1RAs in RA management.
+In conclusion, GLP-1RAs could represent a promising adjunctive therapeutic option in RA, particularly among patients with a high cardiometabolic burden, by targeting both metabolic dysregulation and inflammatory pathways. These findings support a more personalized medicine approach, where therapeutic decisions are guided by an integrated assessment of disease activity, metabolic status, and CV risk. Accordingly, optimal care may require a coordinated multidisciplinary model involving rheumatology, endocrinology, and cardiology expertise.
+
+==Nonetheless, the current evidence in RA remains predominantly observational and heterogeneous, precluding definitive conclusions regarding efficacy and causality.== ^buonanno2026-1
+
+Well-designed RCTs are therefore urgently needed to clarify the therapeutic role and long-term impact of GLP-1RAs in RA management.
 
 
 ## Acknowledgments

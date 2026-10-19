@@ -98,3 +98,12 @@ sources: PubMed (NIH E-utilities) · Europe PMC · OpenAlex (Crossref, includes 
 | Mulcahy2025 | R&D cost per new drug, 38 FDA approvals 2019 (PMC11704977) | economic analysis | ✅ |
 | Akodad2026 | Drug repurposing approvals, FDA 1985–2024, 451 drugs (PMC12876941) | registry analysis | ✅ |
 | Barkhane2023 | RA and CVD outcomes, 14 observational studies (PMC10339149) | meta-analysis | ✅ |
+
+## Introduction (step 16, 2026-10-19) — prior reviews
+| Tag | Study | Type | Status |
+|---|---|---|---|
+| Bilgin2025 | GLP-1 RAs in rheumatology, 52 studies + 7 trials (Autoimmun Rev, PMID 40617296) | scoping review | ✅ abstract only (not OA) |
+| Ren2023 | Statins in RA, 19 studies (PMC10508553) | SR/MA | ✅ already in papers/ |
+| Pan2024 | Statin use and RA risk, 9 studies (PMC11265694) | SR/MA | ✅ already in papers/ |
+| Kyriazi2025 | Antiobesity medications in rheumatology (Ann Rheum Dis, 10.1016/j.ard.2025.08.013) | viewpoint/review | ⬜ not read (third-party summary only) |
+| MJR2026 in press | GLP-1 RA narrative review (Mediterr J Rheumatol) | narrative review | ⬜ not read (PDF without text layer) |

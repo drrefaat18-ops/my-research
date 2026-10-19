@@ -349,3 +349,144 @@ the evidence on metformin and glitazones is discussed in Section 4.1 (no citatio
 ```
 
 ```
+
+
+---
+
+## تعديلات خطوة 16
+
+> الفقرة الجديدة دي بتيجي بعد الفقرة التالتة في المقدمة، وقبل جملة الهدف (جملة الهدف فوق في "الفقرة الرابعة"، ومالهاش مرجع).
+> المصادر اللي اتقرت: Alshammari2026 وNallathambi2024 وBuonanno2026 وWangQ2025 من study-cards، وRen2023 وPan2024 وBilgin2025 من بحث الهايكو (19/10). القايمة الكاملة والصفحات اللي مااتقريتش تحت خطوة 16 في [[START-HERE]].
+> ⚠️ WangQ2025 اتقرا، بس ده دراسة مجموعات مش مراجعة، فمكانه قسم GLP-1، مش هنا.
+> ✅ اتراجع (19/10، سونِت مراجع الواقع، وأوبس اتأكد من كل ملاحظة في البحث): جمل 21 و22 و23 و24 و25 و26 اتصلحت.
+
+### جملة 20
+فيه مراجعة منهجية وتحليل تجميعي عن الميتفورمين بس، كإضافة لأدوية الروماتويد التقليدية، فيها 4 تجارب عشوائية قصيرة و350 مريض من مصر والهند بس.
+```
+SR/MA, metformin as adjunct to csDMARDs only, short-term (≤ 6 months)
+4 RCTs, 350 participants, Egypt and India (2 each)
+[Alshammari2026]
+```
+🔗 [[papers/Alshammari2026#^alshammari2026-2|شوف الجملة في البحث]]
+⚠️ لو حطيت رقم CRP بعدين: −5.99 من النتايج، مش −5.55 اللي في الملخص.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 21
+تجربتين من الأربعة خطر التحيز فيهم عالي، لأنهم معمّيين من ناحية واحدة بس، ورقم تسجيل التجربة مش مذكور.
+```
+2 of 4 RCTs at high risk of bias
+single-blinded, no trial registration number reported
+[Alshammari2026]
+```
+🔗 [[papers/Alshammari2026#^alshammari2026-3|شوف الجملة في البحث]]
+🔗 [[papers/Alshammari2026#^alshammari2026-6|شوف الجملة في البحث]]
+⚠️ ماتكتبش "unregistered". البحث بيقول إن الرقم مش مذكور بس.
+⚠️ إن التجربتين من مجلات ضعيفة ده رأينا إحنا، مش مكتوب في المراجعة، فمايدخلش النص. وماتستشهدش بتجارب Kumar عن طريق المراجعة دي.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 22
+مراجعة منهجية عن الستاتين جمعت 19 دراسة، ولقت إنه بيقلل نشاط المرض وسرعة الترسيب وCRP والمفاصل اللي بتوجع والدهون، بس IL-6 وتورّم المفاصل ماقلّوش بشكل واضح، والاختلاف بين الدراسات كان كبير.
+```
+SR/MA, statins only, 19 studies
+reduced DAS28, ESR, CRP, tender joints and blood lipids
+IL-6 and swollen joints: no significant reduction
+DAS28 heterogeneity I² 86.0%
+[Ren2023]
+```
+🔗 [[papers/Ren2023#^ren2023-6|شوف الجملة في البحث]]
+🔗 [[papers/Ren2023#^ren2023-1|شوف الجملة في البحث]]
+🔗 [[papers/Ren2023#^ren2023-5|شوف الجملة في البحث]]
+🔗 [[papers/Ren2023#^ren2023-7|شوف الجملة في البحث]]
+🔗 [[papers/Ren2023#^ren2023-8|شوف الجملة في البحث]]
+🔗 [[papers/Ren2023#^ren2023-9|شوف الجملة في البحث]]
+⚠️ رقم 16 دراسة (DAS28) واختبار Egger (P = .012) اتضافوا بعد المراجعة الأخيرة. رقم 16 موجود في اليوم الأول، فمش هيتكرر في المقدمة.
+⚠️ ملخص البحث بيقول "19 تجربة"، والنتايج بتقول "19 دراسة" وعدد المرضى 22,906. اكتب "19 studies"، وماتكتبش عدد المرضى.
+⚠️ رقم I² في النص 86.0%، وفي عنوان الشكل 88.1%. استخدم رقم النص. والبحث كان لحد يناير 2020.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 23
+مراجعة تانية عن الستاتين بصّت على خطر الإصابة بالروماتويد مش على علاجه، وماقدرتش تلاقي علاقة.
+```
+SR/MA, statins and risk of RA (not treatment)
+9 studies: 4 cohort, 4 case-control, 1 RCT
+pooled OR 0.93 (95% CI 0.82–1.06); I² 75%
+[Pan2024]
+```
+🔗 [[papers/Pan2024#^pan2024-1|شوف الجملة في البحث]]
+🔗 [[papers/Pan2024#^pan2024-2|شوف الجملة في البحث]]
+🔗 [[papers/Pan2024#^pan2024-3|شوف الجملة في البحث]]
+🔗 [[papers/Pan2024#^pan2024-4|شوف الجملة في البحث]]
+🔗 [[papers/Pan2024#^pan2024-5|شوف الجملة في البحث]]
+⚠️ اكتب "did not find an association"، مش "no relationship". أغلبها دراسات مشاهدة، والتجربة الوحيدة صغيرة واتوقفت بدري.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 24
+مراجعتين نطاق عن أدوية GLP-1 بس. الأولى في الروماتويد (نشاط المرض وأمراض القلب والسكر وخطر الإصابة)، وقالت إن الدليل أغلبه دراسات مشاهدة ومختلف، وإن التحسن ممكن يكون جزء منه من نزول الوزن. والتانية في كذا مرض روماتيزمي، فيها 52 دراسة و7 تجارب، أغلبها فيه خطر تحيز، وقالت إن الأثر في الروماتويد مرتبط جزئيًا بنزول الوزن.
+```
+scoping review, GLP-1 RAs in RA (disease activity, cardiometabolic comorbidity, risk of onset):
+  evidence predominantly observational and heterogeneous; improvement may partly reflect weight loss [Buonanno2026]
+scoping review, GLP-1 RAs across rheumatic diseases: 52 studies and seven clinical trials;
+  most studies at risk of bias; in RA, clinical impact partially linked to weight loss [Bilgin2025]
+```
+🔗 [[papers/Buonanno2026#^buonanno2026-1|شوف الجملة في البحث]]
+🔗 [[papers/Buonanno2026#^buonanno2026-2|شوف الجملة في البحث]]
+🔗 [[papers/Bilgin2025#^bilgin2025-1|شوف الجملة في البحث]]
+🔗 [[papers/Bilgin2025#^bilgin2025-3|شوف الجملة في البحث]]
+🔗 [[papers/Bilgin2025#^bilgin2025-2|شوف الجملة في البحث]]
+⚠️ كلمة "observational" لـ Buonanno بس. Bilgin2025 ملخص بس، فاستخدم اللي فيه بس.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 25 (اتشالت من النص)
+⚠️ اتشالت من المقدمة (19/10): اليوم التالت بيستشهد بـ Nallathambi2024 لنفس المعلومة، والقاعدة مرة واحدة بس.
+مراجعة سردية غطت الميتفورمين وSGLT2 في كذا مرض روماتيزمي. ولأن الأبحاث قليلة، دليل SGLT2 فيها كان خليط من حيوان وبشر، في الذئبة والتهاب الكلى الذئبي والنقرس.
+```
+narrative review, metformin + SGLT2i across several rheumatic diseases
+SGLT2i: preclinical and clinical findings combined
+articles: 4 SLE, 5 gout, 1 lupus nephritis
+[Nallathambi2024]
+```
+🔗 [[papers/Nallathambi2024#^nallathambi2024-3|شوف الجملة في البحث]]
+🔗 [[papers/Nallathambi2024#^nallathambi2024-2|شوف الجملة في البحث]]
+⚠️ مجلة ضعيفة: استشهد بيها مرة واحدة بس، هنا. وماتكتبش "مفيش روماتويد"، لأن البحث مابيقولهاش صراحة.
+
+**✍️ جملتك:**
+```
+
+```
+
+### جملة 26 (الفجوة، من غير مرجع)
+على حد علمنا، مفيش مراجعة جمعت أدوية السكر والدهون والضغط مع بعض في الروماتويد، أو حوّلت جرعات الحيوان لجرعات الإنسان، أو بصّت على أمان المجموعات دي كلها مع الميثوتريكسات والكورتيزون، أو قارنت الأدوية حسب المسار المشترك.
+```
+to our knowledge (no citation)
+no review covers antidiabetic, lipid-lowering and antihypertensive drugs together in RA
+none converts animal doses to human equivalent doses
+none examines safety of these classes together with methotrexate and glucocorticoids
+none compares the drugs by shared pathway
+```
+⚠️ لازم "to our knowledge". البحث كان في PubMed وEurope PMC وبحث الويب بس، وفيه صفحات مااتقريتش (مكتوبة تحت خطوة 16).
+⚠️ نقطة الأمان ضيقة عن قصد: Alshammari2026 بيقول إن الميتفورمين اتحمّل كويس مع أدوية الروماتويد، فماتقولش "مفيش مراجعة غطت الأمان".
+
+**✍️ جملتك:**
+```
+
+```

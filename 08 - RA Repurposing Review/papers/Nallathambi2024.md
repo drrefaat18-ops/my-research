@@ -173,7 +173,7 @@ For other rheumatologic diseases, the review considered five preclinical studies
 
 The clinical studies considered for evaluating the therapeutic effects of Metformin were as follows: six for RA, three studies for SLE, and one for SS and gout. In SLE, metformin supplementation showed promise in reducing glucocorticoid dosage, disease flares, and prednisone exposure while restoring the Th17/Treg cell balance. Similarly, in RA, Metformin exhibited diverse benefits, including decreased admission rates, improved treatment response rates, reduced disease activity, and enhanced quality of life for patients. The treatment was associated with a decreased risk for RA and showed a negative causal association with RA pathogenesis, suggesting its potential inhibitory role in disease development.
 
-Since limited literature was available, preclinical and clinical findings were considered for evaluating the effects of SGLT2 inhibitors in rheumatic diseases.
+==Since limited literature was available, preclinical and clinical findings were considered for evaluating the effects of SGLT2 inhibitors in rheumatic diseases.== ^nallathambi2024-3
 
 ==The review encompassed four articles on SLE, five on gout, and one on lupus nephritis.== ^nallathambi2024-2
 

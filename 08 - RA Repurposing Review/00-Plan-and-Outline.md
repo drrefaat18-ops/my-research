@@ -14,10 +14,10 @@ updated: 2026-10-19
 **Type:** narrative review with a structured, reproducible literature search (Methods + Figure 4 search overview). Never call it "systematic" or "semi-systematic" in the manuscript; quality checklist = SANRA (Baethge 2019).
 
 ## Fixed targets
-| Item | Target | Status 2026-10-19 (after step 15) |
+| Item | Target | Status 2026-10-19 (after step 16) |
 |---|---|---|
-| Words (body, no refs/tables) | ≥ 6,500 (minimum only; no cap until journal chosen) | ~9,550 in drafts Day1–6 (script count; Introduction 975 of it) |
-| Unique references | ≥ 80 | 110 cited in drafts · 123 in `papers/` |
+| Words (body, no refs/tables) | ≥ 6,500 (minimum only; no cap until journal chosen) | ~9,900 in drafts Day1–6 (Introduction ~1,340 of it, script count) |
+| Unique references | ≥ 80 | 112 cited in drafts · 124 in `papers/` |
 | Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 64/110 = 58% |
 | Figures | 4 original + graphical abstract | 0 final |
 | Tables | 3 | 0 final |
@@ -37,7 +37,7 @@ updated: 2026-10-19
 | # | Section | Words now | Words target | Refs have | Refs new | Refs total |
 |---|---|---|---|---|---|---|
 | — | Abstract + keywords | 0 | 250 | — | — | 0 |
-| 1 | Introduction (burden → DMARD limits → repurposing → gap in prior reviews → aim) | 975 (paragraphs 1–3, step 15) | 1,200 | 13 cited: GBD2023, Almoallim2026, Natalucci2025, VanMullem2026, AlRayes2026, Nagy2021, Said2025, Gebrye2026, Sertkaya2024, Mulcahy2025, Akodad2026, Barkhane2023, Qin2023 · step 16: Alshammari2026, Nallathambi2024, Buonanno2026, WangQ2025 | step 16 only | ~17 |
+| 1 | Introduction (burden → DMARD limits → repurposing → gap in prior reviews → aim) | ~1,340 (paragraphs 1–4, steps 15–16) | 1,200 | 13 cited: GBD2023, Almoallim2026, Natalucci2025, VanMullem2026, AlRayes2026, Nagy2021, Said2025, Gebrye2026, Sertkaya2024, Mulcahy2025, Akodad2026, Barkhane2023, Qin2023 · step 16: Alshammari2026, Ren2023, Pan2024, Buonanno2026, Bilgin2025 (Nallathambi2024 stays once, in Day3; WangQ2025 is a cohort → GLP-1 section) | — | ~17 |
 | 2 | Methods (databases, dates, terms, criteria, counts) | 0 | 300 | — | ~1 | ~1 |
 | 3 | Pathophysiology + druggable pathways (Fig 1) | 0 | 700 | 2 (Ding2023, Kondo2021) — Malemud2013 dropped (OMICS, predatory) | ~7 | ~9 |
 | 4.1 | Antidiabetics intro | 54 | 60 | 1 | — | 1 |
@@ -65,7 +65,7 @@ updated: 2026-10-19
 ### References still to find (~22) — items 5 and 5.1 done 2026-10-07
 | Section | n | What | Recent (≥ 2021) needed | When screened |
 |---|---|---|---|---|
-| 1 Introduction | 0 | ✅ done at step 15 (10 new OA sources, 2023–2026). Not found: Egypt-specific cost/access data, 2023+ metformin/TZD incidence study, 2023+ insulin-resistance meta-analysis (Europe PMC only) | — | step 15 |
+| 1 Introduction | 0 | ✅ done at step 15 (10 new OA sources, 2023–2026). Not found: Egypt-specific cost/access data, 2023+ metformin/TZD incidence study, 2023+ insulin-resistance meta-analysis (Europe PMC only). Step 16: prior-reviews paragraph + gap ("to our knowledge"), 1 new source (Bilgin2025, abstract) | — | steps 15–16 |
 | 5 Challenges | 6 | safety/interactions with MTX & steroids, drug-specific risks in RA, trial-design refs (Tsushima2026 + Kalantari2024 already found) | ≥ 3 | item 11 |
 | 3 Pathophysiology | 7 | inflammatory signalling pathways targeted by the drugs (+1 replaces Malemud2013) | 2–3 | item 11 |
 | 4.3 ARBs | 1 | human study if found | — | item 11 |
