@@ -84,3 +84,17 @@ sources: PubMed (NIH E-utilities) · Europe PMC · OpenAlex (Crossref, includes 
 | Cardoso2018 | Losartan ↓ IFN-γ/IL-17 in RA PBMC (PMC6151964) | human cells | to fetch |
 | Mostafa2020 | ARBs vs statins in RA patients (PMC8061595) | RCT 🇪🇬 ⭐ | to fetch |
 | Hussein2025 | Transdermal losartan leciplexes (PMC12276446) | animal 🇪🇬 | optional |
+
+## Introduction (step 15, 2026-10-19)
+| Tag | Study | Type | Status |
+|---|---|---|---|
+| Almoallim2026 | RASD remission under treat-to-target on b/tsDMARDs, n = 647 (PMC13553330) | prospective cohort | ✅ |
+| Natalucci2025 | D2T RA in ERA UCLouvain Brussels cohort, 41/391 at 5 years (PMC12482167) | retrospective cohort | ✅ ⭐ |
+| VanMullem2026 | D2T RA in b/tsDMARD-exposed cohort, 126/675 (PMC13629959) | retrospective cohort | ✅ |
+| AlRayes2026 | D2T RA in Saudi registry, 126/928 (PMC13571673) | cross-sectional | ✅ |
+| Said2025 | Cost-effectiveness of DMARD strategies, Zanzibar (PMC12405486) | Markov model | ✅ |
+| Gebrye2026 | Economic burden of RA in LMICs, 15 studies (PMC12975684) | SR/MA | ✅ |
+| Sertkaya2024 | Cost of drug development, US 2000–2018 (PMC11214120) | economic model | ✅ |
+| Mulcahy2025 | R&D cost per new drug, 38 FDA approvals 2019 (PMC11704977) | economic analysis | ✅ |
+| Akodad2026 | Drug repurposing approvals, FDA 1985–2024, 451 drugs (PMC12876941) | registry analysis | ✅ |
+| Barkhane2023 | RA and CVD outcomes, 14 observational studies (PMC10339149) | meta-analysis | ✅ |

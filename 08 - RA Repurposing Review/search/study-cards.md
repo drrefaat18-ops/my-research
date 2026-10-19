@@ -292,3 +292,16 @@ Each original was taken from the reference list of the paper that made the secon
 - Semaglutide or tirzepatide vs never-users; 3483 per cohort after matching (68 covariates)
 - HF or respiratory failure, days 91–365: 0.7% vs 1.8%; "HR: 0.48; 95% confidence interval (CI): 0.30-0.78; p = 0.002"
 - ⚠️ Includes tirzepatide (GLP-1/GIP), small event counts; authors call it hypothesis-generating. Pairs with Malik2026 (HF driven benefit in RA + T2DM) → "two US database studies, with and without diabetes".
+
+## Introduction sources (step 15) — Claude, 2026-10-19
+Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the text:
+- **Natalucci2025:** abstract OR 2.38 (1.09–5.54) vs Results OR 2.35 (1.13–5.41) for the same model → cite Results. Same centre as VanMullem2026 (UCLouvain Brussels) → patients may overlap, do not pool.
+- **VanMullem2026:** 18.7% D2T is among patients exposed to ≥ 1 b/tsDMARD; glucocorticoid HR 2.47 is from the post-2000 subcohort (498).
+- **AlRayes2026:** cross-sectional → associations only, no direction.
+- **Almoallim2026:** completers of 3 visits only; "about one in six not in remission" is derived (100 − 83.5).
+- **Said2025:** Markov model, Zanzibar, provider perspective, outpatient costs; Tanzania = mortality data only. The background line on low treatment coverage is not an own result.
+- **Gebrye2026:** 15 studies in 12 LMICs; pooled medical cost from 9 studies; no Egyptian study.
+- **Sertkaya2024 / Mulcahy2025:** cost only, no years-to-approval figure. Pinzi2024 (Front Drug Discov) is a review with uncited figures → not used.
+- **Akodad2026:** FDA CDER new-indication approvals; 7.2 years = first approval → repurposing, not compared with de novo development.
+- **Barkhane2023:** stroke RR 1.30 has no CI in the text (figure only); diabetes = study-level meta-regression variable.
+- Dropped: insulin-resistance sentence (the only 2024 study had no comparator and contradicted itself); metformin/TZD incidence sentence → pointer to Section 4.1, no citation.

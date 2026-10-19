@@ -1,13 +1,27 @@
 {
   "runs": [
     {
-      "date": "2026-10-18T09:36:17.267639+00:00",
-      "agent_tokens_total": 1621550,
-      "agents": 5,
-      "model": "haiku",
-      "files": 97
+      "date": "2026-10-16T16:54:53.508810+00:00",
+      "input_tokens": 783337,
+      "output_tokens": 0,
+      "files": 93,
+      "note": "subagent total tokens (4 Haiku agents), in/out split unavailable"
+    },
+    {
+      "date": "2026-10-16T17:07:56.220357+00:00",
+      "input_tokens": 138709,
+      "output_tokens": 0,
+      "files": 3,
+      "note": "--update, 1 Haiku agent, subagent total tokens"
+    },
+    {
+      "date": "2026-10-17T13:26:53.054885+00:00",
+      "input_tokens": 0,
+      "output_tokens": 231625,
+      "files": 13,
+      "note": "haiku subagent total tokens (update: admin system guide)"
     }
   ],
-  "total_input_tokens": 1621550,
-  "total_output_tokens": 0
+  "total_input_tokens": 922046,
+  "total_output_tokens": 231625
 }
