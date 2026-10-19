@@ -1,0 +1,4 @@
+{"id": "E008", "title": "graph_audit.py staged into D:/vault/_graphify-stage/graphify-out, shared with academy-brain; merge would ingest its chunk and labels",
+ "date": "2026-10-19", "origin": "step 16 end-of-work graph update (user: fix it)",
+ "cmd": ["python", "scripts/graph_audit.py", "--selftest"],
+ "exit": 0, "expect": ["PASS stage root is per project", "PASS foreign stage refused"], "absent": ["FAIL"]}

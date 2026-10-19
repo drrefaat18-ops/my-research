@@ -33,7 +33,8 @@ from pathlib import Path
 
 # ---- CONFIG -------------------------------------------------------------------------------------
 PROJECT = Path(__file__).resolve().parents[1]          # <vault>/scripts/graph_audit.py
-STAGE_ROOT = PROJECT.parent / "_graphify-stage"         # D:/vault/_graphify-stage, outside the Obsidian vault
+# one staging root per project: a shared root mixed academy-brain's chunk, labels and manifest into this graph (2026-10-19)
+STAGE_ROOT = PROJECT.parent / "_graphify-stage" / PROJECT.name.replace(" ", "-")  # outside the Obsidian vault
 STAGE = STAGE_ROOT / PROJECT.name
 OUT = PROJECT / "graphify-out" / "vault"                # published outputs
 GRAPHIFY_PY = Path(sys.executable)                      # this Python imports graphify
@@ -72,7 +73,18 @@ def stage(project=PROJECT, dst=STAGE, **kw):
     print(f"staged {len(keep)} files to {dst} ({removed} stale removed)")
 
 
+def own(root=STAGE_ROOT, project=PROJECT):
+    """Claim graphify-out under root for this project; refuse a root another project already claimed."""
+    out = root / "graphify-out"
+    out.mkdir(parents=True, exist_ok=True)
+    mark = out / ".graphify_owner"
+    if mark.exists() and mark.read_text(encoding="utf-8").strip() != str(project):
+        sys.exit(f"staging root {out} belongs to {mark.read_text(encoding='utf-8').strip()}, not {project}")
+    mark.write_text(str(project), encoding="utf-8")
+
+
 def changed():
+    own()
     code = ("import json\nfrom pathlib import Path\nfrom graphify.detect import detect_incremental\n"
             f"r = detect_incremental(Path({STAGE.name!r}))\n"
             "Path('graphify-out').mkdir(exist_ok=True)\n"
@@ -194,6 +206,7 @@ def safe_merge(old, chunks):
 
 def merge(chunk_files):
     """Safe-merge chunk JSONs into the staged graph, re-cluster, save the manifest. Run `changed` first."""
+    own()
     out = STAGE_ROOT / "graphify-out"
     chunks = [json.loads(Path(f).read_text(encoding="utf-8")) for f in chunk_files] if chunk_files else \
         [json.loads(p.read_text(encoding="utf-8")) for p in sorted(out.glob(".graphify_chunk_*.json"))]
@@ -222,6 +235,7 @@ def merge(chunk_files):
 
 
 def publish():
+    own()
     OUT.mkdir(parents=True, exist_ok=True)
     for name in PUBLISHED:
         shutil.copy2(STAGE_ROOT / "graphify-out" / name, OUT / name)
@@ -276,6 +290,13 @@ def selftest():
         ext, st = safe_merge(old, [new])
         checks["merge keeps unchanged edges"] = (len(ext["edges"]) == 1 and st["dangling"] == 0
                                                  and {n["id"] for n in ext["nodes"]} == {"course_x", "note_a", "note_i"})
+        checks["stage root is per project"] = STAGE_ROOT.parent.name == "_graphify-stage" and STAGE_ROOT.name != "_graphify-stage"
+        own(t / "root", Path("A"))
+        try:
+            own(t / "root", Path("B"))
+            checks["foreign stage refused"] = False
+        except SystemExit as e:
+            checks["foreign stage refused"] = "belongs to A" in str(e)
     for name, ok in checks.items():
         print(("PASS " if ok else "FAIL ") + name)
     return 0 if all(checks.values()) else 1
