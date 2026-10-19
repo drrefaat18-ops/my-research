@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "08 - RA Repurposing Review/drafts/Day5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day5"
+            }
+          },
+          {
+            "id": "f04d820ec3f70ff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - RA Repurposing Review/drafts/Day4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day4"
+            }
+          },
+          {
+            "id": "127c5da860ce9bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "08 - RA Repurposing Review/START-HERE.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +49,8 @@
               "title": "START-HERE"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,24 +228,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c86f5fec8f2d4b6",
+  "active": "127c5da860ce9bd3",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/Supplementary_Table_S1.md",
+    "08 - RA Repurposing Review/drafts/Day5.md",
     "08 - RA Repurposing Review/START-HERE.md",
+    "08 - RA Repurposing Review/LESSONS.md.tmp.16936.44918777ddec",
+    "08 - RA Repurposing Review/drafts/Day4.md",
+    "08 - RA Repurposing Review/drafts/Day4.md.tmp.16936.8474642b90f0",
+    "08 - RA Repurposing Review/drafts/Day6.md",
+    "scripts/evals/E008.json",
+    "scripts/evals/E008.json.tmp.14556.5feadb5fb258",
+    "scripts/graph_audit.py.tmp.14556.a2f65815e7ec",
+    "scripts/graph_audit.py.tmp.14556.2c3c85c7d0e6",
+    "scripts/graph_audit.py.tmp.14556.0fb78137989e",
+    "scripts/graph_audit.py.tmp.14556.851a770fd3dd",
+    "scripts/graph_audit.py.tmp.14556.2cfda9a94b88",
+    "08 - RA Repurposing Review/START-HERE.md.tmp.14556.53d18f3d80b7",
+    "08 - RA Repurposing Review/papers/Bilgin2025.md",
+    "08 - RA Repurposing Review/Supplementary_Table_S1.md",
     "08 - RA Repurposing Review/papers/Romeo2012.md",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.65a5bf94003e",
     "08 - RA Repurposing Review/papers/Tsushima2026.md",
     "08 - RA Repurposing Review/papers/Yu2026.md",
-    "08 - RA Repurposing Review/drafts/Day4.md",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.c22a246b4edd",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.0e8d0116940e",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.e8166cb60891",
-    "08 - RA Repurposing Review/drafts/Day4.md.tmp.11912.a6ac78a71a04",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.36e05cf2d850",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.7bef99ea0f49",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.ac26408d2798",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.44a6779469be",
-    "08 - RA Repurposing Review/START-HERE.md.tmp.11912.2cda88772852",
     "08 - RA Repurposing Review/papers/LiXF2023.md",
     "08 - RA Repurposing Review/drafts/Day1.md",
     "08 - RA Repurposing Review/drafts/Day0-TitlePage.md",
@@ -235,10 +267,6 @@
     "08 - RA Repurposing Review/drafts/Day3preview.md",
     "08 - RA Repurposing Review/papers/Nair2016.md",
     "08 - RA Repurposing Review/papers/Farxiga2026.md",
-    "08 - RA Repurposing Review/papers/Saxenda2026.md",
-    "08 - RA Repurposing Review/papers/Victoza2025.md",
-    "08 - RA Repurposing Review/papers/Hussein2025.md",
-    "08 - RA Repurposing Review/4.1c-GLP1-RA.md",
     "08 - RA Repurposing Review/papers/figs/Peterson2021/13075_2021_2617_Fig1_HTML.jpg",
     "08 - RA Repurposing Review/Figure_1_Losartan_Mechanism.png",
     "test_fig.png",
