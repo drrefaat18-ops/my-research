@@ -1,0 +1,4 @@
+{"id": "E007", "title": "acronym duplicate check counted data brackets (95% UI ...), (HR 0.91) as definitions and missed plural (DMARDs)",
+ "date": "2026-10-19", "origin": "step 15 gate on drafts/Day5.md (UI/CI/HR false duplicates; DMARD duplicate missed)",
+ "cmd": ["python", "scripts/cite_check.py", "{case_dir}/drafts/Day1.md"],
+ "exit": 1, "expect": ["'DMARD' defined more than once"], "absent": ["'UI' defined more than once", "'HR' defined more than once"]}

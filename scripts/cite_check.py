@@ -61,7 +61,12 @@ def acronyms(texts):
         for _, p in blocks(t):
             p = TAG.sub("", p)
             for m in DEF_SPAN.finditer(p):
-                for a in acros(m.group(1)):
+                # only the first token defines: '(DALYs; 95% UI …)' → DALY; '(95% CI 1.1–2.0)' and
+                # '(HR 0.91)' are data, not definitions
+                span = m.group(1).strip()
+                if re.match(r"\S+\s+[<>=≤≥−-]?\d", span):
+                    continue
+                for a in acros(re.split(r"[;,\s]", span)[0]):
                     defined[a] = defined.get(a, 0) + 1
             used |= acros(DEF_SPAN.sub("", p))  # drop long forms: 'AMP-activated … (AMPK)'
     undefined = sorted(a for a in used if a not in defined and a not in ACRO_OK)
@@ -109,7 +114,7 @@ def check(md, papers, all_drafts=()):
             if a in mine:
                 issues.append((mine[a][0], f"'{a}' used but never defined as 'long form ({a})'", mine[a][1]))
         for a in twice:
-            if f"({a})" in md:
+            if re.search(rf"\({re.escape(a)}s?\)", md):  # plural '(DMARDs)' defines DMARD too
                 issues.append(("acronyms", f"'{a}' defined more than once across drafts", a))
     return issues
 

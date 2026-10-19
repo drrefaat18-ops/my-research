@@ -10,7 +10,8 @@ import sys
 
 N = 7  # ponytail: 7-word shingles, same idea as iThenticate's "exact match"; not a web-wide check
 # Proper names that must be quoted verbatim (instrument/guideline titles); removed from draft before matching.
-NAMES = ["Scale for the Assessment of Narrative Review Articles"]
+NAMES = ["Scale for the Assessment of Narrative Review Articles",
+         "European Alliance of Associations for Rheumatology"]
 
 
 def words(text):
