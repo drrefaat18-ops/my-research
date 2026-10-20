@@ -51,7 +51,7 @@ updated: 2026-10-19
 | 4.2.2 | Fenofibrate | 109 | 250 | 2 + Goto2010, Shirinsky2013 | — | 4 |
 | 4.3 | ARBs | 456 | 500 | 4 | 2 identified: Goto1990, Walsh2000 (replace Wang2013 intro) + ~1 human study to find | ~7 |
 | 4.4 | Emerging candidates (1 sentence + Table 2) | 286 | 80 | 4 (in Table 2) | — | 4 |
-| 4.5 | Comparative synthesis (NEW) | 0 | 250 | re-cites | ~1 | ~1 |
+| 4.5 | Comparative synthesis (NEW, Day3, step 17 done 2026-10-20) | ~320 | 250 | 13 re-cited: Fu2026, Son2014, ElDemerdash2025, Nematalla2026, Ibrahim2020, McCarey2004, Alshammari2026, Ormseth2013, Marder2013, Kitas2019, Mostafa2020, Goto2010, Yen2026 | 0 (no new source needed) | 13 |
 | 5 | Challenges: safety/interactions with MTX & steroids (NEW), trial design, dose gap, review limits | 0 | 600 | Tsushima2026 | 1 identified: Kalantari2024 (EKB) + ~6 to find | ~8 |
 | 6 | Conclusion | 0 | 150 | — | — | 0 |
 | | **Total** | **~3,430** | **~6,890** | **~77** (+ Gwinn2008) | **~22 to find** | **~99** |
@@ -71,7 +71,7 @@ updated: 2026-10-19
 | 4.3 ARBs | 1 | human study if found | — | item 11 |
 | 4.1.5 DPP-4 inhibitors | 1 | human study | — | item 11 |
 | 2 Methods | 1 | search-method reference | 0 | item 12 |
-| 4.5 Synthesis | 1 | review of the shared pathway | — | item 17 |
+| 4.5 Synthesis | 0 | not needed: section built from papers already cited (step 17, 2026-10-20) | — | item 17 ✅ |
 | **Total** | **22** | | **≥ 7** | |
 
 Intro + Challenges + Pathophysiology = 18 of 22 and carry most of the recency → item 11 screening is still the critical step.

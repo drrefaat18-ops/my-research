@@ -22,7 +22,11 @@ Rats were divided into 6 groups, Normal group, Model group, MTX group (methotrex
 
 ==Liraglutide produced more pronounced effects when administered in combination with methotrexate.== ^nematalla2026-3
 
-In conclusion, liraglutide demonstrated significant therapeutic and protective efficacy in a CFA-induced rat model of RA. The mechanism involves metabolic reprogramming where liraglutide downregulated the hexokinase 2-succinate-hypoxia-inducible factor 1αaxis, correcting disease-associated metabolic dysregulation.
+In conclusion,
+
+==liraglutide demonstrated significant therapeutic and protective efficacy in a CFA-induced rat model of RA== ^nematalla2026-5
+
+. The mechanism involves metabolic reprogramming where liraglutide downregulated the hexokinase 2-succinate-hypoxia-inducible factor 1αaxis, correcting disease-associated metabolic dysregulation.
 
 ==Similarly, liraglutide inhibited key proinflammatory signaling cascades, specifically the nuclear factor κB/NOD-like receptor family, pyrin domain containing 3/interleukin-1β and tumor necrosis factor-α/P38 mitogen-activated protein kinase pathways.== ^nematalla2026-4
 

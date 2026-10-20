@@ -317,3 +317,10 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - Buonanno2026: not RA-only (also metabolic-population trials); weight-loss caveat is "rather than exclusively" (line 226).
 - Nallathambi2024: kept once, in Day3; removed from the Introduction.
 - Gap checked against overlap-only reviews too: each covers one class; none converts animal doses to human equivalent doses.
+
+## Step 17 cautions (Section 4.5 comparison) — Claude, 2026-10-20
+- **Fu2026 (abstract only):** the class list follows "including", so write "several classes, including …", not "seven classes" as a closed set. "Superior efficacy" only; no species, doses or numbers. Same CIA model as Son2014, so the metformin contrast is within one model.
+- **ElDemerdash2025:** rats per group differ between Methods (n = 6, line 73) and the Fig. 2 legend (n = 10, line 160); do not cite a group size. All three doses improved arthritic severity versus untreated rats (line 158).
+- **Mostafa2020:** the authors call it randomized, but patients were "sub-classified into three parallel groups according to their associated medical condition" (line 56), and the groups differed at baseline (line 79). Write "described as randomized".
+- **Goto2010:** allocation method and masking not reported; write "randomly assigned", never "blinded".
+- **Kitas2019 (TRACE RA):** 3,002 patients (line 24), the largest statin trial in the drafts; a checker agent confused it with TARA (116) through an overlap-report quote.
