@@ -106,7 +106,11 @@ The present study is a prospective, single blind, therapeutic clinical trial. El
 
 ==The patients group, consisting of the clinically more active (having 2 of the following: >6 swollen joints, >6 tender joints, morning stiffness >one hour) RA patients (n = 28).== ^shahin2011-2
 
-They received pioglitazone 30 mg orally, once daily for 12 weeks in addition to their treatment. The control group consisted of the remaining 21 patients who continued their treatment plus placebo orally, once daily for 12 weeks. The treatment of rheumatoid arthritis should be stable for at least three months before study entry and should include methotrexate orally 15 mg/ week plus non steroidal anti-inflammatory and/or oral corticosteroids ≤7.5 mg/day orally.
+They received pioglitazone 30 mg orally, once daily for 12 weeks in addition to their treatment. The control group consisted of the remaining 21 patients who continued their treatment plus placebo orally, once daily for 12 weeks. The treatment of rheumatoid arthritis should be stable for at least three months before study entry and
+
+==should include methotrexate orally 15 mg/ week plus non steroidal anti-inflammatory and/or oral corticosteroids ≤7.5 mg/day== ^shahin2011-6
+
+orally.
 
 All participants underwent two study visits at 0 and 12 weeks for assessment of disease activity, blood sampling, urine pregnancy test and response to therapy. Fasting blood samples were drawn for complete blood count (CBC), erythrocyte sedimentation rate (ESR), C- reactive protein (CRP), liver aminotransferases, and serum creatinine. All subjects also had non study visits at 4, and 8 week for regular follow up and occurrence of side effects.
 
@@ -156,7 +160,9 @@ When comparing the pioglitazone treated group of patients with the placebo treat
 
 Notably, there were no significant differences in blood glucose levels between the two groups (Table 6).
 
-Seven (25%) out of the 28 patients who received pioglitazone in the current study reported weight gain. The increase in weight ranged from 2–4 kg. No other adverse effects were observed.
+==Seven (25%) out of the 28 patients who received pioglitazone in the current study reported weight gain.== ^shahin2011-5
+
+The increase in weight ranged from 2–4 kg. No other adverse effects were observed.
 
 
 ## Discussion

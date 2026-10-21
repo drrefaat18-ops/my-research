@@ -102,7 +102,11 @@ When assessing for correlation between weight loss and other clinical outcome va
 
 ### GLP‐1RA dosing and adverse effects
 
-Patients in the treatment group were started on either SC semaglutide (n = 143, 84%), oral semaglutide (n = 15, 8%), or SC tirzepatide (n = 15, 8%). The average weekly starting dose and 12‐month dose of SC semaglutide, oral semaglutide, and SC tirzepatide were 0.4 mg and 0.9 mg, 4.4 mg and 4.6 mg, and 4.3 mg and 7.1 mg, respectively. Of the 173 patients in the treatment group, 50 patients (29%) discontinued the GLP‐1RA during the study period. The most common reasons for discontinuation were gastrointestinal adverse effects and insurance issues. In the treatment group, 26 patients (15%) experienced gastrointestinal adverse effects.
+Patients in the treatment group were started on either SC semaglutide (n = 143, 84%), oral semaglutide (n = 15, 8%), or SC tirzepatide (n = 15, 8%). The average weekly starting dose and 12‐month dose of SC semaglutide, oral semaglutide, and SC tirzepatide were 0.4 mg and 0.9 mg, 4.4 mg and 4.6 mg, and 4.3 mg and 7.1 mg, respectively.
+
+==Of the 173 patients in the treatment group, 50 patients (29%) discontinued the GLP‐1RA during the study period. The most common reasons for discontinuation were gastrointestinal adverse effects and insurance issues.== ^kellner2025-8
+
+==In the treatment group, 26 patients (15%) experienced gastrointestinal adverse effects.== ^kellner2025-9
 
 
 ## DISCUSSION

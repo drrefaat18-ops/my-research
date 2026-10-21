@@ -29,7 +29,13 @@ Statistical analysis was made using Friedman test for repeated measures (all cli
 
 ## Results
 
-Twenty-seven patients (24 women, three men) were included in the study. All patients had active disease (median DAS28 6.29, 95 % CI 6.15–6.65). Median age of patients was 59.7 years (95 % CI 55.51–62.99) with median disease duration of 9.6 years (95 % CI 8.27–18.48). Twenty-five patients were taking methotrexate at a median dose 15 mg/week (95 % CI 11.1–14.12). One patient was taking sulfasalazine, and two patients received azathioprine either in combination with methotrexate or as a monotherapy. Twelve patients received additional prednisolone (median dose 5 mg, 95 % CI 4.15–9.69).
+Twenty-seven patients (24 women, three men) were included in the study. All patients had active disease (median DAS28 6.29, 95 % CI 6.15–6.65). Median age of patients was 59.7 years (95 % CI 55.51–62.99) with median disease duration of 9.6 years (95 % CI 8.27–18.48).
+
+==Twenty-five patients were taking methotrexate at a median dose 15 mg/week== ^shirinsky2013-5
+
+(95 % CI 11.1–14.12). One patient was taking sulfasalazine, and two patients received azathioprine either in combination with methotrexate or as a monotherapy.
+
+==Twelve patients received additional prednisolone (median dose 5 mg, 95 % CI 4.15–9.69).== ^shirinsky2013-6
 
 ==Two patients terminated the study prematurely after 3 weeks of treatment due to severe back pain which was considered to be possibly related to fenofibrate.== ^shirinsky2013-2
 
@@ -47,7 +53,9 @@ Fenofibrate treatment also resulted in decreased TC, triglycerides levels, and e
 
 At baseline, the concentrations of EPC were lower in RA than in 15 control OA patients (0.17 and 0.3 %, respectively; p = 0.036). After 12 weeks of treatment, no significant changes were observed in circulating EPC levels (Table 1).
 
-The treatment was well tolerated, no serious adverse events occurred. Two patients developed acute low back pain, one patient had transient (5 days) self-limited nausea, and another patient had short-term (lasting 1 day) mild diarrhea.
+==The treatment was well tolerated, no serious adverse events occurred.== ^shirinsky2013-7
+
+Two patients developed acute low back pain, one patient had transient (5 days) self-limited nausea, and another patient had short-term (lasting 1 day) mild diarrhea.
 
 > **Fig. 1** DAS28, individual DAS28 variables (a), and other clinical efficacy outcomes (b) at baseline ("W0") and at weeks 4 ("W4"), 8 ("W8"), and 12 ("W12") of fenofibrate treatment. TJC tender joint count, SJC swollen joint count, VAS visual analog scale, GH-VAS general health score measured using VAS, MS morning stiffness, HAQ health assessment questionnaire, VAS-pain pain level measured using VAS, VAS-physician physician's global assessment of arthritis measured using VAS
 

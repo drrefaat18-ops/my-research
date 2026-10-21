@@ -120,7 +120,9 @@ Use of pioglitazone was associated with a 26.4% decrease (95% CI = 3.7% to 43.8%
 
 ### Drug side effects
 
-Treatment with pioglitazone was generally well-tolerated. Adverse effects related to the drug included lower-extremity edema in five patients (16%) compared to none among those taking placebo. Four patients were withdrawn during the pioglitazone arms of the study (one each due to leukopenia, LFT elevation, new prednisone use and lower-extremity edema). Similarly, four patients were withdrawn during the placebo arms of the study (one each due to LFT elevation, RA flare, unintended pregnancy and patient choice) (Figure 2). Use of pioglitazone was associated with a 0.76 kg increase (95% CI = 0.10 to 1.42 kg) in body weight (P = 0.023).
+Treatment with pioglitazone was generally well-tolerated. Adverse effects related to the drug included lower-extremity edema in five patients (16%) compared to none among those taking placebo. Four patients were withdrawn during the pioglitazone arms of the study (one each due to leukopenia, LFT elevation, new prednisone use and lower-extremity edema). Similarly, four patients were withdrawn during the placebo arms of the study (one each due to LFT elevation, RA flare, unintended pregnancy and patient choice) (Figure 2).
+
+==Use of pioglitazone was associated with a 0.76 kg increase (95% CI = 0.10 to 1.42 kg) in body weight (P = 0.023).== ^ormseth2013-5
 
 
 ### Washout and assessment for carryover effect

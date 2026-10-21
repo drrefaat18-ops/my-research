@@ -96,7 +96,13 @@ Both candesartan and atorvastatin treated groups (groups 2 and 3) showed signifi
 
 The decrease in the serum level of inflammatory cytokines (IL-1β and TNF-α) was accompanied by significant improvement in physical and clinical parameters regarding PGA, number of tender joints (NSJ) and morning stiffness. This was also associated with improvement in the disease activity and the quality of life regarding DAS28 and HAQ-DI for both candesartan and atorvastatin groups as compared to baseline data and as compared to the control group throughout the three months follows up period.
 
-As compared to baseline, group 3 showed significant elevation in liver enzymes which did not exceed the upper limit (ALT level: from 22.40±7.48 to 30.60±7.84 IU/l and AST level: from 23.13±8.45 to 29.40±7.16 IU/l). On the other hand, both group 2 and control group showed non-significant change in liver enzymes as compared to their baseline values. There was no significant change in kidney function (BUN and S.Cr) for all studied groups as compared to their baseline data.
+As compared to baseline, group 3 showed significant elevation in liver enzymes which did not exceed the upper limit (ALT level: from 22.40±7.48 to 30.60±7.84 IU/l and AST level: from 23.13±8.45 to 29.40±7.16 IU/l). On the other hand,
+
+==both group 2 and control group showed non-significant change in liver enzymes as compared to their baseline values== ^mostafa2020-8
+
+.
+
+==There was no significant change in kidney function (BUN and S.Cr) for all studied groups as compared to their baseline data.== ^mostafa2020-9
 
 
 ## Discussion

@@ -269,7 +269,8 @@ Each original was taken from the reference list of the paper that made the secon
 ### Abstract-only papers (full text not reachable) — 2026-10-07
 ⚠️ Saved from the Europe PMC abstract. Cite only what the abstract states.
 
-**Dobashi2026 — Rheumatology (target-trial emulation, Japanese claims; RA + T2DM)**
+**Dobashi2026 — Rheumatology (target-trial emulation, administrative claims; RA + T2DM)**
+- ⚠️ The abstract does not name the country (step 18 checker) → do not write "Japanese" for this study.
 - n: 9772 new antidiabetic users (13% SGLT2i initiators, 42% on glucocorticoids); mean 34-month follow-up
 - UTI, ITT: "no significant difference between SGLT2i and other antidiabetic drug"
 - UTI, as-treated: "adjusted incidence rate ratio 1.64, 95% CI 1.26-2.13"
@@ -280,7 +281,7 @@ Each original was taken from the reference list of the paper that made the secon
 - MTX 20 mg/kg i.p.; empagliflozin 10 or 30 mg/kg/day i.p.
 - Empagliflozin improved liver histology, AST/ALT and antioxidant enzymes; the higher dose worked better
 - 💊 HED: empagliflozin 10 / 30 mg/kg rat → ~97 / ~290 mg/day for 60 kg vs clinical 10–25 mg/day → ~4–12× max, and i.p. → say so.
-- ⚠️ Animal, single MTX toxic dose (not a weekly RA regimen). Supporting only.
+- ⚠️ Animal; the abstract gives MTX 20 mg/kg i.p. but does not say "single" (corrected 2026-10-21, step 18) → do not write "single dose". Supporting only.
 
 **Nematalla2026 — J Pharmacol Exp Ther (rats, CFA arthritis; Egyptian group)**
 - Liraglutide 75 μg/kg/day i.p. (prevention from day 1, or treatment from day 15 to day 56), alone or + MTX 1 mg/kg/wk i.p.
@@ -324,3 +325,14 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Mostafa2020:** the authors call it randomized, but patients were "sub-classified into three parallel groups according to their associated medical condition" (line 56), and the groups differed at baseline (line 79). Write "described as randomized".
 - **Goto2010:** allocation method and masking not reported; write "randomly assigned", never "blinded".
 - **Kitas2019 (TRACE RA):** 3,002 patients (line 24), the largest statin trial in the drafts; a checker agent confused it with TARA (116) through an overlap-report quote.
+
+### Step 18 cautions (2026-10-21, Section 5 safety)
+- **Kitas2019:** CK and ALT "levels" were 12–15% higher with atorvastatin (line 173, Mann-Whitney) → never "mean". Muscle pain counted as reports, not patients. No subgroup by MTX or glucocorticoid.
+- **Tsushima2026:** IMIDs + T2D, not RA only (RA 65–68%); UTI HR 1.14 (0.84–1.55) is "no significant difference", not "similar"; glucocorticoid interaction "no evidence", wide CI; genital infection is a secondary outcome. Interaction analyses were prespecified (line 22).
+- **Abdallah2021:** low-dose MTX (7.5 mg/week); AE rates did not differ between groups (line 210), so ALT 15% vs 6.67% is not a liver benefit.
+- **Gharib2021:** background csDMARDs; MTX never named → do not tie it to MTX.
+- **Shahin2011:** MTX 15 mg/week plus NSAIDs and/or corticosteroids ≤7.5 mg/day was an entry rule; actual steroid use not reported.
+- **Shirinsky2013:** uncontrolled open-label pilot; 25/27 on MTX, 12 on prednisolone; safety from patient reports.
+- **Mostafa2020:** candesartan: no significant change in liver enzymes; kidney function unchanged in all groups; atorvastatin 20 mg ALT/AST rose but stayed under the upper limit (line 99). Adverse events not mentioned in the text (tables not in the file).
+- **Kellner2025:** 29% stopped; reasons GI adverse effects and insurance (non-drug), split not reported; 15% had GI adverse effects.
+- **Ormseth2013:** weight +0.76 kg (0.10–1.42) vs placebo; one of two pioglitazone crossover RCTs (Marder2013 is the other).

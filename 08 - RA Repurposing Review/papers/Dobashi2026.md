@@ -20,7 +20,17 @@ An administrative claim database identified RA patients aged ≥18 years with 
 
 ### Results
 
-Among the 26 754 patients in Population 1, SGLT2i prescriptions notably increased, while traditional diabetes medications decreased. Population 2 included 9772 patients (mean age 69.8 years, 60% women, 13% SGLT2i initiators, 42% on glucocorticoids). During a mean 34-month follow-up, 2269 UTI events occurred in 1373 patients. ITT analysis showed no significant difference between SGLT2i and other antidiabetic drug. However, AT analysis demonstrated statistically significant association (adjusted incidence rate ratio 1.64, 95% CI 1.26-2.13). The SGLT2i-daily glucocorticoid dose interaction was not significant in either model.
+Among the 26 754 patients in Population 1, SGLT2i prescriptions notably increased, while traditional diabetes medications decreased.
+
+==Population 2 included 9772 patients (mean age 69.8 years, 60% women, 13% SGLT2i initiators, 42% on glucocorticoids).== ^dobashi2026-4
+
+During a mean 34-month follow-up, 2269 UTI events occurred in 1373 patients.
+
+==ITT analysis showed no significant difference between SGLT2i and other antidiabetic drug.== ^dobashi2026-1
+
+==However, AT analysis demonstrated statistically significant association (adjusted incidence rate ratio 1.64, 95% CI 1.26-2.13).== ^dobashi2026-2
+
+==The SGLT2i-daily glucocorticoid dose interaction was not significant in either model.== ^dobashi2026-3
 
 ### Conclusions
 

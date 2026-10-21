@@ -97,7 +97,11 @@ Between August 7, 2007 and November 21, 2011, 3,002 patients with RA from 102 ce
 
 #### Baseline characteristics of the patients
 
-At baseline, the randomized groups were well balanced for all demographic, anthropometric, and RA characteristics, antirheumatic and other therapies, and CVD risk factors, except for current smoking and nonsteroidal antiinflammatory drug (NSAID) or cyclooxygenase 2 inhibitor (coxib) treatment, which were higher in the atorvastatin group than in the placebo group (18.4% versus 14.5% for current smoking and 42.9% versus 38.0% for NSAID or coxib treatment). A total of 40.3% of the patients had low disease activity according to the DAS28 or were in remission (DAS28 ≤3.2), 86% were receiving stable doses of conventional synthetic DMARDs, 16% were receiving biologic DMARDs, and 17% were receiving steroid therapy (Table 1 and Supplementary Table 2, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.40892/abstract).
+At baseline, the randomized groups were well balanced for all demographic, anthropometric, and RA characteristics, antirheumatic and other therapies, and CVD risk factors, except for current smoking and nonsteroidal antiinflammatory drug (NSAID) or cyclooxygenase 2 inhibitor (coxib) treatment, which were higher in the atorvastatin group than in the placebo group (18.4% versus 14.5% for current smoking and 42.9% versus 38.0% for NSAID or coxib treatment). A total of 40.3% of the patients had low disease activity according to the DAS28 or were in remission (DAS28 ≤3.2),
+
+==86% were receiving stable doses of conventional synthetic DMARDs, 16% were receiving biologic DMARDs, and 17% were receiving steroid therapy== ^kitas2019-10
+
+(Table 1 and Supplementary Table 2, available on the Arthritis & Rheumatology web site at http://onlinelibrary.wiley.com/doi/10.1002/art.40892/abstract).
 
 > **Table 1** Baseline characteristics of the patients randomized to receive atorvastatin or placeboa
 
@@ -145,7 +149,17 @@ Two hundred fourteen (14.2%) of the patients in the atorvastatin group versus 22
 
 Life‐threatening but nonfatal serious adverse events (SAEs) occurred in 22 patients in the atorvastatin group versus 24 patients in the placebo group, while SAEs resulting in death occurred in 19 and 18 patients, respectively. None were considered to be related to trial medication. The randomization code was broken at the site in 3 cases in the atorvastatin arm (due to liver cysts with elevated ALT level, acute hepatitis, and abnormal findings on liver function tests) and 2 cases in the placebo arm (due to high grade lymphoma and chest infection), none of which was attributed to trial medication.
 
-There were 64 reports of “RA flare” (significant worsening of RA symptoms), 29 in the atorvastatin group and 35 in the placebo group. There were 249 reports of “new or significant muscle pain,” 132 in the atorvastatin group versus 117 in the placebo group (P = 0.354). Of these, 13 (9 patients in the atorvastatin group versus 4 patients in the placebo group) had concurrent ALT or AST elevation of >2× the ULN, which was neither sustained nor considered to be related to the trial medication. Three of these patients (2 in the atorvastatin group and 1 in the placebo group) were withdrawn from the trial by the local principal investigator. None of the patients had a CK elevation of >10× the ULN. Two patients (1 in each group) had unsustained CK elevations of 3–10× the ULN; neither was considered to be due to trial medication. No asymptomatic cases of CK elevation were detected either on monitoring per protocol or during routine DMARD monitoring. There were no cases of ALT or AST elevation of >5× the ULN on per protocol testing, but there were 6 cases outside protocol testing (all unsustained and considered unrelated to trial medication). Overall, there were 159 cases of ALT or AST elevation of 2–5× the ULN (90 in the atorvastatin group and 69 in the placebo group; P = 0.103), none of which was sustained or attributed to trial medication.
+There were 64 reports of “RA flare” (significant worsening of RA symptoms), 29 in the atorvastatin group and 35 in the placebo group.
+
+==There were 249 reports of “new or significant muscle pain,” 132 in the atorvastatin group versus 117 in the placebo group (P = 0.354).== ^kitas2019-11
+
+Of these, 13 (9 patients in the atorvastatin group versus 4 patients in the placebo group) had concurrent ALT or AST elevation of >2× the ULN, which was neither sustained nor considered to be related to the trial medication. Three of these patients (2 in the atorvastatin group and 1 in the placebo group) were withdrawn from the trial by the local principal investigator.
+
+==None of the patients had a CK elevation of >10× the ULN.== ^kitas2019-12
+
+Two patients (1 in each group) had unsustained CK elevations of 3–10× the ULN; neither was considered to be due to trial medication. No asymptomatic cases of CK elevation were detected either on monitoring per protocol or during routine DMARD monitoring. There were no cases of ALT or AST elevation of >5× the ULN on per protocol testing, but there were 6 cases outside protocol testing (all unsustained and considered unrelated to trial medication).
+
+==Overall, there were 159 cases of ALT or AST elevation of 2–5× the ULN (90 in the atorvastatin group and 69 in the placebo group; P = 0.103), none of which was sustained or attributed to trial medication.== ^kitas2019-13
 
 
 #### Biochemical and arthritis outcomes at the end of the trial
@@ -156,7 +170,9 @@ At the end of the trial, mean LDL cholesterol levels were 0.77 mmoles/liter lowe
 
 ==However, CRP levels were significantly lower in the atorvastatin group (median 2.59 mg/liter [IQR 0.94, 6.08]) than in the placebo group (median 3.60 mg/liter [IQR 1.47, 7.49]) (P < 0.0001).== ^kitas2019-8
 
-Although levels of CK and ALT (but not AST) were statistically significantly higher (by ~12–15%) in the atorvastatin group (Table 3), these differences are not considered clinically significant. The number of cases of myopathy and elevations of liver enzyme levels above the normal range were similar in the 2 groups. In the end‐of‐trial analysis of the atorvastatin group, lipid, ALT, and CRP levels were significantly associated with compliance (data not shown).
+==Although levels of CK and ALT (but not AST) were statistically significantly higher (by ~12–15%) in the atorvastatin group (Table 3), these differences are not considered clinically significant.== ^kitas2019-14
+
+The number of cases of myopathy and elevations of liver enzyme levels above the normal range were similar in the 2 groups. In the end‐of‐trial analysis of the atorvastatin group, lipid, ALT, and CRP levels were significantly associated with compliance (data not shown).
 
 > **Table 3** Lipid levels and other outcomes at trial end by treatment arma
 

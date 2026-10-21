@@ -107,3 +107,11 @@ sources: PubMed (NIH E-utilities) · Europe PMC · OpenAlex (Crossref, includes 
 | Pan2024 | Statin use and RA risk, 9 studies (PMC11265694) | SR/MA | ✅ already in papers/ |
 | Kyriazi2025 | Antiobesity medications in rheumatology (Ann Rheum Dis, 10.1016/j.ard.2025.08.013) | viewpoint/review | ⬜ not read (third-party summary only) |
 | MJR2026 in press | GLP-1 RA narrative review (Mediterr J Rheumatol) | narrative review | ⬜ not read (PDF without text layer) |
+
+## Section 5 safety (step 18, 2026-10-21)
+| Tag | Study | Type | Status |
+|---|---|---|---|
+| Dobashi2026 | SGLT2i and UTI in RA + T2DM, target-trial emulation, Rheumatology (PMID 41191914) | cohort (abstract only) | ✅ cited Day5 |
+| Tsushima2026 | SGLT2i vs metformin, UTI/genital infection, IMIDs + T2D (PMC13398639) | cohort | ✅ cited Day5 |
+| Kalantari2024 | Empagliflozin vs MTX hepatotoxicity in rats (PMID 38064971) | animal (abstract only) | ✅ cited Day5 |
+| Bak2025 | Rosuvastatin/ezetimibe in RA/OA dyslipidaemia, open-label (PMID 40631878) | trial (abstract seen in search) | not included (lipid trial, abstract only) |
