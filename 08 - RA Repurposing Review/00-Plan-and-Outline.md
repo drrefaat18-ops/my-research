@@ -52,7 +52,7 @@ updated: 2026-10-19
 | 4.3 | ARBs | 456 | 500 | 4 | 2 identified: Goto1990, Walsh2000 (replace Wang2013 intro) + ~1 human study to find | ~7 |
 | 4.4 | Emerging candidates (1 sentence + Table 2) | 286 | 80 | 4 (in Table 2) | — | 4 |
 | 4.5 | Comparative synthesis (NEW, Day3, step 17 done 2026-10-20) | ~320 | 250 | 13 re-cited: Fu2026, Son2014, ElDemerdash2025, Nematalla2026, Ibrahim2020, McCarey2004, Alshammari2026, Ormseth2013, Marder2013, Kitas2019, Mostafa2020, Goto2010, Yen2026 | 0 (no new source needed) | 13 |
-| 5 | Challenges: part 1 safety/interactions with MTX & glucocorticoids (step 18 done 2026-10-21, Day5, ~557 words, over the 300–350 target); part 2 trial design, dose gap, review limits (step 19) | ~557 | 600 | 3 new: Dobashi2026, Tsushima2026, Kalantari2024; re-cited: Kitas2019, Abdallah2021, Gharib2021, Shahin2011, Shirinsky2013, Kellner2025, Ormseth2013, Mostafa2020, Israel2026 | step-18 search (16 queries) added none | ~12 |
+| 5 | Challenges: part 1 safety/interactions with MTX & glucocorticoids (step 18 done 2026-10-21, Day5, ~383 words after shortening); part 2 trial design, dose gap, review limits (step 19) | ~383 | 600 | 3 new: Dobashi2026, Tsushima2026, Kalantari2024; re-cited: Kitas2019, Abdallah2021, Gharib2021, Shahin2011, Shirinsky2013, Kellner2025, Ormseth2013, Mostafa2020, Israel2026 | step-18 search (16 queries) added none | ~12 |
 | 6 | Conclusion | 0 | 150 | — | — | 0 |
 | | **Total** | **~3,430** | **~6,890** | **~77** (+ Gwinn2008) | **~22 to find** | **~99** |
 

@@ -336,3 +336,4 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Mostafa2020:** candesartan: no significant change in liver enzymes; kidney function unchanged in all groups; atorvastatin 20 mg ALT/AST rose but stayed under the upper limit (line 99). Adverse events not mentioned in the text (tables not in the file).
 - **Kellner2025:** 29% stopped; reasons GI adverse effects and insurance (non-drug), split not reported; 15% had GI adverse effects.
 - **Ormseth2013:** weight +0.76 kg (0.10–1.42) vs placebo; one of two pioglitazone crossover RCTs (Marder2013 is the other).
+- **Chodick2010:** the statin mechanism sentences (isoprenylation of Ras/Rho, MHC-II suppression, LFA-1/ICAM-1) sit in its Discussion and cite refs 27, 32, 33 → second-hand; never highlight or cite them as Chodick2010 (the gate flags them). Day1 cites Greenwood2006 and Kwak2000.
