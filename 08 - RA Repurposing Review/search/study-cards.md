@@ -337,3 +337,13 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Kellner2025:** 29% stopped; reasons GI adverse effects and insurance (non-drug), split not reported; 15% had GI adverse effects.
 - **Ormseth2013:** weight +0.76 kg (0.10–1.42) vs placebo; one of two pioglitazone crossover RCTs (Marder2013 is the other).
 - **Chodick2010:** the statin mechanism sentences (isoprenylation of Ras/Rho, MHC-II suppression, LFA-1/ICAM-1) sit in its Discussion and cite refs 27, 32, 33 → second-hand; never highlight or cite them as Chodick2010 (the gate flags them). Day1 cites Greenwood2006 and Kwak2000.
+
+### Audit cautions (2026-10-22, audit-2026-10)
+- **Mostafa2020:** Table III body is not in the paper file (caption only, line 89); the text gives only the three-group ANOVA (line 87). "post hoc P < 0.05" for candesartan vs control is unverified until the table is re-extracted.
+- **Fu2026 (abstract only):** cited 6 times in Day1–Day4; the Day4 pioglitazone mitophagy chain and the Day3 class comparison rest on it alone.
+- **Nematalla2026 (abstract only):** the abstract says CFA-induced arthritis, not "AIA".
+- **Chung2008, Qiao2024:** about 370 words each but no "Abstract only" banner; check the source before citing beyond the abstract.
+- **WangQ2025:** 0.76 is a hazard ratio over up to 5 years, not a 5-year risk.
+- **Kachhadia2026:** follow-up is median 3.1 vs 6.4 years in Results but mean 3.9 vs 6.4 years elsewhere; cite the Results for "median".
+- **Tang2011:** the extracted table does not label its P-value columns; P < 0.001 for DAS28 is read, not stated.
+- **NairJacob2016:** Table 1 (mouse Km) is not in the file; the Day1 810–1,220 mg figure cannot be rechecked from it.

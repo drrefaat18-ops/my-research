@@ -1,9 +1,9 @@
 ---
 tags: [review-article, RA, repurposing]
 target: Q2 international journal (chosen by Dr. Ahmed Morad after delivery)
-deadline: 2026-11-08
+deadline: 2026-11-12
 status: writing
-updated: 2026-10-19
+updated: 2026-10-22
 ---
 
 # RA Drug Repurposing Review — Plan
@@ -14,11 +14,12 @@ updated: 2026-10-19
 **Type:** narrative review with a structured, reproducible literature search (Methods + Figure 4 search overview). Never call it "systematic" or "semi-systematic" in the manuscript; quality checklist = SANRA (Baethge 2019).
 
 ## Fixed targets
-| Item | Target | Status 2026-10-19 (after step 16) |
+| Item | Target | Status 2026-10-22 (audit-2026-10, after step 18) |
 |---|---|---|
-| Words (body, no refs/tables) | ≥ 6,500 (minimum only; no cap until journal chosen) | ~9,900 in drafts Day1–6 (Introduction ~1,340 of it, script count) |
-| Unique references | ≥ 80 | 112 cited in drafts · 124 in `papers/` |
-| Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 64/110 = 58% |
+| Words (body, no refs/tables) | ≥ 6,500 (minimum only; no cap until journal chosen) | ~12,570 in drafts Day0–6 (`wc`, includes headings) |
+| Unique references | ≥ 80 | 115 cited in drafts · 124 in `papers/` (9 uncited) |
+| Recent refs (year ≥ 2021, `cite_check.py`) | ≥ 40% | 69/115 = 60% (2024–2026 only: 34.8%) |
+| Audit 2026-10-22 | — | 30 findings, 4 blockers; plan revised, delivery moved to 2026-11-12 ([[search/ledgers/audit-2026-10/report]]) |
 | Figures | 4 original + graphical abstract | 0 final |
 | Tables | 3 | 0 final |
 | Overlap / AI detectors | 0% / ≤ 20% each | Day1–3 pass (overlap vs `papers/` only) |
