@@ -1,0 +1,23 @@
+# Words that must never appear in a kit: traces of projects kits were extracted from.
+# One per line, case-insensitive substring. Add the source project's terms with --terms for each new kit.
+Techno Square
+academy
+Moon OS
+EV3
+LEGO
+SPIKE Prime
+micro:bit
+course_
+Brain/
+_sources/
+pharmacolog
+PMID
+PMCID
+Europe PMC
+dose
+receptor
+Repurposing
+Anthropic
+OpenAI
+xAI
+Grok
