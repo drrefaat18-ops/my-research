@@ -33,6 +33,10 @@
 | Skeptic panel: N lenses try to refute, majority keeps | any claim before a human sees it | `workflows/skeptic-panel.js` |
 | Loop until dry: repeat until K rounds find nothing new | bug hunts, unknown-size discovery | `workflows/loop-until-dry.js` |
 
+A skeptic sees the claim and its evidence only, never the worker's conversation; a checker sharing the worker's
+context agrees with it. Web-sourced claims: `web: true` adds the *current* and *source* lenses.
+Single-agent loops (draft, check, cap, keep rate): `agent-loop-kit`.
+
 Loop rule: dedupe against **everything seen**, not only confirmed results, or rejected finds come back
 every round and the loop never ends.
 
@@ -65,7 +69,7 @@ Cycle (one command each; agents only in step 4):
 7. `audit` - `[fix]` = a note is wrong: fix it in the notes through the normal pipeline; `[note]` = review list.
 
 What it adds over the note app's own graph view: inferred edges with confidence, communities, and the audit.
-Lessons from a 93-note vault (2026-10):
+Lessons from a 93-note project (2026-10):
 - **Audit, not search.** On a small corpus, search and RAG answer daily questions. The graph pays off as a
   periodic check after a batch of edits: unsourced links, legacy facts linked as current, one entity under
   several names, isolated notes, hub notes to review first (their errors spread furthest).
@@ -73,7 +77,7 @@ Lessons from a 93-note vault (2026-10):
   (cheap model, 20-25 files each), never with a hosted extraction backend, even when its API key is set.
 - **Stage outside the project.** Copy the corpus elsewhere and run graphify there; a copy inside a note app's
   folder shows every note twice. Keep graphify's cache with the staging copy so `--update` stays cheap.
-- **Shared ids.** Tell every extraction agent the same id scheme for cross-note entities (`course_<slug>`,
+- **Shared ids.** Tell every extraction agent the same id scheme for cross-note entities (`item_<slug>`,
   `person_<slug>`, `note_<title slug>`, ...); per-file ids never merge, and the graph falls apart into islands.
 - **Keep old ids on update.** An agent re-reading one file invents new ids and silently cuts edges from files it
   did not read. Run `graph_audit.py ids <file>` and paste the result into the update prompt.

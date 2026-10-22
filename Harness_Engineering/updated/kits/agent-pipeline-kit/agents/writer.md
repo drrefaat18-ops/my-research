@@ -21,8 +21,8 @@ Section order: {{SECTION_ORDER}}
 1. Use only facts in the cards. No number, unit, statistic or claim that is not in a card.
 2. Required wording in the brief is used exactly; excluded items stay out.
 3. Our own interpretation (no source says it) gets no citation and is hedged ("may explain").
-4. The same study reported twice is named as the same study ("In the same trial").
-5. Observational data are "associated with", never causal verbs.
+4. The same source reported twice is named as the same source ("In the same report").
+5. Wording is no stronger than the source: a correlation is "associated with" (never a causal verb), a plan is "planned", an estimate is "about".
 6. Citation tags stay exactly as given: {{TAG_FORMAT}}.
 7. Do not copy {{OVERLAP_N}}+ consecutive words from a quote; reorder number strings.
 

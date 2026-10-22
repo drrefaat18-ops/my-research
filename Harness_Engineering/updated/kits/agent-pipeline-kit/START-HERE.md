@@ -11,7 +11,7 @@ You are installing a multi-agent writing pipeline into this project. Read `PIPEL
 
 ## Phase 1 — Interview (skip what the project already answers, and say so)
 1. **Work:** what is written (review, report, brief…), for whom, in which language? Where do drafts live?
-2. **Sources:** where are they, in what format, with line-addressable text (markdown)? If not, how are they converted?
+2. **Sources:** where are they, in what format, with line-addressable text (markdown)? If not, how are they converted? Which stable ID do they carry (DOI, case number, URL…)? What must every evidence card record (date, party, n…)?
 3. **Brief:** does a per-sentence plan exist before writing (ideas, required wording, exclusions)? Where?
 4. **Style rules:** is there one file of writing rules? If not, collect them into one.
 5. **Checks:** which scripts or commands judge a draft (overlap, citations, style, links)? Which hook runs them?

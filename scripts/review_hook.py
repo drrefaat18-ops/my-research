@@ -71,6 +71,24 @@ def is_draft(path):
     return "RA Repurposing Review/drafts/" in p and re.search(r"/Day[1-9][^/]*\.md$", p)
 
 
+def is_ledger(path):
+    p = path.replace("\\", "/")
+    return "RA Repurposing Review/search/ledgers/" in p and re.search(r"/(ledger|report)\.md$", p) \
+        and "/_templates/" not in p
+
+
+def run_ledger(path):
+    """research-kit gate on <task>/ledger.md (+ report.md when present)."""
+    d = os.path.dirname(path)
+    if not os.path.exists(os.path.join(d, "ledger.md")):
+        return 0, ""
+    cmd = [sys.executable, os.path.join(HERE, "ledger_check.py"), os.path.join(d, "ledger.md")]
+    if os.path.exists(os.path.join(d, "report.md")):
+        cmd += ["--report", os.path.join(d, "report.md")]
+    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+    return r.returncode, r.stdout + r.stderr
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")  # Windows console is cp1252; findings carry ✅/α/µ
     sys.stderr.reconfigure(encoding="utf-8")
@@ -78,6 +96,13 @@ def main():
     name = ev.get("hook_event_name")
     if name == "PostToolUse":
         path = (ev.get("tool_input") or {}).get("file_path", "")
+        if is_ledger(path):
+            code, out = run_ledger(path)
+            if code:
+                sys.stderr.write("ledger_check found [fix] items in this research ledger (research-kit). "
+                                 "Fix them before reporting:\n" + out)
+                return 2
+            return 0
         if not is_draft(path):
             return 0
         code, out = run_gate([path])

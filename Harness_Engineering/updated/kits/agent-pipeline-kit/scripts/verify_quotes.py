@@ -6,7 +6,7 @@ apostrophe variants normalised). OK = on the stated line, MOVED = elsewhere in t
 (fix the line number), FAIL = not in the file (drop the card). Exit 1 if any FAIL.
 
 Usage:
-    python scripts/verify_quotes.py cards.txt "08 - RA Repurposing Review/papers"
+    python scripts/verify_quotes.py cards.txt "sources/md"
     python scripts/verify_quotes.py --demo
 """
 import os, re, sys, tempfile

@@ -4,9 +4,9 @@ A writing pipeline for source-based work (reviews, reports, theses, legal or tec
 one strong model orchestrates, cheap agents gather and check evidence, one agent writes, and a
 human only reviews. Every sentence ends up traceable to a verbatim quote in a source file.
 
-Proven on a pharmacology review (2026-10-10): 23 of 23 agent quotes matched the sources verbatim,
-source overlap fell from 10.6% to 1.8%, and the pipeline caught an unsupported claim plus a review
-paper whose own references did not support the sentence it was cited for.
+Proven on a literature review (2026-10-10): 23 of 23 agent quotes matched the sources verbatim,
+source overlap fell from 10.6% to 1.8%, and the pipeline caught an unsupported claim plus a summary
+source whose own references did not support the sentence it was cited for.
 
 1. Unzip this folder into your project root (keep the name `agent-pipeline-kit`).
 2. Works best on top of `harness-kit` (rules file, gates, hooks). Without it, the gate step becomes a manual command.

@@ -40,7 +40,8 @@
 - `08 - RA Repurposing Review/LESSONS.md` — lesson ladder (observation → pattern → candidate → confirmed)
 - `.claude/workflows/evidence.js` — pipeline step 2 as a workflow; kits: `Harness_Engineering/updated/kits/`
 - `scripts/graph_audit.py` — knowledge-graph audit (graphify, read-only toward notes; procedure in its docstring). Run after a batch of draft edits and before supervisor delivery; `[fix]` findings go through the normal fix path
-- `.claude/agents/*.md` — agent role files (use inline per RULE 1)
+- `.claude/agents/*.md` — 8 role files in use + `Explore.md` (Haiku search); the other 738 sit in `.claude/agents-archive/` (cost: not loaded each session) — move one back only when a task needs it
+- `scripts/keep_rate.py`, `cost.py` + `prices.json`, `ledger_check.py` — agent-loop, cost-control and research kits (rules: `Harness_Engineering/updated/kits/<kit>/`)
 
 ## Session Start (every new session, before any work)
 
@@ -65,7 +66,13 @@ Opus session = orchestrator (`research-synthesist.md` inline). Announce count + 
 5. Insert (orchestrator) → `review_gate.py`; 6. Checks: Haiku (`testing-test-results-analyzer.md`) runs gate, secondary, links, ledger, number match.
 7. Fix: same Sonnet via SendMessage, max 3 rounds, then escalate. Small mechanical rewording may be done inline.
 8. Accuracy: orchestrator as statistician + clinical-evidence + reality-checker → numbered findings for the user.
-9. Review by agents, not the user (user asked 2026-10-18): one Sonnet (`testing-reality-checker.md`) checks sentences and figure arrows against the cards → numbered findings; the orchestrator confirms each against the paper and fixes the real ones. The user gets a short Arabic summary only. Only Grammarly (no tool) stays with the user, batched at steps 24–26. Notes go under the START-HERE step. Kit for other projects: `Harness_Engineering/agent-pipeline-kit/`.
+9. Review by agents, not the user (user asked 2026-10-18): one Sonnet (`testing-reality-checker.md`) checks sentences and figure arrows against the cards → numbered findings; the orchestrator confirms each against the paper and fixes the real ones. The user gets a short Arabic summary only. Only Grammarly (no tool) stays with the user, batched at steps 24–26. Notes go under the START-HERE step. Kits for other projects: `Harness_Engineering/updated/kits/`.
+
+## Loops, research, cost (kits added 2026-10-22)
+
+- **Loops (LOOPS 8–12):** a self-score is never done; done = the gate passes. Cap 3 tries, same findings twice = stop. Log every pipeline fix loop and evidence→verify run under the START-HERE step as `loop | <name> | kept|discarded | <note>`; `python scripts/keep_rate.py "08 - RA Repurposing Review/START-HERE.md"` below 0.5 = fix the check or go manual.
+- **Research questions** (novelty, "no study yet", limits, any web search): brief + ledger in `08 - RA Repurposing Review/search/ledgers/<task-id>/` from `_templates/`; lanes primary / independent / counter (`lane-prompt.md`); `review_hook.py` runs `ledger_check.py` on every ledger/report edit. Traps: `ledgers/research-evals.md`.
+- **Cost:** measure before changing (`/cost` line → `python scripts/cost.py "<line>"`); clear between unrelated tasks; pick the model at session start; every spawned agent names its model.
 
 ## Run rules (from Anthropic "Building effective agent automations", 2026-10-08)
 

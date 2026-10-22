@@ -30,7 +30,7 @@ OUT = PROJECT / "graphify-out" / "project"              # what gets published (t
 GRAPHIFY_PY = Path(sys.executable)                      # the Python that has graphify installed
 INCLUDE = ["notes/**/*.md", "*.md", "logs/*.md"]        # glob patterns relative to PROJECT
 EXCLUDE_PREFIXES = ["notes/_drafts/", "notes/archive/"]  # relative posix prefixes to drop
-CURRENT_PREFIX = "course_"   # id prefix of "current catalog" entities (see the shared-id rule in GRAPHS.md)
+CURRENT_PREFIX = "item_"     # id prefix of canonical entities whose facts must be current (see the shared-id rule in GRAPHS.md)
 LEGACY_WORD = "legacy"       # label word the extraction prompt puts on superseded content
 # -------------------------------------------------------------------------------------------------
 PUBLISHED = ("graph.html", "graph.json", "GRAPH_REPORT.md", "cost.json")
@@ -115,7 +115,7 @@ def audit(path=OUT / "graph.json", show=8):
         return i.startswith(CURRENT_PREFIX)
 
     def legacy_entity(i):
-        # a link to a legacy *note*, a conflict or an open question is a warning, not a catalog claim
+        # a link to a legacy *note*, a conflict or an open question is a warning, not a current-fact claim
         return (LEGACY_WORD in label[i].lower() and ftype[i] != "document"
                 and not label[i].startswith(("Open", "Conflict")))
 
@@ -225,11 +225,11 @@ def selftest():
     with tempfile.TemporaryDirectory() as t:
         t = Path(t)
         g = {"nodes": [
-            {"id": CURRENT_PREFIX + "prime", "label": "Prime (LEGO SPIKE)", "file_type": "document", "source_file": "a.md"},
-            {"id": "tool_lego_spike_prime", "label": "LEGO SPIKE Prime", "file_type": "concept", "source_file": "b.md"},
-            {"id": "x_prime", "label": "Prime LEGO Spike", "file_type": "concept", "source_file": "b.md"},
-            {"id": "event_q", "label": "Quest", "file_type": "concept", "source_file": "c.md"},
-            {"id": "old", "label": f"Club ({LEGACY_WORD})", "file_type": "concept", "source_file": "c.md"}],
+            {"id": CURRENT_PREFIX + "prime", "label": "Widget Pro (Acme)", "file_type": "document", "source_file": "a.md"},
+            {"id": "product_acme_widget_pro", "label": "Acme Widget Pro", "file_type": "concept", "source_file": "b.md"},
+            {"id": "x_prime", "label": "Widget Pro Acme", "file_type": "concept", "source_file": "b.md"},
+            {"id": "event_q", "label": "Launch", "file_type": "concept", "source_file": "c.md"},
+            {"id": "old", "label": f"Plan ({LEGACY_WORD})", "file_type": "concept", "source_file": "c.md"}],
             "links": [
             {"source": "event_q", "target": CURRENT_PREFIX + "prime", "confidence": "AMBIGUOUS", "source_file": "c.md"},
             {"source": "old", "target": CURRENT_PREFIX + "prime", "confidence": "EXTRACTED", "source_file": "c.md"}]}
@@ -241,7 +241,7 @@ def selftest():
         out = buf.getvalue()
         checks = {"ambiguous link": "unsourced link" in out,
                   "legacy as current": "legacy entity linked as current" in out,
-                  "duplicate names": "LEGO SPIKE Prime / Prime LEGO Spike" in out,
+                  "duplicate names": "Acme Widget Pro / Widget Pro Acme" in out,
                   "exit 1 on fix": rc == 1}
         v = t / "proj"
         for rel in ("notes/A.md", "notes/_drafts/B.md", "logs/2026-01-01.md", "src/x.md"):
@@ -257,14 +257,15 @@ def selftest():
             stage(v, d)
         checks["stage mirrors"] = (d / "notes/A.md").is_file() and not (d / "notes/Gone.md").exists()
         checks["stage keeps cache"] = (d / GRAPHIFY_CACHE / "cache.json").is_file()
-        old = {"nodes": [{"id": "course_x", "source_file": "index.md"}, {"id": "note_a", "source_file": "a.md"},
+        x = CURRENT_PREFIX + "x"
+        old = {"nodes": [{"id": x, "source_file": "index.md"}, {"id": "note_a", "source_file": "a.md"},
                          {"id": "note_i", "source_file": "index.md"}],
-               "links": [{"source": "note_a", "target": "course_x", "source_file": "a.md"},
-                         {"source": "note_i", "target": "course_x", "source_file": "index.md"}]}
+               "links": [{"source": "note_a", "target": x, "source_file": "a.md"},
+                         {"source": "note_i", "target": x, "source_file": "index.md"}]}
         new = {"nodes": [{"id": "note_i", "source_file": str(STAGE / "index.md")}], "edges": []}
         ext, st = safe_merge(old, [new])
         checks["merge keeps unchanged edges"] = (len(ext["edges"]) == 1 and st["dangling"] == 0
-                                                 and {n["id"] for n in ext["nodes"]} == {"course_x", "note_a", "note_i"})
+                                                 and {n["id"] for n in ext["nodes"]} == {x, "note_a", "note_i"})
     for name, ok in checks.items():
         print(("PASS " if ok else "FAIL ") + name)
     return 0 if all(checks.values()) else 1

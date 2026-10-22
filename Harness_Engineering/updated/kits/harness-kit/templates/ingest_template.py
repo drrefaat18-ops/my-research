@@ -175,7 +175,7 @@ def selftest():
     RAW, OUT, MIN_CHARS = os.path.join(d, "raw"), os.path.join(d, "md"), 10
     os.makedirs(RAW)
     samples = {"a.txt": "First para has 12 units.\n\nSecond para.",
-               "b.csv": "drug,dose\nX,10 mg\nY,20 mg\n",
+               "b.csv": "item,qty\nX,10 kg\nY,20 kg\n",
                "c.html": "<html><script>x=1</script><p>Hello world here</p><p>Rate 5%</p></html>",
                "d.json": '{"k": {"v": [1, 2]}}', "e.xyz": "?", "f.txt": "tiny"}
     for n, t in samples.items():
@@ -185,7 +185,7 @@ def selftest():
                    "e.xyz": "fail", "f.txt": "short"}, got
     a = open(os.path.join(OUT, "a.txt.md"), encoding="utf-8").read()
     assert "sha256:" in a and "First para has 12 units. ^p0-1" in a and "Second para. ^p0-2" in a, a
-    assert "drug: Y | dose: 20 mg ^p0-2" in open(os.path.join(OUT, "b.csv.md"), encoding="utf-8").read()
+    assert "item: Y | qty: 20 kg ^p0-2" in open(os.path.join(OUT, "b.csv.md"), encoding="utf-8").read()
     c = open(os.path.join(OUT, "c.html.md"), encoding="utf-8").read()
     assert "x=1" not in c and "Rate 5% ^p0-2" in c, c
     assert ingest_one(os.path.join(RAW, "a.txt"))[0] == "skip"

@@ -1,4 +1,4 @@
-# Graph Report - .  (2026-10-21)
+# Graph Report - .  (2026-10-22)
 
 ## Corpus Check
 - cluster-only mode — file stats not available
@@ -38,7 +38,6 @@
 - [[_COMMUNITY_Type 2 Diabetes|Type 2 Diabetes]]
 - [[_COMMUNITY_Etanercept|Etanercept]]
 - [[_COMMUNITY_AI Prompt Rules|AI Prompt Rules]]
-- [[_COMMUNITY_Title Page Draft|Title Page Draft]]
 - [[_COMMUNITY_Internal Review Rubric|Internal Review Rubric]]
 - [[_COMMUNITY_Search Strategy Table|Search Strategy Table]]
 - [[_COMMUNITY_AT2R Receptor|AT2R Receptor]]
@@ -46,6 +45,7 @@
 - [[_COMMUNITY_MAPK Pathway|MAPK Pathway]]
 - [[_COMMUNITY_PI3KAKT Pathway|PI3K/AKT Pathway]]
 - [[_COMMUNITY_Community 36|Community 36]]
+- [[_COMMUNITY_Community 37|Community 37]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `START-HERE review plan (steps 1-31); step 18 done 2026-10-21` - 113 edges
@@ -113,28 +113,28 @@ Cohesion: 0.10
 Nodes (26): Step 15: acronym checker fixed (data brackets and plurals) with eval E007, Alshammari2026 pooled DAS28 MD -0.80 from 4 trials; 2 high risk of bias; trials only from Egypt and India, Every animal dose is followed by its human equivalent dose, Write the agent plan under the step and announce before any search or spawn, Animal dose above patient dose may explain part of the discrepancy for some classes, not metformin, Excluded sources: Sarabi2016 never cited; Kumar 2023/2024 only via Alshammari2026; Chen2020 preprint not cited, Malemud2013 removed from Pathophysiology as predatory-journal source, No second-hand citations: cite the original primary source (+18 more)
 
 ### Community 9 - "Metformin RA Evidence"
-Cohesion: 0.19
-Nodes (24): NF-kB p65 nuclear IHC, Avoid Western blot under self-funded budget, Use micronized PEA for oral bioavailability, Missing prednisolone-5-alone arm limits synergy claims, PEA + low-dose prednisolone gives steroid-sparing effect, PPAR-alpha and GR crosstalk is the mechanistic basis, Fixed prednisolone 5 mg/kg as sub-therapeutic anchor, Validate existing endpoints before buying new assays (+16 more)
-
-### Community 10 - "Review Project Management"
 Cohesion: 0.15
 Nodes (22): Baricitinib and tacrolimus are small molecules, not biologics, DUSP1 is not an established PEA mechanism, NLR rises with glucocorticoid demargination even as inflammation falls, No synergy claim without prednisolone 5 mg/kg alone arm, Avoid absolute novelty wording (100 percent, first in medical history), Pilot n=2 data appear only as one methods sentence, not as results, Vault QC gates check structure and phrases, not scientific validity, Reality checker defaults to NEEDS WORK (+14 more)
 
-### Community 11 - "Histology and Oxidative Assays"
+### Community 10 - "Review Project Management"
 Cohesion: 0.13
 Nodes (19): Complete blood count (CBC), Metabolic safety panel (glucose, lipids, ALT/AST), NF-kB p65 nuclear translocation (IHC), Neutrophil-to-lymphocyte ratio (NLR), Phospho-p38 MAPK (ELISA), Systemic immune-inflammation index (SII), Total leukocyte count (TLC), Avoid DUSP1 RT-qPCR and phospho-p38 ELISA (+11 more)
 
-### Community 12 - "Laboratory Safety Panel"
+### Community 11 - "Histology and Oxidative Assays"
 Cohesion: 0.16
 Nodes (19): Angiotensin II raises RANKL and NFATC1 through AT1R in RA synovial cells (in vitro), ARB use does not appear to worsen RA disease activity, but no disease-modifying benefit is shown, AT2R agonist C21 reduced arthritis incidence and score in CIA mice (preclinical), Some classes appear to converge on AMPK and NF-kB/NLRP3 signalling (inferred, not shown directly), PPAR-gamma activation by pioglitazone restrains NLRP3 inflammasome via mitophagic flux (preclinical), Serum ACE rises during anti-TNF and tofacitinib therapy (uncontrolled studies), Plasma angiotensin II higher in active RA in a 12-patient pilot (hypothesis-generating), Angiotensin receptor blockers (+11 more)
 
-### Community 13 - "Quality Control and Audits"
+### Community 12 - "Laboratory Safety Panel"
 Cohesion: 0.14
 Nodes (18): Erythrocyte sedimentation rate (ESR), Serum interleukin-6 (IL-6), Rheumatoid factor (RF), Total and differential WBC count, CFA challenge produced systemic leukocytosis and absolute lymphocytosis (descriptive pilot data), Endogenous PEA restores leukocyte homeostasis in CFA rats (Bonezzi 2016), Leukocyte ratios are sensitive response indicators in RA patients on targeted synthetic DMARDs (Jhou 2026), NLR rise under steroid is physiological, not inflammation-down signal (+10 more)
 
-### Community 14 - "Leukocyte and Inflammatory Markers"
+### Community 13 - "Quality Control and Audits"
 Cohesion: 0.16
 Nodes (18): Myeloperoxidase activity, Carry PEA 100 and 200 mg/kg into main protocol, Palmitoylethanolamide (PEA), Quercetin, Carrageenan paw edema (acute inflammatory pain), Chronic constriction injury neuropathic pain model, Study-07 Micronized vs ultramicronized PEA oral efficacy, Study-08 PEA in endotoxin-induced uveitis (+10 more)
+
+### Community 14 - "Leukocyte and Inflammatory Markers"
+Cohesion: 0.19
+Nodes (24): NF-kB p65 nuclear IHC, Avoid Western blot under self-funded budget, Use micronized PEA for oral bioavailability, Missing prednisolone-5-alone arm limits synergy claims, PEA + low-dose prednisolone gives steroid-sparing effect, PPAR-alpha and GR crosstalk is the mechanistic basis, Fixed prednisolone 5 mg/kg as sub-therapeutic anchor, Validate existing endpoints before buying new assays (+16 more)
 
 ### Community 15 - "Citation and Source Rules"
 Cohesion: 0.15
@@ -192,7 +192,7 @@ Nodes (8): Cardiometabolic drugs act on shared RA pathways (AMPK/mTOR, NF-kB, PP
 Cohesion: 0.47
 Nodes (6): Single-drug animal studies (metformin, dapagliflozin, liraglutide, sitagliptin) contrast with the comparative abstract, Fan2020 is delisted from Web of Science; cite only together with Son2014, Metformin reduced arthritis and protected joints in two CIA animal studies (preclinical), Fan 2020 (metformin in CIA rats, bone), Ibrahim2020 (sitagliptin in AIA rats), Son 2014 (superseded AMPK intro cite)
 
-### Community 29 - "Title Page Draft"
+### Community 30 - "Internal Review Rubric"
 Cohesion: 0.67
 Nodes (3): ACE inhibitors, Enalapril, Angiotensin-converting enzyme (ACE)
 

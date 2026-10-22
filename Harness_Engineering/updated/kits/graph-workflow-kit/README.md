@@ -4,8 +4,8 @@ Turns a straight-line agent ("do A, then B, then C") into a graph: independent j
 cheap model, plain code merges them for free, skeptics verify before anything reaches you, and one
 strong model judges. Built on Claude Code dynamic workflows (the `Workflow` tool, `.claude/workflows/`).
 
-Source: "Graph Engineering with Claude: 14-Step roadmap" (@0xCodez), adapted and hardened on the
-Techno Square vault harness (2026-10-16).
+Source: "Graph Engineering with Claude: 14-Step roadmap" (@0xCodez), adapted and hardened in daily
+use on a notes-and-sources project (2026-10).
 
 1. Unzip this folder into your project root (keep the name `graph-workflow-kit`).
 2. Works on its own; works best on top of `harness-kit` (rules, gates) and `agent-pipeline-kit` (evidence, writer).

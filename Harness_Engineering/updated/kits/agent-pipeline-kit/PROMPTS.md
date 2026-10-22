@@ -48,9 +48,9 @@ Blockers = findings in lines {{a–b}} only.
 ```
 Do not create or edit any file. Read and apply {{ROLE_DIR}}/evidence-extractor.md.
 Sentence that needs a primary source: "{{sentence}}". Current citation {{Tag}} is second-hand.
-1. Find the references it cites for this claim (its reference list, or the publisher/PMC page).
-2. For each: full citation, DOI/PMID/PMCID, free full text?, verbatim abstract quote, supports the sentence (yes/partly/no)?
-3. Or search {{years}} for original studies meeting: {{criteria in priority order}}.
+1. Find the references it cites for this claim (its reference list, or the publisher's page).
+2. For each: full citation, stable ID ({{ID_SCHEME}}), full text reachable?, verbatim quote, supports the sentence (yes/partly/no)?
+3. Or search {{years}} for original sources meeting: {{criteria in priority order}}.
 Rank up to 5. NOT FOUND / UNREADABLE when a step fails.
 ```
-Then the orchestrator re-fetches each ID (e.g. Europe PMC REST) before showing the human.
+Then the orchestrator re-fetches each ID (the source's official API or page) before showing the human.

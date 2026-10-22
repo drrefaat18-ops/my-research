@@ -5,7 +5,7 @@ export const meta = {
   phases: [{ title: 'Verify', detail: 'one agent per claim per lens, vote in code', model: 'haiku' }],
 }
 // args: { claims: [{ id: 1, text: '...', evidence: ['quote or file:line', ...] }],
-//         lenses: [{ key, ask }] (optional, defaults below), need: 2 (optional) }
+//         lenses: [{ key, ask }] (optional, defaults below), web: false (optional), need: 2 (optional) }
 // Graph: per claim fan out to distinct lenses -> vote in code. Diverse lenses catch what N identical checks miss.
 
 const VERDICT = {
@@ -18,8 +18,14 @@ const DEFAULT_LENSES = [   // {{replace with the ways a claim can be wrong in th
   { key: 'scope', ask: 'The evidence is about the same thing, case and audience as the claim.' },
   { key: 'overreach', ask: 'The claim says no more than the evidence: no stronger wording, generalisation or added cause.' },
 ]
+// For claims resting on web pages, pass web: true to add two lenses (majority recomputed: 3 of 5).
+const WEB_LENSES = [
+  { key: 'current', ask: 'The evidence carries a date, and nothing in it says it was replaced or is out of date for this claim.' },
+  { key: 'source', ask: 'The evidence names a real, specific origin (url, document, file:line) that plausibly holds this exact passage, not a search snippet or a summary.' },
+]
 
-const { claims = [], lenses = DEFAULT_LENSES } = args || {}
+const { claims = [], web = false } = args || {}
+const lenses = [...((args && args.lenses) || DEFAULT_LENSES), ...(web ? WEB_LENSES : [])]
 const need = (args && args.need) || Math.floor(lenses.length / 2) + 1
 if (!claims.length) throw new Error('args.claims is empty')
 

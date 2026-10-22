@@ -1,0 +1,9 @@
+{
+  "_note": "TEMPLATE: USD per million tokens, list price. Fill from the vendor pricing page in Phase 1. Cache write at the shortest-lifetime rate. First model is the base for ratios.",
+  "_checked": "{{PRICES_CHECKED_DATE}}",
+  "models": {
+    "{{TOP_MODEL}}":   {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0},
+    "{{MID_MODEL}}":   {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0},
+    "{{CHEAP_MODEL}}": {"input": 0, "output": 0, "cache_write": 0, "cache_read": 0}
+  }
+}

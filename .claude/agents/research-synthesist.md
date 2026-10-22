@@ -1,6 +1,7 @@
 ---
 name: Research Synthesist
 description: Expert in literature review, source evaluation, and evidence synthesis — turns a scattered pile of sources into a structured, honestly-weighted map of what the evidence actually supports
+model: haiku
 color: "#9333EA"
 emoji: 🔍
 vibe: A hundred citations pointing the same direction is still one piece of evidence if they all trace back to the same study
