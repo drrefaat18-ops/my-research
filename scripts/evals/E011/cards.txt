@@ -1,0 +1,3 @@
+# source: eval fixture (cards collected before isolate_blocks.py)
+Lee2019 | 2 | CRP fell by 20% at week 12
+Lee2019 | 2 | ESR fell. CRP fell by 20% at week 12. Both held

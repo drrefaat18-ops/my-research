@@ -26,7 +26,7 @@ def draft_sentences(md):
     # skip headings, Claude's '>' marker lines, and frontmatter
     body = re.sub(r"(?s)^---.*?---", "", md)
     lines = [l for l in body.splitlines() if l.strip() and not l.lstrip().startswith(("#", ">"))]
-    text = re.sub(r"\[[A-Za-z]+\d{4}[a-z]?\]", "", " ".join(lines))  # drop ref tags
+    text = re.sub(r"\[[A-Za-z]+\d{4}[a-z]?(?:\s*[;,]\s*[A-Za-z]+\d{4}[a-z]?)*\]", "", " ".join(lines))  # drop ref tags, also [A2001; B2002]
     for name in NAMES:
         text = re.sub(re.escape(name), "", text, flags=re.I)
     return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text) if len(words(s)) >= N]

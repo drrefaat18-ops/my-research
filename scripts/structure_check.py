@@ -23,7 +23,7 @@ METHOD_ITEMS = {"database": r"PubMed|MEDLINE|Scopus|Web of Science|Embase|Google
                 "date range": r"\b(19|20)\d{2}\b.{0,40}\b(19|20)\d{2}\b|\buntil\b|\bup to\b",
                 "search terms": r"search (terms|string|strategy)|keywords|\bAND\b|\bOR\b",
                 "inclusion criteria": r"inclu\w+|exclu\w+|eligib\w+"}
-TAG = re.compile(r"\[[A-Za-z]+\d{4}[a-z]?\]")
+TAG = re.compile(r"\[[A-Za-z]+\d{4}[a-z]?(?:\s*[;,]\s*[A-Za-z]+\d{4}[a-z]?)*\]")  # also [Zhou2001; Gwinn2008]
 
 
 def sections(texts):

@@ -1,0 +1,1 @@
+{"id": "E013", "title": "Section 5 part 1 grew from 349 to ~557 words (budget 300–350) over checker rounds; nothing stopped it", "date": "2026-10-24", "origin": "lesson seen 2026-10-21 step 18; fixed on user request", "cmd": ["python", "scripts/section_check.py", "{case_dir}/section.txt", "{case_dir}/cards.txt"], "exit": 1, "expect": ["[budget] 28 words, budget 5-20"]}

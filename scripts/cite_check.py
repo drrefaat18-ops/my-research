@@ -9,7 +9,8 @@ Acronyms are checked across ALL drafts/*.md (a term defined on Day 1 counts on D
 """
 import glob, os, re, sys
 
-TAG = re.compile(r"\[([A-Za-z]+\d{4}[a-z]?)\]")
+_T = r"[A-Za-z]+\d{4}[a-z]?"
+TAG = re.compile(rf"\[({_T}(?:\s*[;,]\s*{_T})*)\]")  # [Kang2013] and [Zhou2001; Gwinn2008]
 YEAR = re.compile(r"(?<![\d.])(19|20)\d{2}(?![\d.])")
 MAX_TAGS = 5            # tags per sentence (citation dump)
 RECENT_YEARS = 5        # share of refs from the last 5 years
@@ -23,9 +24,37 @@ VAGUE = re.compile(r"\b(many|several|some|numerous|most) (studies|reports|resear
 STALE = re.compile(r"\b(currently|recently(?! (diagnosed|treated|developed))|nowadays|at present|"
                    r"presently|the latest|newest|this year|last year)\b", re.I)
 ACRO = re.compile(r"(?<![\w-])([A-Z][A-Za-z]*[A-Z][A-Za-z0-9]*)(?:-[0-9A-Za-zα-ωΑ-Ω]+)*(?![\w])")
-DEF_SPAN = re.compile(r"[^.()]{0,60}\(([^()]{1,20})\)")  # long form + '(ABC)'
+DEF_SPAN = re.compile(r"[^.()]{0,60}\(([^()]{1,20})\)")  # up to 60 chars + '(ABC)'; long form = long_form()
 ACRO_OK = {"RA", "DNA", "RNA", "mRNA", "CI", "HR", "OR", "RR", "SD", "SEM", "II", "III", "IV", "VI",
-           "USA", "UK", "US", "NF", "Th", "Treg", "TH", "IgG", "IgM", "CD4", "CD8"}
+           "USA", "UK", "US", "NF", "Th", "Treg", "TH", "IgG", "IgM", "CD4", "CD8",
+           "DBA"}  # DBA/1J = mouse strain name, never spelled out
+
+
+def tags(s):
+    """Every tag in s, one per citation: '[Zhou2001; Gwinn2008]' -> both."""
+    return [t for g in TAG.findall(s) for t in re.split(r"\s*[;,]\s*", g)]
+
+
+def long_form_start(m):
+    """Offset in m.group(0) where the long form starts: only the words that spell the acronym, not
+    all 60 characters before '(ABC)'. The window can start mid-word: 'SGLT|2 inhibitor use …
+    urinary tract infection (UTI)' left 'SGLT' as an undefined acronym (step 18)."""
+    letters = [c for c in re.split(r"[;,\s]", m.group(1).strip())[0] if c.isupper()]
+    ws = list(re.finditer(r"\S+", m.group(0)[:m.group(0).rindex("(")]))
+    if not letters or not ws:
+        return 0
+    window = ws[-(len(letters) + 1):]  # one spare word: 'an AMP-activated protein kinase (AMPK)'
+    hit = [w for w in window if w.group(0)[:1].upper() == letters[0]]
+    return (hit[0] if hit else ws[-min(len(letters), len(ws))]).start()
+
+
+def strip_defs(p):
+    """p without each 'long form (ABC)'; the words before the long form stay."""
+    out, pos = [], 0
+    for m in DEF_SPAN.finditer(p):
+        out.append(p[pos:m.start() + long_form_start(m)])
+        pos = m.end()
+    return "".join(out) + p[pos:]
 
 
 def blocks(md):
@@ -68,23 +97,25 @@ def acronyms(texts):
                     continue
                 for a in acros(re.split(r"[;,\s]", span)[0]):
                     defined[a] = defined.get(a, 0) + 1
-            used |= acros(DEF_SPAN.sub("", p))  # drop long forms: 'AMP-activated … (AMPK)'
-    undefined = sorted(a for a in used if a not in defined and a not in ACRO_OK)
+            used |= acros(strip_defs(p))  # drop long forms: 'AMP-activated … (AMPK)'
+    # an isoform of a defined family is defined: 'JAK1/2' once 'Janus kinase (JAK)' exists
+    undefined = sorted(a for a in used if a not in defined and a not in ACRO_OK
+                       and re.sub(r"\d+$", "", a) not in defined)
     twice = [a for a, n in defined.items() if n > 1]
     return undefined, twice
 
 
 def check(md, papers, all_drafts=()):
-    issues, tags = [], []
+    issues, cited = [], []
     for sec, p in blocks(md):
         sents = sentences(p)
-        ptags = TAG.findall(p)
-        tags += ptags
+        ptags = tags(p)
+        cited += ptags
         own = "methods" in sec.lower()  # ponytail: Methods describe our own search; numbers come from search-log.md, not papers
         if len(sents) > 2 and not ptags and not own:
             issues.append((sec, "paragraph with no citation", p[:70]))
         for i, s in enumerate(sents):
-            st = TAG.findall(s)
+            st = tags(s)
             later = any(TAG.search(x) for x in sents[i:])
             plain = TAG.sub("", s)
             if len(st) > MAX_TAGS:
@@ -95,10 +126,10 @@ def check(md, papers, all_drafts=()):
                 issues.append((sec, f"vague '{VAGUE.search(plain).group(0)}' → cite or name the studies", plain[:70]))
             if STALE.search(plain) and not st and not YEAR.search(plain):
                 issues.append((sec, f"time word '{STALE.search(plain).group(0)}' with no year or citation", plain[:70]))
-    for t in sorted(set(tags)):
+    for t in sorted(set(cited)):
         if t not in papers:
             issues.append(("refs", f"[{t}] has no papers/{t}.md (orphan citation)", t))
-    uniq = set(tags)
+    uniq = set(cited)
     if len(uniq) >= 10:
         this_year = 2026  # ponytail: fixed to the manuscript year; bump at resubmission
         recent = 100 * sum(int(re.search(r"\d{4}", t).group()) >= this_year - RECENT_YEARS for t in uniq) / len(uniq)
@@ -108,7 +139,7 @@ def check(md, papers, all_drafts=()):
         undefined, twice = acronyms(all_drafts)
         mine = {}
         for sec, p in blocks(md):
-            for a in acros(DEF_SPAN.sub("", TAG.sub("", p))):
+            for a in acros(strip_defs(TAG.sub("", p))):
                 mine.setdefault(a, (sec, p[:70]))
         for a in undefined:
             if a in mine:
@@ -134,6 +165,12 @@ def demo():
         assert k in kinds, (k, kinds)
     assert "data/number" not in kinds, kinds  # 30% sentence is covered by the later [Gharib2021]
     assert "'TNF'" not in kinds, kinds
+    assert tags("x [Zhou2001; Gwinn2008] y [Kang2013]") == ["Zhou2001", "Gwinn2008", "Kang2013"]
+    tail = "2 inhibitor use was linked to more urinary tract infection "  # 60-char window starts mid-'SGLT2'
+    lf = "Sodium-glucose cotransporter 2 (SGLT2) is new. Use of SGLT" + tail + "(UTI)."
+    assert acronyms([lf]) == ([], []), acronyms([lf])  # window began mid-'SGLT2' and left 'SGLT'
+    assert strip_defs("then AMP-activated protein kinase (AMPK) rose") == "then  rose"
+    assert acronyms(["Janus kinase (JAK) signals. A JAK1/2 inhibitor. STAT3 rose."])[0] == ["STAT3"]
     bad = check("## Y\nA. B. It fell by 40%.\n", set())
     assert any("data/number" in i[1] for i in bad) and any("no citation" in i[1] for i in bad), bad
     assert not check("## 2. Methods\nA. B. It found 628 records.\n", set()), "Methods own-search text needs no tag"

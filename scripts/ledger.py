@@ -5,12 +5,14 @@ Flags (1) the same tag + same number reported in two drafts = likely repeated cl
 
 Usage (from the review folder):
     PYTHONIOENCODING=utf-8 python ../scripts/ledger.py            # all drafts/Day*.md
+    python scripts/ledger.py "08 - RA Repurposing Review"           # same, from the repo root
     python ../scripts/ledger.py --demo
 """
 import glob, os, re, sys
 from collections import defaultdict
 
-TAG = re.compile(r"\[([A-Za-z]+\d{4}[a-z]?)\]")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cite_check import TAG, tags  # noqa: E402  one tag reader: '[Zhou2001; Gwinn2008]' = both
 NUM = re.compile(r"(?<![\w.])\d+(?:\.\d+)?(?:\s*%)?")
 SENT = re.compile(r"(?<=[.!?])\s+(?=[A-Z])")
 
@@ -24,7 +26,7 @@ def build(texts):
                 continue
             for s in SENT.split(para):
                 nums = {n.replace(" ", "") for n in NUM.findall(TAG.sub("", s))}
-                for t in set(TAG.findall(s)):
+                for t in set(tags(s)):
                     led[t].append((name, s.strip(), nums))
     return led
 
@@ -53,6 +55,8 @@ def demo():
 def main():
     if "--demo" in sys.argv:
         return demo()
+    root = next((a for a in sys.argv[1:] if not a.startswith("-")), ".")  # review folder (evals pass a case dir)
+    os.chdir(root)
     texts = {os.path.basename(p): open(p, encoding="utf-8").read() for p in sorted(glob.glob("drafts/Day*.md"))}
     if not texts:
         sys.exit("no drafts/Day*.md here — run from the review folder")

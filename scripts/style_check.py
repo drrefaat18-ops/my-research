@@ -74,7 +74,7 @@ ABSOLUTE = re.compile(r"\b(the only|never|always|no (study|trial|data|evidence)|
                       r"|the (largest|biggest|longest|first|earliest) (\w+ ){0,2}(trials?|stud(y|ies)|cohorts?|meta-analys[ie]s|RCTs?))\b", re.I)
 HEDGED = re.compile(r"\b(to our knowledge|we found|we are aware)\b", re.I)
 ENDING = re.compile(r"\b(are|is) (needed|required)\b|\bneed (more|well|further)\b|\bfurther (studies|research)\b", re.I)
-TAG = re.compile(r"\s*\[[A-Za-z]+\d{4}[a-z]?\]")
+TAG = re.compile(r"\s*\[[A-Za-z]+\d{4}[a-z]?(?:\s*[;,]\s*[A-Za-z]+\d{4}[a-z]?)*\]")  # also [Zhou2001; Gwinn2008]
 
 
 # Hidden Unicode (watermarks-remover STRIP_CODEPOINTS + ranges). Stripped by --fix.

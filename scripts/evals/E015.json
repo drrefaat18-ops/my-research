@@ -1,0 +1,1 @@
+{"id": "E015", "title": "evidence gathered inline instead of Haiku agents (rule had no script check)", "date": "2026-10-24", "origin": "user correction step 9 (2026-10-10); fixed on user request", "cmd": ["python", "scripts/verify_quotes.py", "{case_dir}/cards.txt", "{case_dir}/papers"], "exit": 1, "expect": ["BAD        source", "no '# source:"]}

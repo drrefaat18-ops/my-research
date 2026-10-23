@@ -17,7 +17,7 @@ JOBS = [  # (draft, headings, short title, output file)
     ("Day1", ["4.1. Antidiabetic Drugs", "4.1.1. Metformin", "4.2. Lipid-Lowering Drugs", "4.2.1. Statins",
               "4.2.2. Fenofibrate"], "Day 1 — Metformin, Statins, Fenofibrate", "Day1-Metformin-Statins-Fenofibrate.pdf"),
 ]
-TAG = re.compile(r"((?:\[[A-Za-z]+\d{4}[a-z]?\])+)")
+TAG = re.compile(r"((?:\[[A-Za-z]+\d{4}[a-z]?(?:\s*[;,]\s*[A-Za-z]+\d{4}[a-z]?)*\])+)")  # [A2001][B2002] and [A2001; B2002]
 PARTICLES = {"van", "de", "von", "der", "den", "da", "di", "le", "la", "el"}
 
 
@@ -66,7 +66,7 @@ def number(paras):
     order = []
     def repl(m):
         nums = []
-        for tag in re.findall(r"\[([^\]]+)\]", m.group(1)):
+        for tag in re.split(r"\s*[;,]\s*|\]\s*\[", m.group(1).strip("[]")):
             if tag not in order:
                 order.append(tag)
             nums.append(str(order.index(tag) + 1))

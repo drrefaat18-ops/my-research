@@ -3,6 +3,7 @@
 PostToolUse (Write/Edit/MultiEdit): when Claude edits 08 - RA Repurposing Review/drafts/*.md,
   strip hidden-Unicode watermark chars, run review_gate on that file, and on findings exit 2 so
   the findings go back to Claude, which must fix them before reporting done.
+  Same for .claude/state/step*/section*.txt: section_check (numbers, wording, budget vs cards.txt).
 UserPromptSubmit: when the user's message contains "خلصت", run review_gate on every draft changed
   since the last commit and add the result to Claude's context (exit 0, stdout).
 Any other event/path: exit 0 silently. A crash never blocks the session (exit 0).
@@ -77,6 +78,21 @@ def is_ledger(path):
         and "/_templates/" not in p
 
 
+def is_section(path):
+    """Scratch section of a pipeline step: .claude/state/step<N>/section*.txt (writer output that the
+    orchestrator may reword before insert), checked against the cards.txt in the same folder."""
+    p = path.replace("\\", "/")
+    return re.search(r"/\.claude/state/step[^/]+/section[^/]*\.txt$", p) \
+        and os.path.exists(os.path.join(os.path.dirname(path), "cards.txt"))
+
+
+def run_section(path):
+    cmd = [sys.executable, os.path.join(HERE, "section_check.py"), path,
+           os.path.join(os.path.dirname(path), "cards.txt")]
+    r = subprocess.run(cmd, capture_output=True, text=True, encoding="utf-8")
+    return r.returncode, r.stdout + r.stderr
+
+
 def run_ledger(path):
     """research-kit gate on <task>/ledger.md (+ report.md when present)."""
     d = os.path.dirname(path)
@@ -103,6 +119,17 @@ def main():
                                  "Fix them before reporting:\n" + out)
                 return 2
             return 0
+        if is_section(path):
+            code, out = run_section(path)
+            fails = fail_count(ev.get("session_id", ""), path, out if code else None)
+            if code and fails > MAX_FAILS:
+                sys.stderr.write("section_check STOP: same findings again or 3 failed tries. Do NOT edit "
+                                 "this section again; show the user these findings and wait:\n" + out)
+            elif code:
+                sys.stderr.write("section_check: this scratch section says something its cards do not, or is "
+                                 "over budget. Re-read each flagged sentence against its card line (and the "
+                                 "paper), then fix or drop it; over budget = cut or ask the user:\n" + out)
+            return 2 if code else 0
         if not is_draft(path):
             return 0
         code, out = run_gate([path])

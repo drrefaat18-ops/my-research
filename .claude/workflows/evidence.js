@@ -53,4 +53,6 @@ const cards = raw.filter(Boolean).flatMap((r) => r.cards).filter((c) => {
 const not_found = raw.filter(Boolean).flatMap((r) => r.not_found)
 const unreadable = raw.filter(Boolean).flatMap((r) => r.unreadable).concat(dead.map((k) => `group ${k}`))
 log(`${cards.length} cards, ${not_found.length} not found, ${unreadable.length} unreadable`)
-return { verify_lines: cards.map((c) => `${c.tag} | ${c.line} | ${c.quote}`).join('\n'), cards, not_found, unreadable }
+// '# source:' line: verify_quotes.py refuses cards without it (evidence never gathered inline)
+const source = `# source: evidence workflow, ${groups.length} haiku agent(s), groups ${groups.map((g) => g.key).join(',')}`
+return { verify_lines: [source, ...cards.map((c) => `${c.tag} | ${c.line} | ${c.quote}`)].join('\n'), cards, not_found, unreadable }

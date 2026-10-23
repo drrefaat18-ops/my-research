@@ -1,0 +1,2 @@
+# source: eval fixture
+Kitas2019 | 158 | ALT 2-5x ULN: 90 vs 69 (P = 0.12)

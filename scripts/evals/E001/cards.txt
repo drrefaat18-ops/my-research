@@ -1,1 +1,2 @@
+# source: eval fixture (Haiku card from the first pipeline run)
 Smith2020 | 3 | ESR stayed higher in the placebo group at week 24

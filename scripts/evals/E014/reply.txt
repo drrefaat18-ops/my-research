@@ -1,0 +1,6 @@
+الموجّه ده هيتقرا من جلسة Claude الجاية.
+```
+python scripts/evals.py
+```
+[ملف الخطة](<D:\vault\START-HERE.md>)
+Plain English line.

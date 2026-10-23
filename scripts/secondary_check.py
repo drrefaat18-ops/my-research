@@ -9,7 +9,8 @@ Fix: replace the source in the draft, then remove the ==...== marks from that hi
 """
 import os, re, sys
 
-TAG = re.compile(r"\[([A-Za-z]+\d{4}[a-z]?)\]")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from cite_check import tags  # noqa: E402  '[Zhou2001; Gwinn2008]' = both
 HL = re.compile(r"([^\n=]{0,400}?)==([^=]+)==([^\n=]{0,40})")  # text before (own-study cue), highlight, after
 BG = re.compile(r"introduction|background|discussion", re.I)
 METHODS = re.compile(r"^#+ .*\b(methods|patients and|materials)\b", re.I | re.M)  # no Methods = review
@@ -42,7 +43,7 @@ def secondary(text):
 
 def check(md, papers_dir):
     issues = []
-    for tag in sorted(set(TAG.findall(md))):
+    for tag in sorted(set(tags(md))):
         path = os.path.join(papers_dir, tag + ".md")
         if os.path.exists(path):
             for sec, h in secondary(open(path, encoding="utf-8").read()):
