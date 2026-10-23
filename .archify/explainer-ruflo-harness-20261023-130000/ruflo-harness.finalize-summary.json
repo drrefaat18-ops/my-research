@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "explainer",
+  "quality": "showcase",
+  "specification": {
+    "path": "D:\\vault\\my research\\.archify\\explainer-ruflo-harness-20261023-130000\\candidate.archify.md",
+    "sha256": "abfc66b3a48bc85c536c09adcfa52b88eed2e45f3b3b5a31ef3f683788724b32",
+    "bytes": 17848
+  },
+  "artifact": {
+    "path": "D:\\vault\\my research\\.archify\\explainer-ruflo-harness-20261023-130000\\ruflo-harness.html",
+    "sha256": "6bc6a679dc8b78b3b60dd39725946076c927bc083a4fd57a04e524ed5ea22824",
+    "bytes": 2297917
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "not-run"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "D:\\vault\\my research\\.archify\\explainer-ruflo-harness-20261023-130000\\ruflo-harness.finalize.json",
+    "summaryReceipt": "D:\\vault\\my research\\.archify\\explainer-ruflo-harness-20261023-130000\\ruflo-harness.finalize-summary.json"
+  },
+  "visualReview": "not-requested",
+  "durationMs": 14277,
+  "browserCheck": {
+    "requested": false,
+    "ran": false
+  }
+}

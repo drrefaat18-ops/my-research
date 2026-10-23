@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "8d3e504d-1881-4294-a8ff-a7c443fbe1a2",
+  "status": "current",
+  "command": "deliver",
+  "type": "architecture",
+  "input": "D:\\vault\\my research\\.archify\\architecture-ruflo-harness-20261023-120000\\candidate.json",
+  "output": "D:\\vault\\my research\\.archify\\architecture-ruflo-harness-20261023-120000\\ruflo-harness.html",
+  "specification": {
+    "sha256": "912007bbcc23129b29de6ae26be6b52db4076cb3c3d17b4b1a6be3e96013ecc2",
+    "bytes": 5020
+  },
+  "artifact": {
+    "sha256": "dff09bfa1560fb7f0683111ceb17a62727012a3d2614699f72a3a89f737ce590",
+    "bytes": 832754
+  }
+}

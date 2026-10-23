@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Harness parts and who talks to whom",
+    "output": ".archify/explainer-ruflo-harness-20261023-130000/parts.html",
+    "quality_profile": "showcase",
+    "legend": {
+      "mode": "all",
+      "entries": {
+        "security": { "label": "rule / gate" },
+        "backend": { "label": "agent / script" },
+        "database": { "label": "file store" },
+        "cloud": { "label": "git" },
+        "external": { "label": "person / plan" }
+      }
+    }
+  },
+  "components": [
+    { "id": "owner", "type": "external", "label": "Owner (Dr. Refaat)", "sublabel": "approves, reads summary", "pos": [40, 60], "size": [160, 60] },
+    { "id": "rules", "type": "security", "label": "CLAUDE.md rules", "sublabel": "Rule 0, RULE 1, run rules", "pos": [280, 60], "size": [160, 60] },
+    { "id": "plan", "type": "external", "label": "START-HERE.md", "sublabel": "steps 1-31, notes", "pos": [545, 60], "size": [150, 60] },
+    { "id": "memory", "type": "database", "label": "Auto memory", "sublabel": "feedback + project facts", "pos": [800, 60], "size": [160, 60] },
+
+    { "id": "settings", "type": "security", "label": "settings.json", "sublabel": "4 hooks, ask on spawn", "pos": [40, 262], "size": [160, 60] },
+    { "id": "brief", "type": "backend", "label": "session_start.py", "sublabel": "SessionStart brief", "pos": [270, 262], "size": [160, 60] },
+    { "id": "orch", "type": "backend", "label": "Opus orchestrator", "sublabel": "only editor, synthesist role", "pos": [520, 260], "size": [200, 64] },
+    { "id": "guard", "type": "security", "label": "workflow_guard.py", "sublabel": "ask; ban Opus/Fable", "pos": [900, 262], "size": [170, 60] },
+
+    { "id": "git", "type": "cloud", "label": "Git commit", "sublabel": "end-of-work", "pos": [300, 470], "size": [140, 60] },
+    { "id": "drafts", "type": "database", "label": "drafts/DayN.md", "sublabel": "review text", "pos": [535, 470], "size": [170, 60] },
+    { "id": "haiku", "type": "backend", "label": "Haiku agents", "sublabel": "evidence, checks", "pos": [820, 470], "size": [150, 60] },
+    { "id": "sonnet", "type": "backend", "label": "Sonnet agents", "sublabel": "writer, checker", "pos": [1010, 470], "size": [150, 60] },
+
+    { "id": "evals", "type": "security", "label": "evals.py + LESSONS", "sublabel": "8 replayed failures", "pos": [40, 650], "size": [170, 60] },
+    { "id": "gate", "type": "security", "label": "review_gate.py", "sublabel": "style, cite, overlap", "pos": [290, 650], "size": [160, 60] },
+    { "id": "hook", "type": "backend", "label": "review_hook.py", "sublabel": "PostToolUse, 3-fail STOP", "pos": [535, 650], "size": [170, 60] },
+    { "id": "papers", "type": "database", "label": "papers/ corpus", "sublabel": "own-paper sources", "pos": [820, 650], "size": [150, 60] }
+  ],
+  "boundaries": [
+    { "kind": "region", "label": "Rules and plan", "wraps": ["rules", "plan", "memory"], "pad": 18 },
+    { "kind": "security-group", "label": "Sub-agents: text only", "wraps": ["haiku", "sonnet"], "pad": 14 },
+    { "kind": "region", "label": "Gates", "wraps": ["evals", "gate", "hook"], "pad": 18 }
+  ],
+  "connections": [
+    { "from": "owner", "to": "orch", "label": "asks" },
+    { "from": "rules", "to": "orch", "label": "binds" },
+    { "from": "plan", "to": "orch", "label": "next step", "route": "straight" },
+    { "from": "memory", "to": "orch", "label": "recalls" },
+    { "from": "settings", "to": "brief", "label": "starts", "route": "straight" },
+    { "from": "brief", "to": "orch", "label": "brief", "route": "straight" },
+    { "from": "orch", "to": "guard", "label": "spawn", "variant": "security", "route": "straight" },
+    { "from": "guard", "to": "haiku", "label": "approved" },
+    { "from": "guard", "to": "sonnet", "label": "approved" },
+    { "from": "haiku", "to": "papers", "label": "quotes", "route": "straight" },
+    { "from": "orch", "to": "drafts", "label": "edits", "variant": "emphasis", "route": "straight" },
+    { "from": "orch", "to": "git", "label": "commits" },
+    { "from": "drafts", "to": "hook", "label": "on edit", "route": "straight" },
+    { "from": "hook", "to": "gate", "label": "runs", "route": "straight" },
+    { "from": "evals", "to": "gate", "label": "guards", "route": "straight" },
+    { "from": "gate", "to": "orch", "label": "findings", "variant": "dashed" }
+  ]
+}

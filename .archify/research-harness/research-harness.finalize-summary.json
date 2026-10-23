@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "ok": true,
+  "command": "finalize",
+  "status": "pass",
+  "type": "explainer",
+  "quality": "showcase",
+  "specification": {
+    "path": "D:\\vault\\my research\\.archify\\research-harness\\candidate.archify.md",
+    "sha256": "458ffa0d24adb35164e779c755d2c25f6479b5640dae013e317edbdfca826298",
+    "bytes": 17859
+  },
+  "artifact": {
+    "path": "D:\\vault\\my research\\.archify\\research-harness\\research-harness.html",
+    "sha256": "4348c81c56d8aeda30b0e17f2f345ae9f1743e272730216347e561a7b8d92286",
+    "bytes": 2297882
+  },
+  "gates": {
+    "validate": "pass",
+    "deliver": "pass",
+    "check": "pass",
+    "browser-check": "not-run"
+  },
+  "diagnostics": [],
+  "diagnosticSummary": {
+    "total": 0,
+    "shown": 0,
+    "truncated": false
+  },
+  "evidence": {
+    "receipt": "D:\\vault\\my research\\.archify\\research-harness\\research-harness.finalize.json",
+    "summaryReceipt": "D:\\vault\\my research\\.archify\\research-harness\\research-harness.finalize-summary.json"
+  },
+  "visualReview": "not-requested",
+  "durationMs": 7790,
+  "browserCheck": {
+    "requested": false,
+    "ran": false
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "receiptId": "a33b171f-1da7-4ce4-b4e4-68634a51ffef",
+  "status": "current",
+  "command": "deliver",
+  "type": "explainer",
+  "input": "D:\\vault\\my research\\.archify\\research-harness\\candidate.archify.md",
+  "output": "D:\\vault\\my research\\.archify\\research-harness\\research-harness.html",
+  "specification": {
+    "sha256": "458ffa0d24adb35164e779c755d2c25f6479b5640dae013e317edbdfca826298",
+    "bytes": 17859
+  },
+  "artifact": {
+    "sha256": "4348c81c56d8aeda30b0e17f2f345ae9f1743e272730216347e561a7b8d92286",
+    "bytes": 2297882
+  },
+  "explainer": {
+    "preparedSha256": "87730d4ac97f476316a52414d84aa42e8bbdf42caabb0ea77d229add80b6a82b",
+    "dependencies": [
+      {
+        "kind": "repository",
+        "id": "claudemd",
+        "path": "CLAUDE.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "39c8b7fc4d285c8ca63c5d327e5efc0b6b5cb409b42f82ea6a77f293c3118073",
+        "bytes": 11123
+      },
+      {
+        "kind": "repository",
+        "id": "settings",
+        "path": ".claude/settings.json",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "e6d90734e35335ecd4ef78e738f4cb7b948b70cb467e837a497a0c1a133e8c3f",
+        "bytes": 3459
+      },
+      {
+        "kind": "repository",
+        "id": "session",
+        "path": "scripts/session_start.py",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "d26030d80150442c70a2f4ba29f4e282d10b5782f1be671869de8d1933111b2b",
+        "bytes": 5723
+      },
+      {
+        "kind": "repository",
+        "id": "guard",
+        "path": "scripts/workflow_guard.py",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "aa9e0dcaedcab265f5079a45d38d1bbd8b95345b60c46f4b1b50232bd8062aef",
+        "bytes": 5341
+      },
+      {
+        "kind": "repository",
+        "id": "hook",
+        "path": "scripts/review_hook.py",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "076f3d9d754bd2020df8a2f76f513f213e91dd6c5cc990f93b926b655be8ac21",
+        "bytes": 5903
+      },
+      {
+        "kind": "repository",
+        "id": "gate",
+        "path": "scripts/review_gate.py",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "cb4dcb7ffca5e36aa73e6661d50fc1fd799b0cf5d9bcdf777b8a0b4afd43e910",
+        "bytes": 2763
+      },
+      {
+        "kind": "repository",
+        "id": "evidence",
+        "path": ".claude/workflows/evidence.js",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "c22628655ff179f999d546afb89151a10bbdbed7c4797501e9c0560fbd1fadb0",
+        "bytes": 3369
+      },
+      {
+        "kind": "repository",
+        "id": "writer",
+        "path": ".claude/agents/academic-review-writer.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "fcb0d3e53be843f2dd5be8cbbe60a046ded8326292c3dcba0ff8bcdcacdb08b2",
+        "bytes": 2034
+      },
+      {
+        "kind": "repository",
+        "id": "style",
+        "path": "08 - RA Repurposing Review/Copilot-Prompt.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "789fd6f486791402f9c6072f601616cddc66e798b7e1fcccb4ce652c39d3eda8",
+        "bytes": 2267
+      },
+      {
+        "kind": "repository",
+        "id": "evals",
+        "path": "scripts/evals.py",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "93cf44182ae9c98f758531de1aa055cfd7913cbf9a5fa7e91db992ea3686dd29",
+        "bytes": 3450
+      },
+      {
+        "kind": "repository",
+        "id": "lessons",
+        "path": "08 - RA Repurposing Review/LESSONS.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "9e464562b52adc3656d44b3beb5c046ae4b22d3f57dd016f18b81625e8b06b86",
+        "bytes": 8495
+      },
+      {
+        "kind": "repository",
+        "id": "plan",
+        "path": "08 - RA Repurposing Review/START-HERE.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "d2ff5a941f3bb89ee9576c43e148149916dfd2d003a1cabb721f27ef00f31683",
+        "bytes": 164777
+      },
+      {
+        "kind": "repository",
+        "id": "rubric",
+        "path": "08 - RA Repurposing Review/review_rubric.md",
+        "revision": "5ad051afc6155a5e61ae6aea1b5a2f6f7f992ca9",
+        "sha256": "47473d1cb1760b908caae892e9143569515deeca45b7e2f26c152dbe04233c6e",
+        "bytes": 3091
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "harness-parts",
+        "path": "D:\\vault\\my research\\.archify\\research-harness\\parts.architecture.json",
+        "relativePath": "parts.architecture.json",
+        "sha256": "006b26f8541096611c4ba411e702ea28e3b09159bb0b9e5acc73023d4e89d566",
+        "bytes": 4370
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "session-flow",
+        "inline": true,
+        "sha256": "f196795c0cb21525d43ecff63b885c96ff2a1a07a26f8309435d26e824d6c3cd",
+        "bytes": 2530
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "writing-pipeline",
+        "inline": true,
+        "sha256": "2552cc01464fa1322ec953a36d872a5f6ba695f90e3151523adee1ba0c5156c6",
+        "bytes": 2737
+      },
+      {
+        "kind": "diagram-spec",
+        "id": "lesson-ladder",
+        "inline": true,
+        "sha256": "0796cf9897f405e1607dfd54a0bc2231ae5a9a241ec618819efcb07e388b0102",
+        "bytes": 1636
+      }
+    ]
+  }
+}

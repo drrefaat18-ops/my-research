@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "diagram_type": "architecture",
+  "meta": {
+    "title": "Ruflo Harness — RA Repurposing Review Pipeline",
+    "output": ".archify/architecture-ruflo-harness-20261023-120000/ruflo-harness.html",
+    "quality_profile": "showcase",
+    "legend": {
+      "mode": "all",
+      "entries": {
+        "security": { "label": "policy / gate" },
+        "backend": { "label": "agent / process" },
+        "database": { "label": "file store" },
+        "cloud": { "label": "git persistence" },
+        "external": { "label": "person / document" }
+      }
+    }
+  },
+  "components": [
+    { "id": "rule0", "type": "security", "label": "Rule 0 — Prime Directive", "sublabel": "zero-spend filter, Q1/Q2 acceptance", "pos": [40, 40], "size": [190, 60] },
+    { "id": "claude_md", "type": "security", "label": "CLAUDE.md Rules", "sublabel": "RULE 1 policy + gates + pipeline map", "pos": [340, 40], "size": [200, 60] },
+    { "id": "session_hook", "type": "backend", "label": "Session Start Hook", "sublabel": "brief + next step", "pos": [640, 40], "size": [190, 60] },
+    { "id": "evidence_agents", "type": "backend", "label": "Evidence Agents (Haiku)", "sublabel": "spawned per batch, cards + quotes", "pos": [940, 40], "size": [220, 60] },
+    { "id": "papers", "type": "database", "label": "papers/ sources", "sublabel": "124 files, own-paper + overlap only", "pos": [1240, 40], "size": [190, 60] },
+
+    { "id": "user", "type": "external", "label": "Dr. Refaat Ibrahim", "sublabel": "self-funded, decides, reads summary", "pos": [40, 260], "size": [170, 60] },
+    { "id": "plan", "type": "external", "label": "START-HERE.md", "sublabel": "review plan, steps 1-31", "pos": [640, 260], "size": [170, 60] },
+    { "id": "orchestrator", "type": "backend", "label": "Orchestrator (Opus)", "sublabel": "synthesist + stats/clinical/reality roles", "pos": [940, 260], "size": [230, 64] },
+    { "id": "writer", "type": "backend", "label": "Writer (Sonnet)", "sublabel": "text only, high effort", "pos": [1240, 260], "size": [190, 60] },
+    { "id": "drafts", "type": "database", "label": "drafts/Day*.md", "sublabel": "gated review text", "pos": [1480, 260], "size": [170, 60] },
+
+    { "id": "git", "type": "cloud", "label": "Git Commit", "sublabel": "end-of-work commit", "pos": [940, 480], "size": [160, 60] },
+    { "id": "memory", "type": "database", "label": "Notes + Memory", "sublabel": "notes, MEMORY.md, graphify audit", "pos": [1240, 480], "size": [200, 60] },
+    { "id": "gates", "type": "security", "label": "Quality Gates", "sublabel": "3-fail cap, escalate to user", "pos": [1470, 480], "size": [190, 62] }
+  ],
+  "connections": [
+    { "from": "user", "to": "rule0", "label": "funds & directs", "route": "straight" },
+    { "from": "rule0", "to": "claude_md", "label": "binds", "route": "straight" },
+    { "from": "claude_md", "to": "session_hook", "label": "boots session", "route": "straight" },
+    { "from": "session_hook", "to": "plan", "label": "next step", "route": "straight" },
+    { "from": "plan", "to": "orchestrator", "label": "Arabic brief", "route": "straight" },
+    { "from": "orchestrator", "to": "evidence_agents", "label": "spawn Haiku xN", "variant": "emphasis", "route": "straight" },
+    { "from": "evidence_agents", "to": "papers", "label": "read + quote", "route": "straight" },
+    { "from": "orchestrator", "to": "writer", "label": "brief + specs", "route": "straight" },
+    { "from": "papers", "to": "writer", "label": "verified cards", "route": "straight" },
+    { "from": "writer", "to": "drafts", "label": "sentences", "route": "straight" },
+    { "from": "drafts", "to": "gates", "label": "on edit", "route": "straight" },
+    { "from": "gates", "to": "orchestrator", "label": "0 failing -> findings", "variant": "dashed" },
+    { "from": "gates", "to": "memory", "label": "notes + graphify", "route": "straight", "labelDy": 53 },
+    { "from": "memory", "to": "git", "label": "commit", "route": "straight" },
+    { "from": "orchestrator", "to": "user", "label": "Arabic summary", "variant": "dashed" }
+  ],
+  "cards": [
+    { "dot": "rose", "title": "Rule 0 — Prime Directive", "items": ["Cheapest path to guaranteed thesis + Q1/Q2 journal acceptance", "100% self-funded out of pocket, no grant/university budget", "Zero-spend filter: no RT-qPCR/Western blot/multiplex, local Egyptian kits only"] },
+    { "dot": "cyan", "title": "RULE 1 — Agent Policy", "items": ["Announce agent count + exact names/jobs before every spawn, no exceptions", "research-synthesist.md is always the inline base role for review work", "Mechanical ask-gate on every Agent/Workflow call confirms the announcement"] },
+    { "dot": "emerald", "title": "Gates & Loops", "items": ["3 tries or same findings twice = stop and escalate to the user, never self-scored", "Harness change (any script/hook/workflow) needs evals.py at 0 still failing", "keep_rate.py below 0.5 = fix the check itself, not the draft"] }
+  ]
+}
