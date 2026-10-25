@@ -790,7 +790,7 @@ updated: 2026-10-22
   > - ⚠️ فيه 27 رابط "ضعيف" (الجملة مش متعلّمة أو الفقرة طويلة) في موجزات قديمة، أغلبها في 4.2a-Statins.md (ElBarbary2010 وSarabi2016 وXing2015 وVandebriel2012 وRen2023)، وفي 4.1a وفي 4.1b. ماتصلحوش.
   > ✅ **اتقفلت (21/10).**
   > lesson | Checker-driven fixes and gate profile tuning pushed a 300–350-word part to ~557 words; agree the word budget after the brief review and ask before exceeding it. Orchestrator rewording after the writer must be re-read against the card line ("mean" was added without support). A null result needs its CI and "no significant difference", not "similar".
-- [ ] **19.** الأحد 25/10 — 🟦 التحديات، الجزء التاني (شكل التجارب المطلوبة + ملخص فرق الجرعات بين الحيوان والإنسان + حدود المراجعة دي، F4)
+- [x] **19.** الأحد 25/10 — 🟦 التحديات، الجزء التاني (شكل التجارب المطلوبة + ملخص فرق الجرعات بين الحيوان والإنسان + حدود المراجعة دي، F4)
   > 🧾 **من المراجعة الشاملة (22/10، [[search/ledgers/audit-2026-10/report]]):** تعديلات اليوم الخامس على يومين: F4 هنا، وF3 وF7 وF18 في خطوة 19a.
   > ```
   > F3  novelty sentence "To our knowledge, no earlier review..." -> claim C-novelty in search/ledgers/step19-limits/
@@ -842,6 +842,22 @@ updated: 2026-10-22
   > ```
   > /cost  ->  python scripts/cost.py "<line>"
   > ```
+  > 🔄 **الشغل (25/10):**
+  > - السجل اتعمل، والموجز اتضاف تحت "تعديلات خطوة 19" في [[5-Challenges]] (13 جملة، 3 فقرات، الروابط 0 مكسورة).
+  > - ⚠️ تصحيح لملاحظة 9/10 فوق: Son2014 ذاكر إن التقييم كان من غير ما المقيّمين يعرفوا المجموعات (السطر 62). التعمية مش متذكرة في Walker2017 وCastillero2012 بس. وCardoso2018 على خلايا مرضى، مش حيوانات.
+  > ```
+  > loop | evidence-verify (2 Haiku, workflow evidence) | kept | 26/26 cards OK; 1 empty card dropped; Son2014 blinding note disproved
+  > loop | evidence-verify (1 Haiku, abstract-only/registry stubs) | kept | 6/6 cards OK, total 32/32; Chung2008 has no abstract-only banner
+  > loop | fix-loop (section_check, 3 tries + STOP twice) | kept | false positives: GLP-1 "1", section numbers "4.2"; parallel edits counted as 3 tries
+  > loop | whole-text review (Sonnet reality-checker) | kept | 9 findings, 1 blocker (screening unsupported) + simvastatin dose claim wrong; all fixed
+  > ```
+  > - النص اتكتب (سونِت) واتحط في اليوم الخامس: 3 فقرات، حوالي 300 كلمة (الحد بقى 290 لـ 350 بطلبك). جمل الرأي اللي مالهاش سند اتشالت، بطلبك.
+  > - المراجعة التانية (سونِت) لقت إن جملة الجرعات غلط في السيمفاستاتين (Walker2017 جرعتها أقل من جرعة العلاج، وLeung2003 بس أعلى)، واتصلحت. وجملة الفرز اتأكدت منك: انت بس اللي فرزت. ومااتطبقتش أداة رسمية لتقييم خطر التحيز (منك).
+  > - البوابة: ملاحظتين عن شكل الملف كله، واترحّلوا لخطوة 24 بطلبك. التحقق من النقل غير المباشر 0، والروابط 0، والـ evals مفيهاش فاشل، و ledger.py: تكرار الرقم 12 في Vandebriel2012 وCastillero2012 مش تكرار حقيقي (7 من 12 فار، و12 يوم).
+  > - حدود ناقصة اتضافت (من المراجعة): الأبحاث كلها إنجليزي، والميتفورمين باسمه بس، وتفضيل الأبحاث الحديثة، ومفيش تحليل تجميعي ولا تقييم لتحيز النشر.
+  > ```
+  > lesson | Send one edit per section_check try: parallel edits each count as a try and trip STOP. A limitations sentence about this review's own process needs the author's confirmation in the ledger before it goes in; "single screener" from an audit plan is not evidence. Re-check cross-referenced dose claims per drug, not per class.
+  > ```
 - [ ] **19a.** الاثنين 26/10 — 🟧 جملة الجِدّة (F3): سؤال بحثي بالسجل في `search/ledgers/step19-limits/` بتلات مسارات ← لو ماتثبتتش تتخفف ← 🟦 مراجعة. + تصليحات اليوم الخامس F7 وF18
 - [ ] **20.** الثلاثاء 27/10 — 🟦 الخاتمة + الملخص + الكلمات المفتاحية
 - [ ] **21.** الأربعاء 28/10 — 🟧 Figures 1 و2 و4 (متأخرين من 15–19/10) + Figure 3 (خريطة الأدلة) + فحص الأشكال (كل شكل متذكر في النص، وله تعليق ومصادر، و600 dpi) ← 🟦 راجع الأسهم مع النص (F15)
@@ -886,6 +902,7 @@ updated: 2026-10-22
   >       F12 Nematalla2026 "AIA" -> CFA-induced · F21 §4.4 citations · F22 DPP-4 length · F26 Kachhadia2026 median
   > ```
 - [ ] **22c.** الثلاثاء 3/11 — 🟧 تصليحات اليوم الرابع ثم صفحة العنوان ← 🟦 مراجعة
+  > 🧾 **من خطوة 19 (25/10):** المنهجية لازم تقول إن شخص واحد فرز الأبحاث، وإن مفيش أداة رسمية لتقييم خطر التحيز، عشان تطابق حدود المراجعة في القسم 5. وكمان ملف Chung2008 فيه الملخص بس ومش متعلّم إنه ملخص بس، وليه نص كامل مفتوح على PMC، فإما يتعلّم أو يتنزّل النص الكامل ويتصلح العدد في المنهجية (بطلبك: يفضل ملخص).
   > ```
   > Day4: F10 Methods count (79 vs 115 tags) · F11 Fu2026 Day4:24 · F19 Chen2020 overlap · F9 IL, RCT
   > Day0: F17 author name spelling + corresponding email (from user) · F28 funding "self-funded"
@@ -896,6 +913,7 @@ updated: 2026-10-22
 - [ ] **23.** الأربعاء 4/11 — 🟧 ملف الوورد + `review_gate.py --full` + تحكيم داخلي بـ [[review_rubric]] ← 🟦 Grammarly الجزء الأول
 - [ ] **24.** الخميس 5/11 — 🟦 طبّق التعليقات (1) + Grammarly الجزء التاني
   > 📏 **من خطوة 11 (اليوم التالت، 11/10):** الجمل الأقل من 12 كلمة 13.1%، وأدوات الربط في أول الجملة 4.8% (الحد 5)، والتحفظ 11.9% (الحد 12)، وخلاصة الجلوكاجون من غير مرجع (رأينا)، والتطابق 13.9%: كلها تطابقات مفردة على أسامي علمية وأرقام (البحث الأحدث 2، والكوري 1، والمصري 1 على الاسم الكامل للأجسام المضادة، و4 قديمة). البوابة وصلت حدها، فماتتعدلش المسودة غير في الخطوة دي.
+  > 📏 **من خطوة 19 (اليوم الخامس، 25/10):** اختلاف أطوال الجمل 10.0 (على الحد بالظبط)، والجمل الأقل من 12 كلمة 13.8% (الحد 12). الاتنين عن شكل الملف كله، وبيشدّوا عكس بعض، فاتأجلوا لما الكتابة كلها تخلص (بطلبك).
   > 📏 **من خطوة 10 (اليوم التالت):** طول الجمل (أقل من 12 كلمة 14.1%، وأكتر من 35 كلمة 19.2%)، وأدوات الربط في أول الجملة 3.8%، والتحفظ 11.5%، وخلاصة الجلوكاجون من غير مرجع، والتطابق 11.2% (أسماء علمية وأرقام). البوابة وقفت عند 3 محاولات بسببهم.
   > ✏️ **الأسلوب:** الكلمات العامية زي دي تتغير هنا بس، جملة جملة، وبعد كل تغيير نعيد كاشف الذكاء الاصطناعي. لو النسبة طلعت، نرجّع الكلمة زي ما كانت:
   > ```

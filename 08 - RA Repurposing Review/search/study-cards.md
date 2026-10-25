@@ -347,3 +347,11 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Kachhadia2026:** follow-up is median 3.1 vs 6.4 years in Results but mean 3.9 vs 6.4 years elsewhere; cite the Results for "median".
 - **Tang2011:** the extracted table does not label its P-value columns; P < 0.001 for DAS28 is read, not stated.
 - **NairJacob2016:** Table 1 (mouse Km) is not in the file; the Day1 810–1,220 mg figure cannot be rechecked from it.
+
+### Step 19 cautions (2026-10-25)
+- **Son2014:** blinded scoring IS reported (line 62, "two independent observers with no knowledge of the experimental groups"); the 9/10 statistics note saying it was not was wrong.
+- **Walker2017, Castillero2012:** no blinding statement in the full text; write "did not report", never "were not blinded".
+- **Walker2017:** simvastatin failed at the same dose as atorvastatin and pravastatin, but that dose is far below clinical (~1 mg); do not use it as evidence of a high-dose gap.
+- **Koufany2008:** n = 7 is for the AIA and control groups (line 191), not necessarily each pioglitazone arm.
+- **Cardoso2018:** human PBMC study (16 patients), not an animal model.
+- **Chung2008:** user decision 2026-10-25: keep as abstract only (PMC full text not fetched); add the banner at step 22c.
