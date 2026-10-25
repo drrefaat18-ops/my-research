@@ -856,6 +856,7 @@ updated: 2026-10-22
   > - البوابة: ملاحظتين عن شكل الملف كله، واترحّلوا لخطوة 24 بطلبك. التحقق من النقل غير المباشر 0، والروابط 0، والـ evals مفيهاش فاشل، و ledger.py: تكرار الرقم 12 في Vandebriel2012 وCastillero2012 مش تكرار حقيقي (7 من 12 فار، و12 يوم).
   > - حدود ناقصة اتضافت (من المراجعة): الأبحاث كلها إنجليزي، والميتفورمين باسمه بس، وتفضيل الأبحاث الحديثة، ومفيش تحليل تجميعي ولا تقييم لتحيز النشر.
   > ```
+  > 💰 خط أساس التكلفة (25/10): على الاشتراك، الأمر /cost بيتحوّل لـ /usage ومابيطلّعش توكنز، فـ cost.py مايشتغلش. المسجّل: الجلسة 15%، والأسبوع 13% (بعد الخطوة كلها، 3 وكلاء هايكو للأدلة، وسونِت كاتب، وسونِت مراجع، وهايكو للرسم).
   > lesson | Send one edit per section_check try: parallel edits each count as a try and trip STOP. A limitations sentence about this review's own process needs the author's confirmation in the ledger before it goes in; "single screener" from an audit plan is not evidence. Re-check cross-referenced dose claims per drug, not per class.
   > ```
 - [ ] **19a.** الاثنين 26/10 — 🟧 جملة الجِدّة (F3): سؤال بحثي بالسجل في `search/ledgers/step19-limits/` بتلات مسارات ← لو ماتثبتتش تتخفف ← 🟦 مراجعة. + تصليحات اليوم الخامس F7 وF18
