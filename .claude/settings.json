@@ -12,11 +12,23 @@
     ],
     "ask": [
       "Agent",
-      "Workflow"
+      "Workflow",
+      "Bash(git push*)",
+      "PowerShell(git push*)"
     ],
     "deny": [
       "Read(./.env)",
-      "Read(./.env.*)"
+      "Read(./.env.*)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git reset --hard*)",
+      "Bash(git clean -f*)",
+      "Bash(rm -rf*)",
+      "PowerShell(git push --force*)",
+      "PowerShell(git push -f*)",
+      "PowerShell(git reset --hard*)",
+      "PowerShell(git clean -f*)",
+      "PowerShell(Remove-Item -Recurse*)"
     ]
   },
   "model": "claude-sonnet-5",
@@ -125,6 +137,11 @@
             "type": "command",
             "command": "python \"$CLAUDE_PROJECT_DIR/scripts/review_hook.py\"",
             "timeout": 60
+          },
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/scripts/edit_loop.py\"",
+            "timeout": 15
           }
         ]
       }

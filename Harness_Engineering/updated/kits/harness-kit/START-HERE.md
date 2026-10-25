@@ -52,6 +52,11 @@ Present, in chat, compactly:
 6. **Flywheel** (PRINCIPLES 14-15): the first eval cases (one per Phase 1 failure mode, from the user's real
    examples), where the lesson ladder lives, and the step-done rule (gate + `lesson |` log line + evals replay).
 7. **Retry cap:** default 3 failures or identical findings twice → stop and escalate. Ask if they want a different number.
+   **Edit-loop warning** (PRINCIPLES 20): `{{EDIT_LOOP_LIMIT}}` edits to one file per session, default 5; ask.
+8. **Permission lanes** (PRINCIPLES 18): sort the Q6 answers and the tool's risky actions into free / approval / closed
+   with `templates/permission-lanes.md`, and name the setting or guard rule that enforces each line.
+9. **Verifier** (`templates/verifier.md`): who runs it (separate pass or agent per RULE 1) and when (before step-done).
+10. **Prune cadence** (PRINCIPLES 21): `{{PRUNE_EVERY}}`, default monthly or on a model change; ask.
 
 Stop. Build only after an explicit yes. A yes to an earlier phase is not a yes to this one.
 
@@ -59,7 +64,13 @@ Stop. Build only after an explicit yes. A yes to an earlier phase is not a yes t
 
 Use the templates; replace every `{{PLACEHOLDER}}`; delete template guidance comments marked `TEMPLATE:`.
 - Rules file ≤ 60 lines: RULE 0, RULE 1, short rules, project map, gates. Map, not encyclopedia.
-- Steps file: every step has deliverable, non-goals, acceptance criteria.
+- Steps file: every step has deliverable, non-goals, acceptance criteria, needs-approval actions
+  (`{{OUTWARD_OR_IRREVERSIBLE_ACTIONS}}` per step, from the approval lane) and the if-blocked line.
+- `harness/edit_loop.py` from `edit_loop_template.py` (LIMIT = the design answer), wired next to the gate hook.
+- Permission lanes: fill `permission-lanes.md` (`{{FREE_ACTIONS}}`, `{{APPROVAL_ACTIONS}}`, `{{CLOSED_ACTIONS}}` and their
+  `{{FREE_ENFORCEMENT}}`, `{{APPROVAL_ENFORCEMENT}}`, `{{CLOSED_ENFORCEMENT}}`) and apply each
+  line to the tool's permission settings or the guard; the verifier prompt goes into the prompts file with
+  `{{GATE_COMMAND}}` set to the step-done command; `harness-checklist.md` goes beside the lessons file.
 - `memory/`: index + one fact per file. Seed it with Phase 1 decisions.
 - `harness/gate.py` from `gate_template.py`: one `check_*` function per failure mode.
 - `harness/ingest.py` from `ingest_template.py`: converters for their formats only.
@@ -73,7 +84,8 @@ Use the templates; replace every `{{PLACEHOLDER}}`; delete template guidance com
 ## Phase 5 — Prove
 
 Show real output for each, not a claim:
-1. `python harness/gate.py --selftest`, `python harness/ingest.py --selftest`, `python harness/hook.py --selftest`, `python harness/session_start.py --selftest`, `python harness/evals.py --selftest`, then `python harness/evals.py` (every case passes).
+1. `python harness/gate.py --selftest`, `python harness/ingest.py --selftest`, `python harness/hook.py --selftest`, `python harness/session_start.py --selftest`, `python harness/evals.py --selftest`, `python harness/edit_loop.py --selftest`, then `python harness/evals.py` (every case passes).
+   Then answer `harness-checklist.md` once; every "no" is a gap to fix or to name to the user.
 2. Every gate check on one passing and one failing example.
 3. Ingest one real source from the user; open a generated anchor link and confirm it lands on the right text.
 4. Trigger the hook with a failing edit: confirm it blocks, and that the retry cap escalates.

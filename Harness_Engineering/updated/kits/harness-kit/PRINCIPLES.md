@@ -42,3 +42,22 @@ checks, memory. When an AI keeps failing, fix the harness, not the adjectives in
     periodic cross-note audit (a knowledge graph, see `graph-workflow-kit` GRAPHS.md section 8) for unsourced links,
     legacy facts linked as current and one entity under several names. Its findings go through the normal fix path.
     *Why:* a claim can be correct in each note and still wrong between notes; no per-file check sees that.
+17. **Find the broken layer first.** Wrong job = prompt. Fluent but wrong or stale = context. Says done without proof,
+    acts unsafely, forgets between sessions = harness. Repeats itself = loop. Agents collide or duplicate work = graph.
+    *Why:* a longer prompt only fixes the first layer; most failures live lower and survive every rewrite.
+18. **Lanes by reversibility, enforced outside the model.** Reversible (read, search, test, edit a working copy) runs
+    free with a trace; outward-facing (send, deploy, pay, publish) needs the user's yes; hard to undo (delete data,
+    rotate secrets, force-push the main line) is a closed lane, not a high threshold. See `templates/permission-lanes.md`.
+    *Why:* a sentence in a prompt is a wish; a permission is a wall, and thresholds get lowered when someone is in a hurry.
+19. **Classify a failure before retrying it.** Timeout: pause, then retry. Bad arguments: repair the call. Missing
+    information: fetch it. Check failure: change the work, never the check. Permission denied: ask the user.
+    Same failure twice with nothing changed: stop and write down what was tried.
+    *Why:* "try again" pays repeatedly for the same mistake; each class has its own cheap fix.
+20. **Watch for edit loops.** Many edits to one file in one session (default 5) raise a warning to step back and
+    re-plan; it warns, it does not block (`templates/edit_loop_template.py`).
+    *Why:* an agent in a loop makes small variations of the same edit and cannot see that the plan is wrong.
+21. **Every rule traces to an incident; prune the rest.** Each line in the rules file names the failure behind it
+    (in the line, its *Why:*, or the lessons file). On a model change, or every {{PRUNE_EVERY}}, run
+    `templates/harness-checklist.md` and delete rules and checks that no longer catch anything.
+    *Why:* a rule with no incident costs attention on every message; parts of a harness make up for weaknesses newer
+    models no longer have, and an unpruned harness becomes the next thing to debug.
