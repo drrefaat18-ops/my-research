@@ -355,3 +355,9 @@ Cards: `.claude/state/step15/cards.txt` (37/37 verbatim). Cautions used in the t
 - **Koufany2008:** n = 7 is for the AIA and control groups (line 191), not necessarily each pioglitazone arm.
 - **Cardoso2018:** human PBMC study (16 patients), not an animal model.
 - **Chung2008:** user decision 2026-10-25: keep as abstract only (PMC full text not fetched); add the banner at step 22c.
+
+### Step 19a cautions (2026-10-26)
+- **Novelty:** never write "no earlier review" or "first review"; four candidate reviews were not read (ledger C-novelty, unverified). Day5 now describes what this review does against single-class reviews.
+- **Dobashi2026 (abstract only):** ITT = no UTI difference and the basis of the authors' safety conclusion; as-treated aIRR 1.64 (1.26-2.13). The abstract does not call the as-treated analysis "secondary" or "sensitivity". GC-dose interaction not significant in either model.
+- **Monitoring:** McCarey2004, ElBarbary2010, Ormseth2013, Marder2013 and Shahin2011 measured liver, kidney and blood-count tests as study assessments; no paper gives a monitoring schedule for these drugs in RA. "We suggest" in Day5 is the review's own advice.
+- **HED:** conversions exist for statins, metformin, pioglitazone, losartan, liraglutide and dapagliflozin, not for every animal dose; Day5 says "selected".

@@ -53,7 +53,7 @@ updated: 2026-10-22
 | 4.3 | ARBs | 456 | 500 | 4 | 2 identified: Goto1990, Walsh2000 (replace Wang2013 intro) + ~1 human study to find | ~7 |
 | 4.4 | Emerging candidates (1 sentence + Table 2) | 286 | 80 | 4 (in Table 2) | — | 4 |
 | 4.5 | Comparative synthesis (NEW, Day3, step 17 done 2026-10-20) | ~320 | 250 | 13 re-cited: Fu2026, Son2014, ElDemerdash2025, Nematalla2026, Ibrahim2020, McCarey2004, Alshammari2026, Ormseth2013, Marder2013, Kitas2019, Mostafa2020, Goto2010, Yen2026 | 0 (no new source needed) | 13 |
-| 5 | Challenges: part 1 safety/interactions with MTX & glucocorticoids (step 18 done 2026-10-21, Day5, ~383 words after shortening); part 2 trial design, dose gap, review limits (step 19 done 2026-10-25, ~300 words) | ~680 | 600 | 3 new: Dobashi2026, Tsushima2026, Kalantari2024; re-cited: Kitas2019, Abdallah2021, Gharib2021, Shahin2011, Shirinsky2013, Kellner2025, Ormseth2013, Mostafa2020, Israel2026 · step 19 re-cited: Alshammari2026, Buonanno2026, Koufany2008, Vandebriel2012, Walker2017, Castillero2012, Son2014, Fu2026, Han2021, Loizidis2026, Nematalla2026, AlAzhar2026, Tanta2024 | step-18 search (16 queries) added none; step 19 needed none | ~25 |
+| 5 | Challenges: part 1 safety/interactions with MTX & glucocorticoids (step 18 done 2026-10-21, Day5, ~383 words after shortening); part 2 trial design, dose gap, review limits (step 19 done 2026-10-25, ~300 words) | ~680 | 600 | 3 new: Dobashi2026, Tsushima2026, Kalantari2024; re-cited: Kitas2019, Abdallah2021, Gharib2021, Shahin2011, Shirinsky2013, Kellner2025, Ormseth2013, Mostafa2020, Israel2026 · step 19 re-cited: Alshammari2026, Buonanno2026, Koufany2008, Vandebriel2012, Walker2017, Castillero2012, Son2014, Fu2026, Han2021, Loizidis2026, Nematalla2026, AlAzhar2026, Tanta2024 | step-18 search (16 queries) added none; step 19 needed none; step 19a (2026-10-26): novelty sentence softened (3-lane search, no source breaks it, 4 unread), Dobashi ITT framing, named monitoring tests | ~25 |
 | 6 | Conclusion | 0 | 150 | — | — | 0 |
 | | **Total** | **~3,430** | **~6,890** | **~77** (+ Gwinn2008) | **~22 to find** | **~99** |
 
@@ -67,7 +67,7 @@ updated: 2026-10-22
 | Section | n | What | Recent (≥ 2021) needed | When screened |
 |---|---|---|---|---|
 | 1 Introduction | 0 | ✅ done at step 15 (10 new OA sources, 2023–2026). Not found: Egypt-specific cost/access data, 2023+ metformin/TZD incidence study, 2023+ insulin-resistance meta-analysis (Europe PMC only). Step 16: prior-reviews paragraph + gap ("to our knowledge"), 1 new source (Bilgin2025, abstract) | — | steps 15–16 |
-| 5 Challenges | 3 | safety part done (step 18): Dobashi2026, Tsushima2026, Kalantari2024; step 19 needed no new source (author recommendations in Alshammari2026 and Buonanno2026) | ≥ 3 | item 18 ✅ / 19 ✅ |
+| 5 Challenges | 3 | safety part done (step 18): Dobashi2026, Tsushima2026, Kalantari2024; step 19 needed no new source (author recommendations in Alshammari2026 and Buonanno2026) | ≥ 3 | item 18 ✅ / 19 ✅ / 19a ✅ |
 | 3 Pathophysiology | 7 | inflammatory signalling pathways targeted by the drugs (+1 replaces Malemud2013) | 2–3 | item 11 |
 | 4.3 ARBs | 1 | human study if found | — | item 11 |
 | 4.1.5 DPP-4 inhibitors | 1 | human study | — | item 11 |

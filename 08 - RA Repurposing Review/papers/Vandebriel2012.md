@@ -55,7 +55,11 @@ Here we show that statin administration accelerated arthritis onset and resulted
 
 ### Induction and assessment of collagen-induced arthritis
 
-Male DBA/1OlaHsd mice were obtained from Harlan (Horst, the Netherlands). At the age of 10 to 12 weeks the animals were injected intradermally at the base of the tail with 100 μl of an emulsion of bovine CII (Chondrex, Redmond, WA, USA) and Freund's complete adjuvant (Chondrex) on day 0 (final concentrations of CII and Freund's complete adjuvant, 1 mg/ml). The mice were challenged by intraperitoneal injection of 100 μl CII (concentration 1 mg/ml) on day 21. ==Body weight and arthritis severity were assessed three times per week in a blinded manner==, using a semiquantitative scoring system (with scores ranging from 0 to 4 for each paw) until the mice were euthanized on day 42 [12]. Arthritis scoring was performed by two individuals, alternating between days; there were no visible systematic differences in the way they scored. Mice were anesthetized with ketamine, rompun, and atropine, and blood was collected from the orbital plexus. Inguinal LNs of the hind paws and the spleens were excised. ^vandebriel2012-9
+Male DBA/1OlaHsd mice were obtained from Harlan (Horst, the Netherlands). At the age of 10 to 12 weeks the animals were injected intradermally at the base of the tail with 100 μl of an emulsion of bovine CII (Chondrex, Redmond, WA, USA) and Freund's complete adjuvant (Chondrex) on day 0 (final concentrations of CII and Freund's complete adjuvant, 1 mg/ml). The mice were challenged by intraperitoneal injection of 100 μl CII (concentration 1 mg/ml) on day 21.
+
+==Body weight and arthritis severity were assessed three times per week in a blinded manner== ^vandebriel2012-9
+
+, using a semiquantitative scoring system (with scores ranging from 0 to 4 for each paw) until the mice were euthanized on day 42 [12]. Arthritis scoring was performed by two individuals, alternating between days; there were no visible systematic differences in the way they scored. Mice were anesthetized with ketamine, rompun, and atropine, and blood was collected from the orbital plexus. Inguinal LNs of the hind paws and the spleens were excised.
 
 The animal experiments were approved prior to their commencement by an independent ethical committee, in accordance with national legislation.
 
@@ -70,7 +74,9 @@ The lipid-lowering and lipoprotein-lowering efficacy of pravastatin is four time
 
 ==pravastatin was thus given at a four times higher concentration than atorvastatin.== ^vandebriel2012-7
 
-Atorvastatin and pravastatin were given either before challenge (day -28 until day 20) or after challenge (day 22 until day 42; see Figure 1). PBS (0.2 ml) was given as a control on days when statins were not administered. One control group received only PBS, and a second control group (negative control) received only PBS and arthritis was not induced. These groups received 0.2 ml PBS by oral gavage daily throughout the experiment. ==There were 12 mice per group.== ^vandebriel2012-10
+Atorvastatin and pravastatin were given either before challenge (day -28 until day 20) or after challenge (day 22 until day 42; see Figure 1). PBS (0.2 ml) was given as a control on days when statins were not administered. One control group received only PBS, and a second control group (negative control) received only PBS and arthritis was not induced. These groups received 0.2 ml PBS by oral gavage daily throughout the experiment.
+
+==There were 12 mice per group.== ^vandebriel2012-10
 
 > **Figure 1** Scheme of collagen-induced arthritis induction and statin administration. Mice were immunized at day 0 (IMM) and challenged at day 21 (CHA), after which arthritis was scored three times a week until day 42. Atorvastatin (A) or pravastatin (P) were given daily, either before (day -28 until day 20) or after (day 22 until day 42) collagen-induced arthritis (CIA) induction. Mice were euthanized at day 42.
 

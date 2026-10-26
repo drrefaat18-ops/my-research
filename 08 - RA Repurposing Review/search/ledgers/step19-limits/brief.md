@@ -10,4 +10,5 @@
 - **LEVEL:** STANDARD
 - **OUTPUT:** report.md next to the ledger: claim -> status -> passage -> source; open points go under the START-HERE step and study-cards.md
 - **STOP WHEN:** every MUST RESOLVE item is supported, or its gap is stated; or the level's budget is spent
+- **ROUND 2 (step 19a, 2026-10-26, audit F3):** claim C-novelty = the Day5 sentence "To our knowledge, no earlier review has considered antidiabetic, lipid-lowering and antihypertensive drugs together in RA, converted animal doses into human equivalent doses, assessed the safety of these classes alongside methotrexate and glucocorticoids, or compared the drugs by shared pathway." Parts N1 three classes together; N2 HED conversion; N3 safety alongside MTX/glucocorticoids; N4 comparison by shared pathway. Lanes: A primary (Europe PMC/PubMed reviews), B independent (other routes), C counter (try to break each part). Any part not supported, or with sources left unread, is softened or dropped.
 - **ASSUMPTIONS:** C3 is worded as "no independent duplicate screening", not "one reviewer", because who screened is not recorded in search-log.md.

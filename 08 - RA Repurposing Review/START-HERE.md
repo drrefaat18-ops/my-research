@@ -861,8 +861,31 @@ updated: 2026-10-22
   > 💰 خط أساس التكلفة (25/10): على الاشتراك، الأمر /cost بيتحوّل لـ /usage ومابيطلّعش توكنز، فـ cost.py مايشتغلش. المسجّل: الجلسة 15%، والأسبوع 13% (بعد الخطوة كلها، 3 وكلاء هايكو للأدلة، وسونِت كاتب، وسونِت مراجع، وهايكو للرسم).
   > lesson | Send one edit per section_check try: parallel edits each count as a try and trip STOP. A limitations sentence about this review's own process needs the author's confirmation in the ledger before it goes in; "single screener" from an audit plan is not evidence. Re-check cross-referenced dose claims per drug, not per class.
   > ```
-- [ ] **19a.** الاثنين 26/10 — 🟧 جملة الجِدّة (F3): سؤال بحثي بالسجل في `search/ledgers/step19-limits/` بتلات مسارات ← لو ماتثبتتش تتخفف ← 🟦 مراجعة. + تصليحات اليوم الخامس F7 وF18
+- [x] **19a.** الاثنين 26/10 — 🟧 جملة الجِدّة (F3): سؤال بحثي بالسجل في `search/ledgers/step19-limits/` بتلات مسارات ← لو ماتثبتتش تتخفف ← 🟦 مراجعة. + تصليحات اليوم الخامس F7 وF18
   - 🧪 أول خطوة يشتغل عليها وكيل المراجعة الجديد قبل ✅. الرد يا قبول يا رفض، ويتسجل هنا.
+  > 🔄 **الشغل (26/10):**
+  > - الجِدّة: تلات مسارات (هايكو) مالقوش مراجعة بتكسر الجملة، بس فيه مصادر ماتقريتش، فالادعاء "مفيش مراجعة قبلنا" اتشال. الجملة بقت بتوصف المراجعة دي قصاد المراجعات اللي كل واحدة فيها مجموعة دوا واحدة. السجل: C-novelty = unverified.
+  > - مصادر ماتقريتش (تتفتح لو المشرف سأل عن الجِدّة):
+  > ```
+  > Toms 2008, Immunol Endocr Metab Agents Med Chem 8(3):259-274 (statins + RAS blockers in RA; full text not read)
+  > Su 2025, Drug Discov Today, PMID 40081521 (computational RA candidates; drug list not in abstract)
+  > J Clin Med 2026 "Metabolic Complications in Autoimmune and Autoinflammatory Diseases" (not opened)
+  > Biology (Basel) 2026 "Lipid Immunometabolism in Autoimmune Rheumatic Diseases" (not opened)
+  > PubMed pages blocked (cookie wall); several MDPI/PMC pages 403
+  > ```
+  > - F7: نتيجة ITT هي اللي بيتبني عليها استنتاج الأمان، والـ as-treated بقت نتيجة مقابلة. الورقة مابتسميهاش "ثانوية"، فالكلمة دي ماتكتبتش.
+  > - F18: "Monitoring may be sensible" بقت إنزيمات الكبد ووظائف الكلى وصورة الدم، زي ما التجارب قاستها (McCarey2004, Ormseth2013, Shahin2011). مفيش ورقة بتدّي جدول متابعة.
+  > - دمج للبوابة (شكل الملف): "These trials lasted..." اتدمجت في الجملة اللي قبلها (Alshammari2026).
+  > - الروابط: 6 روابط ضعيفة من خطوة 19 اتصلحت (فصل الجمل المتعلّم عليها في 6 أوراق). كروت خطوة 19 اترقّمت من جديد، 32/32، وSon2014 بقى السطر 64.
+  > - 🟦 حكم وكيل المراجعة (سونِت): **قبول بشرط** = "converts selected animal doses" (اتعمل). اتعمل كمان: "as several trials measured them". اتساب: إضافة إن مؤلفين Dobashi قالوا الخطر ممكن يزيد (موجود في الجملة اللي بعدها)، و"antihypertensive" = ARBs بس (نفس المصطلح في كل المسودات، يتراجع في الملخص خطوة 20).
+  > ```
+  > loop | evidence-verify (3 Haiku lanes, C-novelty) | kept | no break found; 4 sources unread -> claim softened, not dropped
+  > loop | evidence-verify (1 Haiku, F7/F18 cards) | kept | 21/22 OK; Kitas2019 L160 FAIL (&gt; entity) dropped
+  > loop | write (Sonnet writer) | kept | 3 fixes, 135 words, section_check clean
+  > loop | fix-loop (review_gate profile + overlap) | kept | 2 gate fails; candidates tested on a copy first, third try clean
+  > loop | review (Sonnet reality-checker) | kept | ACCEPT conditional; HED finding half wrong (conversions exist for statins, metformin, pioglitazone), fixed as "selected"
+  > ```
+  > lesson | When the gate's whole-file profile (short-sentence %, length sd) sits at the edge, test candidate wording on a copy with review_gate.py before the real edit; each real edit is a gate try. A novelty sentence with unread candidate sources is softened to a description of this review, never kept as "no earlier review".
 - [ ] **20.** الثلاثاء 27/10 — 🟦 الخاتمة + الملخص + الكلمات المفتاحية
 - [ ] **21.** الأربعاء 28/10 — 🟧 Figures 1 و2 و4 (متأخرين من 15–19/10) + Figure 3 (خريطة الأدلة) + فحص الأشكال (كل شكل متذكر في النص، وله تعليق ومصادر، و600 dpi) ← 🟦 راجع الأسهم مع النص (F15)
 - [ ] **21a.** الخميس 29/10 — 🟧 الجداول (Table 1 الحيوانات **+ عمود الجرعة المكافئة للإنسان** + Table 2 الأدوية الناشئة + **Table 3 دراسات المرضى: الدوا، نوع الدراسة، العدد، الجرعة، المدة، النتيجة**) ← 🟦 راجع الأرقام
