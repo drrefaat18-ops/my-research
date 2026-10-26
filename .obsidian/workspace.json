@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day5.md",
+                "file": "08 - RA Repurposing Review/START-HERE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day5"
+              "title": "START-HERE"
             }
           }
         ]
@@ -175,7 +175,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "08 - RA Repurposing Review/drafts/Day5.md"
+                "file": "08 - RA Repurposing Review/START-HERE.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -201,9 +201,10 @@
   },
   "active": "127c5da860ce9bd3",
   "lastOpenFiles": [
-    "08 - RA Repurposing Review/drafts/Day6.md",
-    "08 - RA Repurposing Review/drafts/Day5.md",
+    "08 - RA Repurposing Review/5-Challenges.md",
     "08 - RA Repurposing Review/START-HERE.md",
+    "08 - RA Repurposing Review/drafts/Day5.md",
+    "08 - RA Repurposing Review/drafts/Day6.md",
     "08 - RA Repurposing Review/drafts/Day5.md.tmp.12040.94339965dd5d",
     "08 - RA Repurposing Review/drafts/Day5.md.tmp.12040.76ec8a31df81",
     "08 - RA Repurposing Review/START-HERE.md.tmp.12040.46c42e44a604",
